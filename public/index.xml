@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>hoas&#39; blog | One Stupid Boy on hoas&#39; blog | One Stupid Boy</title>
-        <link>/</link>
+        <link>https://hoas.xyz/</link>
         <description>Recent content in hoas&#39; blog | One Stupid Boy on hoas&#39; blog | One Stupid Boy</description>
         <generator>Hugo -- gohugo.io</generator>
         
@@ -14,23 +14,23 @@
         
             <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
         
-        <atom:link href="/" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hoas.xyz/" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>Posts</title>
-                <link>/posts/</link>
+                <link>https://hoas.xyz/posts/</link>
                 <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
                 
-                <guid>/posts/</guid>
+                <guid>https://hoas.xyz/posts/</guid>
                 <description></description>
             </item>
         
             <item>
                 <title>关于hoas</title>
-                <link>/about/</link>
+                <link>https://hoas.xyz/about/</link>
                 <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
                 
-                <guid>/about/</guid>
+                <guid>https://hoas.xyz/about/</guid>
                 <description>&lt;h2 id=&#34;关于网站&#34;&gt;关于网站&lt;/h2&gt;
 &lt;h4 id=&#34;个人网站主要用作备忘&#34;&gt;个人网站，主要用作备忘&lt;/h4&gt;
 &lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
