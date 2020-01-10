@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on hoas&#39; blog | One Stupid Boy</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on hoas&#39; blog | One Stupid Boy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 25 Aug 2019 16:22:42 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown 基本语法预览</title>
+      <link>/2019/08/basic-markdown-preview/</link>
+      <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
+      
+      <guid>/2019/08/basic-markdown-preview/</guid>
+      <description>&lt;p&gt;这是一篇用于预览 :(fab fa-markdown): Markdown 基本语法的文章。&lt;/p&gt;
+
+&lt;p&gt;文章内容基于 &lt;a href=&#34;https://github.github.com/gfm&#34;&gt;GitHub Flavo红色 Markdown Spec&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;不包含复杂的规则说明，仅仅展示 GFM 所约定的 Markdown 基本语法。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Algolia</title>
+      <link>/2019/02/2019-02-03-algolia/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/2019-02-03-algolia/</guid>
+      <description>&lt;p&gt;本来想用这个来给自己的网站添加搜索的，但是折腾了很长时间都失败了，想想还是算了吧……
+&lt;img src=&#34;https://www.algolia.com/static_assets/images/v3/shared/logos/algolia/logo-algolia-nebula-blue-whitespaces-bf76438c.svg&#34; alt=&#34;Algolia&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;create-you-first-index&#34;&gt;Create you first index&lt;/h2&gt;
+
+&lt;p&gt;An index is an entity within Algolia where you import the data you want to search (indexing) and perform queries against (search). There are 3 main ways to synchronize your data …&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;API Clients. For those who love to build things by themselves, you can use our API clients to interact with the Algolia REST API.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plugins &amp;amp; Extensions. If you&amp;rsquo;re using a CMS or a platform for your service, you can simply use one of our plugins and integrations to easily implement Algolia.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Algolia Dashboard. The dashboard is the easiest way to upload your data and get your first experience with Algolia. Simply drag and drop your JSON or CSV files.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

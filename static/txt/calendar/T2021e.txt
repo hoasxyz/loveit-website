@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2021 (Xin-chou  -  year of the Ox)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2021/1/1          18                      Friday                             
+2021/1/2          19                      Saturday                           
+2021/1/3          20                      Sunday                             
+2021/1/4          21                      Monday                             
+2021/1/5          22                      Tuesday        Moderate Cold       
+2021/1/6          23                      Wednesday                          
+2021/1/7          24                      Thursday                           
+2021/1/8          25                      Friday                             
+2021/1/9          26                      Saturday                           
+2021/1/10         27                      Sunday                             
+2021/1/11         28                      Monday                             
+2021/1/12         29                      Tuesday                            
+2021/1/13         12th Lunar Month        Wednesday                          
+2021/1/14         2                       Thursday                           
+2021/1/15         3                       Friday                             
+2021/1/16         4                       Saturday                           
+2021/1/17         5                       Sunday                             
+2021/1/18         6                       Monday                             
+2021/1/19         7                       Tuesday                            
+2021/1/20         8                       Wednesday      Severe Cold         
+2021/1/21         9                       Thursday                           
+2021/1/22         10                      Friday                             
+2021/1/23         11                      Saturday                           
+2021/1/24         12                      Sunday                             
+2021/1/25         13                      Monday                             
+2021/1/26         14                      Tuesday                            
+2021/1/27         15                      Wednesday                          
+2021/1/28         16                      Thursday                           
+2021/1/29         17                      Friday                             
+2021/1/30         18                      Saturday                           
+2021/1/31         19                      Sunday                             
+2021/2/1          20                      Monday                             
+2021/2/2          21                      Tuesday                            
+2021/2/3          22                      Wednesday      Spring Commences    
+2021/2/4          23                      Thursday                           
+2021/2/5          24                      Friday                             
+2021/2/6          25                      Saturday                           
+2021/2/7          26                      Sunday                             
+2021/2/8          27                      Monday                             
+2021/2/9          28                      Tuesday                            
+2021/2/10         29                      Wednesday                          
+2021/2/11         30                      Thursday                           
+2021/2/12         1st Lunar Month         Friday                             
+2021/2/13         2                       Saturday                           
+2021/2/14         3                       Sunday                             
+2021/2/15         4                       Monday                             
+2021/2/16         5                       Tuesday                            
+2021/2/17         6                       Wednesday                          
+2021/2/18         7                       Thursday       Spring Showers      
+2021/2/19         8                       Friday                             
+2021/2/20         9                       Saturday                           
+2021/2/21         10                      Sunday                             
+2021/2/22         11                      Monday                             
+2021/2/23         12                      Tuesday                            
+2021/2/24         13                      Wednesday                          
+2021/2/25         14                      Thursday                           
+2021/2/26         15                      Friday                             
+2021/2/27         16                      Saturday                           
+2021/2/28         17                      Sunday                             
+2021/3/1          18                      Monday                             
+2021/3/2          19                      Tuesday                            
+2021/3/3          20                      Wednesday                          
+2021/3/4          21                      Thursday                           
+2021/3/5          22                      Friday         Insects Waken       
+2021/3/6          23                      Saturday                           
+2021/3/7          24                      Sunday                             
+2021/3/8          25                      Monday                             
+2021/3/9          26                      Tuesday                            
+2021/3/10         27                      Wednesday                          
+2021/3/11         28                      Thursday                           
+2021/3/12         29                      Friday                             
+2021/3/13         2nd Lunar Month         Saturday                           
+2021/3/14         2                       Sunday                             
+2021/3/15         3                       Monday                             
+2021/3/16         4                       Tuesday                            
+2021/3/17         5                       Wednesday                          
+2021/3/18         6                       Thursday                           
+2021/3/19         7                       Friday                             
+2021/3/20         8                       Saturday       Vernal Equinox      
+2021/3/21         9                       Sunday                             
+2021/3/22         10                      Monday                             
+2021/3/23         11                      Tuesday                            
+2021/3/24         12                      Wednesday                          
+2021/3/25         13                      Thursday                           
+2021/3/26         14                      Friday                             
+2021/3/27         15                      Saturday                           
+2021/3/28         16                      Sunday                             
+2021/3/29         17                      Monday                             
+2021/3/30         18                      Tuesday                            
+2021/3/31         19                      Wednesday                          
+2021/4/1          20                      Thursday                           
+2021/4/2          21                      Friday                             
+2021/4/3          22                      Saturday                           
+2021/4/4          23                      Sunday         Bright & Clear      
+2021/4/5          24                      Monday                             
+2021/4/6          25                      Tuesday                            
+2021/4/7          26                      Wednesday                          
+2021/4/8          27                      Thursday                           
+2021/4/9          28                      Friday                             
+2021/4/10         29                      Saturday                           
+2021/4/11         30                      Sunday                             
+2021/4/12         3rd Lunar Month         Monday                             
+2021/4/13         2                       Tuesday                            
+2021/4/14         3                       Wednesday                          
+2021/4/15         4                       Thursday                           
+2021/4/16         5                       Friday                             
+2021/4/17         6                       Saturday                           
+2021/4/18         7                       Sunday                             
+2021/4/19         8                       Monday                             
+2021/4/20         9                       Tuesday        Corn Rain           
+2021/4/21         10                      Wednesday                          
+2021/4/22         11                      Thursday                           
+2021/4/23         12                      Friday                             
+2021/4/24         13                      Saturday                           
+2021/4/25         14                      Sunday                             
+2021/4/26         15                      Monday                             
+2021/4/27         16                      Tuesday                            
+2021/4/28         17                      Wednesday                          
+2021/4/29         18                      Thursday                           
+2021/4/30         19                      Friday                             
+2021/5/1          20                      Saturday                           
+2021/5/2          21                      Sunday                             
+2021/5/3          22                      Monday                             
+2021/5/4          23                      Tuesday                            
+2021/5/5          24                      Wednesday      Summer Commences    
+2021/5/6          25                      Thursday                           
+2021/5/7          26                      Friday                             
+2021/5/8          27                      Saturday                           
+2021/5/9          28                      Sunday                             
+2021/5/10         29                      Monday                             
+2021/5/11         30                      Tuesday                            
+2021/5/12         4th Lunar Month         Wednesday                          
+2021/5/13         2                       Thursday                           
+2021/5/14         3                       Friday                             
+2021/5/15         4                       Saturday                           
+2021/5/16         5                       Sunday                             
+2021/5/17         6                       Monday                             
+2021/5/18         7                       Tuesday                            
+2021/5/19         8                       Wednesday                          
+2021/5/20         9                       Thursday                           
+2021/5/21         10                      Friday         Corn Forms          
+2021/5/22         11                      Saturday                           
+2021/5/23         12                      Sunday                             
+2021/5/24         13                      Monday                             
+2021/5/25         14                      Tuesday                            
+2021/5/26         15                      Wednesday                          
+2021/5/27         16                      Thursday                           
+2021/5/28         17                      Friday                             
+2021/5/29         18                      Saturday                           
+2021/5/30         19                      Sunday                             
+2021/5/31         20                      Monday                             
+2021/6/1          21                      Tuesday                            
+2021/6/2          22                      Wednesday                          
+2021/6/3          23                      Thursday                           
+2021/6/4          24                      Friday                             
+2021/6/5          25                      Saturday       Corn on Ear         
+2021/6/6          26                      Sunday                             
+2021/6/7          27                      Monday                             
+2021/6/8          28                      Tuesday                            
+2021/6/9          29                      Wednesday                          
+2021/6/10         5th Lunar Month         Thursday                           
+2021/6/11         2                       Friday                             
+2021/6/12         3                       Saturday                           
+2021/6/13         4                       Sunday                             
+2021/6/14         5                       Monday                             
+2021/6/15         6                       Tuesday                            
+2021/6/16         7                       Wednesday                          
+2021/6/17         8                       Thursday                           
+2021/6/18         9                       Friday                             
+2021/6/19         10                      Saturday                           
+2021/6/20         11                      Sunday                             
+2021/6/21         12                      Monday         Summer Solstice     
+2021/6/22         13                      Tuesday                            
+2021/6/23         14                      Wednesday                          
+2021/6/24         15                      Thursday                           
+2021/6/25         16                      Friday                             
+2021/6/26         17                      Saturday                           
+2021/6/27         18                      Sunday                             
+2021/6/28         19                      Monday                             
+2021/6/29         20                      Tuesday                            
+2021/6/30         21                      Wednesday                          
+2021/7/1          22                      Thursday                           
+2021/7/2          23                      Friday                             
+2021/7/3          24                      Saturday                           
+2021/7/4          25                      Sunday                             
+2021/7/5          26                      Monday                             
+2021/7/6          27                      Tuesday                            
+2021/7/7          28                      Wednesday      Moderate Heat       
+2021/7/8          29                      Thursday                           
+2021/7/9          30                      Friday                             
+2021/7/10         6th Lunar Month         Saturday                           
+2021/7/11         2                       Sunday                             
+2021/7/12         3                       Monday                             
+2021/7/13         4                       Tuesday                            
+2021/7/14         5                       Wednesday                          
+2021/7/15         6                       Thursday                           
+2021/7/16         7                       Friday                             
+2021/7/17         8                       Saturday                           
+2021/7/18         9                       Sunday                             
+2021/7/19         10                      Monday                             
+2021/7/20         11                      Tuesday                            
+2021/7/21         12                      Wednesday                          
+2021/7/22         13                      Thursday       Great Heat          
+2021/7/23         14                      Friday                             
+2021/7/24         15                      Saturday                           
+2021/7/25         16                      Sunday                             
+2021/7/26         17                      Monday                             
+2021/7/27         18                      Tuesday                            
+2021/7/28         19                      Wednesday                          
+2021/7/29         20                      Thursday                           
+2021/7/30         21                      Friday                             
+2021/7/31         22                      Saturday                           
+2021/8/1          23                      Sunday                             
+2021/8/2          24                      Monday                             
+2021/8/3          25                      Tuesday                            
+2021/8/4          26                      Wednesday                          
+2021/8/5          27                      Thursday                           
+2021/8/6          28                      Friday                             
+2021/8/7          29                      Saturday       Autumn Commences    
+2021/8/8          7th Lunar Month         Sunday                             
+2021/8/9          2                       Monday                             
+2021/8/10         3                       Tuesday                            
+2021/8/11         4                       Wednesday                          
+2021/8/12         5                       Thursday                           
+2021/8/13         6                       Friday                             
+2021/8/14         7                       Saturday                           
+2021/8/15         8                       Sunday                             
+2021/8/16         9                       Monday                             
+2021/8/17         10                      Tuesday                            
+2021/8/18         11                      Wednesday                          
+2021/8/19         12                      Thursday                           
+2021/8/20         13                      Friday                             
+2021/8/21         14                      Saturday                           
+2021/8/22         15                      Sunday                             
+2021/8/23         16                      Monday         End of Heat         
+2021/8/24         17                      Tuesday                            
+2021/8/25         18                      Wednesday                          
+2021/8/26         19                      Thursday                           
+2021/8/27         20                      Friday                             
+2021/8/28         21                      Saturday                           
+2021/8/29         22                      Sunday                             
+2021/8/30         23                      Monday                             
+2021/8/31         24                      Tuesday                            
+2021/9/1          25                      Wednesday                          
+2021/9/2          26                      Thursday                           
+2021/9/3          27                      Friday                             
+2021/9/4          28                      Saturday                           
+2021/9/5          29                      Sunday                             
+2021/9/6          30                      Monday                             
+2021/9/7          8th Lunar Month         Tuesday        WhiteDew           
+2021/9/8          2                       Wednesday                          
+2021/9/9          3                       Thursday                           
+2021/9/10         4                       Friday                             
+2021/9/11         5                       Saturday                           
+2021/9/12         6                       Sunday                             
+2021/9/13         7                       Monday                             
+2021/9/14         8                       Tuesday                            
+2021/9/15         9                       Wednesday                          
+2021/9/16         10                      Thursday                           
+2021/9/17         11                      Friday                             
+2021/9/18         12                      Saturday                           
+2021/9/19         13                      Sunday                             
+2021/9/20         14                      Monday                             
+2021/9/21         15                      Tuesday                            
+2021/9/22         16                      Wednesday                          
+2021/9/23         17                      Thursday       Autumnal Equinox    
+2021/9/24         18                      Friday                             
+2021/9/25         19                      Saturday                           
+2021/9/26         20                      Sunday                             
+2021/9/27         21                      Monday                             
+2021/9/28         22                      Tuesday                            
+2021/9/29         23                      Wednesday                          
+2021/9/30         24                      Thursday                           
+2021/10/1         25                      Friday                             
+2021/10/2         26                      Saturday                           
+2021/10/3         27                      Sunday                             
+2021/10/4         28                      Monday                             
+2021/10/5         29                      Tuesday                            
+2021/10/6         9th Lunar Month         Wednesday                          
+2021/10/7         2                       Thursday                           
+2021/10/8         3                       Friday         Cold Dew            
+2021/10/9         4                       Saturday                           
+2021/10/10        5                       Sunday                             
+2021/10/11        6                       Monday                             
+2021/10/12        7                       Tuesday                            
+2021/10/13        8                       Wednesday                          
+2021/10/14        9                       Thursday                           
+2021/10/15        10                      Friday                             
+2021/10/16        11                      Saturday                           
+2021/10/17        12                      Sunday                             
+2021/10/18        13                      Monday                             
+2021/10/19        14                      Tuesday                            
+2021/10/20        15                      Wednesday                          
+2021/10/21        16                      Thursday                           
+2021/10/22        17                      Friday                             
+2021/10/23        18                      Saturday       Frost               
+2021/10/24        19                      Sunday                             
+2021/10/25        20                      Monday                             
+2021/10/26        21                      Tuesday                            
+2021/10/27        22                      Wednesday                          
+2021/10/28        23                      Thursday                           
+2021/10/29        24                      Friday                             
+2021/10/30        25                      Saturday                           
+2021/10/31        26                      Sunday                             
+2021/11/1         27                      Monday                             
+2021/11/2         28                      Tuesday                            
+2021/11/3         29                      Wednesday                          
+2021/11/4         30                      Thursday                           
+2021/11/5         10th Lunar Month        Friday                             
+2021/11/6         2                       Saturday                           
+2021/11/7         3                       Sunday         Winter Commences    
+2021/11/8         4                       Monday                             
+2021/11/9         5                       Tuesday                            
+2021/11/10        6                       Wednesday                          
+2021/11/11        7                       Thursday                           
+2021/11/12        8                       Friday                             
+2021/11/13        9                       Saturday                           
+2021/11/14        10                      Sunday                             
+2021/11/15        11                      Monday                             
+2021/11/16        12                      Tuesday                            
+2021/11/17        13                      Wednesday                          
+2021/11/18        14                      Thursday                           
+2021/11/19        15                      Friday                             
+2021/11/20        16                      Saturday                           
+2021/11/21        17                      Sunday                             
+2021/11/22        18                      Monday         Light Snow          
+2021/11/23        19                      Tuesday                            
+2021/11/24        20                      Wednesday                          
+2021/11/25        21                      Thursday                           
+2021/11/26        22                      Friday                             
+2021/11/27        23                      Saturday                           
+2021/11/28        24                      Sunday                             
+2021/11/29        25                      Monday                             
+2021/11/30        26                      Tuesday                            
+2021/12/1         27                      Wednesday                          
+2021/12/2         28                      Thursday                           
+2021/12/3         29                      Friday                             
+2021/12/4         11th Lunar Month        Saturday                           
+2021/12/5         2                       Sunday                             
+2021/12/6         3                       Monday                             
+2021/12/7         4                       Tuesday        Heavy Snow          
+2021/12/8         5                       Wednesday                          
+2021/12/9         6                       Thursday                           
+2021/12/10        7                       Friday                             
+2021/12/11        8                       Saturday                           
+2021/12/12        9                       Sunday                             
+2021/12/13        10                      Monday                             
+2021/12/14        11                      Tuesday                            
+2021/12/15        12                      Wednesday                          
+2021/12/16        13                      Thursday                           
+2021/12/17        14                      Friday                             
+2021/12/18        15                      Saturday                           
+2021/12/19        16                      Sunday                             
+2021/12/20        17                      Monday                             
+2021/12/21        18                      Tuesday        Winter Solstice                    
+2021/12/22        19                      Wednesday                          
+2021/12/23        20                      Thursday                           
+2021/12/24        21                      Friday              
+2021/12/25        22                      Saturday                           
+2021/12/26        23                      Sunday                             
+2021/12/27        24                      Monday                             
+2021/12/28        25                      Tuesday                            
+2021/12/29        26                      Wednesday                          
+2021/12/30        27                      Thursday                           
+2021/12/31        28                      Friday                             

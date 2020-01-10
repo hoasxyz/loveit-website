@@ -1,0 +1,1416 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Decision Trees and Rules | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="Decision Trees and Rules, 应用决策树和规则进行分类">
+<link rel="prev" href="/2019/05/2019-05-03-particle-swarm-optimization-pso/" />
+<link rel="next" href="/2019/05/2019-05-05-genetic-algorithm/" />
+<link rel="canonical" href="/2019/05/2019-05-04-decision-trees-and-rules/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Decision Trees and Rules"/>
+<meta name="twitter:description" content="Decision Trees and Rules, 应用决策树和规则进行分类"/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Decision Trees and Rules",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/05\/2019-05-04-decision-trees-and-rules\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/cover.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "ML, R",
+    
+    "wordcount":  4540 ,
+    "url": "\/2019\/05\/2019-05-04-decision-trees-and-rules\/",
+    
+        "datePublished": "2019-05-04T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-05-04T09:58:18\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/logo.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": "Decision Trees and Rules, 应用决策树和规则进行分类"
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">Decision Trees and Rules</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i><a href="/categories/fragmentray/">fragmentray</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-05-04>2019-05-04</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 4540 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 10 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content always-active">
+                    <nav id="TableOfContents">
+<ul>
+<li><a href="#decision-trees">Decision trees</a>
+<ul>
+<li><a href="#divide-and-conquer">Divide and conquer</a></li>
+</ul></li>
+<li><a href="#the-c5-0-decision-tree-algorithm">The C5.0 decision tree algorithm</a>
+<ul>
+<li><a href="#choosing-the-best-split">Choosing the best split</a></li>
+<li><a href="#pruning-the-decision-tree">Pruning the decision tree</a></li>
+</ul></li>
+<li><a href="#example">Example</a></li>
+</ul>
+</nav>
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        <nav id="TableOfContentsMobile">
+<ul>
+<li><a href="#decision-trees">Decision trees</a>
+<ul>
+<li><a href="#divide-and-conquer">Divide and conquer</a></li>
+</ul></li>
+<li><a href="#the-c5-0-decision-tree-algorithm">The C5.0 decision tree algorithm</a>
+<ul>
+<li><a href="#choosing-the-best-split">Choosing the best split</a></li>
+<li><a href="#pruning-the-decision-tree">Pruning the decision tree</a></li>
+</ul></li>
+<li><a href="#example">Example</a></li>
+</ul>
+</nav>
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <a class="post-dummy-target" id="decision-trees"></a><h1>Decision trees</h1>
+
+<p>第三章依旧是分类，依旧很强大。<strong>决策树</strong>（decision trees）利用<strong>树形结构</strong>（tree structure）对特征和潜在结果之间的关系建立模型。比如要考虑工作机会从<strong>根节点</strong>（root nodes）开始，然后遍历<strong>决策节点</strong>（decision nodes），决策节点要求基于工作的属性做出选择，，这些选择通过用只是决策潜在结果的<strong>分枝</strong>（branches）来划分数据，可以用结果yes或no来描述。尽管在默写案例中，可能不只两种结果，在这种情况下，可以做出最终的决策，决策树在<strong>叶节点</strong>（leaf note, 也称终端节点）终止，业绩点表示因一系列决策而采取的行动。对于预测模型，叶节点提供了决策树中给定系列事件的预期结果。</p>
+
+<p><center>
+<img src="/post/!image/decision_trees.png" alt="decision trees">
+</center></p>
+
+<a class="post-dummy-target" id="divide-and-conquer"></a><h2>Divide and conquer</h2>
+
+<p>决策树的建立采用一种称为<strong>递归划分</strong>（recursive partitioning）的探索法。这种方法也通常称为分而治之（divide and conquer），因为它将数据分解为子集，然后反复分解成更小的子集，以此类推，直到当算法决定数据内的子集足够均匀或者另一种停止准则已经满足是，该过程才停止。</p>
+
+<p>假设你受雇于好莱坞电影制片厂，拥有可以邀请到许多一线明星的能力。因为业务繁忙你的桌上常常堆放着一沓剧本。你决定研究一个决策树算法来预测一部有潜力的电影是否会落入：</p>
+
+<ul>
+<li>Critical Success</li>
+<li>Mainstream Hit</li>
+<li>Box Office Bust</li>
+</ul>
+
+<p><center>
+<img src="/post/!image/estimate_buget.png" alt="estimate buget">
+</center></p>
+
+<p>你可能已经注意到对角线可以更加清晰地划分数据，这是因为决策树算法采用<strong>轴平行</strong>（axis-parallel splits）来表现知识的局限性。每一次分割只考虑一个特征的是是是，可以防止决策树形成更复杂的决策边界。</p>
+
+<p>另外你需要去根据如上图所示的问题进行定量地分区以进行分类，因为没有什么可以阻止决策树进行无限制地分类，但是决策树也不能太宽泛地概括数据。</p>
+
+<p><center>
+<img src="/post/!image/buget_desicion_trees.png" alt="buget decision trees">
+</center></p>
+
+<a class="post-dummy-target" id="the-c5-0-decision-tree-algorithm"></a><h1>The C5.0 decision tree algorithm</h1>
+
+<p>决策树有很多实现，但最着名的是<strong>C5.0算法</strong>（C5.0 algorithm） 。该算法由计算机科学家J. Ross Quinlan开发，作为其先前算法C4.5的改进版本（C4.5本身是对其迭代二叉树3代（Iterative Dichotomiser 3, ID3）算法的改进）。虽然Quinlan向商业客户销售C5.0，但该算法的单线程版本的源代码已公开，因此已被纳入诸如R等程序中。</p>
+
+<a class="post-dummy-target" id="choosing-the-best-split"></a><h2>Choosing the best split</h2>
+
+<p>决策树面临的第一个挑战就是确定根据那个特征进行分割，前面的示例中我们得到的分区主要包含来源于一个单一类的案例。一个案例自己仅包含单个类的程度称为<strong>纯度</strong>（purity），由单个类构成的任意子集都认为是<strong>纯的</strong>（pure）。</p>
+
+<p>C5.0算法在一个类值集合中使用<strong>熵</strong>（entropy），熵是一个量化随机性或者无序性的信息论中借用的概念，具有高熵值的集合是非常多样化的，且提供的关于坑恩属于这些集合的其他项的信息很少，因为没有明显的共同性。决策树希望找打可以降低熵值的分割，最终增加组内的同质性。</p>
+
+<p>通常情况下熵以<strong>位</strong>（bit）为单位。如果只有两个可能的类，那么熵值的范围为0 ~ 1；对于n个类，熵值的范围为0 ~ $log_{2}(n)$。</p>
+
+<p>熵定义为：</p>
+
+<p>$$
+Entropy(S) = \sum_{i=1}^c - p_ilog_2(p_i)
+$$</p>
+
+<p>In this formula, for a given segment of data (S), the term c refers to the number of class levels and pi refers to the proportion of values falling into class level i. For example, suppose we have a partition of data with two classes: red (60 percent) and white (40 percent). We can calculate the entropy as follows:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="m">-0.60</span> <span class="o">*</span> <span class="kp">log2</span><span class="p">(</span><span class="m">0.60</span><span class="p">)</span> <span class="o">-</span> <span class="m">0.40</span> <span class="o">*</span> <span class="kp">log2</span><span class="p">(</span><span class="m">0.40</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">curve<span class="p">(</span><span class="o">-</span>x <span class="o">*</span> <span class="kp">log2</span><span class="p">(</span>x<span class="p">)</span> <span class="o">-</span> <span class="p">(</span><span class="m">1</span> <span class="o">-</span> x<span class="p">)</span> <span class="o">*</span> <span class="kp">log2</span><span class="p">(</span><span class="m">1</span> <span class="o">-</span> x<span class="p">),</span>
+      col <span class="o">=</span> <span class="s">&#34;red&#34;</span><span class="p">,</span> xlab <span class="o">=</span> <span class="s">&#34;x&#34;</span><span class="p">,</span> ylab <span class="o">=</span> <span class="s">&#34;Entropy&#34;</span><span class="p">,</span> lwd <span class="o">=</span> <span class="m">4</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>熵的峰值在0.5时，五五分割导致了最大熵值，当一个类相对其他类越来越占主导地位的时候，熵值会逐渐减小到0。</p>
+
+<p>为了使用熵来确定最优特征以进行分割，决策树计算由每个可能的特征的分割所引起的同质性（均匀性）变化，该计算称为<strong>信息增益</strong>（information gain）。对于特征F：</p>
+
+<p>$$
+InfoGain(S_2) = Entropy(S_1) - Entropy(S_2)
+$$</p>
+
+<p><del>哎呦，不想打字了，直接上英文吧……</del></p>
+
+<p>One complication is that after a split, the data is divided into more than one partition. Therefore, the function to calculate $Entropy(S_2)$ needs to consider the total entropy across all of the partitions. It does this by weighing each partition&rsquo;s entropy by the proportion of records falling into the partition. This can be stated in a formula as:</p>
+
+<p>$$
+Entropy(S_2) = \sum_{i = 1}^n w_i Entropy(P_i)
+$$</p>
+
+<p>In simple terms, the total entropy resulting from a split is the sum of the entropy of each of the n partitions weighted by the proportion of examples falling in the partition ($w_i$).</p>
+
+<p>The higher the information gain, the better a feature is at creating homogeneous groups after a split on this feature. If the information gain is zero, there is no reduction in entropy for splitting on this feature. On the other hand, the maximum information gain is equal to the entropy prior to the split. This would imply that the entropy after the split is zero, which means that the split results in completely homogeneous groups.</p>
+
+<a class="post-dummy-target" id="pruning-the-decision-tree"></a><h2>Pruning the decision tree</h2>
+
+<p>A decision tree can continue to grow indefinitely, choosing splitting features and dividing the data into smaller and smaller partitions until each example is perfectly classified or the algorithm runs out of features to split on. However, if the tree grows overly large, many of the decisions it makes will be overly specific and the model will be overfitted to the training data. The process of <strong>pruning</strong>(修剪) a decision tree involves reducing its size such that it generalizes better to unseen data.</p>
+
+<ol>
+<li><p><strong>Early stopping</strong>（提前停止法） or <strong>pre-pruning</strong>（预剪枝法）. This solution is to stop the tree from growing once it reaches a certainnumber of decisions or when the decision nodes contain only a small number of examples. As the tree avoids doing needless work, this is an appealing strategy. However, one downside to this approach is that there is no way to know whether the tree will miss subtle, but important patterns that it would have learned had it grown to a larger size.</p></li>
+
+<li><p><strong>Post-pruning</strong>（后剪枝法）. which involves growing a tree that is intentionally too large and pruning leaf nodes to reduce the size of the tree to a more appropriate level. This is often a more effective approach than pre-pruning, because it is quite difficult to determine the optimal depth of a decision tree without growing it first. Pruning the tree later on allows the algorithm to be certain that all the important data structures were discovered.</p></li>
+</ol>
+
+<p>One of the benefits of the C5.0 algorithm is that it is opinionated about pruning— it takes care of many decisions automatically using fairly reasonable defaults. Its overall strategy is to post-prune the tree. It first grows a large tree that overfits the training data. Later, the nodes and branches that have little effect on the classification errors are removed. In some cases, entire branches are moved further up the tree or replaced by simpler decisions. These processes of grafting branches are known as <strong>subtree raising</strong>（子树提升） and <strong>subtree replacement</strong>（子树替换）, respectively.</p>
+
+<a class="post-dummy-target" id="example"></a><h1>Example</h1>
+
+<p>银行通过决策树的方式紧缩贷款体系，并转向机器学习来更准确地识别高风险贷款。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">  1
+</span><span class="lnt">  2
+</span><span class="lnt">  3
+</span><span class="lnt">  4
+</span><span class="lnt">  5
+</span><span class="lnt">  6
+</span><span class="lnt">  7
+</span><span class="lnt">  8
+</span><span class="lnt">  9
+</span><span class="lnt"> 10
+</span><span class="lnt"> 11
+</span><span class="lnt"> 12
+</span><span class="lnt"> 13
+</span><span class="lnt"> 14
+</span><span class="lnt"> 15
+</span><span class="lnt"> 16
+</span><span class="lnt"> 17
+</span><span class="lnt"> 18
+</span><span class="lnt"> 19
+</span><span class="lnt"> 20
+</span><span class="lnt"> 21
+</span><span class="lnt"> 22
+</span><span class="lnt"> 23
+</span><span class="lnt"> 24
+</span><span class="lnt"> 25
+</span><span class="lnt"> 26
+</span><span class="lnt"> 27
+</span><span class="lnt"> 28
+</span><span class="lnt"> 29
+</span><span class="lnt"> 30
+</span><span class="lnt"> 31
+</span><span class="lnt"> 32
+</span><span class="lnt"> 33
+</span><span class="lnt"> 34
+</span><span class="lnt"> 35
+</span><span class="lnt"> 36
+</span><span class="lnt"> 37
+</span><span class="lnt"> 38
+</span><span class="lnt"> 39
+</span><span class="lnt"> 40
+</span><span class="lnt"> 41
+</span><span class="lnt"> 42
+</span><span class="lnt"> 43
+</span><span class="lnt"> 44
+</span><span class="lnt"> 45
+</span><span class="lnt"> 46
+</span><span class="lnt"> 47
+</span><span class="lnt"> 48
+</span><span class="lnt"> 49
+</span><span class="lnt"> 50
+</span><span class="lnt"> 51
+</span><span class="lnt"> 52
+</span><span class="lnt"> 53
+</span><span class="lnt"> 54
+</span><span class="lnt"> 55
+</span><span class="lnt"> 56
+</span><span class="lnt"> 57
+</span><span class="lnt"> 58
+</span><span class="lnt"> 59
+</span><span class="lnt"> 60
+</span><span class="lnt"> 61
+</span><span class="lnt"> 62
+</span><span class="lnt"> 63
+</span><span class="lnt"> 64
+</span><span class="lnt"> 65
+</span><span class="lnt"> 66
+</span><span class="lnt"> 67
+</span><span class="lnt"> 68
+</span><span class="lnt"> 69
+</span><span class="lnt"> 70
+</span><span class="lnt"> 71
+</span><span class="lnt"> 72
+</span><span class="lnt"> 73
+</span><span class="lnt"> 74
+</span><span class="lnt"> 75
+</span><span class="lnt"> 76
+</span><span class="lnt"> 77
+</span><span class="lnt"> 78
+</span><span class="lnt"> 79
+</span><span class="lnt"> 80
+</span><span class="lnt"> 81
+</span><span class="lnt"> 82
+</span><span class="lnt"> 83
+</span><span class="lnt"> 84
+</span><span class="lnt"> 85
+</span><span class="lnt"> 86
+</span><span class="lnt"> 87
+</span><span class="lnt"> 88
+</span><span class="lnt"> 89
+</span><span class="lnt"> 90
+</span><span class="lnt"> 91
+</span><span class="lnt"> 92
+</span><span class="lnt"> 93
+</span><span class="lnt"> 94
+</span><span class="lnt"> 95
+</span><span class="lnt"> 96
+</span><span class="lnt"> 97
+</span><span class="lnt"> 98
+</span><span class="lnt"> 99
+</span><span class="lnt">100
+</span><span class="lnt">101
+</span><span class="lnt">102
+</span><span class="lnt">103
+</span><span class="lnt">104
+</span><span class="lnt">105
+</span><span class="lnt">106
+</span><span class="lnt">107
+</span><span class="lnt">108
+</span><span class="lnt">109
+</span><span class="lnt">110
+</span><span class="lnt">111
+</span><span class="lnt">112
+</span><span class="lnt">113
+</span><span class="lnt">114
+</span><span class="lnt">115
+</span><span class="lnt">116
+</span><span class="lnt">117
+</span><span class="lnt">118
+</span><span class="lnt">119
+</span><span class="lnt">120
+</span><span class="lnt">121
+</span><span class="lnt">122
+</span><span class="lnt">123
+</span><span class="lnt">124
+</span><span class="lnt">125
+</span><span class="lnt">126
+</span><span class="lnt">127
+</span><span class="lnt">128
+</span><span class="lnt">129
+</span><span class="lnt">130
+</span><span class="lnt">131
+</span><span class="lnt">132
+</span><span class="lnt">133
+</span><span class="lnt">134
+</span><span class="lnt">135
+</span><span class="lnt">136
+</span><span class="lnt">137
+</span><span class="lnt">138
+</span><span class="lnt">139
+</span><span class="lnt">140
+</span><span class="lnt">141
+</span><span class="lnt">142
+</span><span class="lnt">143
+</span><span class="lnt">144
+</span><span class="lnt">145
+</span><span class="lnt">146
+</span><span class="lnt">147
+</span><span class="lnt">148
+</span><span class="lnt">149
+</span><span class="lnt">150
+</span><span class="lnt">151
+</span><span class="lnt">152
+</span><span class="lnt">153
+</span><span class="lnt">154
+</span><span class="lnt">155
+</span><span class="lnt">156
+</span><span class="lnt">157
+</span><span class="lnt">158
+</span><span class="lnt">159
+</span><span class="lnt">160
+</span><span class="lnt">161
+</span><span class="lnt">162
+</span><span class="lnt">163
+</span><span class="lnt">164
+</span><span class="lnt">165
+</span><span class="lnt">166
+</span><span class="lnt">167
+</span><span class="lnt">168
+</span><span class="lnt">169
+</span><span class="lnt">170
+</span><span class="lnt">171
+</span><span class="lnt">172
+</span><span class="lnt">173
+</span><span class="lnt">174
+</span><span class="lnt">175
+</span><span class="lnt">176
+</span><span class="lnt">177
+</span><span class="lnt">178
+</span><span class="lnt">179
+</span><span class="lnt">180
+</span><span class="lnt">181
+</span><span class="lnt">182
+</span><span class="lnt">183
+</span><span class="lnt">184
+</span><span class="lnt">185
+</span><span class="lnt">186
+</span><span class="lnt">187
+</span><span class="lnt">188
+</span><span class="lnt">189
+</span><span class="lnt">190
+</span><span class="lnt">191
+</span><span class="lnt">192
+</span><span class="lnt">193
+</span><span class="lnt">194
+</span><span class="lnt">195
+</span><span class="lnt">196
+</span><span class="lnt">197
+</span><span class="lnt">198
+</span><span class="lnt">199
+</span><span class="lnt">200
+</span><span class="lnt">201
+</span><span class="lnt">202
+</span><span class="lnt">203
+</span><span class="lnt">204
+</span><span class="lnt">205
+</span><span class="lnt">206
+</span><span class="lnt">207
+</span><span class="lnt">208
+</span><span class="lnt">209
+</span><span class="lnt">210
+</span><span class="lnt">211
+</span><span class="lnt">212
+</span><span class="lnt">213
+</span><span class="lnt">214
+</span><span class="lnt">215
+</span><span class="lnt">216
+</span><span class="lnt">217
+</span><span class="lnt">218
+</span><span class="lnt">219
+</span><span class="lnt">220
+</span><span class="lnt">221
+</span><span class="lnt">222
+</span><span class="lnt">223
+</span><span class="lnt">224
+</span><span class="lnt">225
+</span><span class="lnt">226
+</span><span class="lnt">227
+</span><span class="lnt">228
+</span><span class="lnt">229
+</span><span class="lnt">230
+</span><span class="lnt">231
+</span><span class="lnt">232
+</span><span class="lnt">233
+</span><span class="lnt">234
+</span><span class="lnt">235
+</span><span class="lnt">236
+</span><span class="lnt">237
+</span><span class="lnt">238
+</span><span class="lnt">239
+</span><span class="lnt">240
+</span><span class="lnt">241
+</span><span class="lnt">242
+</span><span class="lnt">243
+</span><span class="lnt">244
+</span><span class="lnt">245
+</span><span class="lnt">246
+</span><span class="lnt">247
+</span><span class="lnt">248
+</span><span class="lnt">249
+</span><span class="lnt">250
+</span><span class="lnt">251
+</span><span class="lnt">252
+</span><span class="lnt">253
+</span><span class="lnt">254
+</span><span class="lnt">255
+</span><span class="lnt">256
+</span><span class="lnt">257
+</span><span class="lnt">258
+</span><span class="lnt">259
+</span><span class="lnt">260
+</span><span class="lnt">261
+</span><span class="lnt">262
+</span><span class="lnt">263
+</span><span class="lnt">264
+</span><span class="lnt">265
+</span><span class="lnt">266
+</span><span class="lnt">267
+</span><span class="lnt">268
+</span><span class="lnt">269
+</span><span class="lnt">270
+</span><span class="lnt">271
+</span><span class="lnt">272
+</span><span class="lnt">273
+</span><span class="lnt">274
+</span><span class="lnt">275
+</span><span class="lnt">276
+</span><span class="lnt">277
+</span><span class="lnt">278
+</span><span class="lnt">279
+</span><span class="lnt">280
+</span><span class="lnt">281
+</span><span class="lnt">282
+</span><span class="lnt">283
+</span><span class="lnt">284
+</span><span class="lnt">285
+</span><span class="lnt">286
+</span><span class="lnt">287
+</span><span class="lnt">288
+</span><span class="lnt">289
+</span><span class="lnt">290
+</span><span class="lnt">291
+</span><span class="lnt">292
+</span><span class="lnt">293
+</span><span class="lnt">294
+</span><span class="lnt">295
+</span><span class="lnt">296
+</span><span class="lnt">297
+</span><span class="lnt">298
+</span><span class="lnt">299
+</span><span class="lnt">300
+</span><span class="lnt">301
+</span><span class="lnt">302
+</span><span class="lnt">303
+</span><span class="lnt">304
+</span><span class="lnt">305
+</span><span class="lnt">306
+</span><span class="lnt">307
+</span><span class="lnt">308
+</span><span class="lnt">309
+</span><span class="lnt">310
+</span><span class="lnt">311
+</span><span class="lnt">312
+</span><span class="lnt">313
+</span><span class="lnt">314
+</span><span class="lnt">315
+</span><span class="lnt">316
+</span><span class="lnt">317
+</span><span class="lnt">318
+</span><span class="lnt">319
+</span><span class="lnt">320
+</span><span class="lnt">321
+</span><span class="lnt">322
+</span><span class="lnt">323
+</span><span class="lnt">324
+</span><span class="lnt">325
+</span><span class="lnt">326
+</span><span class="lnt">327
+</span><span class="lnt">328
+</span><span class="lnt">329
+</span><span class="lnt">330
+</span><span class="lnt">331
+</span><span class="lnt">332
+</span><span class="lnt">333
+</span><span class="lnt">334
+</span><span class="lnt">335
+</span><span class="lnt">336
+</span><span class="lnt">337
+</span><span class="lnt">338
+</span><span class="lnt">339
+</span><span class="lnt">340
+</span><span class="lnt">341
+</span><span class="lnt">342
+</span><span class="lnt">343
+</span><span class="lnt">344
+</span><span class="lnt">345
+</span><span class="lnt">346
+</span><span class="lnt">347
+</span><span class="lnt">348
+</span><span class="lnt">349
+</span><span class="lnt">350
+</span><span class="lnt">351
+</span><span class="lnt">352
+</span><span class="lnt">353
+</span><span class="lnt">354
+</span><span class="lnt">355
+</span><span class="lnt">356
+</span><span class="lnt">357
+</span><span class="lnt">358
+</span><span class="lnt">359
+</span><span class="lnt">360
+</span><span class="lnt">361
+</span><span class="lnt">362
+</span><span class="lnt">363
+</span><span class="lnt">364
+</span><span class="lnt">365
+</span><span class="lnt">366
+</span><span class="lnt">367
+</span><span class="lnt">368
+</span><span class="lnt">369
+</span><span class="lnt">370
+</span><span class="lnt">371
+</span><span class="lnt">372
+</span><span class="lnt">373
+</span><span class="lnt">374
+</span><span class="lnt">375
+</span><span class="lnt">376
+</span><span class="lnt">377
+</span><span class="lnt">378
+</span><span class="lnt">379
+</span><span class="lnt">380
+</span><span class="lnt">381
+</span><span class="lnt">382
+</span><span class="lnt">383
+</span><span class="lnt">384
+</span><span class="lnt">385
+</span><span class="lnt">386
+</span><span class="lnt">387
+</span><span class="lnt">388
+</span><span class="lnt">389
+</span><span class="lnt">390
+</span><span class="lnt">391
+</span><span class="lnt">392
+</span><span class="lnt">393
+</span><span class="lnt">394
+</span><span class="lnt">395
+</span><span class="lnt">396
+</span><span class="lnt">397
+</span><span class="lnt">398
+</span><span class="lnt">399
+</span><span class="lnt">400
+</span><span class="lnt">401
+</span><span class="lnt">402
+</span><span class="lnt">403
+</span><span class="lnt">404
+</span><span class="lnt">405
+</span><span class="lnt">406
+</span><span class="lnt">407
+</span><span class="lnt">408
+</span><span class="lnt">409
+</span><span class="lnt">410
+</span><span class="lnt">411
+</span><span class="lnt">412
+</span><span class="lnt">413
+</span><span class="lnt">414
+</span><span class="lnt">415
+</span><span class="lnt">416
+</span><span class="lnt">417
+</span><span class="lnt">418
+</span><span class="lnt">419
+</span><span class="lnt">420
+</span><span class="lnt">421
+</span><span class="lnt">422
+</span><span class="lnt">423
+</span><span class="lnt">424
+</span><span class="lnt">425
+</span><span class="lnt">426
+</span><span class="lnt">427
+</span><span class="lnt">428
+</span><span class="lnt">429
+</span><span class="lnt">430
+</span><span class="lnt">431
+</span><span class="lnt">432
+</span><span class="lnt">433
+</span><span class="lnt">434
+</span><span class="lnt">435
+</span><span class="lnt">436
+</span><span class="lnt">437
+</span><span class="lnt">438
+</span><span class="lnt">439
+</span><span class="lnt">440
+</span><span class="lnt">441
+</span><span class="lnt">442
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="kn">library</span><span class="p">(</span>pacman<span class="p">)</span>
+p_load<span class="p">(</span>C50<span class="p">,</span> here<span class="p">)</span>
+
+credit <span class="o">&lt;-</span> read.csv<span class="p">(</span><span class="s">&#34;E:/1R/Machine-Learning-with-R-datasets-master/ML/credit.csv&#34;</span><span class="p">)</span>
+
+
+<span class="c1"># prepare -----------------------------------------------------------------</span>
+
+<span class="kp">table</span><span class="p">(</span>credit<span class="o">$</span>checking_balance<span class="p">)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;     &lt; 0 DM   &gt; 200 DM 1 - 200 DM    unknown </span>
+<span class="c1">#&gt;        274         63        269        394</span>
+
+<span class="kp">table</span><span class="p">(</span>credit<span class="o">$</span>savings_balance<span class="p">)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;      &lt; 100 DM     &gt; 1000 DM  101 - 500 DM 501 - 1000 DM       unknown </span>
+<span class="c1">#&gt;           603            48           103            63           183</span>
+
+<span class="kp">table</span><span class="p">(</span>credit<span class="o">$</span>default<span class="p">)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;   1   2 </span>
+<span class="c1">#&gt; 700 300</span>
+
+<span class="kp">set.seed</span><span class="p">(</span><span class="m">122</span><span class="p">)</span>
+
+train_sample <span class="o">&lt;-</span> <span class="kp">sample</span><span class="p">(</span><span class="m">1000</span><span class="p">,</span> <span class="m">900</span><span class="p">)</span>
+
+credit_train <span class="o">&lt;-</span> credit<span class="p">[</span>train_sample<span class="p">,</span> <span class="p">]</span>
+credit_test <span class="o">&lt;-</span> credit<span class="p">[</span><span class="o">-</span>train_sample<span class="p">,</span> <span class="p">]</span>
+
+<span class="kp">prop.table</span><span class="p">(</span><span class="kp">table</span><span class="p">(</span>credit_train<span class="o">$</span>default<span class="p">))</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;         1         2 </span>
+<span class="c1">#&gt; 0.6966667 0.3033333</span>
+
+<span class="c1"># train -------------------------------------------------------------------</span>
+
+credit_model <span class="o">&lt;-</span> C5.0<span class="p">(</span>credit_train<span class="p">[</span><span class="m">-17</span><span class="p">],</span> <span class="kp">as.factor</span><span class="p">(</span>credit_train<span class="o">$</span>default<span class="p">))</span>
+credit_model
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Call:</span>
+<span class="c1">#&gt; C5.0.default(x = credit_train[-17], y = as.factor(credit_train$default))</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Classification Tree</span>
+<span class="c1">#&gt; Number of samples: 900 </span>
+<span class="c1">#&gt; Number of predictors: 20 </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Tree size: 46 </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Non-standard options: attempt to group attributes</span>
+<span class="kp">summary</span><span class="p">(</span>credit_model<span class="p">)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Call:</span>
+<span class="c1">#&gt; C5.0.default(x = credit_train[-17], y = as.factor(credit_train$default))</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; C5.0 [Release 2.07 GPL Edition]      Sat May 04 16:15:37 2019</span>
+<span class="c1">#&gt; -------------------------------</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Class specified by attribute `outcome&#39;</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Read 900 cases (21 attributes) from undefined.data</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Decision tree:</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; checking_balance = unknown: 1 (351/41)</span>
+<span class="c1">#&gt; checking_balance in {&lt; 0 DM,&gt; 200 DM,1 - 200 DM}:</span>
+<span class="c1">#&gt; :...credit_history in {fully repaid,fully repaid this bank}:</span>
+<span class="c1">#&gt;     :...dependents &gt; 1: 2 (11/1)</span>
+<span class="c1">#&gt;     :   dependents &lt;= 1:</span>
+<span class="c1">#&gt;     :   :...savings_balance in {&gt; 1000 DM,501 - 1000 DM,unknown}: 1 (10/1)</span>
+<span class="c1">#&gt;     :       savings_balance in {&lt; 100 DM,101 - 500 DM}:</span>
+<span class="c1">#&gt;     :       :...purpose in {business,car (new),domestic appliances,education,</span>
+<span class="c1">#&gt;     :           :           furniture,others,radio/tv,repairs}: 2 (41/8)</span>
+<span class="c1">#&gt;     :           purpose in {car (used),retraining}: 1 (5)</span>
+<span class="c1">#&gt;     credit_history in {critical,delayed,repaid}:</span>
+<span class="c1">#&gt;     :...months_loan_duration &lt;= 22:</span>
+<span class="c1">#&gt;         :...other_debtors = guarantor:</span>
+<span class="c1">#&gt;         :   :...purpose in {business,car (used),domestic appliances,education,</span>
+<span class="c1">#&gt;         :   :   :           furniture,others,radio/tv,repairs,</span>
+<span class="c1">#&gt;         :   :   :           retraining}: 1 (24)</span>
+<span class="c1">#&gt;         :   :   purpose = car (new):</span>
+<span class="c1">#&gt;         :   :   :...credit_history in {critical,delayed}: 2 (3)</span>
+<span class="c1">#&gt;         :   :       credit_history = repaid: 1 (2)</span>
+<span class="c1">#&gt;         :   other_debtors in {co-applicant,none}:</span>
+<span class="c1">#&gt;         :   :...credit_history in {critical,delayed}: 1 (89/18)</span>
+<span class="c1">#&gt;         :       credit_history = repaid:</span>
+<span class="c1">#&gt;         :       :...savings_balance in {&gt; 1000 DM,501 - 1000 DM,</span>
+<span class="c1">#&gt;         :           :                   unknown}: 1 (42/8)</span>
+<span class="c1">#&gt;         :           savings_balance = 101 - 500 DM:</span>
+<span class="c1">#&gt;         :           :...existing_credits &gt; 1: 2 (3)</span>
+<span class="c1">#&gt;         :           :   existing_credits &lt;= 1:</span>
+<span class="c1">#&gt;         :           :   :...property in {building society savings,</span>
+<span class="c1">#&gt;         :           :       :            unknown/none}: 2 (6/1)</span>
+<span class="c1">#&gt;         :           :       property in {other,real estate}: 1 (8)</span>
+<span class="c1">#&gt;         :           savings_balance = &lt; 100 DM:</span>
+<span class="c1">#&gt;         :           :...checking_balance = &gt; 200 DM:</span>
+<span class="c1">#&gt;         :               :...property in {building society savings,other,</span>
+<span class="c1">#&gt;         :               :   :            unknown/none}: 1 (8)</span>
+<span class="c1">#&gt;         :               :   property = real estate:</span>
+<span class="c1">#&gt;         :               :   :...job = skilled employee: 1 (4/1)</span>
+<span class="c1">#&gt;         :               :       job in {mangement self-employed,</span>
+<span class="c1">#&gt;         :               :               unemployed non-resident,</span>
+<span class="c1">#&gt;         :               :               unskilled resident}: 2 (3)</span>
+<span class="c1">#&gt;         :               checking_balance = &lt; 0 DM:</span>
+<span class="c1">#&gt;         :               :...existing_credits &gt; 1: 2 (3)</span>
+<span class="c1">#&gt;         :               :   existing_credits &lt;= 1:</span>
+<span class="c1">#&gt;         :               :   :...purpose in {business,domestic appliances,</span>
+<span class="c1">#&gt;         :               :       :           radio/tv}: 1 (15/5)</span>
+<span class="c1">#&gt;         :               :       purpose in {car (new),car (used),education,</span>
+<span class="c1">#&gt;         :               :       :           others,repairs,</span>
+<span class="c1">#&gt;         :               :       :           retraining}: 2 (22/5)</span>
+<span class="c1">#&gt;         :               :       purpose = furniture:</span>
+<span class="c1">#&gt;         :               :       :...months_loan_duration &lt;= 15: 1 (12/2)</span>
+<span class="c1">#&gt;         :               :           months_loan_duration &gt; 15: [S1]</span>
+<span class="c1">#&gt;         :               checking_balance = 1 - 200 DM:</span>
+<span class="c1">#&gt;         :               :...telephone = yes: 1 (12/2)</span>
+<span class="c1">#&gt;         :                   telephone = none:</span>
+<span class="c1">#&gt;         :                   :...installment_plan in {bank,stores}: 2 (3)</span>
+<span class="c1">#&gt;         :                       installment_plan = none:</span>
+<span class="c1">#&gt;         :                       :...job in {mangement self-employed,</span>
+<span class="c1">#&gt;         :                           :       unemployed non-resident,</span>
+<span class="c1">#&gt;         :                           :       unskilled resident}: 1 (10/1)</span>
+<span class="c1">#&gt;         :                           job = skilled employee:</span>
+<span class="c1">#&gt;         :                           :...amount &lt;= 2101: 2 (10/2)</span>
+<span class="c1">#&gt;         :                               amount &gt; 2101: 1 (3)</span>
+<span class="c1">#&gt;         months_loan_duration &gt; 22:</span>
+<span class="c1">#&gt;         :...checking_balance = &gt; 200 DM:</span>
+<span class="c1">#&gt;             :...dependents &lt;= 1: 1 (15/2)</span>
+<span class="c1">#&gt;             :   dependents &gt; 1: 2 (2)</span>
+<span class="c1">#&gt;             checking_balance in {&lt; 0 DM,1 - 200 DM}:</span>
+<span class="c1">#&gt;             :...savings_balance = &gt; 1000 DM: 1 (4/1)</span>
+<span class="c1">#&gt;                 savings_balance = 501 - 1000 DM: 2 (4/1)</span>
+<span class="c1">#&gt;                 savings_balance = 101 - 500 DM:</span>
+<span class="c1">#&gt;                 :...employment_length in {&gt; 7 yrs,4 - 7 yrs,</span>
+<span class="c1">#&gt;                 :   :                     unemployed}: 1 (14/3)</span>
+<span class="c1">#&gt;                 :   employment_length in {0 - 1 yrs,1 - 4 yrs}: 2 (13/2)</span>
+<span class="c1">#&gt;                 savings_balance = unknown:</span>
+<span class="c1">#&gt;                 :...checking_balance = &lt; 0 DM: 2 (11/2)</span>
+<span class="c1">#&gt;                 :   checking_balance = 1 - 200 DM: 1 (17)</span>
+<span class="c1">#&gt;                 savings_balance = &lt; 100 DM:</span>
+<span class="c1">#&gt;                 :...other_debtors = co-applicant:</span>
+<span class="c1">#&gt;                     :...employment_length in {&gt; 7 yrs,1 - 4 yrs,</span>
+<span class="c1">#&gt;                     :   :                     4 - 7 yrs}: 2 (5)</span>
+<span class="c1">#&gt;                     :   employment_length in {0 - 1 yrs,unemployed}: 1 (3)</span>
+<span class="c1">#&gt;                     other_debtors = guarantor:</span>
+<span class="c1">#&gt;                     :...checking_balance = &lt; 0 DM: 1 (7/1)</span>
+<span class="c1">#&gt;                     :   checking_balance = 1 - 200 DM: 2 (2)</span>
+<span class="c1">#&gt;                     other_debtors = none:</span>
+<span class="c1">#&gt;                     :...installment_rate &gt; 2:</span>
+<span class="c1">#&gt;                         :...residence_history &lt;= 1: 1 (7/2)</span>
+<span class="c1">#&gt;                         :   residence_history &gt; 1: 2 (58/12)</span>
+<span class="c1">#&gt;                         installment_rate &lt;= 2:</span>
+<span class="c1">#&gt;                         :...housing = for free: 1 (6)</span>
+<span class="c1">#&gt;                             housing in {own,rent}:</span>
+<span class="c1">#&gt;                             :...dependents &gt; 1: 2 (3)</span>
+<span class="c1">#&gt;                                 dependents &lt;= 1:</span>
+<span class="c1">#&gt;                                 :...credit_history = critical: 2 (3)</span>
+<span class="c1">#&gt;                                     credit_history in {delayed,repaid}:</span>
+<span class="c1">#&gt;                                     :...telephone = none: 1 (11/3)</span>
+<span class="c1">#&gt;                                         telephone = yes: 2 (9/3)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; SubTree [S1]</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; employment_length in {0 - 1 yrs,4 - 7 yrs}: 1 (2)</span>
+<span class="c1">#&gt; employment_length in {&gt; 7 yrs,1 - 4 yrs,unemployed}: 2 (4)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Evaluation on training data (900 cases):</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;      Decision Tree   </span>
+<span class="c1">#&gt;    ----------------  </span>
+<span class="c1">#&gt;    Size      Errors  </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;      46  128(14.2%)   &lt;&lt;</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;     (a)   (b)    &lt;-classified as</span>
+<span class="c1">#&gt;    ----  ----</span>
+<span class="c1">#&gt;     590    37    (a): class 1</span>
+<span class="c1">#&gt;      91   182    (b): class 2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  Attribute usage:</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  100.00% checking_balance</span>
+<span class="c1">#&gt;   61.00% credit_history</span>
+<span class="c1">#&gt;   53.56% months_loan_duration</span>
+<span class="c1">#&gt;   44.78% savings_balance</span>
+<span class="c1">#&gt;   44.67% other_debtors</span>
+<span class="c1">#&gt;   14.44% purpose</span>
+<span class="c1">#&gt;   12.22% dependents</span>
+<span class="c1">#&gt;   10.78% installment_rate</span>
+<span class="c1">#&gt;    8.33% existing_credits</span>
+<span class="c1">#&gt;    7.22% residence_history</span>
+<span class="c1">#&gt;    6.44% telephone</span>
+<span class="c1">#&gt;    4.56% employment_length</span>
+<span class="c1">#&gt;    3.56% housing</span>
+<span class="c1">#&gt;    3.33% job</span>
+<span class="c1">#&gt;    3.22% property</span>
+<span class="c1">#&gt;    2.89% installment_plan</span>
+<span class="c1">#&gt;    1.44% amount</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Time: 0.0 secs</span>
+
+<span class="c1"># evaluate ----------------------------------------------------------------</span>
+
+credit_pred <span class="o">&lt;-</span> predict<span class="p">(</span>credit_model<span class="p">,</span> credit_test<span class="p">)</span>
+
+<span class="kn">library</span><span class="p">(</span>gmodels<span class="p">)</span>
+
+CrossTable<span class="p">(</span>credit_test<span class="o">$</span>default<span class="p">,</span> credit_pred<span class="p">,</span>
+           prop.chisq <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> prop.c <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> prop.r <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span>
+           dnn <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#39;actual default&#39;</span><span class="p">,</span> <span class="s">&#39;predicted default&#39;</span><span class="p">))</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  </span>
+<span class="c1">#&gt;    Cell Contents</span>
+<span class="c1">#&gt; |-------------------------|</span>
+<span class="c1">#&gt; |                       N |</span>
+<span class="c1">#&gt; |         N / Table Total |</span>
+<span class="c1">#&gt; |-------------------------|</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  </span>
+<span class="c1">#&gt; Total Observations in Table:  100 </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  </span>
+<span class="c1">#&gt;                | predicted default </span>
+<span class="c1">#&gt; actual default |         1 |         2 | Row Total | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt;              1 |        61 |        12 |        73 | </span>
+<span class="c1">#&gt;                |     0.610 |     0.120 |           | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt;              2 |        11 |        16 |        27 | </span>
+<span class="c1">#&gt;                |     0.110 |     0.160 |           | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt;   Column Total |        72 |        28 |       100 | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+
+<span class="c1"># improve -----------------------------------------------------------------</span>
+
+credit_boost10 <span class="o">&lt;-</span> C5.0<span class="p">(</span>credit_train<span class="p">[</span><span class="m">-17</span><span class="p">],</span> <span class="kp">as.factor</span><span class="p">(</span>credit_train<span class="o">$</span>default<span class="p">),</span>
+                       trials <span class="o">=</span> <span class="m">10</span><span class="p">)</span>
+credit_boost10
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Call:</span>
+<span class="c1">#&gt; C5.0.default(x = credit_train[-17], y =</span>
+<span class="c1">#&gt;  as.factor(credit_train$default), trials = 10)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Classification Tree</span>
+<span class="c1">#&gt; Number of samples: 900 </span>
+<span class="c1">#&gt; Number of predictors: 20 </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Number of boosting iterations: 10 </span>
+<span class="c1">#&gt; Average tree size: 42.4 </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Non-standard options: attempt to group attributes</span>
+
+<span class="kp">summary</span><span class="p">(</span>credit_boost10<span class="p">)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Call:</span>
+<span class="c1">#&gt; C5.0.default(x = credit_train[-17], y =</span>
+<span class="c1">#&gt;  as.factor(credit_train$default), trials = 10)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; C5.0 [Release 2.07 GPL Edition]      Sat May 04 16:15:37 2019</span>
+<span class="c1">#&gt; -------------------------------</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Class specified by attribute `outcome&#39;</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Read 900 cases (21 attributes) from undefined.data</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; -----  Trial 9:  -----</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Decision tree:</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; checking_balance = unknown:</span>
+<span class="c1">#&gt; :...employment_length in {&gt; 7 yrs,4 - 7 yrs}: 1 (76.4/2.3)</span>
+<span class="c1">#&gt; :   employment_length in {0 - 1 yrs,1 - 4 yrs,unemployed}:</span>
+<span class="c1">#&gt; :   :...months_loan_duration &lt;= 24: 1 (115.1/23.5)</span>
+<span class="c1">#&gt; :       months_loan_duration &gt; 24:</span>
+<span class="c1">#&gt; :       :...dependents &lt;= 1: 2 (37.4/14.4)</span>
+<span class="c1">#&gt; :           dependents &gt; 1: 1 (4.3)</span>
+<span class="c1">#&gt; checking_balance in {&lt; 0 DM,&gt; 200 DM,1 - 200 DM}:</span>
+<span class="c1">#&gt; :...savings_balance in {&gt; 1000 DM,501 - 1000 DM,unknown}:</span>
+<span class="c1">#&gt;     :...credit_history in {delayed,fully repaid}: 1 (12.6/2)</span>
+<span class="c1">#&gt;     :   credit_history in {critical,fully repaid this bank,repaid}:</span>
+<span class="c1">#&gt;     :   :...amount &gt; 5848: 2 (18.7/6.7)</span>
+<span class="c1">#&gt;     :       amount &lt;= 5848:</span>
+<span class="c1">#&gt;     :       :...installment_rate &lt;= 3: 1 (43.3/5.9)</span>
+<span class="c1">#&gt;     :           installment_rate &gt; 3:</span>
+<span class="c1">#&gt;     :           :...residence_history &lt;= 3:</span>
+<span class="c1">#&gt;     :               :...residence_history &lt;= 1: 1 (6)</span>
+<span class="c1">#&gt;     :               :   residence_history &gt; 1: 2 (29.8/9.1)</span>
+<span class="c1">#&gt;     :               residence_history &gt; 3:</span>
+<span class="c1">#&gt;     :               :...months_loan_duration &lt;= 33: 1 (27.6/2.2)</span>
+<span class="c1">#&gt;     :                   months_loan_duration &gt; 33: 2 (2.3)</span>
+<span class="c1">#&gt;     savings_balance in {&lt; 100 DM,101 - 500 DM}:</span>
+<span class="c1">#&gt;     :...months_loan_duration &gt; 47: 2 (26.5/2.3)</span>
+<span class="c1">#&gt;         months_loan_duration &lt;= 47:</span>
+<span class="c1">#&gt;         :...purpose in {domestic appliances,education}: 2 (24/8.4)</span>
+<span class="c1">#&gt;             purpose in {others,repairs,retraining}: 1 (25.8/9.3)</span>
+<span class="c1">#&gt;             purpose = car (used):</span>
+<span class="c1">#&gt;             :...amount &gt; 9283: 2 (4.3)</span>
+<span class="c1">#&gt;             :   amount &lt;= 9283:</span>
+<span class="c1">#&gt;             :   :...age &lt;= 70: 1 (30.1/2)</span>
+<span class="c1">#&gt;             :       age &gt; 70: 2 (2.2/0.2)</span>
+<span class="c1">#&gt;             purpose = business:</span>
+<span class="c1">#&gt;             :...age &gt; 46: 2 (7)</span>
+<span class="c1">#&gt;             :   age &lt;= 46:</span>
+<span class="c1">#&gt;             :   :...savings_balance = 101 - 500 DM: 1 (6.9/0.4)</span>
+<span class="c1">#&gt;             :       savings_balance = &lt; 100 DM:</span>
+<span class="c1">#&gt;             :       :...credit_history in {delayed,</span>
+<span class="c1">#&gt;             :           :                  fully repaid this bank}: 2 (6.1)</span>
+<span class="c1">#&gt;             :           credit_history in {critical,fully repaid,repaid}:</span>
+<span class="c1">#&gt;             :           :...age &lt;= 34: 1 (18.5/1.6)</span>
+<span class="c1">#&gt;             :               age &gt; 34: 2 (10.2/2.6)</span>
+<span class="c1">#&gt;             purpose = car (new):</span>
+<span class="c1">#&gt;             :...other_debtors in {co-applicant,guarantor}: 2 (19.4/4.4)</span>
+<span class="c1">#&gt;             :   other_debtors = none:</span>
+<span class="c1">#&gt;             :   :...credit_history = critical: 1 (23/8.6)</span>
+<span class="c1">#&gt;             :       credit_history in {delayed,fully repaid,</span>
+<span class="c1">#&gt;             :       :                  fully repaid this bank}: 2 (21.1/6.5)</span>
+<span class="c1">#&gt;             :       credit_history = repaid:</span>
+<span class="c1">#&gt;             :       :...months_loan_duration &gt; 40: 1 (3)</span>
+<span class="c1">#&gt;             :           months_loan_duration &lt;= 40:</span>
+<span class="c1">#&gt;             :           :...personal_status in {divorced male,</span>
+<span class="c1">#&gt;             :               :                   female}: 2 (22.3/5)</span>
+<span class="c1">#&gt;             :               personal_status in {married male,</span>
+<span class="c1">#&gt;             :                                   single male}: 1 (31.3/12.7)</span>
+<span class="c1">#&gt;             purpose = furniture:</span>
+<span class="c1">#&gt;             :...other_debtors = guarantor: 1 (6.8)</span>
+<span class="c1">#&gt;             :   other_debtors in {co-applicant,none}:</span>
+<span class="c1">#&gt;             :   :...personal_status = married male: 1 (4.6)</span>
+<span class="c1">#&gt;             :       personal_status in {divorced male,female,single male}:</span>
+<span class="c1">#&gt;             :       :...months_loan_duration &gt; 27: 2 (11.6)</span>
+<span class="c1">#&gt;             :           months_loan_duration &lt;= 27:</span>
+<span class="c1">#&gt;             :           :...job in {mangement self-employed,</span>
+<span class="c1">#&gt;             :               :       unemployed non-resident}: 2 (14.9/5)</span>
+<span class="c1">#&gt;             :               job = unskilled resident: 1 (20.6/8.9)</span>
+<span class="c1">#&gt;             :               job = skilled employee:</span>
+<span class="c1">#&gt;             :               :...age &lt;= 53: 1 (54.8/20.2)</span>
+<span class="c1">#&gt;             :                   age &gt; 53: 2 (3.6)</span>
+<span class="c1">#&gt;             purpose = radio/tv:</span>
+<span class="c1">#&gt;             :...months_loan_duration &gt; 36: 2 (7.1)</span>
+<span class="c1">#&gt;                 months_loan_duration &lt;= 36:</span>
+<span class="c1">#&gt;                 :...other_debtors in {co-applicant,guarantor}: 1 (15.5/2.5)</span>
+<span class="c1">#&gt;                     other_debtors = none:</span>
+<span class="c1">#&gt;                     :...employment_length in {&gt; 7 yrs,4 - 7 yrs}: 1 (24.8/4.9)</span>
+<span class="c1">#&gt;                         employment_length in {0 - 1 yrs,</span>
+<span class="c1">#&gt;                         :                     unemployed}: 2 (25.9/6.5)</span>
+<span class="c1">#&gt;                         employment_length = 1 - 4 yrs:</span>
+<span class="c1">#&gt;                         :...installment_plan = bank: 2 (4)</span>
+<span class="c1">#&gt;                             installment_plan = stores: 1 (2.5)</span>
+<span class="c1">#&gt;                             installment_plan = none:</span>
+<span class="c1">#&gt;                             :...savings_balance = &lt; 100 DM: 1 (30.3/12.5)</span>
+<span class="c1">#&gt;                                 savings_balance = 101 - 500 DM: 2 (1.8)</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Evaluation on training data (900 cases):</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Trial        Decision Tree   </span>
+<span class="c1">#&gt; -----      ----------------  </span>
+<span class="c1">#&gt;    Size      Errors  </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;    0     46  128(14.2%)</span>
+<span class="c1">#&gt;    1     28  202(22.4%)</span>
+<span class="c1">#&gt;    2     33  184(20.4%)</span>
+<span class="c1">#&gt;    3     44  184(20.4%)</span>
+<span class="c1">#&gt;    4     38  190(21.1%)</span>
+<span class="c1">#&gt;    5     47  190(21.1%)</span>
+<span class="c1">#&gt;    6     53  189(21.0%)</span>
+<span class="c1">#&gt;    7     45  196(21.8%)</span>
+<span class="c1">#&gt;    8     47  197(21.9%)</span>
+<span class="c1">#&gt;    9     43  168(18.7%)</span>
+<span class="c1">#&gt; boost             37( 4.1%)   &lt;&lt;</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;     (a)   (b)    &lt;-classified as</span>
+<span class="c1">#&gt;    ----  ----</span>
+<span class="c1">#&gt;     625     2    (a): class 1</span>
+<span class="c1">#&gt;      35   238    (b): class 2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  Attribute usage:</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  100.00% checking_balance</span>
+<span class="c1">#&gt;  100.00% months_loan_duration</span>
+<span class="c1">#&gt;  100.00% foreign_worker</span>
+<span class="c1">#&gt;   99.67% purpose</span>
+<span class="c1">#&gt;   98.11% amount</span>
+<span class="c1">#&gt;   97.11% other_debtors</span>
+<span class="c1">#&gt;   95.00% credit_history</span>
+<span class="c1">#&gt;   87.00% property</span>
+<span class="c1">#&gt;   86.44% employment_length</span>
+<span class="c1">#&gt;   86.44% installment_plan</span>
+<span class="c1">#&gt;   83.11% dependents</span>
+<span class="c1">#&gt;   77.33% savings_balance</span>
+<span class="c1">#&gt;   75.33% installment_rate</span>
+<span class="c1">#&gt;   74.11% housing</span>
+<span class="c1">#&gt;   70.00% job</span>
+<span class="c1">#&gt;   67.11% existing_credits</span>
+<span class="c1">#&gt;   63.44% age</span>
+<span class="c1">#&gt;   52.67% personal_status</span>
+<span class="c1">#&gt;   49.78% residence_history</span>
+<span class="c1">#&gt;   23.33% telephone</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; Time: 0.1 secs</span>
+
+credit_boost_pred10 <span class="o">&lt;-</span> predict<span class="p">(</span>credit_boost10<span class="p">,</span> credit_test<span class="p">)</span>
+
+CrossTable<span class="p">(</span>credit_test<span class="o">$</span>default<span class="p">,</span> credit_boost_pred10<span class="p">,</span>
+           prop.chisq <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> prop.c <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> prop.r <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span>
+           dnn <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#39;actual default&#39;</span><span class="p">,</span> <span class="s">&#39;predicted default&#39;</span><span class="p">))</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  </span>
+<span class="c1">#&gt;    Cell Contents</span>
+<span class="c1">#&gt; |-------------------------|</span>
+<span class="c1">#&gt; |                       N |</span>
+<span class="c1">#&gt; |         N / Table Total |</span>
+<span class="c1">#&gt; |-------------------------|</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  </span>
+<span class="c1">#&gt; Total Observations in Table:  100 </span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt;  </span>
+<span class="c1">#&gt;                | predicted default </span>
+<span class="c1">#&gt; actual default |         1 |         2 | Row Total | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt;              1 |        62 |        11 |        73 | </span>
+<span class="c1">#&gt;                |     0.620 |     0.110 |           | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt;              2 |        10 |        17 |        27 | </span>
+<span class="c1">#&gt;                |     0.100 |     0.170 |           | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt;   Column Total |        72 |        28 |       100 | </span>
+<span class="c1">#&gt; ---------------|-----------|-----------|-----------|</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; </span></code></pre></td></tr></table>
+</div>
+</div>
+<p><sup>Created on 2019-05-04 by the <a href="https://reprex.tidyverse.org">reprex package</a> (v0.2.1)</sup></p>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-05-04 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/05/2019-05-04-decision-trees-and-rules/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/ml/"><i class="fas fa-tag fa-fw"></i>ML</a>
+                    </span>
+                
+                    <span class="tag">
+                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/05/2019-05-03-particle-swarm-optimization-pso/" class="prev" rel="prev" title="Particle Swarm Optimization, PSO"><i class="fas fa-angle-left fa-fw"></i>Particle Swarm Optimization, PSO</a>
+        
+        
+            <a href="/2019/05/2019-05-05-genetic-algorithm/" class="next" rel="next" title="Genetic Algorithm">Genetic Algorithm<i class="fas fa-angle-right fa-fw"></i></a>
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2018 - 2019</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

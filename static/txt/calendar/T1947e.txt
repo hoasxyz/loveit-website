@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1947 (Ding-hai ¡V year of the Pig)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1947/01/01     10                  Wednesday                          
+1947/01/02     11                  Thursday                           
+1947/01/03     12                  Friday                             
+1947/01/04     13                  Saturday                           
+1947/01/05     14                  Sunday                             
+1947/01/06     15                  Monday         Moderate Cold       
+1947/01/07     16                  Tuesday                            
+1947/01/08     17                  Wednesday                          
+1947/01/09     18                  Thursday                           
+1947/01/10     19                  Friday                             
+1947/01/11     20                  Saturday                           
+1947/01/12     21                  Sunday                             
+1947/01/13     22                  Monday                             
+1947/01/14     23                  Tuesday                            
+1947/01/15     24                  Wednesday                          
+1947/01/16     25                  Thursday                           
+1947/01/17     26                  Friday                             
+1947/01/18     27                  Saturday                           
+1947/01/19     28                  Sunday                             
+1947/01/20     29                  Monday                             
+1947/01/21     30                  Tuesday        Severe Cold         
+1947/01/22     1st Lunar month     Wednesday                          
+1947/01/23     2                   Thursday                           
+1947/01/24     3                   Friday                             
+1947/01/25     4                   Saturday                           
+1947/01/26     5                   Sunday                             
+1947/01/27     6                   Monday                             
+1947/01/28     7                   Tuesday                            
+1947/01/29     8                   Wednesday                          
+1947/01/30     9                   Thursday                           
+1947/01/31     10                  Friday                             
+1947/02/01     11                  Saturday                           
+1947/02/02     12                  Sunday                             
+1947/02/03     13                  Monday                             
+1947/02/04     14                  Tuesday        Spring Commences    
+1947/02/05     15                  Wednesday                          
+1947/02/06     16                  Thursday                           
+1947/02/07     17                  Friday                             
+1947/02/08     18                  Saturday                           
+1947/02/09     19                  Sunday                             
+1947/02/10     20                  Monday                             
+1947/02/11     21                  Tuesday                            
+1947/02/12     22                  Wednesday                          
+1947/02/13     23                  Thursday                           
+1947/02/14     24                  Friday                             
+1947/02/15     25                  Saturday                           
+1947/02/16     26                  Sunday                             
+1947/02/17     27                  Monday                             
+1947/02/18     28                  Tuesday                            
+1947/02/19     29                  Wednesday      Spring Showers      
+1947/02/20     30                  Thursday                           
+1947/02/21     2nd Lunar month     Friday                             
+1947/02/22     2                   Saturday                           
+1947/02/23     3                   Sunday                             
+1947/02/24     4                   Monday                             
+1947/02/25     5                   Tuesday                            
+1947/02/26     6                   Wednesday                          
+1947/02/27     7                   Thursday                           
+1947/02/28     8                   Friday                             
+1947/03/01     9                   Saturday                           
+1947/03/02     10                  Sunday                             
+1947/03/03     11                  Monday                             
+1947/03/04     12                  Tuesday                            
+1947/03/05     13                  Wednesday                          
+1947/03/06     14                  Thursday       Insects Waken       
+1947/03/07     15                  Friday                             
+1947/03/08     16                  Saturday                           
+1947/03/09     17                  Sunday                             
+1947/03/10     18                  Monday                             
+1947/03/11     19                  Tuesday                            
+1947/03/12     20                  Wednesday                          
+1947/03/13     21                  Thursday                           
+1947/03/14     22                  Friday                             
+1947/03/15     23                  Saturday                           
+1947/03/16     24                  Sunday                             
+1947/03/17     25                  Monday                             
+1947/03/18     26                  Tuesday                            
+1947/03/19     27                  Wednesday                          
+1947/03/20     28                  Thursday                           
+1947/03/21     29                  Friday         Vernal Equinox      
+1947/03/22     30                  Saturday                           
+1947/03/23     2nd Lunar month     Sunday                             
+1947/03/24     2                   Monday                             
+1947/03/25     3                   Tuesday                            
+1947/03/26     4                   Wednesday                          
+1947/03/27     5                   Thursday                           
+1947/03/28     6                   Friday                             
+1947/03/29     7                   Saturday                           
+1947/03/30     8                   Sunday                             
+1947/03/31     9                   Monday                             
+1947/04/01     10                  Tuesday                            
+1947/04/02     11                  Wednesday                          
+1947/04/03     12                  Thursday                           
+1947/04/04     13                  Friday                             
+1947/04/05     14                  Saturday       Bright & Clear      
+1947/04/06     15                  Sunday                             
+1947/04/07     16                  Monday                             
+1947/04/08     17                  Tuesday                            
+1947/04/09     18                  Wednesday                          
+1947/04/10     19                  Thursday                           
+1947/04/11     20                  Friday                             
+1947/04/12     21                  Saturday                           
+1947/04/13     22                  Sunday                             
+1947/04/14     23                  Monday                             
+1947/04/15     24                  Tuesday                            
+1947/04/16     25                  Wednesday                          
+1947/04/17     26                  Thursday                           
+1947/04/18     27                  Friday                             
+1947/04/19     28                  Saturday                           
+1947/04/20     29                  Sunday                             
+1947/04/21     3rd Lunar month     Monday         Corn Rain           
+1947/04/22     2                   Tuesday                            
+1947/04/23     3                   Wednesday                          
+1947/04/24     4                   Thursday                           
+1947/04/25     5                   Friday                             
+1947/04/26     6                   Saturday                           
+1947/04/27     7                   Sunday                             
+1947/04/28     8                   Monday                             
+1947/04/29     9                   Tuesday                            
+1947/04/30     10                  Wednesday                          
+1947/05/01     11                  Thursday                           
+1947/05/02     12                  Friday                             
+1947/05/03     13                  Saturday                           
+1947/05/04     14                  Sunday                             
+1947/05/05     15                  Monday                             
+1947/05/06     16                  Tuesday        Summer Commences    
+1947/05/07     17                  Wednesday                          
+1947/05/08     18                  Thursday                           
+1947/05/09     19                  Friday                             
+1947/05/10     20                  Saturday                           
+1947/05/11     21                  Sunday                             
+1947/05/12     22                  Monday                             
+1947/05/13     23                  Tuesday                            
+1947/05/14     24                  Wednesday                          
+1947/05/15     25                  Thursday                           
+1947/05/16     26                  Friday                             
+1947/05/17     27                  Saturday                           
+1947/05/18     28                  Sunday                             
+1947/05/19     29                  Monday                             
+1947/05/20     4th Lunar month     Tuesday                            
+1947/05/21     2                   Wednesday                          
+1947/05/22     3                   Thursday       Corn Forms          
+1947/05/23     4                   Friday                             
+1947/05/24     5                   Saturday                           
+1947/05/25     6                   Sunday                             
+1947/05/26     7                   Monday                             
+1947/05/27     8                   Tuesday                            
+1947/05/28     9                   Wednesday                          
+1947/05/29     10                  Thursday                           
+1947/05/30     11                  Friday                             
+1947/05/31     12                  Saturday                           
+1947/06/01     13                  Sunday                             
+1947/06/02     14                  Monday                             
+1947/06/03     15                  Tuesday                            
+1947/06/04     16                  Wednesday                          
+1947/06/05     17                  Thursday                           
+1947/06/06     18                  Friday         Corn on Ear         
+1947/06/07     19                  Saturday                           
+1947/06/08     20                  Sunday                             
+1947/06/09     21                  Monday                             
+1947/06/10     22                  Tuesday                            
+1947/06/11     23                  Wednesday                          
+1947/06/12     24                  Thursday                           
+1947/06/13     25                  Friday                             
+1947/06/14     26                  Saturday                           
+1947/06/15     27                  Sunday                             
+1947/06/16     28                  Monday                             
+1947/06/17     29                  Tuesday                            
+1947/06/18     30                  Wednesday                          
+1947/06/19     5th Lunar month     Thursday                           
+1947/06/20     2                   Friday                             
+1947/06/21     3                   Saturday                           
+1947/06/22     4                   Sunday         Summer Solstice     
+1947/06/23     5                   Monday                             
+1947/06/24     6                   Tuesday                            
+1947/06/25     7                   Wednesday                          
+1947/06/26     8                   Thursday                           
+1947/06/27     9                   Friday                             
+1947/06/28     10                  Saturday                           
+1947/06/29     11                  Sunday                             
+1947/06/30     12                  Monday                             
+1947/07/01     13                  Tuesday                            
+1947/07/02     14                  Wednesday                          
+1947/07/03     15                  Thursday                           
+1947/07/04     16                  Friday                             
+1947/07/05     17                  Saturday                           
+1947/07/06     18                  Sunday                             
+1947/07/07     19                  Monday                             
+1947/07/08     20                  Tuesday        Moderate Heat       
+1947/07/09     21                  Wednesday                          
+1947/07/10     22                  Thursday                           
+1947/07/11     23                  Friday                             
+1947/07/12     24                  Saturday                           
+1947/07/13     25                  Sunday                             
+1947/07/14     26                  Monday                             
+1947/07/15     27                  Tuesday                            
+1947/07/16     28                  Wednesday                          
+1947/07/17     29                  Thursday                           
+1947/07/18     6th Lunar month     Friday                             
+1947/07/19     2                   Saturday                           
+1947/07/20     3                   Sunday                             
+1947/07/21     4                   Monday                             
+1947/07/22     5                   Tuesday                            
+1947/07/23     6                   Wednesday                          
+1947/07/24     7                   Thursday       Great Heat          
+1947/07/25     8                   Friday                             
+1947/07/26     9                   Saturday                           
+1947/07/27     10                  Sunday                             
+1947/07/28     11                  Monday                             
+1947/07/29     12                  Tuesday                            
+1947/07/30     13                  Wednesday                          
+1947/07/31     14                  Thursday                           
+1947/08/01     15                  Friday                             
+1947/08/02     16                  Saturday                           
+1947/08/03     17                  Sunday                             
+1947/08/04     18                  Monday                             
+1947/08/05     19                  Tuesday                            
+1947/08/06     20                  Wednesday                          
+1947/08/07     21                  Thursday                           
+1947/08/08     22                  Friday         Autumn Commences    
+1947/08/09     23                  Saturday                           
+1947/08/10     24                  Sunday                             
+1947/08/11     25                  Monday                             
+1947/08/12     26                  Tuesday                            
+1947/08/13     27                  Wednesday                          
+1947/08/14     28                  Thursday                           
+1947/08/15     29                  Friday                             
+1947/08/16     7th Lunar month     Saturday                           
+1947/08/17     2                   Sunday                             
+1947/08/18     3                   Monday                             
+1947/08/19     4                   Tuesday                            
+1947/08/20     5                   Wednesday                          
+1947/08/21     6                   Thursday                           
+1947/08/22     7                   Friday                             
+1947/08/23     8                   Saturday                           
+1947/08/24     9                   Sunday         End of Heat         
+1947/08/25     10                  Monday                             
+1947/08/26     11                  Tuesday                            
+1947/08/27     12                  Wednesday                          
+1947/08/28     13                  Thursday                           
+1947/08/29     14                  Friday                             
+1947/08/30     15                  Saturday                           
+1947/08/31     16                  Sunday                             
+1947/09/01     17                  Monday                             
+1947/09/02     18                  Tuesday                            
+1947/09/03     19                  Wednesday                          
+1947/09/04     20                  Thursday                           
+1947/09/05     21                  Friday                             
+1947/09/06     22                  Saturday                           
+1947/09/07     23                  Sunday                             
+1947/09/08     24                  Monday         White Dew           
+1947/09/09     25                  Tuesday                            
+1947/09/10     26                  Wednesday                          
+1947/09/11     27                  Thursday                           
+1947/09/12     28                  Friday                             
+1947/09/13     29                  Saturday                           
+1947/09/14     30                  Sunday                             
+1947/09/15     8th Lunar month     Monday                             
+1947/09/16     2                   Tuesday                            
+1947/09/17     3                   Wednesday                          
+1947/09/18     4                   Thursday                           
+1947/09/19     5                   Friday                             
+1947/09/20     6                   Saturday                           
+1947/09/21     7                   Sunday                             
+1947/09/22     8                   Monday                             
+1947/09/23     9                   Tuesday                            
+1947/09/24     10                  Wednesday      Autumnal Equinox    
+1947/09/25     11                  Thursday                           
+1947/09/26     12                  Friday                             
+1947/09/27     13                  Saturday                           
+1947/09/28     14                  Sunday                             
+1947/09/29     15                  Monday                             
+1947/09/30     16                  Tuesday                            
+1947/10/01     17                  Wednesday                          
+1947/10/02     18                  Thursday                           
+1947/10/03     19                  Friday                             
+1947/10/04     20                  Saturday                           
+1947/10/05     21                  Sunday                             
+1947/10/06     22                  Monday                             
+1947/10/07     23                  Tuesday                            
+1947/10/08     24                  Wednesday                          
+1947/10/09     25                  Thursday       Cold Dew            
+1947/10/10     26                  Friday                             
+1947/10/11     27                  Saturday                           
+1947/10/12     28                  Sunday                             
+1947/10/13     29                  Monday                             
+1947/10/14     9th Lunar month     Tuesday                            
+1947/10/15     2                   Wednesday                          
+1947/10/16     3                   Thursday                           
+1947/10/17     4                   Friday                             
+1947/10/18     5                   Saturday                           
+1947/10/19     6                   Sunday                             
+1947/10/20     7                   Monday                             
+1947/10/21     8                   Tuesday                            
+1947/10/22     9                   Wednesday                          
+1947/10/23     10                  Thursday                           
+1947/10/24     11                  Friday         Frost               
+1947/10/25     12                  Saturday                           
+1947/10/26     13                  Sunday                             
+1947/10/27     14                  Monday                             
+1947/10/28     15                  Tuesday                            
+1947/10/29     16                  Wednesday                          
+1947/10/30     17                  Thursday                           
+1947/10/31     18                  Friday                             
+1947/11/01     19                  Saturday                           
+1947/11/02     20                  Sunday                             
+1947/11/03     21                  Monday                             
+1947/11/04     22                  Tuesday                            
+1947/11/05     23                  Wednesday                          
+1947/11/06     24                  Thursday                           
+1947/11/07     25                  Friday                             
+1947/11/08     26                  Saturday       Winter Commences    
+1947/11/09     27                  Sunday                             
+1947/11/10     28                  Monday                             
+1947/11/11     29                  Tuesday                            
+1947/11/12     30                  Wednesday                          
+1947/11/13     10th Lunar month    Thursday                           
+1947/11/14     2                   Friday                             
+1947/11/15     3                   Saturday                           
+1947/11/16     4                   Sunday                             
+1947/11/17     5                   Monday                             
+1947/11/18     6                   Tuesday                            
+1947/11/19     7                   Wednesday                          
+1947/11/20     8                   Thursday                           
+1947/11/21     9                   Friday                             
+1947/11/22     10                  Saturday                           
+1947/11/23     11                  Sunday         Light Snow          
+1947/11/24     12                  Monday                             
+1947/11/25     13                  Tuesday                            
+1947/11/26     14                  Wednesday                          
+1947/11/27     15                  Thursday                           
+1947/11/28     16                  Friday                             
+1947/11/29     17                  Saturday                           
+1947/11/30     18                  Sunday                             
+1947/12/01     19                  Monday                             
+1947/12/02     20                  Tuesday                            
+1947/12/03     21                  Wednesday                          
+1947/12/04     22                  Thursday                           
+1947/12/05     23                  Friday                             
+1947/12/06     24                  Saturday                           
+1947/12/07     25                  Sunday                             
+1947/12/08     26                  Monday         Heavy Snow          
+1947/12/09     27                  Tuesday                            
+1947/12/10     28                  Wednesday                          
+1947/12/11     29                  Thursday                           
+1947/12/12     11th Lunar month    Friday                             
+1947/12/13     2                   Saturday                           
+1947/12/14     3                   Sunday                             
+1947/12/15     4                   Monday                             
+1947/12/16     5                   Tuesday                            
+1947/12/17     6                   Wednesday                          
+1947/12/18     7                   Thursday                           
+1947/12/19     8                   Friday                             
+1947/12/20     9                   Saturday                           
+1947/12/21     10                  Sunday                             
+1947/12/22     11                  Monday                             
+1947/12/23     12                  Tuesday        Winter Solstice     
+1947/12/24     13                  Wednesday                          
+1947/12/25     14                  Thursday                           
+1947/12/26     15                  Friday                             
+1947/12/27     16                  Saturday                           
+1947/12/28     17                  Sunday                             
+1947/12/29     18                  Monday                             
+1947/12/30     19                  Tuesday                            
+1947/12/31     20                  Wednesday                          
+
+In 1947, summer time was enforced during 13 April to 30 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

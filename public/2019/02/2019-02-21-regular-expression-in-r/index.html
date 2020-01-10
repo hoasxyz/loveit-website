@@ -1,0 +1,1787 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Learning Regular Expression with Stringr | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="Regular Expression in R">
+<link rel="prev" href="/2019/02/2019-02-16-the-poet/" />
+<link rel="next" href="/2019/03/2019-03-14-jiebar-in-chinese/" />
+<link rel="canonical" href="/2019/02/2019-02-21-regular-expression-in-r/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Learning Regular Expression with Stringr"/>
+<meta name="twitter:description" content="Regular Expression in R"/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Learning Regular Expression with Stringr",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/02\/2019-02-21-regular-expression-in-r\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/cover.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "R",
+    
+    "wordcount":  3833 ,
+    "url": "\/2019\/02\/2019-02-21-regular-expression-in-r\/",
+    
+        "datePublished": "2019-02-21T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-02-21T23:03:43\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/logo.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": "Regular Expression in R"
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">Learning Regular Expression with Stringr</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i><a href="/categories/fragmentray/">fragmentray</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-02-21>2019-02-21</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 3833 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 8 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content">
+                    <nav id="TableOfContents">
+<ul>
+<li><a href="#string-basics">String Basics</a>
+<ul>
+<li><a href="#basic-string-operations">Basic String Operations</a></li>
+<li><a href="#subsetting-strings">Subsetting Strings</a></li>
+<li><a href="#locales">Locales</a></li>
+<li><a href="#whitespace">Whitespace</a></li>
+</ul></li>
+<li><a href="#matching-patterns-with-regular-expressions">Matching Patterns with Regular Expressions</a>
+<ul>
+<li><a href="#basic-matches">Basic Matches</a></li>
+<li><a href="#anchors">Anchors</a></li>
+<li><a href="#character-classes-and-alternatives">Character Classes and Alternatives</a></li>
+<li><a href="#repetition">Repetition</a></li>
+<li><a href="#grouping-and-backreferences">Grouping and Backreferences</a></li>
+</ul></li>
+<li><a href="#tools">Tools</a>
+<ul>
+<li><a href="#detect-matches">Detect matches</a></li>
+<li><a href="#extract-matches">Extract matches</a></li>
+<li><a href="#grouped-matches">Grouped matches</a></li>
+<li><a href="#replacing-matches">Replacing matches</a></li>
+<li><a href="#splitting">Splitting</a></li>
+<li><a href="#find-matches">Find matches</a></li>
+</ul></li>
+<li><a href="#other-types-of-pattern">Other types of pattern</a></li>
+<li><a href="#other-uses-of-regular-expressions">Other uses of regular expressions</a></li>
+<li><a href="#other-functions">Other functions</a></li>
+<li><a href="#more">More</a>
+<ul>
+<li><a href="#r预定义字符组">R预定义字符组</a></li>
+<li><a href="#代表字符组的特殊符号">代表字符组的特殊符号</a></li>
+</ul></li>
+</ul>
+</nav>
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        <nav id="TableOfContentsMobile">
+<ul>
+<li><a href="#string-basics">String Basics</a>
+<ul>
+<li><a href="#basic-string-operations">Basic String Operations</a></li>
+<li><a href="#subsetting-strings">Subsetting Strings</a></li>
+<li><a href="#locales">Locales</a></li>
+<li><a href="#whitespace">Whitespace</a></li>
+</ul></li>
+<li><a href="#matching-patterns-with-regular-expressions">Matching Patterns with Regular Expressions</a>
+<ul>
+<li><a href="#basic-matches">Basic Matches</a></li>
+<li><a href="#anchors">Anchors</a></li>
+<li><a href="#character-classes-and-alternatives">Character Classes and Alternatives</a></li>
+<li><a href="#repetition">Repetition</a></li>
+<li><a href="#grouping-and-backreferences">Grouping and Backreferences</a></li>
+</ul></li>
+<li><a href="#tools">Tools</a>
+<ul>
+<li><a href="#detect-matches">Detect matches</a></li>
+<li><a href="#extract-matches">Extract matches</a></li>
+<li><a href="#grouped-matches">Grouped matches</a></li>
+<li><a href="#replacing-matches">Replacing matches</a></li>
+<li><a href="#splitting">Splitting</a></li>
+<li><a href="#find-matches">Find matches</a></li>
+</ul></li>
+<li><a href="#other-types-of-pattern">Other types of pattern</a></li>
+<li><a href="#other-uses-of-regular-expressions">Other uses of regular expressions</a></li>
+<li><a href="#other-functions">Other functions</a></li>
+<li><a href="#more">More</a>
+<ul>
+<li><a href="#r预定义字符组">R预定义字符组</a></li>
+<li><a href="#代表字符组的特殊符号">代表字符组的特殊符号</a></li>
+</ul></li>
+</ul>
+</nav>
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>A copy from <em>R for data science</em>.</p>
+
+<blockquote>
+<p>Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.     &mdash;Jamie Zawinski</p>
+</blockquote>
+
+<p><center>
+<img src="https://github.com/tidyverse/stringr/raw/master/man/figures/logo.png">
+</center></p>
+
+<a class="post-dummy-target" id="string-basics"></a><h1>String Basics</h1>
+
+<p>You can create strings with either single quotes or double quotes. Unlike other languages, there is no difference in behavior.</p>
+
+<p>To include a literal single or double quote in a string you can use <code>\</code> to “escape” it:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">double_quote <span class="o">&lt;-</span> <span class="s">&#34;\&#34;&#34;</span> <span class="c1"># or &#39;&#34;&#39;</span>
+single_quote <span class="o">&lt;-</span> <span class="s">&#39;\&#39;&#39;</span> <span class="c1"># or &#34;&#39;&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>That means if you want to include a literal backslash, you’ll need to double it up: <code>\\</code>.</p>
+
+
+    <div class="admonition warning"><p class="admonition-title"><i class="icon fas fa-exclamation-triangle"></i>warning</p><p>Beware that the printed representation of a string is not the same as string itself, because the printed representation shows the escapes(转义). To see the raw contents of the string, use <code>writeLines()</code>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;\&#34;&#34;</span><span class="p">,</span> <span class="s">&#34;\\&#34;</span><span class="p">)</span>
+x
+<span class="c1">#&gt; [1] &#34;\&#34;&#34; &#34;\\&#34;</span>
+<span class="kp">writeLines</span><span class="p">(</span>x<span class="p">)</span>
+<span class="c1">#&gt; &#34;</span>
+<span class="c1">#&gt; \</span></code></pre></td></tr></table>
+</div>
+</div></div>
+
+<p>There are a handful of other special characters. The most common are <code>\n</code>, newline, and <code>\t</code>, tab, but you can see the complete list by requesting help on <code>?'&quot;'</code>, or <code>?&quot;'&quot;</code>. You’ll also sometimes see strings like <code>\u00b5</code>, which is a way of writing non-English characters that works on all platforms:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="s">&#34;\u00b5&#34;</span>
+x
+<span class="c1">#&gt; [1] &#34;μ&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="basic-string-operations"></a><h2>Basic String Operations</h2>
+
+<p>The functions from <strong>stringr</strong> all start with <code>str_</code>:</p>
+
+<ul>
+<li><p>String Length</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">str_length<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&#34;a&#34;</span><span class="p">,</span> <span class="s">&#34;R for data science&#34;</span><span class="p">,</span> <span class="kc">NA</span><span class="p">))</span>
+<span class="c1">#&gt; [1] 1 18 NA</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p>Combining Strings</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">str_c<span class="p">(</span><span class="s">&#34;x&#34;</span><span class="p">,</span> <span class="s">&#34;y&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;xy&#34;</span>
+str_c<span class="p">(</span><span class="s">&#34;x&#34;</span><span class="p">,</span> <span class="s">&#34;y&#34;</span><span class="p">,</span> <span class="s">&#34;z&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;xyz&#34;</span>
+
+str_c<span class="p">(</span><span class="s">&#34;x&#34;</span><span class="p">,</span> <span class="s">&#34;y&#34;</span><span class="p">,</span> sep <span class="o">=</span> <span class="s">&#34;, &#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;x, y&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<p>Like most other functions in R, missing values are contagious. If you want them to print as <code>NA</code>, use <code>str_replace_na()</code>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;abc&#34;</span><span class="p">,</span> <span class="kc">NA</span><span class="p">)</span>
+str_c<span class="p">(</span><span class="s">&#34;|-&#34;</span><span class="p">,</span> x<span class="p">,</span> <span class="s">&#34;-|&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;|-abc-|&#34; NA</span>
+str_c<span class="p">(</span><span class="s">&#34;|-&#34;</span><span class="p">,</span> str_replace_na<span class="p">(</span>x<span class="p">),</span> <span class="s">&#34;-|&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;|-abc-|&#34; &#34;|-NA-|&#34;</span>
+
+str_c<span class="p">(</span><span class="s">&#34;prefix-&#34;</span><span class="p">,</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;a&#34;</span><span class="p">,</span> <span class="s">&#34;b&#34;</span><span class="p">,</span> <span class="s">&#34;c&#34;</span><span class="p">),</span> <span class="s">&#34;-suffix&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;prefix-a-suffix&#34; &#34;prefix-b-suffix&#34; &#34;prefix-c-suffix&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<ul>
+<li><p>To collapse a vector of strings into a single string, use <code>collapse()</code>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">str_c<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&#34;x&#34;</span><span class="p">,</span> <span class="s">&#34;y&#34;</span><span class="p">,</span> <span class="s">&#34;z&#34;</span><span class="p">),</span> collapse <span class="o">=</span> <span class="s">&#34;, &#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;x, y, z&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<a class="post-dummy-target" id="subsetting-strings"></a><h2>Subsetting Strings</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Apple&#34;</span><span class="p">,</span> <span class="s">&#34;Banana&#34;</span><span class="p">,</span> <span class="s">&#34;Pear&#34;</span><span class="p">)</span>
+str_sub<span class="p">(</span>x<span class="p">,</span> <span class="m">1</span><span class="p">,</span> <span class="m">3</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;App&#34; &#34;Ban&#34; &#34;Pea&#34;</span>
+
+<span class="c1"># negative numbers count backwards from end</span>
+str_sub<span class="p">(</span>x<span class="p">,</span> <span class="m">-3</span><span class="p">,</span> <span class="m">-1</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;ple&#34; &#34;ana&#34; &#34;ear&#34;</span>
+
+str_sub<span class="p">(</span>x<span class="p">,</span> <span class="m">1</span><span class="p">,</span> <span class="m">1</span><span class="p">)</span> <span class="o">&lt;-</span> str_to_lower<span class="p">(</span>str_sub<span class="p">(</span>x<span class="p">,</span> <span class="m">1</span><span class="p">,</span> <span class="m">1</span><span class="p">))</span>
+x
+<span class="c1">#&gt; [1] &#34;apple&#34; &#34;banana&#34; &#34;pear&#34;</span>
+
+<span class="c1"># To duplicate individual strings, you can use str_dup():</span>
+str_dup<span class="p">(</span>x<span class="p">,</span> <span class="kt">c</span><span class="p">(</span><span class="m">2</span><span class="p">,</span> <span class="m">3</span><span class="p">))</span>
+<span class="c1">#&gt; [1] &#34;abXdefabXdef&#34;       &#34;ghXfjkghXfjkghXfjk&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="locales"></a><h2>Locales</h2>
+
+<p>However, changing case is more complicated than it might at first appear because different languages have different rules for changing case.</p>
+
+<p>Another important operation that’s affected by the locale is sorting. The base R <code>order()</code> and <code>sort()</code> functions sort strings using the current locale. If you want robust behavior across different computers, you may want to use <code>str_sort()</code> and <code>str_order()</code>, which take an additional locale argument:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;apple&#34;</span><span class="p">,</span> <span class="s">&#34;eggplant&#34;</span><span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">)</span>
+
+str_order<span class="p">(</span>x<span class="p">)</span>
+<span class="c1">#&gt; [1] 1 3 2</span>
+
+str_sort<span class="p">(</span>x<span class="p">,</span> locale <span class="o">=</span> <span class="s">&#34;en&#34;</span><span class="p">)</span> <span class="c1"># English</span>
+<span class="c1">#&gt; [1] &#34;apple&#34; &#34;banana&#34; &#34;eggplant&#34;</span>
+
+str_sort<span class="p">(</span>x<span class="p">,</span> locale <span class="o">=</span> <span class="s">&#34;haw&#34;</span><span class="p">)</span> <span class="c1"># Hawaiian</span>
+<span class="c1">#&gt; [1] &#34;apple&#34; &#34;eggplant&#34; &#34;banana&#34;</span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="s">&#34;I like horses.&#34;</span>
+str_to_upper<span class="p">(</span>x<span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;I LIKE HORSES.&#34;</span>
+str_to_title<span class="p">(</span>x<span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;I Like Horses.&#34;</span>
+
+str_to_lower<span class="p">(</span>x<span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;i like horses.&#34;</span>
+<span class="c1"># Turkish has two sorts of i: with and without the dot</span>
+str_to_lower<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;tr&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;ı like horses.&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="whitespace"></a><h2>Whitespace</h2>
+
+<p>Three functions add, remove, or modify whitespace:</p>
+
+<ul>
+<li><p><code>str_pad()</code> pads a string to a fixed length by adding extra whitespace on the left, right, or both sides.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;abc&#34;</span><span class="p">,</span> <span class="s">&#34;defghi&#34;</span><span class="p">)</span>
+
+str_pad<span class="p">(</span>x<span class="p">,</span> <span class="m">10</span><span class="p">)</span> <span class="c1"># default pads on left</span>
+<span class="c1">#&gt; [1] &#34;       abc&#34; &#34;    defghi&#34;</span>
+str_pad<span class="p">(</span>x<span class="p">,</span> <span class="m">10</span><span class="p">,</span> <span class="s">&#34;both&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;   abc    &#34; &#34;  defghi  &#34;</span>
+str_pad<span class="p">(</span>x<span class="p">,</span> <span class="m">4</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34; abc&#34;   &#34;defghi&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p>The opposite of <code>str_pad()</code> is <code>str_trim()</code>, which removes leading and trailing whitespace:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;  a   &#34;</span><span class="p">,</span> <span class="s">&#34;b   &#34;</span><span class="p">,</span>  <span class="s">&#34;   c&#34;</span><span class="p">)</span>
+str_trim<span class="p">(</span>x<span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;a&#34; &#34;b&#34; &#34;c&#34;</span>
+str_trim<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;left&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;a   &#34; &#34;b   &#34; &#34;c&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p>You can use <code>str_wrap()</code> to modify existing whitespace in order to wrap a paragraph of text, such that the length of each line is as similar as possible.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">jabberwocky <span class="o">&lt;-</span> str_c<span class="p">(</span>
+<span class="s">&#34;`Twas brillig, and the slithy toves &#34;</span><span class="p">,</span>
+<span class="s">&#34;did gyre and gimble in the wabe: &#34;</span><span class="p">,</span>
+<span class="s">&#34;All mimsy were the borogoves, &#34;</span><span class="p">,</span>
+<span class="s">&#34;and the mome raths outgrabe. &#34;</span>
+<span class="p">)</span>
+<span class="kp">cat</span><span class="p">(</span>str_wrap<span class="p">(</span>jabberwocky<span class="p">,</span> width <span class="o">=</span> <span class="m">40</span><span class="p">))</span>
+<span class="c1">#&gt; `Twas brillig, and the slithy toves did</span>
+<span class="c1">#&gt; gyre and gimble in the wabe: All mimsy</span>
+<span class="c1">#&gt; were the borogoves, and the mome raths</span>
+<span class="c1">#&gt; outgrabe.</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<a class="post-dummy-target" id="matching-patterns-with-regular-expressions"></a><h1>Matching Patterns with Regular Expressions</h1>
+
+<p>To learn regular expressions, we’ll use <code>str_view()</code> and <code>str_view_all()</code>. These functions take a character vector and a regular expression, and show you how they match.</p>
+
+<a class="post-dummy-target" id="basic-matches"></a><h2>Basic Matches</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;apple&#34;</span><span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">,</span> <span class="s">&#34;pear&#34;</span><span class="p">)</span>
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;an&#34;</span><span class="p">)</span>
+<span class="c1"># Which extract strings that have &#39;an&#39;.</span>
+
+The <span class="kr">next</span> step up <span class="kr">in</span> complexity is <span class="sb">`.`</span><span class="p">,</span> which matches any <span class="kt">character</span> <span class="p">(</span>except a newline<span class="p">)</span><span class="o">:</span>
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;.a.&#34;</span><span class="p">)</span>
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;a..&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>Escape for <code>.</code>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="c1"># To create the regular expression, we need \\</span>
+dot <span class="o">&lt;-</span> <span class="s">&#34;\\.&#34;</span>
+
+<span class="c1"># But the expression itself only contains one: writeLines(dot)</span>
+<span class="c1">#&gt; \.</span>
+
+<span class="c1"># And this tells R to look for an explicit .</span>
+str_view<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&#34;abc&#34;</span><span class="p">,</span> <span class="s">&#34;a.c&#34;</span><span class="p">,</span> <span class="s">&#34;bef&#34;</span><span class="p">),</span> <span class="s">&#34;a\\.c&#34;</span><span class="p">)</span>
+
+
+x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;a\\b&#34;</span><span class="p">,</span><span class="s">&#34;a\\.b&#34;</span><span class="p">)</span>
+
+<span class="c1"># Only match `.` .</span>
+str_view<span class="p">(</span>x<span class="p">,</span><span class="s">&#39;\\.&#39;</span><span class="p">)</span>
+
+<span class="c1"># Match `\.` and `\b` because of `.`! And `.` is failed to escaped.</span>
+str_view<span class="p">(</span>x<span class="p">,</span><span class="s">&#39;\\\\.&#39;</span><span class="p">)</span>
+
+<span class="c1"># Match `\.` .</span>
+str_view<span class="p">(</span>x<span class="p">,</span><span class="s">&#39;\\\\\\.&#39;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+
+    <div class="admonition warning"><p class="admonition-title"><i class="icon fas fa-exclamation-triangle"></i>warning</p><ol>
+<li><p><code>writeLines()</code>用作将字符串转化为正则表达式</p></li>
+
+<li><p><code>str_view()</code>显示字符串所要匹配的字符，原字符串和匹配的字符串是通过正则表达式联系的！所以要匹配的字符串中若出现了<code>.</code>请注意！见上例。</p></li>
+
+<li><p>区别字符串本身和print出来给你看（正则表达式转化）的替身！</p></li>
+
+<li><p>抛开第二点，若想逆推出要匹配字符所对应的字符串输入，请将要匹配的字符分开考虑！见上例。</p></li>
+</ol>
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="left">chars to match</th>
+<th align="left">regular expression</th>
+<th align="left">chars to input</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left"><code>.</code></td>
+<td align="left"><code>\.</code></td>
+<td align="left"><code>\\.</code></td>
+</tr>
+
+<tr>
+<td align="left"><code>\</code></td>
+<td align="left"><code>\\</code></td>
+<td align="left"><code>\\\\</code></td>
+</tr>
+
+<tr>
+<td align="left"><code>\.</code></td>
+<td align="left"><code>\\\.</code></td>
+<td align="left"><code>\\\\\\.</code></td>
+</tr>
+
+<tr>
+<td align="left"><code>\</code> and one char after it</td>
+<td align="left"><code>\.</code><a class="post-dummy-target" id="fnref:n"></a><sup class="footnote-ref"><a href="#fn:n">1</a></sup></td>
+<td align="left"><code>\\\\.</code></td>
+</tr>
+</tbody>
+</table>
+
+<a class="post-dummy-target" id="anchors"></a><h2>Anchors</h2>
+
+<ul>
+<li><p><code>^</code> to match the start of the string.</p></li>
+
+<li><p><code>$</code> to match the end of the string.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;apple&#34;</span><span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">,</span> <span class="s">&#34;pear&#34;</span><span class="p">)</span>
+
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;^a&#34;</span><span class="p">)</span>
+
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;a$&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<a class="post-dummy-target" id="character-classes-and-alternatives"></a><h2>Character Classes and Alternatives</h2>
+
+<ul>
+<li><p><code>\d</code> matches any digit.</p></li>
+
+<li><p><code>\s</code> matches any whitespace (e.g., space, tab, newline).</p></li>
+
+<li><p><code>[abc]</code> matches a, b, or c.</p></li>
+
+<li><p><code>[^abc]</code> matches anything except a, b, or c.</p></li>
+</ul>
+
+<p>Remember, to create a regular expression containing <code>\d</code> or <code>\s</code>, you’ll need to escape the <code>\</code> for the string, so you’ll type <code>\\d</code> or <code>\\s</code>.</p>
+
+<p>You can use alternation to pick between one or more alternative patterns. For example, <code>abc|d..f</code> will match either <code>abc</code>, or <code>deaf</code>. Note that the precedence for <code>|</code> is low, so that <code>abc|xyz</code> matches <code>abc</code> or <code>xyz</code> not <code>abcyz</code> or <code>abxyz</code>. Like with mathematical expressions, if precedence ever gets confusing, use parentheses to make it clear what you want: <code>str_view(c(&quot;grey&quot;, &quot;gray&quot;), &quot;gr(e|a)y&quot;)</code>.</p>
+
+<a class="post-dummy-target" id="repetition"></a><h2>Repetition</h2>
+
+<p>The next step up in power involves controlling how many times a pattern matches:</p>
+
+<ul>
+<li><p><code>?</code>: 0 or 1</p></li>
+
+<li><p><code>+</code>: 1 or more</p></li>
+
+<li><p><code>*</code>: 0 or more</p></li>
+</ul>
+
+<p>Note that the precedence of these operators is high, so you can write <code>colou?r</code> to match either American or British spellings.</p>
+
+<p>You can also specify the number of matches precisely:</p>
+
+<ul>
+<li><p><code>{n}</code>: exactly n</p></li>
+
+<li><p><code>{n,}</code>: n or more</p></li>
+
+<li><p><code>{,m}</code>: at most m</p></li>
+
+<li><p><code>{n,m}</code>: between n and m</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="s">&#34;1888 is the longest year in Roman numerals: MDCCCLXXXVIII&#34;</span>
+
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C{2}&#34;</span><span class="p">)</span>
+
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C{2,}&#34;</span><span class="p">)</span>
+
+str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C{2,3}&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<p>By default these matches are “greedy”: they will match the longest string possible. You can make them “lazy,” matching the shortest string possible, by putting a <code>?</code> after them.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#39;C{2,3}?&#39;</span><span class="p">)</span>
+
+
+Try more and know more...  😂
+<span class="c1"># &gt; str_view(x, &#39;LX*&#39;)</span>
+<span class="c1"># &gt; str_view(x, &#39;CLX*&#39;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C{2}&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C[LX+]?&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C(LX+)?&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C(LX+)&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C(LX)+&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C(LXX)+&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C(LXX+)&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C+(LX)+&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C(LX)+&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;C+(LX+)&#34;)</span>
+
+<span class="c1"># &gt; str_view(x, &#34;(LX)V&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;(LX+)V&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;(LX)+V&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;LX+V&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;LXV&#34;)</span>
+<span class="c1"># &gt; str_view(x, &#34;LX+V&#34;)</span></code></pre></td></tr></table>
+</div>
+</div>
+
+    <div class="admonition warning"><p class="admonition-title"><i class="icon fas fa-exclamation-triangle"></i>warning</p><ul>
+<li><p><code>[]</code>表示或！就是在里面的每个字母每次都可以单独监测！所以顺序不是问题！</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C[XL]&#34;</span><span class="p">)</span>
+<span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C[XL]+&#34;</span><span class="p">)</span>
+<span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C[XLV]+&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p><code>()</code>表示且！是必须按顺序的！要当做一个整体来看！也就相当于提高到一级表达式。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C(XL)&#34;</span><span class="p">)</span>
+<span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C(LX)&#34;</span><span class="p">)</span>
+<span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C(LX+)&#34;</span><span class="p">)</span>
+<span class="o">&gt;</span> str_view<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;C(LX)+&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+</div>
+
+<a class="post-dummy-target" id="grouping-and-backreferences"></a><h2>Grouping and Backreferences</h2>
+
+<p>Earlier, you learned about parentheses as a way to disambiguate complex expressions. They also define “groups” that you can refer to with backreferences, like <code>\1</code>, <code>\2</code>, etc.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">str_view<span class="p">(</span>fruit<span class="p">,</span> <span class="s">&#34;(..)\\1&#34;</span><span class="p">,</span> match <span class="o">=</span> <span class="kc">TRUE</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="tools"></a><h1>Tools</h1>
+
+<a class="post-dummy-target" id="detect-matches"></a><h2>Detect matches</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;apple&#34;</span><span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">,</span> <span class="s">&#34;pear&#34;</span><span class="p">)</span>
+str_detect<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;e&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1]  TRUE FALSE  TRUE</span>
+
+<span class="c1"># How many common words start with t?</span>
+<span class="kp">sum</span><span class="p">(</span>str_detect<span class="p">(</span>words<span class="p">,</span> <span class="s">&#34;^t&#34;</span><span class="p">))</span>
+<span class="c1">#&gt; [1] 65</span>
+<span class="c1"># What proportion of common words end with a vowel?</span>
+<span class="kp">mean</span><span class="p">(</span>str_detect<span class="p">(</span>words<span class="p">,</span> <span class="s">&#34;[aeiou]$&#34;</span><span class="p">))</span>
+<span class="c1">#&gt; [1] 0.277</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>A common use of <code>str_detect()</code> is to select the elements that match a pattern. You can do this with logical subsetting, or the convenient <code>str_subset()</code> wrapper:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">words<span class="p">[</span>str_detect<span class="p">(</span>words<span class="p">,</span> <span class="s">&#34;x$&#34;</span><span class="p">)]</span>
+<span class="c1">#&gt; [1] &#34;box&#34; &#34;sex&#34; &#34;six&#34; &#34;tax&#34;</span>
+str_subset<span class="p">(</span>words<span class="p">,</span> <span class="s">&#34;x$&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;box&#34; &#34;sex&#34; &#34;six&#34; &#34;tax&#34;</span>
+
+df <span class="o">&lt;-</span> tibble<span class="p">(</span>
+  word <span class="o">=</span> words<span class="p">,</span> 
+  i <span class="o">=</span> <span class="kp">seq_along</span><span class="p">(</span>word<span class="p">)</span>
+<span class="p">)</span>
+df <span class="o">%&gt;%</span> 
+  filter<span class="p">(</span>str_detect<span class="p">(</span>word<span class="p">,</span> <span class="s">&#34;x$&#34;</span><span class="p">))</span>
+<span class="c1">#&gt; # A tibble: 4 x 2</span>
+<span class="c1">#&gt;   word      i</span>
+<span class="c1">#&gt;   &lt;chr&gt; &lt;int&gt;</span>
+<span class="c1">#&gt; 1 box     108</span>
+<span class="c1">#&gt; 2 sex     747</span>
+<span class="c1">#&gt; 3 six     772</span>
+<span class="c1">#&gt; 4 tax     841</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>A variation on <code>str_detect()</code> is <code>str_count()</code>: rather than a simple yes or no, it tells you how many matches there are in a string:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;apple&#34;</span><span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">,</span> <span class="s">&#34;pear&#34;</span><span class="p">)</span>
+str_count<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;a&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] 1 3 1</span>
+
+<span class="c1"># On average, how many vowels per word?</span>
+<span class="kp">mean</span><span class="p">(</span>str_count<span class="p">(</span>words<span class="p">,</span> <span class="s">&#34;[aeiou]&#34;</span><span class="p">))</span>
+<span class="c1">#&gt; [1] 1.99</span>
+
+df <span class="o">%&gt;%</span> 
+  mutate<span class="p">(</span>
+    vowels <span class="o">=</span> str_count<span class="p">(</span>word<span class="p">,</span> <span class="s">&#34;[aeiou]&#34;</span><span class="p">),</span>
+    consonants <span class="o">=</span> str_count<span class="p">(</span>word<span class="p">,</span> <span class="s">&#34;[^aeiou]&#34;</span><span class="p">)</span>
+  <span class="p">)</span>
+<span class="c1">#&gt; # A tibble: 980 x 4</span>
+<span class="c1">#&gt;   word         i vowels consonants</span>
+<span class="c1">#&gt;   &lt;chr&gt;    &lt;int&gt;  &lt;int&gt;      &lt;int&gt;</span>
+<span class="c1">#&gt; 1 a            1      1          0</span>
+<span class="c1">#&gt; 2 able         2      2          2</span>
+<span class="c1">#&gt; 3 about        3      3          2</span>
+<span class="c1">#&gt; 4 absolute     4      4          4</span>
+<span class="c1">#&gt; 5 accept       5      2          4</span>
+<span class="c1">#&gt; 6 account      6      3          4</span>
+<span class="c1">#&gt; # … with 974 more rows</span></code></pre></td></tr></table>
+</div>
+</div>
+
+    <div class="admonition warning"><p class="admonition-title"><i class="icon fas fa-exclamation-triangle"></i>warning</p><p>Note that matches never overlap. For example, in &ldquo;abababa&rdquo;, how many times will the pattern &ldquo;aba&rdquo; match? Regular expressions say two, not three:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">str_count<span class="p">(</span><span class="s">&#34;abababa&#34;</span><span class="p">,</span> <span class="s">&#34;aba&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] 2</span>
+str_view_all<span class="p">(</span><span class="s">&#34;abababa&#34;</span><span class="p">,</span> <span class="s">&#34;aba&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div></div>
+
+<a class="post-dummy-target" id="extract-matches"></a><h2>Extract matches</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">colours <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;red&#34;</span><span class="p">,</span> <span class="s">&#34;orange&#34;</span><span class="p">,</span> <span class="s">&#34;yellow&#34;</span><span class="p">,</span> <span class="s">&#34;green&#34;</span><span class="p">,</span> <span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="s">&#34;purple&#34;</span><span class="p">)</span>
+colour_match <span class="o">&lt;-</span> str_c<span class="p">(</span>colours<span class="p">,</span> collapse <span class="o">=</span> <span class="s">&#34;|&#34;</span><span class="p">)</span>
+colour_match
+<span class="c1">#&gt; [1] &#34;red|orange|yellow|green|blue|purple&#34;</span>
+has_colour <span class="o">&lt;-</span> str_subset<span class="p">(</span>sentences<span class="p">,</span> colour_match<span class="p">)</span>
+matches <span class="o">&lt;-</span> str_extract<span class="p">(</span>has_colour<span class="p">,</span> colour_match<span class="p">)</span>
+<span class="kp">head</span><span class="p">(</span>matches<span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;blue&#34; &#34;blue&#34; &#34;red&#34;  &#34;red&#34;  &#34;red&#34;  &#34;blue&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+
+    <div class="admonition tip"><p class="admonition-title"><i class="icon fas fa-lightbulb"></i>tip</p><ul>
+<li><p>Following can turn it into a single <strong>regular expression</strong> ?!</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">colour_match <span class="o">&lt;-</span> str_c<span class="p">(</span>colours<span class="p">,</span> collapse <span class="o">=</span> <span class="s">&#34;|&#34;</span><span class="p">)</span>
+colour_match
+<span class="c1">#&gt; [1] &#34;red|orange|yellow|green|blue|purple&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p>Note that <code>str_extract()</code> only extracts the first match. We can see that most easily by first selecting all the sentences that have more than 1 match:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">more <span class="o">&lt;-</span> sentences<span class="p">[</span>str_count<span class="p">(</span>sentences<span class="p">,</span> colour_match<span class="p">)</span> <span class="o">&gt;</span> <span class="m">1</span><span class="p">]</span>
+str_view_all<span class="p">(</span>more<span class="p">,</span> colour_match<span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+</div>
+
+<p>This is a common pattern for stringr functions, because working with a single match allows you to use much simpler data structures. To get all matches, use <code>str_extract_all()</code>. It returns a list.</p>
+
+<p>If you use <code>simplify = TRUE</code>, <code>str_extract_all()</code> will return a matrix with short matches expanded to the same length as the longest.</p>
+
+<a class="post-dummy-target" id="grouped-matches"></a><h2>Grouped matches</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">noun <span class="o">&lt;-</span> <span class="s">&#34;(a|the) ([^ ]+)&#34;</span>
+
+has_noun <span class="o">&lt;-</span> sentences <span class="o">%&gt;%</span>
+  str_subset<span class="p">(</span>noun<span class="p">)</span> <span class="o">%&gt;%</span>
+  <span class="kp">head</span><span class="p">(</span><span class="m">10</span><span class="p">)</span>
+has_noun <span class="o">%&gt;%</span> 
+  str_extract<span class="p">(</span>noun<span class="p">)</span>
+<span class="c1">#&gt;  [1] &#34;the smooth&#34; &#34;the sheet&#34;  &#34;the depth&#34;  &#34;a chicken&#34;  &#34;the parked&#34;</span>
+<span class="c1">#&gt;  [6] &#34;the sun&#34;    &#34;the huge&#34;   &#34;the ball&#34;   &#34;the woman&#34;  &#34;a helps&#34;</span>
+
+<span class="c1"># 改进版！去掉第二个单词后面的逗号和句号！</span>
+noun <span class="o">&lt;-</span> <span class="s">&#34;(a|the|an) ([^ +(,|.)$]+)&#34;</span>
+
+has_noun <span class="o">&lt;-</span> sentences <span class="o">%&gt;%</span>
+    str_subset<span class="p">(</span>noun<span class="p">)</span>
+has_noun <span class="o">%&gt;%</span> 
+    str_extract<span class="p">(</span>noun<span class="p">)</span>
+    
+tibble<span class="p">(</span>sentence <span class="o">=</span> sentences<span class="p">)</span> <span class="o">%&gt;%</span> 
+  tidyr<span class="o">::</span>extract<span class="p">(</span>
+    sentence<span class="p">,</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;article&#34;</span><span class="p">,</span> <span class="s">&#34;noun&#34;</span><span class="p">),</span> <span class="s">&#34;(a|the) ([^ +(,|.)$]+)&#34;</span><span class="p">,</span> 
+    remove <span class="o">=</span> <span class="kc">FALSE</span>
+  <span class="p">)</span>
+<span class="c1"># # A tibble: 720 x 3</span>
+<span class="c1">#    sentence                                    article noun   </span>
+<span class="c1">#    &lt;chr&gt;                                       &lt;chr&gt;   &lt;chr&gt;  </span>
+<span class="c1">#  1 The birch canoe slid on the smooth planks.  the     smooth </span>
+<span class="c1">#  2 Glue the sheet to the dark blue background. the     sheet  </span>
+<span class="c1">#  3 It&#39;s easy to tell the depth of a well.      the     depth  </span>
+<span class="c1">#  4 These days a chicken leg is a rare dish.    a       chicken</span>
+<span class="c1">#  5 Rice is often served in round bowls.        NA      NA     </span>
+<span class="c1">#  6 The juice of lemons makes fine punch.       NA      NA     </span>
+<span class="c1">#  7 The box was thrown beside the parked truck. the     parked </span>
+<span class="c1">#  8 The hogs were fed chopped corn and garbage. NA      NA     </span>
+<span class="c1">#  9 Four hours of steady work faced us.         NA      NA     </span>
+<span class="c1"># 10 Large size in stockings is hard to sell.    NA      NA     </span>
+<span class="c1"># # ... with 710 more rows</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="replacing-matches"></a><h2>Replacing matches</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;apple&#34;</span><span class="p">,</span> <span class="s">&#34;pear&#34;</span><span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">)</span>
+str_replace<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;[aeiou]&#34;</span><span class="p">,</span> <span class="s">&#34;-&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;-pple&#34;  &#34;p-ar&#34;   &#34;b-nana&#34;</span>
+str_replace_all<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;[aeiou]&#34;</span><span class="p">,</span> <span class="s">&#34;-&#34;</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;-ppl-&#34;  &#34;p--r&#34;   &#34;b-n-n-&#34;</span>
+
+x <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;1 house&#34;</span><span class="p">,</span> <span class="s">&#34;2 cars&#34;</span><span class="p">,</span> <span class="s">&#34;3 people&#34;</span><span class="p">)</span>
+str_replace_all<span class="p">(</span>x<span class="p">,</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;1&#34;</span> <span class="o">=</span> <span class="s">&#34;one&#34;</span><span class="p">,</span> <span class="s">&#34;2&#34;</span> <span class="o">=</span> <span class="s">&#34;two&#34;</span><span class="p">,</span> <span class="s">&#34;3&#34;</span> <span class="o">=</span> <span class="s">&#34;three&#34;</span><span class="p">))</span>
+<span class="c1">#&gt; [1] &#34;one house&#34;    &#34;two cars&#34;     &#34;three people&#34;</span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">sentences <span class="o">%&gt;%</span> 
+  str_replace<span class="p">(</span><span class="s">&#34;([^ ]+) ([^ ]+) ([^ ]+)&#34;</span><span class="p">,</span> <span class="s">&#34;\\1 \\3 \\2&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span> 
+  <span class="kp">head</span><span class="p">(</span><span class="m">5</span><span class="p">)</span>
+<span class="c1">#&gt; [1] &#34;The canoe birch slid on the smooth planks.&#34; </span>
+<span class="c1">#&gt; [2] &#34;Glue sheet the to the dark blue background.&#34;</span>
+<span class="c1">#&gt; [3] &#34;It&#39;s to easy tell the depth of a well.&#34;     </span>
+<span class="c1">#&gt; [4] &#34;These a days chicken leg is a rare dish.&#34;   </span>
+<span class="c1">#&gt; [5] &#34;Rice often is served in round bowls.&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="splitting"></a><h2>Splitting</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="o">&gt;</span> sentences<span class="p">[[</span><span class="m">1</span><span class="p">]]</span> <span class="o">%&gt;%</span>
+<span class="o">+</span>     <span class="kp">head</span><span class="p">(</span><span class="m">5</span><span class="p">)</span> <span class="o">%&gt;%</span> 
+<span class="o">+</span>     str_split<span class="p">(</span><span class="s">&#34; &#34;</span><span class="p">)</span>
+<span class="p">[[</span><span class="m">1</span><span class="p">]]</span>
+<span class="p">[</span><span class="m">1</span><span class="p">]</span> <span class="s">&#34;The&#34;</span>     <span class="s">&#34;birch&#34;</span>   <span class="s">&#34;canoe&#34;</span>   <span class="s">&#34;slid&#34;</span>    <span class="s">&#34;on&#34;</span>      <span class="s">&#34;the&#34;</span>     <span class="s">&#34;smooth&#34;</span>  <span class="s">&#34;planks.&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>Because each component might contain a different number of pieces, this returns a list. If you’re working with a length-1 vector, the easiest thing is to just extract the first element of the list:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="s">&#34;a|b|c|d&#34;</span> <span class="o">%&gt;%</span> 
+  str_split<span class="p">(</span><span class="s">&#34;\\|&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span> 
+  <span class="m">.</span><span class="p">[[</span><span class="m">1</span><span class="p">]]</span>
+<span class="c1">#&gt; [1] &#34;a&#34; &#34;b&#34; &#34;c&#34; &#34;d&#34;</span>
+
+sentences <span class="o">%&gt;%</span>
+  <span class="kp">head</span><span class="p">(</span><span class="m">5</span><span class="p">)</span> <span class="o">%&gt;%</span> 
+  str_split<span class="p">(</span><span class="s">&#34; &#34;</span><span class="p">,</span> simplify <span class="o">=</span> <span class="kc">TRUE</span><span class="p">)</span>
+<span class="c1">#&gt;      [,1]    [,2]    [,3]    [,4]      [,5]  [,6]    [,7]    </span>
+<span class="c1">#&gt; [1,] &#34;The&#34;   &#34;birch&#34; &#34;canoe&#34; &#34;slid&#34;    &#34;on&#34;  &#34;the&#34;   &#34;smooth&#34;</span>
+<span class="c1">#&gt; [2,] &#34;Glue&#34;  &#34;the&#34;   &#34;sheet&#34; &#34;to&#34;      &#34;the&#34; &#34;dark&#34;  &#34;blue&#34;  </span>
+<span class="c1">#&gt; [3,] &#34;It&#39;s&#34;  &#34;easy&#34;  &#34;to&#34;    &#34;tell&#34;    &#34;the&#34; &#34;depth&#34; &#34;of&#34;    </span>
+<span class="c1">#&gt; [4,] &#34;These&#34; &#34;days&#34;  &#34;a&#34;     &#34;chicken&#34; &#34;leg&#34; &#34;is&#34;    &#34;a&#34;     </span>
+<span class="c1">#&gt; [5,] &#34;Rice&#34;  &#34;is&#34;    &#34;often&#34; &#34;served&#34;  &#34;in&#34;  &#34;round&#34; &#34;bowls.&#34;</span>
+<span class="c1">#&gt;      [,8]          [,9]   </span>
+<span class="c1">#&gt; [1,] &#34;planks.&#34;     &#34;&#34;     </span>
+<span class="c1">#&gt; [2,] &#34;background.&#34; &#34;&#34;     </span>
+<span class="c1">#&gt; [3,] &#34;a&#34;           &#34;well.&#34;</span>
+<span class="c1">#&gt; [4,] &#34;rare&#34;        &#34;dish.&#34;</span>
+<span class="c1">#&gt; [5,] &#34;&#34;            &#34;&#34;</span>
+
+fields <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;Name: Hadley&#34;</span><span class="p">,</span> <span class="s">&#34;Country: NZ&#34;</span><span class="p">,</span> <span class="s">&#34;Age: 35&#34;</span><span class="p">)</span>
+fields <span class="o">%&gt;%</span> str_split<span class="p">(</span><span class="s">&#34;: &#34;</span><span class="p">,</span> n <span class="o">=</span> <span class="m">2</span><span class="p">,</span> simplify <span class="o">=</span> <span class="kc">TRUE</span><span class="p">)</span>
+<span class="c1">#&gt;      [,1]      [,2]    </span>
+<span class="c1">#&gt; [1,] &#34;Name&#34;    &#34;Hadley&#34;</span>
+<span class="c1">#&gt; [2,] &#34;Country&#34; &#34;NZ&#34;    </span>
+<span class="c1">#&gt; [3,] &#34;Age&#34;     &#34;35&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>Instead of splitting up strings by patterns, you can also split up by character, line, sentence and word <code>boundary()</code>s:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="s">&#34;This is a sentence.  This is another sentence.&#34;</span>
+str_view_all<span class="p">(</span>x<span class="p">,</span> boundary<span class="p">(</span><span class="s">&#34;word&#34;</span><span class="p">))</span>
+
+str_split<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34; &#34;</span><span class="p">)[[</span><span class="m">1</span><span class="p">]]</span>
+<span class="c1">#&gt; [1] &#34;This&#34;      &#34;is&#34;        &#34;a&#34;         &#34;sentence.&#34; &#34;&#34;          &#34;This&#34;     </span>
+<span class="c1">#&gt; [7] &#34;is&#34;        &#34;another&#34;   &#34;sentence.&#34;</span>
+str_split<span class="p">(</span>x<span class="p">,</span> boundary<span class="p">(</span><span class="s">&#34;word&#34;</span><span class="p">))[[</span><span class="m">1</span><span class="p">]]</span>
+<span class="c1">#&gt; [1] &#34;This&#34;     &#34;is&#34;       &#34;a&#34;        &#34;sentence&#34; &#34;This&#34;     &#34;is&#34;      </span>
+<span class="c1">#&gt; [7] &#34;another&#34;  &#34;sentence&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="find-matches"></a><h2>Find matches</h2>
+
+<p><code>str_locate()</code> and <code>str_locate_all()</code> give you the starting and ending positions of each match. These are particularly useful when none of the other functions does exactly what you want. You can use <code>str_locate()</code> to find the matching pattern, <code>str_sub()</code> to extract and/or modify them.</p>
+
+<a class="post-dummy-target" id="other-types-of-pattern"></a><h1>Other types of pattern</h1>
+
+<ul>
+<li><p><code>ignore_case = TRUE</code> allows characters to match either their uppercase or lowercase forms. This always uses the current locale.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">bananas <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;banana&#34;</span><span class="p">,</span> <span class="s">&#34;Banana&#34;</span><span class="p">,</span> <span class="s">&#34;BANANA&#34;</span><span class="p">)</span>
+str_view<span class="p">(</span>bananas<span class="p">,</span> <span class="s">&#34;banana&#34;</span><span class="p">)</span>
+
+str_view<span class="p">(</span>bananas<span class="p">,</span> regex<span class="p">(</span><span class="s">&#34;banana&#34;</span><span class="p">,</span> ignore_case <span class="o">=</span> <span class="kc">TRUE</span><span class="p">))</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p><code>multiline = TRUE</code> allows <code>^</code> and <code>$</code> to match the start and end of each line rather than the start and end of the complete string.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">x <span class="o">&lt;-</span> <span class="s">&#34;Line 1\nLine 2\nLine 3&#34;</span>
+str_extract_all<span class="p">(</span>x<span class="p">,</span> <span class="s">&#34;^Line&#34;</span><span class="p">)[[</span><span class="m">1</span><span class="p">]]</span>
+<span class="c1">#&gt; [1] &#34;Line&#34;</span>
+str_extract_all<span class="p">(</span>x<span class="p">,</span> regex<span class="p">(</span><span class="s">&#34;^Line&#34;</span><span class="p">,</span> multiline <span class="o">=</span> <span class="kc">TRUE</span><span class="p">))[[</span><span class="m">1</span><span class="p">]]</span>
+<span class="c1">#&gt; [1] &#34;Line&#34; &#34;Line&#34; &#34;Line&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<hr />
+
+<ul>
+<li><code>comments = TRUE</code> allows you to use comments and white space to make complex regular expressions more understandable. Spaces are ignored, as is everything after <code>#</code>. To match a literal space, you’ll need to escape it: <code>\\</code>.</li>
+</ul>
+
+<p>Important!</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">phone <span class="o">&lt;-</span> regex<span class="p">(</span><span class="s">&#34;
+</span><span class="s">  \\(?     # optional opening parens
+</span><span class="s">  (\\d{3}) # area code
+</span><span class="s">  [) -]?   # optional closing parens, space, or dash
+</span><span class="s">  (\\d{3}) # another three numbers
+</span><span class="s">  [ -]?    # optional space or dash
+</span><span class="s">  (\\d{4}) # three more numbers
+</span><span class="s">  &#34;</span><span class="p">,</span> comments <span class="o">=</span> <span class="kc">TRUE</span><span class="p">)</span>
+
+str_match<span class="p">(</span><span class="s">&#34;514-791-8141&#34;</span><span class="p">,</span> phone<span class="p">)</span>
+<span class="c1">#&gt;      [,1]          [,2]  [,3]  [,4] </span>
+<span class="c1">#&gt; [1,] &#34;514-791-814&#34; &#34;514&#34; &#34;791&#34; &#34;8141&#34;</span></code></pre></td></tr></table>
+</div>
+</div>
+<hr />
+
+<ul>
+<li><code>dotall = TRUE</code> allows <code>.</code> to match everything, including <code>\n</code>.</li>
+</ul>
+
+<p>There are three other functions you can use instead of <code>regex()</code>:</p>
+
+<ul>
+<li><p><code>fixed()</code>: matches exactly the specified sequence of bytes. It ignores all special regular expressions and operates at a very low level. This allows you to avoid complex escaping and can be much faster than regular expressions. Beware using <code>fixed()</code> with non-English data. It is problematic because there are often multiple ways of representing the same character. For example, there are two ways to define “á”: either as a single character or as an “a” plus an accent.</p></li>
+
+<li><p>Omit <code>coll()</code>.</p></li>
+
+<li><p>As you saw with <code>str_split()</code> you can use <code>boundary()</code> to match boundaries. You can also use it with the other functions.</p></li>
+</ul>
+
+<a class="post-dummy-target" id="other-uses-of-regular-expressions"></a><h1>Other uses of regular expressions</h1>
+
+<ul>
+<li><p><code>apropos()</code> searches all objects available from the global environment. This is useful if you can’t quite remember the name of the function.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="o">&gt;</span> apropos<span class="p">(</span><span class="s">&#34;tibble&#34;</span><span class="p">)</span>
+<span class="p">[</span><span class="m">1</span><span class="p">]</span> <span class="s">&#34;as.tibble&#34;</span>       <span class="s">&#34;as_tibble&#34;</span>       <span class="s">&#34;as_tibble&#34;</span>       <span class="s">&#34;is.tibble&#34;</span>       <span class="s">&#34;is_tibble&#34;</span>       <span class="s">&#34;new_tibble&#34;</span>     
+<span class="p">[</span><span class="m">7</span><span class="p">]</span> <span class="s">&#34;tibble&#34;</span>          <span class="s">&#34;tibble&#34;</span>          <span class="s">&#34;tibble_&#34;</span>         <span class="s">&#34;validate_tibble&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+
+<li><p><code>dir()</code> lists all the files in a directory. The pattern argument takes a regular expression and only returns file names that match the pattern. For example, you can find all the R Markdown files in the current directory with:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="c1"># You should pay attention to the path.</span>
+<span class="o">&gt;</span> <span class="kp">head</span><span class="p">(</span><span class="kp">dir</span><span class="p">(</span>pattern <span class="o">=</span> <span class="s">&#34;\\.R$&#34;</span><span class="p">))</span>
+<span class="p">[</span><span class="m">1</span><span class="p">]</span> <span class="s">&#34;li.R&#34;</span>    <span class="s">&#34;Rdata.R&#34;</span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+
+<a class="post-dummy-target" id="other-functions"></a><h1>Other functions</h1>
+
+<ul>
+<li><p><a href="https://stringr.tidyverse.org/reference/str_remove.html"><code>str_remove()/str_remove_all()</code></a></p></li>
+
+<li><p><a href="https://stringr.tidyverse.org/reference/word.html"><code>word()</code></a></p></li>
+</ul>
+
+<a class="post-dummy-target" id="more"></a><h1>More</h1>
+
+<ul>
+<li><p><a href="http://yphuang.github.io/blog/2016/03/15/regular-expression-and-strings-processing-in-R/">http://yphuang.github.io/blog/2016/03/15/regular-expression-and-strings-processing-in-R/</a></p></li>
+
+<li><p><a href="https://blog.csdn.net/sinat_26917383/article/details/51122043">https://blog.csdn.net/sinat_26917383/article/details/51122043</a></p></li>
+</ul>
+
+<a class="post-dummy-target" id="r预定义字符组"></a><h2>R预定义字符组</h2>
+
+<table>
+<thead>
+<tr>
+<th align="center">代码</th>
+<th align="center">含义说明</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center"><code>[:digit:]</code></td>
+<td align="center">数字：0-9</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:lower:]</code></td>
+<td align="center">小写字母：a-z</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:upper:]</code></td>
+<td align="center">大写字母：A-Z</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:alpha:]</code></td>
+<td align="center">字母：a-z 及 A-Z</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:alnum:]</code></td>
+<td align="center">所有字母及数字</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:punct:]</code></td>
+<td align="center">标点符号，如<code>. , ;</code>等</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:graph:]</code></td>
+<td align="center">Graphical characters,即<code>[:alnum:]</code>和<code>[:punct:]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>[:blank:]</code></td>
+<td align="center">空字符，即：Space和Tab</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:space:]</code></td>
+<td align="center">Space，Tab，newline，及其他space characters</td>
+</tr>
+
+<tr>
+<td align="center"><code>[:print:]</code></td>
+<td align="center">可打印的字符，即：<code>[:alnum:]</code>，<code>[:punct:]</code>和<code>[:space:]</code></td>
+</tr>
+</tbody>
+</table>
+
+<a class="post-dummy-target" id="代表字符组的特殊符号"></a><h2>代表字符组的特殊符号</h2>
+
+<table>
+<thead>
+<tr>
+<th align="center">代码</th>
+<th align="center">含义说明</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center"><code>\w</code></td>
+<td align="center">字符串，等价于<code>[:alnum:]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>\W</code></td>
+<td align="center">非字符串，等价于<code>[^[:alnum:]]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>\s</code></td>
+<td align="center">空格字符，等价于<code>[:blank:]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>\S</code></td>
+<td align="center">非空格字符，等价于<code>[^[:blank:]]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>\d</code></td>
+<td align="center">数字，等价于<code>[:digit:]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>\D</code></td>
+<td align="center">非数字，等价于<code>[^[:digit:]]</code></td>
+</tr>
+
+<tr>
+<td align="center"><code>\b</code></td>
+<td align="center">Word edge（单词开头或结束的位置）</td>
+</tr>
+
+<tr>
+<td align="center"><code>\B</code></td>
+<td align="center">No Word edge（非单词开头或结束的位置）</td>
+</tr>
+
+<tr>
+<td align="center"><code>\&lt;</code></td>
+<td align="center">Word beginning（单词开头的位置）</td>
+</tr>
+
+<tr>
+<td align="center"><code>\&gt;</code></td>
+<td align="center">Word end（单词结束的位置）</td>
+</tr>
+</tbody>
+</table>
+
+<p><center>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/samsung/78/smiling-face-with-open-mouth-and-smiling-eyes_1f604.png"></p>
+
+<p>To be continued
+</center></p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li><a class="post-dummy-target" id="fn:n"></a>I don&rsquo;t know whether this column is right or not.
+ <a class="footnote-return" href="#fnref:n"><sup>[返回]</sup></a></li>
+</ol>
+</div>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-02-21 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/02/2019-02-21-regular-expression-in-r/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/02/2019-02-16-the-poet/" class="prev" rel="prev" title="The Poet"><i class="fas fa-angle-left fa-fw"></i>The Poet</a>
+        
+        
+            <a href="/2019/03/2019-03-14-jiebar-in-chinese/" class="next" rel="next" title="R语言自然语言处理：中文分词">R语言自然语言处理：中文分词<i class="fas fa-angle-right fa-fw"></i></a>
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2018 - 2019</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

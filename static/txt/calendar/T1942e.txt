@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1942 (Ren-wu ¡V year of the Horse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1942/01/01     15                  Thursday                           
+1942/01/02     16                  Friday                             
+1942/01/03     17                  Saturday                           
+1942/01/04     18                  Sunday                             
+1942/01/05     19                  Monday                             
+1942/01/06     20                  Tuesday        Moderate Cold       
+1942/01/07     21                  Wednesday                          
+1942/01/08     22                  Thursday                           
+1942/01/09     23                  Friday                             
+1942/01/10     24                  Saturday                           
+1942/01/11     25                  Sunday                             
+1942/01/12     26                  Monday                             
+1942/01/13     27                  Tuesday                            
+1942/01/14     28                  Wednesday                          
+1942/01/15     29                  Thursday                           
+1942/01/16     30                  Friday                             
+1942/01/17     12th Lunar month    Saturday                           
+1942/01/18     2                   Sunday                             
+1942/01/19     3                   Monday                             
+1942/01/20     4                   Tuesday                            
+1942/01/21     5                   Wednesday      Severe Cold         
+1942/01/22     6                   Thursday                           
+1942/01/23     7                   Friday                             
+1942/01/24     8                   Saturday                           
+1942/01/25     9                   Sunday                             
+1942/01/26     10                  Monday                             
+1942/01/27     11                  Tuesday                            
+1942/01/28     12                  Wednesday                          
+1942/01/29     13                  Thursday                           
+1942/01/30     14                  Friday                             
+1942/01/31     15                  Saturday                           
+1942/02/01     16                  Sunday                             
+1942/02/02     17                  Monday                             
+1942/02/03     18                  Tuesday                            
+1942/02/04     19                  Wednesday      Spring Commences    
+1942/02/05     20                  Thursday                           
+1942/02/06     21                  Friday                             
+1942/02/07     22                  Saturday                           
+1942/02/08     23                  Sunday                             
+1942/02/09     24                  Monday                             
+1942/02/10     25                  Tuesday                            
+1942/02/11     26                  Wednesday                          
+1942/02/12     27                  Thursday                           
+1942/02/13     28                  Friday                             
+1942/02/14     29                  Saturday                           
+1942/02/15     1st Lunar month     Sunday                             
+1942/02/16     2                   Monday                             
+1942/02/17     3                   Tuesday                            
+1942/02/18     4                   Wednesday                          
+1942/02/19     5                   Thursday       Spring Showers      
+1942/02/20     6                   Friday                             
+1942/02/21     7                   Saturday                           
+1942/02/22     8                   Sunday                             
+1942/02/23     9                   Monday                             
+1942/02/24     10                  Tuesday                            
+1942/02/25     11                  Wednesday                          
+1942/02/26     12                  Thursday                           
+1942/02/27     13                  Friday                             
+1942/02/28     14                  Saturday                           
+1942/03/01     15                  Sunday                             
+1942/03/02     16                  Monday                             
+1942/03/03     17                  Tuesday                            
+1942/03/04     18                  Wednesday                          
+1942/03/05     19                  Thursday                           
+1942/03/06     20                  Friday         Insects Waken       
+1942/03/07     21                  Saturday                           
+1942/03/08     22                  Sunday                             
+1942/03/09     23                  Monday                             
+1942/03/10     24                  Tuesday                            
+1942/03/11     25                  Wednesday                          
+1942/03/12     26                  Thursday                           
+1942/03/13     27                  Friday                             
+1942/03/14     28                  Saturday                           
+1942/03/15     29                  Sunday                             
+1942/03/16     30                  Monday                             
+1942/03/17     2nd Lunar month     Tuesday                            
+1942/03/18     2                   Wednesday                          
+1942/03/19     3                   Thursday                           
+1942/03/20     4                   Friday                             
+1942/03/21     5                   Saturday       Vernal Equinox      
+1942/03/22     6                   Sunday                             
+1942/03/23     7                   Monday                             
+1942/03/24     8                   Tuesday                            
+1942/03/25     9                   Wednesday                          
+1942/03/26     10                  Thursday                           
+1942/03/27     11                  Friday                             
+1942/03/28     12                  Saturday                           
+1942/03/29     13                  Sunday                             
+1942/03/30     14                  Monday                             
+1942/03/31     15                  Tuesday                            
+1942/04/01     16                  Wednesday                          
+1942/04/02     17                  Thursday                           
+1942/04/03     18                  Friday                             
+1942/04/04     19                  Saturday                           
+1942/04/05     20                  Sunday         Bright & Clear      
+1942/04/06     21                  Monday                             
+1942/04/07     22                  Tuesday                            
+1942/04/08     23                  Wednesday                          
+1942/04/09     24                  Thursday                           
+1942/04/10     25                  Friday                             
+1942/04/11     26                  Saturday                           
+1942/04/12     27                  Sunday                             
+1942/04/13     28                  Monday                             
+1942/04/14     29                  Tuesday                            
+1942/04/15     3rd Lunar month     Wednesday                          
+1942/04/16     2                   Thursday                           
+1942/04/17     3                   Friday                             
+1942/04/18     4                   Saturday                           
+1942/04/19     5                   Sunday                             
+1942/04/20     6                   Monday                             
+1942/04/21     7                   Tuesday        Corn Rain           
+1942/04/22     8                   Wednesday                          
+1942/04/23     9                   Thursday                           
+1942/04/24     10                  Friday                             
+1942/04/25     11                  Saturday                           
+1942/04/26     12                  Sunday                             
+1942/04/27     13                  Monday                             
+1942/04/28     14                  Tuesday                            
+1942/04/29     15                  Wednesday                          
+1942/04/30     16                  Thursday                           
+1942/05/01     17                  Friday                             
+1942/05/02     18                  Saturday                           
+1942/05/03     19                  Sunday                             
+1942/05/04     20                  Monday                             
+1942/05/05     21                  Tuesday                            
+1942/05/06     22                  Wednesday      Summer Commences    
+1942/05/07     23                  Thursday                           
+1942/05/08     24                  Friday                             
+1942/05/09     25                  Saturday                           
+1942/05/10     26                  Sunday                             
+1942/05/11     27                  Monday                             
+1942/05/12     28                  Tuesday                            
+1942/05/13     29                  Wednesday                          
+1942/05/14     30                  Thursday                           
+1942/05/15     4th Lunar month     Friday                             
+1942/05/16     2                   Saturday                           
+1942/05/17     3                   Sunday                             
+1942/05/18     4                   Monday                             
+1942/05/19     5                   Tuesday                            
+1942/05/20     6                   Wednesday                          
+1942/05/21     7                   Thursday                           
+1942/05/22     8                   Friday         Corn Forms          
+1942/05/23     9                   Saturday                           
+1942/05/24     10                  Sunday                             
+1942/05/25     11                  Monday                             
+1942/05/26     12                  Tuesday                            
+1942/05/27     13                  Wednesday                          
+1942/05/28     14                  Thursday                           
+1942/05/29     15                  Friday                             
+1942/05/30     16                  Saturday                           
+1942/05/31     17                  Sunday                             
+1942/06/01     18                  Monday                             
+1942/06/02     19                  Tuesday                            
+1942/06/03     20                  Wednesday                          
+1942/06/04     21                  Thursday                           
+1942/06/05     22                  Friday                             
+1942/06/06     23                  Saturday       Corn on Ear         
+1942/06/07     24                  Sunday                             
+1942/06/08     25                  Monday                             
+1942/06/09     26                  Tuesday                            
+1942/06/10     27                  Wednesday                          
+1942/06/11     28                  Thursday                           
+1942/06/12     29                  Friday                             
+1942/06/13     30                  Saturday                           
+1942/06/14     5th Lunar month     Sunday                             
+1942/06/15     2                   Monday                             
+1942/06/16     3                   Tuesday                            
+1942/06/17     4                   Wednesday                          
+1942/06/18     5                   Thursday                           
+1942/06/19     6                   Friday                             
+1942/06/20     7                   Saturday                           
+1942/06/21     8                   Sunday                             
+1942/06/22     9                   Monday         Summer Solstice     
+1942/06/23     10                  Tuesday                            
+1942/06/24     11                  Wednesday                          
+1942/06/25     12                  Thursday                           
+1942/06/26     13                  Friday                             
+1942/06/27     14                  Saturday                           
+1942/06/28     15                  Sunday                             
+1942/06/29     16                  Monday                             
+1942/06/30     17                  Tuesday                            
+1942/07/01     18                  Wednesday                          
+1942/07/02     19                  Thursday                           
+1942/07/03     20                  Friday                             
+1942/07/04     21                  Saturday                           
+1942/07/05     22                  Sunday                             
+1942/07/06     23                  Monday                             
+1942/07/07     24                  Tuesday                            
+1942/07/08     25                  Wednesday      Moderate Heat       
+1942/07/09     26                  Thursday                           
+1942/07/10     27                  Friday                             
+1942/07/11     28                  Saturday                           
+1942/07/12     29                  Sunday                             
+1942/07/13     6th Lunar month     Monday                             
+1942/07/14     2                   Tuesday                            
+1942/07/15     3                   Wednesday                          
+1942/07/16     4                   Thursday                           
+1942/07/17     5                   Friday                             
+1942/07/18     6                   Saturday                           
+1942/07/19     7                   Sunday                             
+1942/07/20     8                   Monday                             
+1942/07/21     9                   Tuesday                            
+1942/07/22     10                  Wednesday                          
+1942/07/23     11                  Thursday       Great Heat          
+1942/07/24     12                  Friday                             
+1942/07/25     13                  Saturday                           
+1942/07/26     14                  Sunday                             
+1942/07/27     15                  Monday                             
+1942/07/28     16                  Tuesday                            
+1942/07/29     17                  Wednesday                          
+1942/07/30     18                  Thursday                           
+1942/07/31     19                  Friday                             
+1942/08/01     20                  Saturday                           
+1942/08/02     21                  Sunday                             
+1942/08/03     22                  Monday                             
+1942/08/04     23                  Tuesday                            
+1942/08/05     24                  Wednesday                          
+1942/08/06     25                  Thursday                           
+1942/08/07     26                  Friday                             
+1942/08/08     27                  Saturday       Autumn Commences    
+1942/08/09     28                  Sunday                             
+1942/08/10     29                  Monday                             
+1942/08/11     30                  Tuesday                            
+1942/08/12     7th Lunar month     Wednesday                          
+1942/08/13     2                   Thursday                           
+1942/08/14     3                   Friday                             
+1942/08/15     4                   Saturday                           
+1942/08/16     5                   Sunday                             
+1942/08/17     6                   Monday                             
+1942/08/18     7                   Tuesday                            
+1942/08/19     8                   Wednesday                          
+1942/08/20     9                   Thursday                           
+1942/08/21     10                  Friday                             
+1942/08/22     11                  Saturday                           
+1942/08/23     12                  Sunday                             
+1942/08/24     13                  Monday         End of Heat         
+1942/08/25     14                  Tuesday                            
+1942/08/26     15                  Wednesday                          
+1942/08/27     16                  Thursday                           
+1942/08/28     17                  Friday                             
+1942/08/29     18                  Saturday                           
+1942/08/30     19                  Sunday                             
+1942/08/31     20                  Monday                             
+1942/09/01     21                  Tuesday                            
+1942/09/02     22                  Wednesday                          
+1942/09/03     23                  Thursday                           
+1942/09/04     24                  Friday                             
+1942/09/05     25                  Saturday                           
+1942/09/06     26                  Sunday                             
+1942/09/07     27                  Monday                             
+1942/09/08     28                  Tuesday        White Dew           
+1942/09/09     29                  Wednesday                          
+1942/09/10     8th Lunar month     Thursday                           
+1942/09/11     2                   Friday                             
+1942/09/12     3                   Saturday                           
+1942/09/13     4                   Sunday                             
+1942/09/14     5                   Monday                             
+1942/09/15     6                   Tuesday                            
+1942/09/16     7                   Wednesday                          
+1942/09/17     8                   Thursday                           
+1942/09/18     9                   Friday                             
+1942/09/19     10                  Saturday                           
+1942/09/20     11                  Sunday                             
+1942/09/21     12                  Monday                             
+1942/09/22     13                  Tuesday                            
+1942/09/23     14                  Wednesday                          
+1942/09/24     15                  Thursday       Autumnal Equinox    
+1942/09/25     16                  Friday                             
+1942/09/26     17                  Saturday                           
+1942/09/27     18                  Sunday                             
+1942/09/28     19                  Monday                             
+1942/09/29     20                  Tuesday                            
+1942/09/30     21                  Wednesday                          
+1942/10/01     22                  Thursday                           
+1942/10/02     23                  Friday                             
+1942/10/03     24                  Saturday                           
+1942/10/04     25                  Sunday                             
+1942/10/05     26                  Monday                             
+1942/10/06     27                  Tuesday                            
+1942/10/07     28                  Wednesday                          
+1942/10/08     29                  Thursday                           
+1942/10/09     30                  Friday         Cold Dew            
+1942/10/10     9th Lunar month     Saturday                           
+1942/10/11     2                   Sunday                             
+1942/10/12     3                   Monday                             
+1942/10/13     4                   Tuesday                            
+1942/10/14     5                   Wednesday                          
+1942/10/15     6                   Thursday                           
+1942/10/16     7                   Friday                             
+1942/10/17     8                   Saturday                           
+1942/10/18     9                   Sunday                             
+1942/10/19     10                  Monday                             
+1942/10/20     11                  Tuesday                            
+1942/10/21     12                  Wednesday                          
+1942/10/22     13                  Thursday                           
+1942/10/23     14                  Friday                             
+1942/10/24     15                  Saturday       Frost               
+1942/10/25     16                  Sunday                             
+1942/10/26     17                  Monday                             
+1942/10/27     18                  Tuesday                            
+1942/10/28     19                  Wednesday                          
+1942/10/29     20                  Thursday                           
+1942/10/30     21                  Friday                             
+1942/10/31     22                  Saturday                           
+1942/11/01     23                  Sunday                             
+1942/11/02     24                  Monday                             
+1942/11/03     25                  Tuesday                            
+1942/11/04     26                  Wednesday                          
+1942/11/05     27                  Thursday                           
+1942/11/06     28                  Friday                             
+1942/11/07     29                  Saturday                           
+1942/11/08     10th Lunar month    Sunday         Winter Commences    
+1942/11/09     2                   Monday                             
+1942/11/10     3                   Tuesday                            
+1942/11/11     4                   Wednesday                          
+1942/11/12     5                   Thursday                           
+1942/11/13     6                   Friday                             
+1942/11/14     7                   Saturday                           
+1942/11/15     8                   Sunday                             
+1942/11/16     9                   Monday                             
+1942/11/17     10                  Tuesday                            
+1942/11/18     11                  Wednesday                          
+1942/11/19     12                  Thursday                           
+1942/11/20     13                  Friday                             
+1942/11/21     14                  Saturday                           
+1942/11/22     15                  Sunday                             
+1942/11/23     16                  Monday         Light Snow          
+1942/11/24     17                  Tuesday                            
+1942/11/25     18                  Wednesday                          
+1942/11/26     19                  Thursday                           
+1942/11/27     20                  Friday                             
+1942/11/28     21                  Saturday                           
+1942/11/29     22                  Sunday                             
+1942/11/30     23                  Monday                             
+1942/12/01     24                  Tuesday                            
+1942/12/02     25                  Wednesday                          
+1942/12/03     26                  Thursday                           
+1942/12/04     27                  Friday                             
+1942/12/05     28                  Saturday                           
+1942/12/06     29                  Sunday                             
+1942/12/07     30                  Monday                             
+1942/12/08     11th Lunar month    Tuesday        Heavy Snow          
+1942/12/09     2                   Wednesday                          
+1942/12/10     3                   Thursday                           
+1942/12/11     4                   Friday                             
+1942/12/12     5                   Saturday                           
+1942/12/13     6                   Sunday                             
+1942/12/14     7                   Monday                             
+1942/12/15     8                   Tuesday                            
+1942/12/16     9                   Wednesday                          
+1942/12/17     10                  Thursday                           
+1942/12/18     11                  Friday                             
+1942/12/19     12                  Saturday                           
+1942/12/20     13                  Sunday                             
+1942/12/21     14                  Monday                             
+1942/12/22     15                  Tuesday        Winter Solstice     
+1942/12/23     16                  Wednesday                          
+1942/12/24     17                  Thursday                           
+1942/12/25     18                  Friday                             
+1942/12/26     19                  Saturday                           
+1942/12/27     20                  Sunday                             
+1942/12/28     21                  Monday                             
+1942/12/29     22                  Tuesday                            
+1942/12/30     23                  Wednesday                          
+1942/12/31     24                  Thursday                           
+
+In 1942, summer time was enforced during 1 January to 31 December in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

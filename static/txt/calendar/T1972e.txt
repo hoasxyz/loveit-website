@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1972 (Ren-zi ¡V year of the Mouse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1972/01/01     15                  Saturday                           
+1972/01/02     16                  Sunday                             
+1972/01/03     17                  Monday                             
+1972/01/04     18                  Tuesday                            
+1972/01/05     19                  Wednesday                          
+1972/01/06     20                  Thursday       Moderate Cold       
+1972/01/07     21                  Friday                             
+1972/01/08     22                  Saturday                           
+1972/01/09     23                  Sunday                             
+1972/01/10     24                  Monday                             
+1972/01/11     25                  Tuesday                            
+1972/01/12     26                  Wednesday                          
+1972/01/13     27                  Thursday                           
+1972/01/14     28                  Friday                             
+1972/01/15     29                  Saturday                           
+1972/01/16     12th Lunar month    Sunday                             
+1972/01/17     2                   Monday                             
+1972/01/18     3                   Tuesday                            
+1972/01/19     4                   Wednesday                          
+1972/01/20     5                   Thursday                           
+1972/01/21     6                   Friday         Severe Cold         
+1972/01/22     7                   Saturday                           
+1972/01/23     8                   Sunday                             
+1972/01/24     9                   Monday                             
+1972/01/25     10                  Tuesday                            
+1972/01/26     11                  Wednesday                          
+1972/01/27     12                  Thursday                           
+1972/01/28     13                  Friday                             
+1972/01/29     14                  Saturday                           
+1972/01/30     15                  Sunday                             
+1972/01/31     16                  Monday                             
+1972/02/01     17                  Tuesday                            
+1972/02/02     18                  Wednesday                          
+1972/02/03     19                  Thursday                           
+1972/02/04     20                  Friday                             
+1972/02/05     21                  Saturday       Spring Commences    
+1972/02/06     22                  Sunday                             
+1972/02/07     23                  Monday                             
+1972/02/08     24                  Tuesday                            
+1972/02/09     25                  Wednesday                          
+1972/02/10     26                  Thursday                           
+1972/02/11     27                  Friday                             
+1972/02/12     28                  Saturday                           
+1972/02/13     29                  Sunday                             
+1972/02/14     30                  Monday                             
+1972/02/15     1st Lunar month     Tuesday                            
+1972/02/16     2                   Wednesday                          
+1972/02/17     3                   Thursday                           
+1972/02/18     4                   Friday                             
+1972/02/19     5                   Saturday       Spring Showers      
+1972/02/20     6                   Sunday                             
+1972/02/21     7                   Monday                             
+1972/02/22     8                   Tuesday                            
+1972/02/23     9                   Wednesday                          
+1972/02/24     10                  Thursday                           
+1972/02/25     11                  Friday                             
+1972/02/26     12                  Saturday                           
+1972/02/27     13                  Sunday                             
+1972/02/28     14                  Monday                             
+1972/02/29     15                  Tuesday                            
+1972/03/01     16                  Wednesday                          
+1972/03/02     17                  Thursday                           
+1972/03/03     18                  Friday                             
+1972/03/04     19                  Saturday                           
+1972/03/05     20                  Sunday         Insects Waken       
+1972/03/06     21                  Monday                             
+1972/03/07     22                  Tuesday                            
+1972/03/08     23                  Wednesday                          
+1972/03/09     24                  Thursday                           
+1972/03/10     25                  Friday                             
+1972/03/11     26                  Saturday                           
+1972/03/12     27                  Sunday                             
+1972/03/13     28                  Monday                             
+1972/03/14     29                  Tuesday                            
+1972/03/15     2nd Lunar month     Wednesday                          
+1972/03/16     2                   Thursday                           
+1972/03/17     3                   Friday                             
+1972/03/18     4                   Saturday                           
+1972/03/19     5                   Sunday                             
+1972/03/20     6                   Monday         Vernal Equinox      
+1972/03/21     7                   Tuesday                            
+1972/03/22     8                   Wednesday                          
+1972/03/23     9                   Thursday                           
+1972/03/24     10                  Friday                             
+1972/03/25     11                  Saturday                           
+1972/03/26     12                  Sunday                             
+1972/03/27     13                  Monday                             
+1972/03/28     14                  Tuesday                            
+1972/03/29     15                  Wednesday                          
+1972/03/30     16                  Thursday                           
+1972/03/31     17                  Friday                             
+1972/04/01     18                  Saturday                           
+1972/04/02     19                  Sunday                             
+1972/04/03     20                  Monday                             
+1972/04/04     21                  Tuesday                            
+1972/04/05     22                  Wednesday      Bright & Clear      
+1972/04/06     23                  Thursday                           
+1972/04/07     24                  Friday                             
+1972/04/08     25                  Saturday                           
+1972/04/09     26                  Sunday                             
+1972/04/10     27                  Monday                             
+1972/04/11     28                  Tuesday                            
+1972/04/12     29                  Wednesday                          
+1972/04/13     30                  Thursday                           
+1972/04/14     3rd Lunar month     Friday                             
+1972/04/15     2                   Saturday                           
+1972/04/16     3                   Sunday                             
+1972/04/17     4                   Monday                             
+1972/04/18     5                   Tuesday                            
+1972/04/19     6                   Wednesday                          
+1972/04/20     7                   Thursday       Corn Rain           
+1972/04/21     8                   Friday                             
+1972/04/22     9                   Saturday                           
+1972/04/23     10                  Sunday                             
+1972/04/24     11                  Monday                             
+1972/04/25     12                  Tuesday                            
+1972/04/26     13                  Wednesday                          
+1972/04/27     14                  Thursday                           
+1972/04/28     15                  Friday                             
+1972/04/29     16                  Saturday                           
+1972/04/30     17                  Sunday                             
+1972/05/01     18                  Monday                             
+1972/05/02     19                  Tuesday                            
+1972/05/03     20                  Wednesday                          
+1972/05/04     21                  Thursday                           
+1972/05/05     22                  Friday         Summer Commences    
+1972/05/06     23                  Saturday                           
+1972/05/07     24                  Sunday                             
+1972/05/08     25                  Monday                             
+1972/05/09     26                  Tuesday                            
+1972/05/10     27                  Wednesday                          
+1972/05/11     28                  Thursday                           
+1972/05/12     29                  Friday                             
+1972/05/13     4th Lunar month     Saturday                           
+1972/05/14     2                   Sunday                             
+1972/05/15     3                   Monday                             
+1972/05/16     4                   Tuesday                            
+1972/05/17     5                   Wednesday                          
+1972/05/18     6                   Thursday                           
+1972/05/19     7                   Friday                             
+1972/05/20     8                   Saturday                           
+1972/05/21     9                   Sunday         Corn Forms          
+1972/05/22     10                  Monday                             
+1972/05/23     11                  Tuesday                            
+1972/05/24     12                  Wednesday                          
+1972/05/25     13                  Thursday                           
+1972/05/26     14                  Friday                             
+1972/05/27     15                  Saturday                           
+1972/05/28     16                  Sunday                             
+1972/05/29     17                  Monday                             
+1972/05/30     18                  Tuesday                            
+1972/05/31     19                  Wednesday                          
+1972/06/01     20                  Thursday                           
+1972/06/02     21                  Friday                             
+1972/06/03     22                  Saturday                           
+1972/06/04     23                  Sunday                             
+1972/06/05     24                  Monday         Corn on Ear         
+1972/06/06     25                  Tuesday                            
+1972/06/07     26                  Wednesday                          
+1972/06/08     27                  Thursday                           
+1972/06/09     28                  Friday                             
+1972/06/10     29                  Saturday                           
+1972/06/11     5th Lunar month     Sunday                             
+1972/06/12     2                   Monday                             
+1972/06/13     3                   Tuesday                            
+1972/06/14     4                   Wednesday                          
+1972/06/15     5                   Thursday                           
+1972/06/16     6                   Friday                             
+1972/06/17     7                   Saturday                           
+1972/06/18     8                   Sunday                             
+1972/06/19     9                   Monday                             
+1972/06/20     10                  Tuesday                            
+1972/06/21     11                  Wednesday      Summer Solstice     
+1972/06/22     12                  Thursday                           
+1972/06/23     13                  Friday                             
+1972/06/24     14                  Saturday                           
+1972/06/25     15                  Sunday                             
+1972/06/26     16                  Monday                             
+1972/06/27     17                  Tuesday                            
+1972/06/28     18                  Wednesday                          
+1972/06/29     19                  Thursday                           
+1972/06/30     20                  Friday                             
+1972/07/01     21                  Saturday                           
+1972/07/02     22                  Sunday                             
+1972/07/03     23                  Monday                             
+1972/07/04     24                  Tuesday                            
+1972/07/05     25                  Wednesday                          
+1972/07/06     26                  Thursday                           
+1972/07/07     27                  Friday         Moderate Heat       
+1972/07/08     28                  Saturday                           
+1972/07/09     29                  Sunday                             
+1972/07/10     30                  Monday                             
+1972/07/11     6th Lunar month     Tuesday                            
+1972/07/12     2                   Wednesday                          
+1972/07/13     3                   Thursday                           
+1972/07/14     4                   Friday                             
+1972/07/15     5                   Saturday                           
+1972/07/16     6                   Sunday                             
+1972/07/17     7                   Monday                             
+1972/07/18     8                   Tuesday                            
+1972/07/19     9                   Wednesday                          
+1972/07/20     10                  Thursday                           
+1972/07/21     11                  Friday                             
+1972/07/22     12                  Saturday                           
+1972/07/23     13                  Sunday         Great Heat          
+1972/07/24     14                  Monday                             
+1972/07/25     15                  Tuesday                            
+1972/07/26     16                  Wednesday                          
+1972/07/27     17                  Thursday                           
+1972/07/28     18                  Friday                             
+1972/07/29     19                  Saturday                           
+1972/07/30     20                  Sunday                             
+1972/07/31     21                  Monday                             
+1972/08/01     22                  Tuesday                            
+1972/08/02     23                  Wednesday                          
+1972/08/03     24                  Thursday                           
+1972/08/04     25                  Friday                             
+1972/08/05     26                  Saturday                           
+1972/08/06     27                  Sunday                             
+1972/08/07     28                  Monday         Autumn Commences    
+1972/08/08     29                  Tuesday                            
+1972/08/09     7th Lunar month     Wednesday                          
+1972/08/10     2                   Thursday                           
+1972/08/11     3                   Friday                             
+1972/08/12     4                   Saturday                           
+1972/08/13     5                   Sunday                             
+1972/08/14     6                   Monday                             
+1972/08/15     7                   Tuesday                            
+1972/08/16     8                   Wednesday                          
+1972/08/17     9                   Thursday                           
+1972/08/18     10                  Friday                             
+1972/08/19     11                  Saturday                           
+1972/08/20     12                  Sunday                             
+1972/08/21     13                  Monday                             
+1972/08/22     14                  Tuesday                            
+1972/08/23     15                  Wednesday      End of Heat         
+1972/08/24     16                  Thursday                           
+1972/08/25     17                  Friday                             
+1972/08/26     18                  Saturday                           
+1972/08/27     19                  Sunday                             
+1972/08/28     20                  Monday                             
+1972/08/29     21                  Tuesday                            
+1972/08/30     22                  Wednesday                          
+1972/08/31     23                  Thursday                           
+1972/09/01     24                  Friday                             
+1972/09/02     25                  Saturday                           
+1972/09/03     26                  Sunday                             
+1972/09/04     27                  Monday                             
+1972/09/05     28                  Tuesday                            
+1972/09/06     29                  Wednesday                          
+1972/09/07     30                  Thursday       White Dew           
+1972/09/08     8th Lunar month     Friday                             
+1972/09/09     2                   Saturday                           
+1972/09/10     3                   Sunday                             
+1972/09/11     4                   Monday                             
+1972/09/12     5                   Tuesday                            
+1972/09/13     6                   Wednesday                          
+1972/09/14     7                   Thursday                           
+1972/09/15     8                   Friday                             
+1972/09/16     9                   Saturday                           
+1972/09/17     10                  Sunday                             
+1972/09/18     11                  Monday                             
+1972/09/19     12                  Tuesday                            
+1972/09/20     13                  Wednesday                          
+1972/09/21     14                  Thursday                           
+1972/09/22     15                  Friday                             
+1972/09/23     16                  Saturday       Autumnal Equinox    
+1972/09/24     17                  Sunday                             
+1972/09/25     18                  Monday                             
+1972/09/26     19                  Tuesday                            
+1972/09/27     20                  Wednesday                          
+1972/09/28     21                  Thursday                           
+1972/09/29     22                  Friday                             
+1972/09/30     23                  Saturday                           
+1972/10/01     24                  Sunday                             
+1972/10/02     25                  Monday                             
+1972/10/03     26                  Tuesday                            
+1972/10/04     27                  Wednesday                          
+1972/10/05     28                  Thursday                           
+1972/10/06     29                  Friday                             
+1972/10/07     9th Lunar month     Saturday                           
+1972/10/08     2                   Sunday         Cold Dew            
+1972/10/09     3                   Monday                             
+1972/10/10     4                   Tuesday                            
+1972/10/11     5                   Wednesday                          
+1972/10/12     6                   Thursday                           
+1972/10/13     7                   Friday                             
+1972/10/14     8                   Saturday                           
+1972/10/15     9                   Sunday                             
+1972/10/16     10                  Monday                             
+1972/10/17     11                  Tuesday                            
+1972/10/18     12                  Wednesday                          
+1972/10/19     13                  Thursday                           
+1972/10/20     14                  Friday                             
+1972/10/21     15                  Saturday                           
+1972/10/22     16                  Sunday                             
+1972/10/23     17                  Monday         Frost               
+1972/10/24     18                  Tuesday                            
+1972/10/25     19                  Wednesday                          
+1972/10/26     20                  Thursday                           
+1972/10/27     21                  Friday                             
+1972/10/28     22                  Saturday                           
+1972/10/29     23                  Sunday                             
+1972/10/30     24                  Monday                             
+1972/10/31     25                  Tuesday                            
+1972/11/01     26                  Wednesday                          
+1972/11/02     27                  Thursday                           
+1972/11/03     28                  Friday                             
+1972/11/04     29                  Saturday                           
+1972/11/05     30                  Sunday                             
+1972/11/06     10th Lunar month    Monday                             
+1972/11/07     2                   Tuesday        Winter Commences    
+1972/11/08     3                   Wednesday                          
+1972/11/09     4                   Thursday                           
+1972/11/10     5                   Friday                             
+1972/11/11     6                   Saturday                           
+1972/11/12     7                   Sunday                             
+1972/11/13     8                   Monday                             
+1972/11/14     9                   Tuesday                            
+1972/11/15     10                  Wednesday                          
+1972/11/16     11                  Thursday                           
+1972/11/17     12                  Friday                             
+1972/11/18     13                  Saturday                           
+1972/11/19     14                  Sunday                             
+1972/11/20     15                  Monday                             
+1972/11/21     16                  Tuesday                            
+1972/11/22     17                  Wednesday      Light Snow          
+1972/11/23     18                  Thursday                           
+1972/11/24     19                  Friday                             
+1972/11/25     20                  Saturday                           
+1972/11/26     21                  Sunday                             
+1972/11/27     22                  Monday                             
+1972/11/28     23                  Tuesday                            
+1972/11/29     24                  Wednesday                          
+1972/11/30     25                  Thursday                           
+1972/12/01     26                  Friday                             
+1972/12/02     27                  Saturday                           
+1972/12/03     28                  Sunday                             
+1972/12/04     29                  Monday                             
+1972/12/05     30                  Tuesday                            
+1972/12/06     11th Lunar month    Wednesday                          
+1972/12/07     2                   Thursday       Heavy Snow          
+1972/12/08     3                   Friday                             
+1972/12/09     4                   Saturday                           
+1972/12/10     5                   Sunday                             
+1972/12/11     6                   Monday                             
+1972/12/12     7                   Tuesday                            
+1972/12/13     8                   Wednesday                          
+1972/12/14     9                   Thursday                           
+1972/12/15     10                  Friday                             
+1972/12/16     11                  Saturday                           
+1972/12/17     12                  Sunday                             
+1972/12/18     13                  Monday                             
+1972/12/19     14                  Tuesday                            
+1972/12/20     15                  Wednesday                          
+1972/12/21     16                  Thursday                           
+1972/12/22     17                  Friday         Winter Solstice     
+1972/12/23     18                  Saturday                           
+1972/12/24     19                  Sunday                             
+1972/12/25     20                  Monday                             
+1972/12/26     21                  Tuesday                            
+1972/12/27     22                  Wednesday                          
+1972/12/28     23                  Thursday                           
+1972/12/29     24                  Friday                             
+1972/12/30     25                  Saturday                           
+1972/12/31     26                  Sunday                             
+
+In 1972, summer time was enforced during 16 April to 22 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

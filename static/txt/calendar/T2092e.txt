@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2092 (Ren-zi  -  year of the Mouse)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2092/1/1          23                      Tuesday                            
+2092/1/2          24                      Wednesday                          
+2092/1/3          25                      Thursday                           
+2092/1/4          26                      Friday                             
+2092/1/5          27                      Saturday       Moderate Cold       
+2092/1/6          28                      Sunday                             
+2092/1/7          29                      Monday                             
+2092/1/8          30                      Tuesday                            
+2092/1/9          12th Lunar Month        Wednesday                          
+2092/1/10         2                       Thursday                           
+2092/1/11         3                       Friday                             
+2092/1/12         4                       Saturday                           
+2092/1/13         5                       Sunday                             
+2092/1/14         6                       Monday                             
+2092/1/15         7                       Tuesday                            
+2092/1/16         8                       Wednesday                          
+2092/1/17         9                       Thursday                           
+2092/1/18         10                      Friday                             
+2092/1/19         11                      Saturday                           
+2092/1/20         12                      Sunday         Severe Cold         
+2092/1/21         13                      Monday                             
+2092/1/22         14                      Tuesday                            
+2092/1/23         15                      Wednesday                          
+2092/1/24         16                      Thursday                           
+2092/1/25         17                      Friday                             
+2092/1/26         18                      Saturday                           
+2092/1/27         19                      Sunday                             
+2092/1/28         20                      Monday                             
+2092/1/29         21                      Tuesday                            
+2092/1/30         22                      Wednesday                          
+2092/1/31         23                      Thursday                           
+2092/2/1          24                      Friday                             
+2092/2/2          25                      Saturday                           
+2092/2/3          26                      Sunday                             
+2092/2/4          27                      Monday         Spring Commences    
+2092/2/5          28                      Tuesday                            
+2092/2/6          29                      Wednesday                          
+2092/2/7          1st Lunar Month         Thursday                           
+2092/2/8          2                       Friday                             
+2092/2/9          3                       Saturday                           
+2092/2/10         4                       Sunday                             
+2092/2/11         5                       Monday                             
+2092/2/12         6                       Tuesday                            
+2092/2/13         7                       Wednesday                          
+2092/2/14         8                       Thursday                           
+2092/2/15         9                       Friday                             
+2092/2/16         10                      Saturday                           
+2092/2/17         11                      Sunday                             
+2092/2/18         12                      Monday                             
+2092/2/19         13                      Tuesday        Spring Showers      
+2092/2/20         14                      Wednesday                          
+2092/2/21         15                      Thursday                           
+2092/2/22         16                      Friday                             
+2092/2/23         17                      Saturday                           
+2092/2/24         18                      Sunday                             
+2092/2/25         19                      Monday                             
+2092/2/26         20                      Tuesday                            
+2092/2/27         21                      Wednesday                          
+2092/2/28         22                      Thursday                           
+2092/2/29         23                      Friday                             
+2092/3/1          24                      Saturday                           
+2092/3/2          25                      Sunday                             
+2092/3/3          26                      Monday                             
+2092/3/4          27                      Tuesday        Insects Waken       
+2092/3/5          28                      Wednesday                          
+2092/3/6          29                      Thursday                           
+2092/3/7          30                      Friday                             
+2092/3/8          2nd Lunar Month         Saturday                           
+2092/3/9          2                       Sunday                             
+2092/3/10         3                       Monday                             
+2092/3/11         4                       Tuesday                            
+2092/3/12         5                       Wednesday                          
+2092/3/13         6                       Thursday                           
+2092/3/14         7                       Friday                             
+2092/3/15         8                       Saturday                           
+2092/3/16         9                       Sunday                             
+2092/3/17         10                      Monday                             
+2092/3/18         11                      Tuesday                            
+2092/3/19         12                      Wednesday      Vernal Equinox      
+2092/3/20         13                      Thursday                           
+2092/3/21         14                      Friday                             
+2092/3/22         15                      Saturday                           
+2092/3/23         16                      Sunday                             
+2092/3/24         17                      Monday                             
+2092/3/25         18                      Tuesday                            
+2092/3/26         19                      Wednesday                          
+2092/3/27         20                      Thursday                           
+2092/3/28         21                      Friday                             
+2092/3/29         22                      Saturday                           
+2092/3/30         23                      Sunday                             
+2092/3/31         24                      Monday                             
+2092/4/1          25                      Tuesday                            
+2092/4/2          26                      Wednesday                          
+2092/4/3          27                      Thursday                           
+2092/4/4          28                      Friday         Bright & Clear      
+2092/4/5          29                      Saturday                           
+2092/4/6          30                      Sunday                             
+2092/4/7          3rd Lunar Month         Monday                             
+2092/4/8          2                       Tuesday                            
+2092/4/9          3                       Wednesday                          
+2092/4/10         4                       Thursday                           
+2092/4/11         5                       Friday                             
+2092/4/12         6                       Saturday                           
+2092/4/13         7                       Sunday                             
+2092/4/14         8                       Monday                             
+2092/4/15         9                       Tuesday                            
+2092/4/16         10                      Wednesday                          
+2092/4/17         11                      Thursday                           
+2092/4/18         12                      Friday                             
+2092/4/19         13                      Saturday       Corn Rain           
+2092/4/20         14                      Sunday                             
+2092/4/21         15                      Monday                             
+2092/4/22         16                      Tuesday                            
+2092/4/23         17                      Wednesday                          
+2092/4/24         18                      Thursday                           
+2092/4/25         19                      Friday                             
+2092/4/26         20                      Saturday                           
+2092/4/27         21                      Sunday                             
+2092/4/28         22                      Monday                             
+2092/4/29         23                      Tuesday                            
+2092/4/30         24                      Wednesday                          
+2092/5/1          25                      Thursday                           
+2092/5/2          26                      Friday                             
+2092/5/3          27                      Saturday                           
+2092/5/4          28                      Sunday         Summer Commences    
+2092/5/5          29                      Monday                             
+2092/5/6          4th Lunar Month         Tuesday                            
+2092/5/7          2                       Wednesday                          
+2092/5/8          3                       Thursday                           
+2092/5/9          4                       Friday                             
+2092/5/10         5                       Saturday                           
+2092/5/11         6                       Sunday                             
+2092/5/12         7                       Monday                             
+2092/5/13         8                       Tuesday                            
+2092/5/14         9                       Wednesday                          
+2092/5/15         10                      Thursday                           
+2092/5/16         11                      Friday                             
+2092/5/17         12                      Saturday                           
+2092/5/18         13                      Sunday                             
+2092/5/19         14                      Monday                             
+2092/5/20         15                      Tuesday        Corn Forms          
+2092/5/21         16                      Wednesday                          
+2092/5/22         17                      Thursday                           
+2092/5/23         18                      Friday                             
+2092/5/24         19                      Saturday                           
+2092/5/25         20                      Sunday                             
+2092/5/26         21                      Monday                             
+2092/5/27         22                      Tuesday                            
+2092/5/28         23                      Wednesday                          
+2092/5/29         24                      Thursday                           
+2092/5/30         25                      Friday                             
+2092/5/31         26                      Saturday                           
+2092/6/1          27                      Sunday                             
+2092/6/2          28                      Monday                             
+2092/6/3          29                      Tuesday                            
+2092/6/4          30                      Wednesday      Corn on Ear         
+2092/6/5          5th Lunar Month         Thursday                           
+2092/6/6          2                       Friday                             
+2092/6/7          3                       Saturday                           
+2092/6/8          4                       Sunday                             
+2092/6/9          5                       Monday                             
+2092/6/10         6                       Tuesday                            
+2092/6/11         7                       Wednesday                          
+2092/6/12         8                       Thursday                           
+2092/6/13         9                       Friday                             
+2092/6/14         10                      Saturday                           
+2092/6/15         11                      Sunday                             
+2092/6/16         12                      Monday                             
+2092/6/17         13                      Tuesday                            
+2092/6/18         14                      Wednesday                          
+2092/6/19         15                      Thursday                           
+2092/6/20         16                      Friday         Summer Solstice     
+2092/6/21         17                      Saturday                           
+2092/6/22         18                      Sunday                             
+2092/6/23         19                      Monday                             
+2092/6/24         20                      Tuesday                            
+2092/6/25         21                      Wednesday                          
+2092/6/26         22                      Thursday                           
+2092/6/27         23                      Friday                             
+2092/6/28         24                      Saturday                           
+2092/6/29         25                      Sunday                             
+2092/6/30         26                      Monday                             
+2092/7/1          27                      Tuesday                            
+2092/7/2          28                      Wednesday                          
+2092/7/3          29                      Thursday                           
+2092/7/4          30                      Friday                             
+2092/7/5          6th Lunar Month         Saturday                           
+2092/7/6          2                       Sunday         Moderate Heat       
+2092/7/7          3                       Monday                             
+2092/7/8          4                       Tuesday                            
+2092/7/9          5                       Wednesday                          
+2092/7/10         6                       Thursday                           
+2092/7/11         7                       Friday                             
+2092/7/12         8                       Saturday                           
+2092/7/13         9                       Sunday                             
+2092/7/14         10                      Monday                             
+2092/7/15         11                      Tuesday                            
+2092/7/16         12                      Wednesday                          
+2092/7/17         13                      Thursday                           
+2092/7/18         14                      Friday                             
+2092/7/19         15                      Saturday                           
+2092/7/20         16                      Sunday                             
+2092/7/21         17                      Monday                             
+2092/7/22         18                      Tuesday        Great Heat          
+2092/7/23         19                      Wednesday                          
+2092/7/24         20                      Thursday                           
+2092/7/25         21                      Friday                             
+2092/7/26         22                      Saturday                           
+2092/7/27         23                      Sunday                             
+2092/7/28         24                      Monday                             
+2092/7/29         25                      Tuesday                            
+2092/7/30         26                      Wednesday                          
+2092/7/31         27                      Thursday                           
+2092/8/1          28                      Friday                             
+2092/8/2          29                      Saturday                           
+2092/8/3          7th Lunar Month         Sunday                             
+2092/8/4          2                       Monday                             
+2092/8/5          3                       Tuesday                            
+2092/8/6          4                       Wednesday      Autumn Commences    
+2092/8/7          5                       Thursday                           
+2092/8/8          6                       Friday                             
+2092/8/9          7                       Saturday                           
+2092/8/10         8                       Sunday                             
+2092/8/11         9                       Monday                             
+2092/8/12         10                      Tuesday                            
+2092/8/13         11                      Wednesday                          
+2092/8/14         12                      Thursday                           
+2092/8/15         13                      Friday                             
+2092/8/16         14                      Saturday                           
+2092/8/17         15                      Sunday                             
+2092/8/18         16                      Monday                             
+2092/8/19         17                      Tuesday                            
+2092/8/20         18                      Wednesday                          
+2092/8/21         19                      Thursday                           
+2092/8/22         20                      Friday         End of Heat         
+2092/8/23         21                      Saturday                           
+2092/8/24         22                      Sunday                             
+2092/8/25         23                      Monday                             
+2092/8/26         24                      Tuesday                            
+2092/8/27         25                      Wednesday                          
+2092/8/28         26                      Thursday                           
+2092/8/29         27                      Friday                             
+2092/8/30         28                      Saturday                           
+2092/8/31         29                      Sunday                             
+2092/9/1          30                      Monday                             
+2092/9/2          8th Lunar Month         Tuesday                            
+2092/9/3          2                       Wednesday                          
+2092/9/4          3                       Thursday                           
+2092/9/5          4                       Friday                             
+2092/9/6          5                       Saturday       White Dew           
+2092/9/7          6                       Sunday                             
+2092/9/8          7                       Monday                             
+2092/9/9          8                       Tuesday                            
+2092/9/10         9                       Wednesday                          
+2092/9/11         10                      Thursday                           
+2092/9/12         11                      Friday                             
+2092/9/13         12                      Saturday                           
+2092/9/14         13                      Sunday                             
+2092/9/15         14                      Monday                             
+2092/9/16         15                      Tuesday                            
+2092/9/17         16                      Wednesday                          
+2092/9/18         17                      Thursday                           
+2092/9/19         18                      Friday                             
+2092/9/20         19                      Saturday                           
+2092/9/21         20                      Sunday                             
+2092/9/22         21                      Monday         Autumnal Equinox    
+2092/9/23         22                      Tuesday                            
+2092/9/24         23                      Wednesday                          
+2092/9/25         24                      Thursday                           
+2092/9/26         25                      Friday                             
+2092/9/27         26                      Saturday                           
+2092/9/28         27                      Sunday                             
+2092/9/29         28                      Monday                             
+2092/9/30         29                      Tuesday                            
+2092/10/1         9th Lunar Month         Wednesday                          
+2092/10/2         2                       Thursday                           
+2092/10/3         3                       Friday                             
+2092/10/4         4                       Saturday                           
+2092/10/5         5                       Sunday                             
+2092/10/6         6                       Monday                             
+2092/10/7         7                       Tuesday        Cold Dew            
+2092/10/8         8                       Wednesday                          
+2092/10/9         9                       Thursday                           
+2092/10/10        10                      Friday                             
+2092/10/11        11                      Saturday                           
+2092/10/12        12                      Sunday                             
+2092/10/13        13                      Monday                             
+2092/10/14        14                      Tuesday                            
+2092/10/15        15                      Wednesday                          
+2092/10/16        16                      Thursday                           
+2092/10/17        17                      Friday                             
+2092/10/18        18                      Saturday                           
+2092/10/19        19                      Sunday                             
+2092/10/20        20                      Monday                             
+2092/10/21        21                      Tuesday                            
+2092/10/22        22                      Wednesday      Frost               
+2092/10/23        23                      Thursday                           
+2092/10/24        24                      Friday                             
+2092/10/25        25                      Saturday                           
+2092/10/26        26                      Sunday                             
+2092/10/27        27                      Monday                             
+2092/10/28        28                      Tuesday                            
+2092/10/29        29                      Wednesday                          
+2092/10/30        30                      Thursday                           
+2092/10/31        10th Lunar Month        Friday                             
+2092/11/1         2                       Saturday                           
+2092/11/2         3                       Sunday                             
+2092/11/3         4                       Monday                             
+2092/11/4         5                       Tuesday                            
+2092/11/5         6                       Wednesday                          
+2092/11/6         7                       Thursday       Winter Commences    
+2092/11/7         8                       Friday                             
+2092/11/8         9                       Saturday                           
+2092/11/9         10                      Sunday                             
+2092/11/10        11                      Monday                             
+2092/11/11        12                      Tuesday                            
+2092/11/12        13                      Wednesday                          
+2092/11/13        14                      Thursday                           
+2092/11/14        15                      Friday                             
+2092/11/15        16                      Saturday                           
+2092/11/16        17                      Sunday                             
+2092/11/17        18                      Monday                             
+2092/11/18        19                      Tuesday                            
+2092/11/19        20                      Wednesday                          
+2092/11/20        21                      Thursday                           
+2092/11/21        22                      Friday         Light Snow          
+2092/11/22        23                      Saturday                           
+2092/11/23        24                      Sunday                             
+2092/11/24        25                      Monday                             
+2092/11/25        26                      Tuesday                            
+2092/11/26        27                      Wednesday                          
+2092/11/27        28                      Thursday                           
+2092/11/28        29                      Friday                             
+2092/11/29        11th Lunar Month        Saturday                           
+2092/11/30        2                       Sunday                             
+2092/12/1         3                       Monday                             
+2092/12/2         4                       Tuesday                            
+2092/12/3         5                       Wednesday                          
+2092/12/4         6                       Thursday                           
+2092/12/5         7                       Friday                             
+2092/12/6         8                       Saturday       Heavy Snow          
+2092/12/7         9                       Sunday                             
+2092/12/8         10                      Monday                             
+2092/12/9         11                      Tuesday                            
+2092/12/10        12                      Wednesday                          
+2092/12/11        13                      Thursday                           
+2092/12/12        14                      Friday                             
+2092/12/13        15                      Saturday                           
+2092/12/14        16                      Sunday                             
+2092/12/15        17                      Monday                             
+2092/12/16        18                      Tuesday                            
+2092/12/17        19                      Wednesday                          
+2092/12/18        20                      Thursday                           
+2092/12/19        21                      Friday                             
+2092/12/20        22                      Saturday                           
+2092/12/21        23                      Sunday         Winter Solstice     
+2092/12/22        24                      Monday                             
+2092/12/23        25                      Tuesday                            
+2092/12/24        26                      Wednesday                          
+2092/12/25        27                      Thursday                           
+2092/12/26        28                      Friday                             
+2092/12/27        29                      Saturday                           
+2092/12/28        30                      Sunday                             
+2092/12/29        12th Lunar Month        Monday                             
+2092/12/30        2                       Tuesday                            
+2092/12/31        3                       Wednesday                          

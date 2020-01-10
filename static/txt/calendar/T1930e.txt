@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1930 (Geng-wu ¡V year of the Horse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1930/01/01     2                   Wednesday                          
+1930/01/02     3                   Thursday                           
+1930/01/03     4                   Friday                             
+1930/01/04     5                   Saturday                           
+1930/01/05     6                   Sunday                             
+1930/01/06     7                   Monday         Moderate Cold       
+1930/01/07     8                   Tuesday                            
+1930/01/08     9                   Wednesday                          
+1930/01/09     10                  Thursday                           
+1930/01/10     11                  Friday                             
+1930/01/11     12                  Saturday                           
+1930/01/12     13                  Sunday                             
+1930/01/13     14                  Monday                             
+1930/01/14     15                  Tuesday                            
+1930/01/15     16                  Wednesday                          
+1930/01/16     17                  Thursday                           
+1930/01/17     18                  Friday                             
+1930/01/18     19                  Saturday                           
+1930/01/19     20                  Sunday                             
+1930/01/20     21                  Monday                             
+1930/01/21     22                  Tuesday        Severe Cold         
+1930/01/22     23                  Wednesday                          
+1930/01/23     24                  Thursday                           
+1930/01/24     25                  Friday                             
+1930/01/25     26                  Saturday                           
+1930/01/26     27                  Sunday                             
+1930/01/27     28                  Monday                             
+1930/01/28     29                  Tuesday                            
+1930/01/29     30                  Wednesday                          
+1930/01/30     1st Lunar month     Thursday                           
+1930/01/31     2                   Friday                             
+1930/02/01     3                   Saturday                           
+1930/02/02     4                   Sunday                             
+1930/02/03     5                   Monday                             
+1930/02/04     6                   Tuesday        Spring Commences    
+1930/02/05     7                   Wednesday                          
+1930/02/06     8                   Thursday                           
+1930/02/07     9                   Friday                             
+1930/02/08     10                  Saturday                           
+1930/02/09     11                  Sunday                             
+1930/02/10     12                  Monday                             
+1930/02/11     13                  Tuesday                            
+1930/02/12     14                  Wednesday                          
+1930/02/13     15                  Thursday                           
+1930/02/14     16                  Friday                             
+1930/02/15     17                  Saturday                           
+1930/02/16     18                  Sunday                             
+1930/02/17     19                  Monday                             
+1930/02/18     20                  Tuesday                            
+1930/02/19     21                  Wednesday      Spring Showers      
+1930/02/20     22                  Thursday                           
+1930/02/21     23                  Friday                             
+1930/02/22     24                  Saturday                           
+1930/02/23     25                  Sunday                          
+1930/02/24     26                  Monday                             
+1930/02/25     27                  Tuesday                            
+1930/02/26     28                  Wednesday                          
+1930/02/27     29                  Thursday                           
+1930/02/28     2nd Lunar month     Friday                             
+1930/03/01     2                   Saturday                           
+1930/03/02     3                   Sunday                             
+1930/03/03     4                   Monday                             
+1930/03/04     5                   Tuesday                            
+1930/03/05     6                   Wednesday                          
+1930/03/06     7                   Thursday       Insects Waken       
+1930/03/07     8                   Friday                             
+1930/03/08     9                   Saturday                           
+1930/03/09     10                  Sunday                             
+1930/03/10     11                  Monday                             
+1930/03/11     12                  Tuesday                            
+1930/03/12     13                  Wednesday                          
+1930/03/13     14                  Thursday                           
+1930/03/14     15                  Friday                             
+1930/03/15     16                  Saturday                           
+1930/03/16     17                  Sunday                             
+1930/03/17     18                  Monday                             
+1930/03/18     19                  Tuesday                            
+1930/03/19     20                  Wednesday                          
+1930/03/20     21                  Thursday                           
+1930/03/21     22                  Friday         Vernal Equinox      
+1930/03/22     23                  Saturday                           
+1930/03/23     24                  Sunday                             
+1930/03/24     25                  Monday                             
+1930/03/25     26                  Tuesday                            
+1930/03/26     27                  Wednesday                          
+1930/03/27     28                  Thursday                           
+1930/03/28     29                  Friday                             
+1930/03/29     30                  Saturday                           
+1930/03/30     3rd Lunar month     Sunday                             
+1930/03/31     2                   Monday                             
+1930/04/01     3                   Tuesday                            
+1930/04/02     4                   Wednesday                          
+1930/04/03     5                   Thursday                           
+1930/04/04     6                   Friday                             
+1930/04/05     7                   Saturday       Bright & Clear      
+1930/04/06     8                   Sunday                             
+1930/04/07     9                   Monday                             
+1930/04/08     10                  Tuesday                            
+1930/04/09     11                  Wednesday                          
+1930/04/10     12                  Thursday                           
+1930/04/11     13                  Friday                             
+1930/04/12     14                  Saturday                           
+1930/04/13     15                  Sunday                             
+1930/04/14     16                  Monday                             
+1930/04/15     17                  Tuesday                            
+1930/04/16     18                  Wednesday                          
+1930/04/17     19                  Thursday                           
+1930/04/18     20                  Friday                             
+1930/04/19     21                  Saturday                           
+1930/04/20     22                  Sunday                             
+1930/04/21     23                  Monday         Corn Rain           
+1930/04/22     24                  Tuesday                            
+1930/04/23     25                  Wednesday                          
+1930/04/24     26                  Thursday                           
+1930/04/25     27                  Friday                             
+1930/04/26     28                  Saturday                           
+1930/04/27     29                  Sunday                             
+1930/04/28     30                  Monday                             
+1930/04/29     4th Lunar month     Tuesday                            
+1930/04/30     2                   Wednesday                          
+1930/05/01     3                   Thursday                           
+1930/05/02     4                   Friday                             
+1930/05/03     5                   Saturday                           
+1930/05/04     6                   Sunday                             
+1930/05/05     7                   Monday                             
+1930/05/06     8                   Tuesday        Summer Commences    
+1930/05/07     9                   Wednesday                          
+1930/05/08     10                  Thursday                           
+1930/05/09     11                  Friday                             
+1930/05/10     12                  Saturday                           
+1930/05/11     13                  Sunday                             
+1930/05/12     14                  Monday                             
+1930/05/13     15                  Tuesday                            
+1930/05/14     16                  Wednesday                          
+1930/05/15     17                  Thursday                           
+1930/05/16     18                  Friday                             
+1930/05/17     19                  Saturday                           
+1930/05/18     20                  Sunday                             
+1930/05/19     21                  Monday                             
+1930/05/20     22                  Tuesday                            
+1930/05/21     23                  Wednesday                          
+1930/05/22     24                  Thursday       Corn Forms          
+1930/05/23     25                  Friday                             
+1930/05/24     26                  Saturday                           
+1930/05/25     27                  Sunday                             
+1930/05/26     28                  Monday                             
+1930/05/27     29                  Tuesday                            
+1930/05/28     5th Lunar month     Wednesday                          
+1930/05/29     2                   Thursday                           
+1930/05/30     3                   Friday                             
+1930/05/31     4                   Saturday                           
+1930/06/01     5                   Sunday                             
+1930/06/02     6                   Monday                             
+1930/06/03     7                   Tuesday                            
+1930/06/04     8                   Wednesday                          
+1930/06/05     9                   Thursday                           
+1930/06/06     10                  Friday         Corn on Ear         
+1930/06/07     11                  Saturday                           
+1930/06/08     12                  Sunday                             
+1930/06/09     13                  Monday                             
+1930/06/10     14                  Tuesday                            
+1930/06/11     15                  Wednesday                          
+1930/06/12     16                  Thursday                           
+1930/06/13     17                  Friday                             
+1930/06/14     18                  Saturday                           
+1930/06/15     19                  Sunday                             
+1930/06/16     20                  Monday                             
+1930/06/17     21                  Tuesday                            
+1930/06/18     22                  Wednesday                          
+1930/06/19     23                  Thursday                           
+1930/06/20     24                  Friday                             
+1930/06/21     25                  Saturday                           
+1930/06/22     26                  Sunday         Summer Solstice     
+1930/06/23     27                  Monday                             
+1930/06/24     28                  Tuesday                            
+1930/06/25     29                  Wednesday                          
+1930/06/26     6th Lunar month     Thursday                           
+1930/06/27     2                   Friday                             
+1930/06/28     3                   Saturday                           
+1930/06/29     4                   Sunday                             
+1930/06/30     5                   Monday                             
+1930/07/01     6                   Tuesday                            
+1930/07/02     7                   Wednesday                          
+1930/07/03     8                   Thursday                           
+1930/07/04     9                   Friday                             
+1930/07/05     10                  Saturday                           
+1930/07/06     11                  Sunday                             
+1930/07/07     12                  Monday                             
+1930/07/08     13                  Tuesday        Moderate Heat       
+1930/07/09     14                  Wednesday                          
+1930/07/10     15                  Thursday                           
+1930/07/11     16                  Friday                             
+1930/07/12     17                  Saturday                           
+1930/07/13     18                  Sunday                             
+1930/07/14     19                  Monday                             
+1930/07/15     20                  Tuesday                            
+1930/07/16     21                  Wednesday                          
+1930/07/17     22                  Thursday                           
+1930/07/18     23                  Friday                             
+1930/07/19     24                  Saturday                           
+1930/07/20     25                  Sunday                             
+1930/07/21     26                  Monday                             
+1930/07/22     27                  Tuesday                            
+1930/07/23     28                  Wednesday      Great Heat          
+1930/07/24     29                  Thursday                           
+1930/07/25     30                  Friday                             
+1930/07/26     6th Lunar month     Saturday                           
+1930/07/27     2                   Sunday                             
+1930/07/28     3                   Monday                             
+1930/07/29     4                   Tuesday                            
+1930/07/30     5                   Wednesday                          
+1930/07/31     6                   Thursday                           
+1930/08/01     7                   Friday                             
+1930/08/02     8                   Saturday                           
+1930/08/03     9                   Sunday                             
+1930/08/04     10                  Monday                             
+1930/08/05     11                  Tuesday                            
+1930/08/06     12                  Wednesday                          
+1930/08/07     13                  Thursday                           
+1930/08/08     14                  Friday         Autumn Commences    
+1930/08/09     15                  Saturday                           
+1930/08/10     16                  Sunday                             
+1930/08/11     17                  Monday                             
+1930/08/12     18                  Tuesday                            
+1930/08/13     19                  Wednesday                          
+1930/08/14     20                  Thursday                           
+1930/08/15     21                  Friday                             
+1930/08/16     22                  Saturday                           
+1930/08/17     23                  Sunday                             
+1930/08/18     24                  Monday                             
+1930/08/19     25                  Tuesday                            
+1930/08/20     26                  Wednesday                          
+1930/08/21     27                  Thursday                           
+1930/08/22     28                  Friday                             
+1930/08/23     29                  Saturday                           
+1930/08/24     7th Lunar month     Sunday         End of Heat         
+1930/08/25     2                   Monday                             
+1930/08/26     3                   Tuesday                            
+1930/08/27     4                   Wednesday                          
+1930/08/28     5                   Thursday                           
+1930/08/29     6                   Friday                             
+1930/08/30     7                   Saturday                           
+1930/08/31     8                   Sunday                             
+1930/09/01     9                   Monday                             
+1930/09/02     10                  Tuesday                            
+1930/09/03     11                  Wednesday                          
+1930/09/04     12                  Thursday                           
+1930/09/05     13                  Friday                             
+1930/09/06     14                  Saturday                           
+1930/09/07     15                  Sunday                             
+1930/09/08     16                  Monday         White Dew           
+1930/09/09     17                  Tuesday                            
+1930/09/10     18                  Wednesday                          
+1930/09/11     19                  Thursday                           
+1930/09/12     20                  Friday                             
+1930/09/13     21                  Saturday                           
+1930/09/14     22                  Sunday                             
+1930/09/15     23                  Monday                             
+1930/09/16     24                  Tuesday                            
+1930/09/17     25                  Wednesday                          
+1930/09/18     26                  Thursday                           
+1930/09/19     27                  Friday                             
+1930/09/20     28                  Saturday                           
+1930/09/21     29                  Sunday                             
+1930/09/22     8th Lunar month     Monday                             
+1930/09/23     2                   Tuesday                            
+1930/09/24     3                   Wednesday      Autumnal Equinox    
+1930/09/25     4                   Thursday                           
+1930/09/26     5                   Friday                             
+1930/09/27     6                   Saturday                           
+1930/09/28     7                   Sunday                             
+1930/09/29     8                   Monday                             
+1930/09/30     9                   Tuesday                            
+1930/10/01     10                  Wednesday                          
+1930/10/02     11                  Thursday                           
+1930/10/03     12                  Friday                             
+1930/10/04     13                  Saturday                           
+1930/10/05     14                  Sunday                             
+1930/10/06     15                  Monday                             
+1930/10/07     16                  Tuesday                            
+1930/10/08     17                  Wednesday                          
+1930/10/09     18                  Thursday       Cold Dew            
+1930/10/10     19                  Friday                             
+1930/10/11     20                  Saturday                           
+1930/10/12     21                  Sunday                             
+1930/10/13     22                  Monday                             
+1930/10/14     23                  Tuesday                            
+1930/10/15     24                  Wednesday                          
+1930/10/16     25                  Thursday                           
+1930/10/17     26                  Friday                             
+1930/10/18     27                  Saturday                           
+1930/10/19     28                  Sunday                             
+1930/10/20     29                  Monday                             
+1930/10/21     30                  Tuesday                            
+1930/10/22     9th Lunar month     Wednesday                          
+1930/10/23     2                   Thursday                           
+1930/10/24     3                   Friday         Frost               
+1930/10/25     4                   Saturday                           
+1930/10/26     5                   Sunday                             
+1930/10/27     6                   Monday                             
+1930/10/28     7                   Tuesday                            
+1930/10/29     8                   Wednesday                          
+1930/10/30     9                   Thursday                           
+1930/10/31     10                  Friday                             
+1930/11/01     11                  Saturday                           
+1930/11/02     12                  Sunday                             
+1930/11/03     13                  Monday                             
+1930/11/04     14                  Tuesday                            
+1930/11/05     15                  Wednesday                          
+1930/11/06     16                  Thursday                           
+1930/11/07     17                  Friday                             
+1930/11/08     18                  Saturday       Winter Commences    
+1930/11/09     19                  Sunday                             
+1930/11/10     20                  Monday                             
+1930/11/11     21                  Tuesday                            
+1930/11/12     22                  Wednesday                          
+1930/11/13     23                  Thursday                           
+1930/11/14     24                  Friday                             
+1930/11/15     25                  Saturday                           
+1930/11/16     26                  Sunday                             
+1930/11/17     27                  Monday                             
+1930/11/18     28                  Tuesday                            
+1930/11/19     29                  Wednesday                          
+1930/11/20     10th Lunar month    Thursday                           
+1930/11/21     2                   Friday                             
+1930/11/22     3                   Saturday                           
+1930/11/23     4                   Sunday         Light Snow          
+1930/11/24     5                   Monday                             
+1930/11/25     6                   Tuesday                            
+1930/11/26     7                   Wednesday                          
+1930/11/27     8                   Thursday                           
+1930/11/28     9                   Friday                             
+1930/11/29     10                  Saturday                           
+1930/11/30     11                  Sunday                             
+1930/12/01     12                  Monday                             
+1930/12/02     13                  Tuesday                            
+1930/12/03     14                  Wednesday                          
+1930/12/04     15                  Thursday                           
+1930/12/05     16                  Friday                             
+1930/12/06     17                  Saturday                           
+1930/12/07     18                  Sunday                             
+1930/12/08     19                  Monday         Heavy Snow          
+1930/12/09     20                  Tuesday                            
+1930/12/10     21                  Wednesday                          
+1930/12/11     22                  Thursday                           
+1930/12/12     23                  Friday                             
+1930/12/13     24                  Saturday                           
+1930/12/14     25                  Sunday                             
+1930/12/15     26                  Monday                             
+1930/12/16     27                  Tuesday                            
+1930/12/17     28                  Wednesday                          
+1930/12/18     29                  Thursday                           
+1930/12/19     30                  Friday                             
+1930/12/20     11th Lunar month    Saturday                           
+1930/12/21     2                   Sunday                             
+1930/12/22     3                   Monday         Winter Solstice     
+1930/12/23     4                   Tuesday                            
+1930/12/24     5                   Wednesday                          
+1930/12/25     6                   Thursday                           
+1930/12/26     7                   Friday                             
+1930/12/27     8                   Saturday                           
+1930/12/28     9                   Sunday                             
+1930/12/29     10                  Monday                             
+1930/12/30     11                  Tuesday                            
+1930/12/31     12                  Wednesday                          

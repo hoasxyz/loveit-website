@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Base R Plot | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="Base R Plot">
+<link rel="prev" href="/2019/04/2019-04-08-greta-thunberg/" />
+<link rel="next" href="/2019/04/2019-04-18-summary-of-course-design/" />
+<link rel="canonical" href="/2019/04/2019-04-09-base-r-plot/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Base R Plot"/>
+<meta name="twitter:description" content="Base R Plot"/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Base R Plot",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/04\/2019-04-09-base-r-plot\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/cover.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "R",
+    
+    "wordcount":  423 ,
+    "url": "\/2019\/04\/2019-04-09-base-r-plot\/",
+    
+        "datePublished": "2019-04-09T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-04-09T15:13:19\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/logo.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": "Base R Plot"
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">Base R Plot</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i><a href="/categories/fragmentray/">fragmentray</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-04-09>2019-04-09</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 423 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 1 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content always-active">
+                    <nav id="TableOfContents">
+<ul>
+<li><a href="#moving-average-method">moving-average method</a></li>
+<li><a href="#histogram">histogram</a></li>
+</ul>
+</nav>
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        <nav id="TableOfContentsMobile">
+<ul>
+<li><a href="#moving-average-method">moving-average method</a></li>
+<li><a href="#histogram">histogram</a></li>
+</ul>
+</nav>
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>Brief notes about the usage of base R plot.</p>
+
+<a class="post-dummy-target" id="moving-average-method"></a><h1>moving-average method</h1>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">p_load<span class="p">(</span>forecast<span class="p">)</span>
+plot<span class="p">(</span>Nile<span class="p">,</span>
+  main <span class="o">=</span> <span class="s">&#34;年平均流量系列滑动平均法分析&#34;</span><span class="p">,</span> xlab <span class="o">=</span> <span class="s">&#34;年份&#34;</span><span class="p">,</span> ylab <span class="o">=</span> <span class="s">&#34;滑动平均值(立方米/秒)&#34;</span><span class="p">,</span>
+  col <span class="o">=</span> <span class="s">&#34;white&#34;</span>
+<span class="p">)</span>
+sm_ave_4 <span class="o">&lt;-</span> ma<span class="p">(</span>Nile<span class="p">,</span> order <span class="o">=</span> <span class="m">4</span><span class="p">)</span>
+sm_ave_7 <span class="o">&lt;-</span> ma<span class="p">(</span>Nile<span class="p">,</span> order <span class="o">=</span> <span class="m">7</span><span class="p">)</span>
+sm_ave_10 <span class="o">&lt;-</span> ma<span class="p">(</span>Nile<span class="p">,</span> order <span class="o">=</span> <span class="m">10</span><span class="p">)</span>
+lines<span class="p">(</span>sm_ave_4<span class="p">,</span> col <span class="o">=</span> <span class="s">&#34;darkorange4&#34;</span><span class="p">,</span> lty <span class="o">=</span> <span class="m">3</span><span class="p">,</span> lwd <span class="o">=</span> <span class="m">2</span><span class="p">)</span>
+lines<span class="p">(</span>sm_ave_7<span class="p">,</span> col <span class="o">=</span> <span class="s">&#34;blue&#34;</span><span class="p">,</span> lty <span class="o">=</span> <span class="m">2</span><span class="p">,</span> lwd <span class="o">=</span> <span class="m">3</span><span class="p">)</span>
+lines<span class="p">(</span>sm_ave_10<span class="p">,</span> col <span class="o">=</span> <span class="s">&#34;red&#34;</span><span class="p">,</span> lty <span class="o">=</span> <span class="m">1</span><span class="p">,</span> lwd <span class="o">=</span> <span class="m">4</span><span class="p">)</span>
+legend<span class="p">(</span><span class="s">&#34;topright&#34;</span><span class="p">,</span>
+  lty <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="m">3</span><span class="p">,</span> <span class="m">2</span><span class="p">,</span> <span class="m">1</span><span class="p">),</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;m=4&#34;</span><span class="p">,</span> <span class="s">&#34;m=7&#34;</span><span class="p">,</span> <span class="s">&#34;m=10&#34;</span><span class="p">),</span>
+  col <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="s">&#34;darkorange4&#34;</span><span class="p">,</span> <span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="s">&#34;red&#34;</span><span class="p">),</span>
+  lwd <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="m">2</span><span class="p">,</span> <span class="m">3</span><span class="p">,</span> <span class="m">4</span><span class="p">)</span>
+<span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p><img src="/posts/2019-04-09-base-r-plot_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+
+<a class="post-dummy-target" id="histogram"></a><h1>histogram</h1>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">par<span class="p">(</span>mar <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="m">2.1</span><span class="p">,</span> <span class="m">2.1</span><span class="p">,</span> <span class="m">1.5</span><span class="p">,</span> <span class="m">0.5</span><span class="p">))</span>
+plot<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="m">50</span><span class="p">,</span> <span class="m">350</span><span class="p">),</span> <span class="kt">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">10</span><span class="p">),</span>
+  type <span class="o">=</span> <span class="s">&#34;n&#34;</span><span class="p">,</span> font.main <span class="o">=</span> <span class="m">1</span><span class="p">,</span>
+  xlab <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">,</span> ylab <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">,</span> frame.plot <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> axes <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span>
+  <span class="c1"># xlab = &#34;hp&#34;, ylab = &#34;Frequency&#34;,</span>
+  main <span class="o">=</span> <span class="kp">paste</span><span class="p">(</span><span class="s">&#34;Histogram with Base R&#34;</span><span class="p">,</span> <span class="kp">paste</span><span class="p">(</span><span class="kp">rep</span><span class="p">(</span><span class="s">&#34; &#34;</span><span class="p">,</span> <span class="m">56</span><span class="p">),</span> collapse <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">))</span>
+<span class="p">)</span>
+axis<span class="p">(</span>
+  side <span class="o">=</span> <span class="m">1</span><span class="p">,</span> at <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">50</span><span class="p">,</span> <span class="m">350</span><span class="p">,</span> <span class="m">50</span><span class="p">),</span> labels <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">50</span><span class="p">,</span> <span class="m">350</span><span class="p">,</span> <span class="m">50</span><span class="p">),</span>
+  col <span class="o">=</span> <span class="s">&#34;white&#34;</span><span class="p">,</span> tick <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> las <span class="o">=</span> <span class="m">1</span><span class="p">,</span> padj <span class="o">=</span> <span class="m">-1.5</span>
+<span class="p">)</span>
+axis<span class="p">(</span>
+  side <span class="o">=</span> <span class="m">2</span><span class="p">,</span> at <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">10</span><span class="p">,</span> <span class="m">2</span><span class="p">),</span> labels <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">10</span><span class="p">,</span> <span class="m">2</span><span class="p">),</span>
+  <span class="c1"># col = &#34;white&#34;, 坐标轴的颜色</span>
+  <span class="c1"># col.ticks 刻度线的颜色</span>
+  tick <span class="o">=</span> <span class="kc">FALSE</span><span class="p">,</span> <span class="c1"># 取消刻度线</span>
+  las <span class="o">=</span> <span class="m">1</span><span class="p">,</span> <span class="c1"># 水平方向</span>
+  hadj <span class="o">=</span> <span class="m">1</span><span class="p">,</span> <span class="c1"># 右侧对齐</span>
+  mgp <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="m">3</span><span class="p">,</span> <span class="m">0.1</span><span class="p">,</span> <span class="m">0</span><span class="p">)</span> <span class="c1"># 纵轴边距线设置为 0.1</span>
+<span class="p">)</span>
+abline<span class="p">(</span>h <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">10</span><span class="p">,</span> <span class="m">2</span><span class="p">),</span> v <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">50</span><span class="p">,</span> <span class="m">350</span><span class="p">,</span> <span class="m">50</span><span class="p">),</span> col <span class="o">=</span> <span class="s">&#34;gray90&#34;</span><span class="p">,</span> lty <span class="o">=</span> <span class="s">&#34;solid&#34;</span><span class="p">)</span>
+abline<span class="p">(</span>h <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">1</span><span class="p">,</span> <span class="m">9</span><span class="p">,</span> <span class="m">2</span><span class="p">),</span> v <span class="o">=</span> <span class="kp">seq</span><span class="p">(</span><span class="m">75</span><span class="p">,</span> <span class="m">325</span><span class="p">,</span> <span class="m">50</span><span class="p">),</span> col <span class="o">=</span> <span class="s">&#34;gray95&#34;</span><span class="p">,</span> lty <span class="o">=</span> <span class="s">&#34;solid&#34;</span><span class="p">)</span>
+hist<span class="p">(</span>mtcars<span class="o">$</span>hp<span class="p">,</span>
+  col <span class="o">=</span> <span class="s">&#34;#56B4E9&#34;</span><span class="p">,</span> border <span class="o">=</span> <span class="s">&#34;white&#34;</span><span class="p">,</span>
+  freq <span class="o">=</span> <span class="kc">TRUE</span><span class="p">,</span> add <span class="o">=</span> <span class="kc">TRUE</span>
+  <span class="c1"># labels = TRUE, axes = TRUE, ylim = c(0, 10.5),</span>
+  <span class="c1"># xlab = &#34;hp&#34;,main = &#34;Histogram with Base R&#34;</span>
+<span class="p">)</span>
+mtext<span class="p">(</span><span class="s">&#34;hp&#34;</span><span class="p">,</span> <span class="m">1</span><span class="p">,</span> line <span class="o">=</span> <span class="m">1.0</span><span class="p">)</span>
+mtext<span class="p">(</span><span class="s">&#34;Frequency&#34;</span><span class="p">,</span> <span class="m">2</span><span class="p">,</span> line <span class="o">=</span> <span class="m">1.2</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p><img src="/posts/2019-04-09-base-r-plot_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-04-09 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/04/2019-04-09-base-r-plot/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/04/2019-04-08-greta-thunberg/" class="prev" rel="prev" title="Greta Thunberg: 为了环境，停课！"><i class="fas fa-angle-left fa-fw"></i>Greta Thunberg: 为了环境，停课！</a>
+        
+        
+            <a href="/2019/04/2019-04-18-summary-of-course-design/" class="next" rel="next" title="水文水利计算课设总结">水文水利计算课设总结<i class="fas fa-angle-right fa-fw"></i></a>
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2018 - 2019</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

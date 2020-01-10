@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2075 (Yi-wei  -  year of the Goat)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2075/01/01        15                      Tuesday                            
+2075/01/02        16                      Wednesday                          
+2075/01/03        17                      Thursday                           
+2075/01/04        18                      Friday                             
+2075/01/05        19                      Saturday       Moderate Cold       
+2075/01/06        20                      Sunday                             
+2075/01/07        21                      Monday                             
+2075/01/08        22                      Tuesday                            
+2075/01/09        23                      Wednesday                          
+2075/01/10        24                      Thursday                           
+2075/01/11        25                      Friday                             
+2075/01/12        26                      Saturday                           
+2075/01/13        27                      Sunday                             
+2075/01/14        28                      Monday                             
+2075/01/15        29                      Tuesday                            
+2075/01/16        30                      Wednesday                          
+2075/01/17        12th Lunar Month        Thursday                           
+2075/01/18        2                       Friday                             
+2075/01/19        3                       Saturday                           
+2075/01/20        4                       Sunday         Severe Cold         
+2075/01/21        5                       Monday                             
+2075/01/22        6                       Tuesday                            
+2075/01/23        7                       Wednesday                          
+2075/01/24        8                       Thursday                           
+2075/01/25        9                       Friday                             
+2075/01/26        10                      Saturday                           
+2075/01/27        11                      Sunday                             
+2075/01/28        12                      Monday                             
+2075/01/29        13                      Tuesday                            
+2075/01/30        14                      Wednesday                          
+2075/01/31        15                      Thursday                           
+2075/02/01        16                      Friday                             
+2075/02/02        17                      Saturday                           
+2075/02/03        18                      Sunday                             
+2075/02/04        19                      Monday         Spring Commences    
+2075/02/05        20                      Tuesday                            
+2075/02/06        21                      Wednesday                          
+2075/02/07        22                      Thursday                           
+2075/02/08        23                      Friday                             
+2075/02/09        24                      Saturday                           
+2075/02/10        25                      Sunday                             
+2075/02/11        26                      Monday                             
+2075/02/12        27                      Tuesday                            
+2075/02/13        28                      Wednesday                          
+2075/02/14        29                      Thursday                           
+2075/02/15        1st Lunar Month         Friday                             
+2075/02/16        2                       Saturday                           
+2075/02/17        3                       Sunday                             
+2075/02/18        4                       Monday         Spring Showers      
+2075/02/19        5                       Tuesday                            
+2075/02/20        6                       Wednesday                          
+2075/02/21        7                       Thursday                           
+2075/02/22        8                       Friday                             
+2075/02/23        9                       Saturday                           
+2075/02/24        10                      Sunday                             
+2075/02/25        11                      Monday                             
+2075/02/26        12                      Tuesday                            
+2075/02/27        13                      Wednesday                          
+2075/02/28        14                      Thursday                           
+2075/03/01        15                      Friday                             
+2075/03/02        16                      Saturday                           
+2075/03/03        17                      Sunday                             
+2075/03/04        18                      Monday                             
+2075/03/05        19                      Tuesday        Insects Waken       
+2075/03/06        20                      Wednesday                          
+2075/03/07        21                      Thursday                           
+2075/03/08        22                      Friday                             
+2075/03/09        23                      Saturday                           
+2075/03/10        24                      Sunday                             
+2075/03/11        25                      Monday                             
+2075/03/12        26                      Tuesday                            
+2075/03/13        27                      Wednesday                          
+2075/03/14        28                      Thursday                           
+2075/03/15        29                      Friday                             
+2075/03/16        30                      Saturday                           
+2075/03/17        2nd Lunar Month         Sunday                             
+2075/03/18        2                       Monday                             
+2075/03/19        3                       Tuesday                            
+2075/03/20        4                       Wednesday      Vernal Equinox      
+2075/03/21        5                       Thursday                           
+2075/03/22        6                       Friday                             
+2075/03/23        7                       Saturday                           
+2075/03/24        8                       Sunday                             
+2075/03/25        9                       Monday                             
+2075/03/26        10                      Tuesday                            
+2075/03/27        11                      Wednesday                          
+2075/03/28        12                      Thursday                           
+2075/03/29        13                      Friday                             
+2075/03/30        14                      Saturday                           
+2075/03/31        15                      Sunday                             
+2075/04/01        16                      Monday                             
+2075/04/02        17                      Tuesday                            
+2075/04/03        18                      Wednesday                          
+2075/04/04        19                      Thursday       Bright & Clear      
+2075/04/05        20                      Friday                             
+2075/04/06        21                      Saturday                           
+2075/04/07        22                      Sunday                             
+2075/04/08        23                      Monday                             
+2075/04/09        24                      Tuesday                            
+2075/04/10        25                      Wednesday                          
+2075/04/11        26                      Thursday                           
+2075/04/12        27                      Friday                             
+2075/04/13        28                      Saturday                           
+2075/04/14        29                      Sunday                             
+2075/04/15        3rd Lunar Month         Monday                             
+2075/04/16        2                       Tuesday                            
+2075/04/17        3                       Wednesday                          
+2075/04/18        4                       Thursday                           
+2075/04/19        5                       Friday                             
+2075/04/20        6                       Saturday       Corn Rain           
+2075/04/21        7                       Sunday                             
+2075/04/22        8                       Monday                             
+2075/04/23        9                       Tuesday                            
+2075/04/24        10                      Wednesday                          
+2075/04/25        11                      Thursday                           
+2075/04/26        12                      Friday                             
+2075/04/27        13                      Saturday                           
+2075/04/28        14                      Sunday                             
+2075/04/29        15                      Monday                             
+2075/04/30        16                      Tuesday                            
+2075/05/01        17                      Wednesday                          
+2075/05/02        18                      Thursday                           
+2075/05/03        19                      Friday                             
+2075/05/04        20                      Saturday                           
+2075/05/05        21                      Sunday         Summer Commences    
+2075/05/06        22                      Monday                             
+2075/05/07        23                      Tuesday                            
+2075/05/08        24                      Wednesday                          
+2075/05/09        25                      Thursday                           
+2075/05/10        26                      Friday                             
+2075/05/11        27                      Saturday                           
+2075/05/12        28                      Sunday                             
+2075/05/13        29                      Monday                             
+2075/05/14        30                      Tuesday                            
+2075/05/15        4th Lunar Month         Wednesday                          
+2075/05/16        2                       Thursday                           
+2075/05/17        3                       Friday                             
+2075/05/18        4                       Saturday                           
+2075/05/19        5                       Sunday                             
+2075/05/20        6                       Monday                             
+2075/05/21        7                       Tuesday        Corn Forms          
+2075/05/22        8                       Wednesday                          
+2075/05/23        9                       Thursday                           
+2075/05/24        10                      Friday                             
+2075/05/25        11                      Saturday                           
+2075/05/26        12                      Sunday                             
+2075/05/27        13                      Monday                             
+2075/05/28        14                      Tuesday                            
+2075/05/29        15                      Wednesday                          
+2075/05/30        16                      Thursday                           
+2075/05/31        17                      Friday                             
+2075/06/01        18                      Saturday                           
+2075/06/02        19                      Sunday                             
+2075/06/03        20                      Monday                             
+2075/06/04        21                      Tuesday                            
+2075/06/05        22                      Wednesday      Corn on Ear         
+2075/06/06        23                      Thursday                           
+2075/06/07        24                      Friday                             
+2075/06/08        25                      Saturday                           
+2075/06/09        26                      Sunday                             
+2075/06/10        27                      Monday                             
+2075/06/11        28                      Tuesday                            
+2075/06/12        29                      Wednesday                          
+2075/06/13        5th Lunar Month         Thursday                           
+2075/06/14        2                       Friday                             
+2075/06/15        3                       Saturday                           
+2075/06/16        4                       Sunday                             
+2075/06/17        5                       Monday                             
+2075/06/18        6                       Tuesday                            
+2075/06/19        7                       Wednesday                          
+2075/06/20        8                       Thursday                           
+2075/06/21        9                       Friday         Summer Solstice     
+2075/06/22        10                      Saturday                           
+2075/06/23        11                      Sunday                             
+2075/06/24        12                      Monday                             
+2075/06/25        13                      Tuesday                            
+2075/06/26        14                      Wednesday                          
+2075/06/27        15                      Thursday                           
+2075/06/28        16                      Friday                             
+2075/06/29        17                      Saturday                           
+2075/06/30        18                      Sunday                             
+2075/07/01        19                      Monday                             
+2075/07/02        20                      Tuesday                            
+2075/07/03        21                      Wednesday                          
+2075/07/04        22                      Thursday                           
+2075/07/05        23                      Friday                             
+2075/07/06        24                      Saturday                           
+2075/07/07        25                      Sunday         Moderate Heat       
+2075/07/08        26                      Monday                             
+2075/07/09        27                      Tuesday                            
+2075/07/10        28                      Wednesday                          
+2075/07/11        29                      Thursday                           
+2075/07/12        30                      Friday                             
+2075/07/13        6th Lunar Month         Saturday                           
+2075/07/14        2                       Sunday                             
+2075/07/15        3                       Monday                             
+2075/07/16        4                       Tuesday                            
+2075/07/17        5                       Wednesday                          
+2075/07/18        6                       Thursday                           
+2075/07/19        7                       Friday                             
+2075/07/20        8                       Saturday                           
+2075/07/21        9                       Sunday                             
+2075/07/22        10                      Monday         Great Heat          
+2075/07/23        11                      Tuesday                            
+2075/07/24        12                      Wednesday                          
+2075/07/25        13                      Thursday                           
+2075/07/26        14                      Friday                             
+2075/07/27        15                      Saturday                           
+2075/07/28        16                      Sunday                             
+2075/07/29        17                      Monday                             
+2075/07/30        18                      Tuesday                            
+2075/07/31        19                      Wednesday                          
+2075/08/01        20                      Thursday                           
+2075/08/02        21                      Friday                             
+2075/08/03        22                      Saturday                           
+2075/08/04        23                      Sunday                             
+2075/08/05        24                      Monday                             
+2075/08/06        25                      Tuesday                            
+2075/08/07        26                      Wednesday      Autumn Commences    
+2075/08/08        27                      Thursday                           
+2075/08/09        28                      Friday                             
+2075/08/10        29                      Saturday                           
+2075/08/11        30                      Sunday                             
+2075/08/12        7th Lunar Month         Monday                             
+2075/08/13        2                       Tuesday                            
+2075/08/14        3                       Wednesday                          
+2075/08/15        4                       Thursday                           
+2075/08/16        5                       Friday                             
+2075/08/17        6                       Saturday                           
+2075/08/18        7                       Sunday                             
+2075/08/19        8                       Monday                             
+2075/08/20        9                       Tuesday                            
+2075/08/21        10                      Wednesday                          
+2075/08/22        11                      Thursday                           
+2075/08/23        12                      Friday         End of Heat         
+2075/08/24        13                      Saturday                           
+2075/08/25        14                      Sunday                             
+2075/08/26        15                      Monday                             
+2075/08/27        16                      Tuesday                            
+2075/08/28        17                      Wednesday                          
+2075/08/29        18                      Thursday                           
+2075/08/30        19                      Friday                             
+2075/08/31        20                      Saturday                           
+2075/09/01        21                      Sunday                             
+2075/09/02        22                      Monday                             
+2075/09/03        23                      Tuesday                            
+2075/09/04        24                      Wednesday                          
+2075/09/05        25                      Thursday                           
+2075/09/06        26                      Friday                             
+2075/09/07        27                      Saturday       White Dew           
+2075/09/08        28                      Sunday                             
+2075/09/09        29                      Monday                             
+2075/09/10        8th Lunar Month         Tuesday                            
+2075/09/11        2                       Wednesday                          
+2075/09/12        3                       Thursday                           
+2075/09/13        4                       Friday                             
+2075/09/14        5                       Saturday                           
+2075/09/15        6                       Sunday                             
+2075/09/16        7                       Monday                             
+2075/09/17        8                       Tuesday                            
+2075/09/18        9                       Wednesday                          
+2075/09/19        10                      Thursday                           
+2075/09/20        11                      Friday                             
+2075/09/21        12                      Saturday                           
+2075/09/22        13                      Sunday                             
+2075/09/23        14                      Monday         Autumnal Equinox    
+2075/09/24        15                      Tuesday                            
+2075/09/25        16                      Wednesday                          
+2075/09/26        17                      Thursday                           
+2075/09/27        18                      Friday                             
+2075/09/28        19                      Saturday                           
+2075/09/29        20                      Sunday                             
+2075/09/30        21                      Monday                             
+2075/10/01        22                      Tuesday                            
+2075/10/02        23                      Wednesday                          
+2075/10/03        24                      Thursday                           
+2075/10/04        25                      Friday                             
+2075/10/05        26                      Saturday                           
+2075/10/06        27                      Sunday                             
+2075/10/07        28                      Monday                             
+2075/10/08        29                      Tuesday        Cold Dew            
+2075/10/09        30                      Wednesday                          
+2075/10/10        9th Lunar Month         Thursday                           
+2075/10/11        2                       Friday                             
+2075/10/12        3                       Saturday                           
+2075/10/13        4                       Sunday                             
+2075/10/14        5                       Monday                             
+2075/10/15        6                       Tuesday                            
+2075/10/16        7                       Wednesday                          
+2075/10/17        8                       Thursday                           
+2075/10/18        9                       Friday                             
+2075/10/19        10                      Saturday                           
+2075/10/20        11                      Sunday                             
+2075/10/21        12                      Monday                             
+2075/10/22        13                      Tuesday                            
+2075/10/23        14                      Wednesday      Frost               
+2075/10/24        15                      Thursday                           
+2075/10/25        16                      Friday                             
+2075/10/26        17                      Saturday                           
+2075/10/27        18                      Sunday                             
+2075/10/28        19                      Monday                             
+2075/10/29        20                      Tuesday                            
+2075/10/30        21                      Wednesday                          
+2075/10/31        22                      Thursday                           
+2075/11/01        23                      Friday                             
+2075/11/02        24                      Saturday                           
+2075/11/03        25                      Sunday                             
+2075/11/04        26                      Monday                             
+2075/11/05        27                      Tuesday                            
+2075/11/06        28                      Wednesday                          
+2075/11/07        29                      Thursday       Winter Commences    
+2075/11/08        10th Lunar Month        Friday                             
+2075/11/09        2                       Saturday                           
+2075/11/10        3                       Sunday                             
+2075/11/11        4                       Monday                             
+2075/11/12        5                       Tuesday                            
+2075/11/13        6                       Wednesday                          
+2075/11/14        7                       Thursday                           
+2075/11/15        8                       Friday                             
+2075/11/16        9                       Saturday                           
+2075/11/17        10                      Sunday                             
+2075/11/18        11                      Monday                             
+2075/11/19        12                      Tuesday                            
+2075/11/20        13                      Wednesday                          
+2075/11/21        14                      Thursday                           
+2075/11/22        15                      Friday         Light Snow          
+2075/11/23        16                      Saturday                           
+2075/11/24        17                      Sunday                             
+2075/11/25        18                      Monday                             
+2075/11/26        19                      Tuesday                            
+2075/11/27        20                      Wednesday                          
+2075/11/28        21                      Thursday                           
+2075/11/29        22                      Friday                             
+2075/11/30        23                      Saturday                           
+2075/12/01        24                      Sunday                             
+2075/12/02        25                      Monday                             
+2075/12/03        26                      Tuesday                            
+2075/12/04        27                      Wednesday                          
+2075/12/05        28                      Thursday                           
+2075/12/06        29                      Friday                             
+2075/12/07        30                      Saturday       Heavy Snow          
+2075/12/08        11th Lunar Month        Sunday                             
+2075/12/09        2                       Monday                             
+2075/12/10        3                       Tuesday                            
+2075/12/11        4                       Wednesday                          
+2075/12/12        5                       Thursday                           
+2075/12/13        6                       Friday                             
+2075/12/14        7                       Saturday                           
+2075/12/15        8                       Sunday                             
+2075/12/16        9                       Monday                             
+2075/12/17        10                      Tuesday                            
+2075/12/18        11                      Wednesday                          
+2075/12/19        12                      Thursday                           
+2075/12/20        13                      Friday                             
+2075/12/21        14                      Saturday                           
+2075/12/22        15                      Sunday         Winter Solstice     
+2075/12/23        16                      Monday                             
+2075/12/24        17                      Tuesday                            
+2075/12/25        18                      Wednesday                          
+2075/12/26        19                      Thursday                           
+2075/12/27        20                      Friday                             
+2075/12/28        21                      Saturday                           
+2075/12/29        22                      Sunday                             
+2075/12/30        23                      Monday                             
+2075/12/31        24                      Tuesday                            

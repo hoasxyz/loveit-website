@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1903 (Gui-mao - year of the Rabbit)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1903/01/01     3                   Thursday                           
+1903/01/02     4                   Friday                             
+1903/01/03     5                   Saturday                           
+1903/01/04     6                   Sunday                             
+1903/01/05     7                   Monday                             
+1903/01/06     8                   Tuesday        Moderate Cold                    
+1903/01/07     9                   Wednesday             
+1903/01/08     10                  Thursday                           
+1903/01/09     11                  Friday                             
+1903/01/10     12                  Saturday                           
+1903/01/11     13                  Sunday                             
+1903/01/12     14                  Monday                             
+1903/01/13     15                  Tuesday                            
+1903/01/14     16                  Wednesday                          
+1903/01/15     17                  Thursday                           
+1903/01/16     18                  Friday                             
+1903/01/17     19                  Saturday                           
+1903/01/18     20                  Sunday                             
+1903/01/19     21                  Monday                             
+1903/01/20     22                  Tuesday                            
+1903/01/21     23                  Wednesday      Severe Cold         
+1903/01/22     24                  Thursday                           
+1903/01/23     25                  Friday                             
+1903/01/24     26                  Saturday                           
+1903/01/25     27                  Sunday                             
+1903/01/26     28                  Monday                             
+1903/01/27     29                  Tuesday                            
+1903/01/28     30                  Wednesday                          
+1903/01/29     1st Lunar month     Thursday                           
+1903/01/30     2                   Friday                             
+1903/01/31     3                   Saturday                           
+1903/02/01     4                   Sunday                             
+1903/02/02     5                   Monday                             
+1903/02/03     6                   Tuesday                            
+1903/02/04     7                   Wednesday                          
+1903/02/05     8                   Thursday       Spring Commences    
+1903/02/06     9                   Friday                             
+1903/02/07     10                  Saturday                           
+1903/02/08     11                  Sunday                             
+1903/02/09     12                  Monday                             
+1903/02/10     13                  Tuesday                            
+1903/02/11     14                  Wednesday                          
+1903/02/12     15                  Thursday                           
+1903/02/13     16                  Friday                             
+1903/02/14     17                  Saturday                           
+1903/02/15     18                  Sunday                             
+1903/02/16     19                  Monday                             
+1903/02/17     20                  Tuesday                            
+1903/02/18     21                  Wednesday                          
+1903/02/19     22                  Thursday                           
+1903/02/20     23                  Friday         Spring Showers      
+1903/02/21     24                  Saturday                           
+1903/02/22     25                  Sunday                             
+1903/02/23     26                  Monday                          
+1903/02/24     27                  Tuesday                            
+1903/02/25     28                  Wednesday                          
+1903/02/26     29                  Thursday                           
+1903/02/27     2nd Lunar month     Friday                             
+1903/02/28     2                   Saturday                           
+1903/03/01     3                   Sunday                             
+1903/03/02     4                   Monday                             
+1903/03/03     5                   Tuesday                            
+1903/03/04     6                   Wednesday                          
+1903/03/05     7                   Thursday                           
+1903/03/06     8                   Friday               
+1903/03/07     9                   Saturday       Insects Waken                     
+1903/03/08     10                  Sunday                             
+1903/03/09     11                  Monday                             
+1903/03/10     12                  Tuesday                            
+1903/03/11     13                  Wednesday                          
+1903/03/12     14                  Thursday                           
+1903/03/13     15                  Friday                             
+1903/03/14     16                  Saturday                           
+1903/03/15     17                  Sunday                             
+1903/03/16     18                  Monday                             
+1903/03/17     19                  Tuesday                            
+1903/03/18     20                  Wednesday                          
+1903/03/19     21                  Thursday                           
+1903/03/20     22                  Friday                             
+1903/03/21     23                  Saturday             
+1903/03/22     24                  Sunday         Vernal Equinox                    
+1903/03/23     25                  Monday                             
+1903/03/24     26                  Tuesday                            
+1903/03/25     27                  Wednesday                          
+1903/03/26     28                  Thursday                           
+1903/03/27     29                  Friday                             
+1903/03/28     30                  Saturday                           
+1903/03/29     3rd Lunar month     Sunday                             
+1903/03/30     2                   Monday                             
+1903/03/31     3                   Tuesday                            
+1903/04/01     4                   Wednesday                          
+1903/04/02     5                   Thursday                           
+1903/04/03     6                   Friday                             
+1903/04/04     7                   Saturday                           
+1903/04/05     8                   Sunday               
+1903/04/06     9                   Monday         Bright & Clear                    
+1903/04/07     10                  Tuesday                            
+1903/04/08     11                  Wednesday                          
+1903/04/09     12                  Thursday                           
+1903/04/10     13                  Friday                             
+1903/04/11     14                  Saturday                           
+1903/04/12     15                  Sunday                             
+1903/04/13     16                  Monday                             
+1903/04/14     17                  Tuesday                            
+1903/04/15     18                  Wednesday                          
+1903/04/16     19                  Thursday                           
+1903/04/17     20                  Friday                             
+1903/04/18     21                  Saturday                           
+1903/04/19     22                  Sunday                             
+1903/04/20     23                  Monday                    
+1903/04/21     24                  Tuesday        Corn Rain                    
+1903/04/22     25                  Wednesday                          
+1903/04/23     26                  Thursday                           
+1903/04/24     27                  Friday                             
+1903/04/25     28                  Saturday                           
+1903/04/26     29                  Sunday                             
+1903/04/27     4th Lunar month     Monday                             
+1903/04/28     2                   Tuesday                            
+1903/04/29     3                   Wednesday                          
+1903/04/30     4                   Thursday                           
+1903/05/01     5                   Friday                             
+1903/05/02     6                   Saturday                           
+1903/05/03     7                   Sunday                             
+1903/05/04     8                   Monday                             
+1903/05/05     9                   Tuesday                            
+1903/05/06     10                  Wednesday          
+1903/05/07     11                  Thursday       Summer Commences                    
+1903/05/08     12                  Friday                             
+1903/05/09     13                  Saturday                           
+1903/05/10     14                  Sunday                             
+1903/05/11     15                  Monday                             
+1903/05/12     16                  Tuesday                            
+1903/05/13     17                  Wednesday                          
+1903/05/14     18                  Thursday                           
+1903/05/15     19                  Friday                             
+1903/05/16     20                  Saturday                           
+1903/05/17     21                  Sunday                             
+1903/05/18     22                  Monday                             
+1903/05/19     23                  Tuesday                            
+1903/05/20     24                  Wednesday                          
+1903/05/21     25                  Thursday                 
+1903/05/22     26                  Friday         Corn Forms                    
+1903/05/23     27                  Saturday                           
+1903/05/24     28                  Sunday                             
+1903/05/25     29                  Monday                             
+1903/05/26     30                  Tuesday                            
+1903/05/27     5th Lunar month     Wednesday                          
+1903/05/28     2                   Thursday                           
+1903/05/29     3                   Friday                             
+1903/05/30     4                   Saturday                           
+1903/05/31     5                   Sunday                             
+1903/06/01     6                   Monday                             
+1903/06/02     7                   Tuesday                            
+1903/06/03     8                   Wednesday                          
+1903/06/04     9                   Thursday                           
+1903/06/05     10                  Friday                             
+1903/06/06     11                  Saturday                
+1903/06/07     12                  Sunday         Corn on Ear                    
+1903/06/08     13                  Monday                             
+1903/06/09     14                  Tuesday                            
+1903/06/10     15                  Wednesday                          
+1903/06/11     16                  Thursday                           
+1903/06/12     17                  Friday                             
+1903/06/13     18                  Saturday                           
+1903/06/14     19                  Sunday                             
+1903/06/15     20                  Monday                             
+1903/06/16     21                  Tuesday                            
+1903/06/17     22                  Wednesday                          
+1903/06/18     23                  Thursday                           
+1903/06/19     24                  Friday                             
+1903/06/20     25                  Saturday                           
+1903/06/21     26                  Sunday                             
+1903/06/22     27                  Monday         Summer Solstice     
+1903/06/23     28                  Tuesday                            
+1903/06/24     29                  Wednesday                          
+1903/06/25     5th Lunar month     Thursday                           
+1903/06/26     2                   Friday                             
+1903/06/27     3                   Saturday                           
+1903/06/28     4                   Sunday                             
+1903/06/29     5                   Monday                             
+1903/06/30     6                   Tuesday                            
+1903/07/01     7                   Wednesday                          
+1903/07/02     8                   Thursday                           
+1903/07/03     9                   Friday                             
+1903/07/04     10                  Saturday                           
+1903/07/05     11                  Sunday                             
+1903/07/06     12                  Monday                             
+1903/07/07     13                  Tuesday               
+1903/07/08     14                  Wednesday      Moderate Heat                    
+1903/07/09     15                  Thursday                           
+1903/07/10     16                  Friday                             
+1903/07/11     17                  Saturday                           
+1903/07/12     18                  Sunday                             
+1903/07/13     19                  Monday                             
+1903/07/14     20                  Tuesday                            
+1903/07/15     21                  Wednesday                          
+1903/07/16     22                  Thursday                           
+1903/07/17     23                  Friday                             
+1903/07/18     24                  Saturday                           
+1903/07/19     25                  Sunday                             
+1903/07/20     26                  Monday                             
+1903/07/21     27                  Tuesday                            
+1903/07/22     28                  Wednesday                          
+1903/07/23     29                  Thursday                 
+1903/07/24     6th Lunar month     Friday         Great Heat                    
+1903/07/25     2                   Saturday                           
+1903/07/26     3                   Sunday                             
+1903/07/27     4                   Monday                             
+1903/07/28     5                   Tuesday                            
+1903/07/29     6                   Wednesday                          
+1903/07/30     7                   Thursday                           
+1903/07/31     8                   Friday                             
+1903/08/01     9                   Saturday                           
+1903/08/02     10                  Sunday                             
+1903/08/03     11                  Monday                             
+1903/08/04     12                  Tuesday                            
+1903/08/05     13                  Wednesday                          
+1903/08/06     14                  Thursday                           
+1903/08/07     15                  Friday                             
+1903/08/08     16                  Saturday          
+1903/08/09     17                  Sunday         Autumn Commences                     
+1903/08/10     18                  Monday                             
+1903/08/11     19                  Tuesday                            
+1903/08/12     20                  Wednesday                          
+1903/08/13     21                  Thursday                           
+1903/08/14     22                  Friday                             
+1903/08/15     23                  Saturday                           
+1903/08/16     24                  Sunday                             
+1903/08/17     25                  Monday                             
+1903/08/18     26                  Tuesday                            
+1903/08/19     27                  Wednesday                          
+1903/08/20     28                  Thursday                           
+1903/08/21     29                  Friday                             
+1903/08/22     30                  Saturday                           
+1903/08/23     7th Lunar month     Sunday                  
+1903/08/24     2                   Monday         End of Heat                    
+1903/08/25     3                   Tuesday                            
+1903/08/26     4                   Wednesday                          
+1903/08/27     5                   Thursday                           
+1903/08/28     6                   Friday                             
+1903/08/29     7                   Saturday                           
+1903/08/30     8                   Sunday                             
+1903/08/31     9                   Monday                             
+1903/09/01     10                  Tuesday                            
+1903/09/02     11                  Wednesday                          
+1903/09/03     12                  Thursday                           
+1903/09/04     13                  Friday                             
+1903/09/05     14                  Saturday                           
+1903/09/06     15                  Sunday                             
+1903/09/07     16                  Monday                             
+1903/09/08     17                  Tuesday                   
+1903/09/09     18                  Wednesday      White Dew                    
+1903/09/10     19                  Thursday                           
+1903/09/11     20                  Friday                             
+1903/09/12     21                  Saturday                           
+1903/09/13     22                  Sunday                             
+1903/09/14     23                  Monday                             
+1903/09/15     24                  Tuesday                            
+1903/09/16     25                  Wednesday                          
+1903/09/17     26                  Thursday                           
+1903/09/18     27                  Friday                             
+1903/09/19     28                  Saturday                           
+1903/09/20     29                  Sunday                             
+1903/09/21     8th Lunar month     Monday                             
+1903/09/22     2                   Tuesday                            
+1903/09/23     3                   Wednesday          
+1903/09/24     4                   Thursday       Autumnal Equinox                    
+1903/09/25     5                   Friday                             
+1903/09/26     6                   Saturday                           
+1903/09/27     7                   Sunday                             
+1903/09/28     8                   Monday                             
+1903/09/29     9                   Tuesday                            
+1903/09/30     10                  Wednesday                          
+1903/10/01     11                  Thursday                           
+1903/10/02     12                  Friday                             
+1903/10/03     13                  Saturday                           
+1903/10/04     14                  Sunday                             
+1903/10/05     15                  Monday                             
+1903/10/06     16                  Tuesday                            
+1903/10/07     17                  Wednesday                          
+1903/10/08     18                  Thursday                           
+1903/10/09     19                  Friday         Cold Dew            
+1903/10/10     20                  Saturday                           
+1903/10/11     21                  Sunday                             
+1903/10/12     22                  Monday                             
+1903/10/13     23                  Tuesday                            
+1903/10/14     24                  Wednesday                          
+1903/10/15     25                  Thursday                           
+1903/10/16     26                  Friday                             
+1903/10/17     27                  Saturday                           
+1903/10/18     28                  Sunday                             
+1903/10/19     29                  Monday                             
+1903/10/20     9th Lunar month     Tuesday                            
+1903/10/21     2                   Wednesday                          
+1903/10/22     3                   Thursday                           
+1903/10/23     4                   Friday                             
+1903/10/24     5                   Saturday       Frost               
+1903/10/25     6                   Sunday                             
+1903/10/26     7                   Monday                             
+1903/10/27     8                   Tuesday                            
+1903/10/28     9                   Wednesday                          
+1903/10/29     10                  Thursday                           
+1903/10/30     11                  Friday                             
+1903/10/31     12                  Saturday                           
+1903/11/01     13                  Sunday                             
+1903/11/02     14                  Monday                             
+1903/11/03     15                  Tuesday                            
+1903/11/04     16                  Wednesday                          
+1903/11/05     17                  Thursday                           
+1903/11/06     18                  Friday                             
+1903/11/07     19                  Saturday                           
+1903/11/08     20                  Sunday         Winter Commences    
+1903/11/09     21                  Monday                             
+1903/11/10     22                  Tuesday                            
+1903/11/11     23                  Wednesday                          
+1903/11/12     24                  Thursday                           
+1903/11/13     25                  Friday                             
+1903/11/14     26                  Saturday                           
+1903/11/15     27                  Sunday                             
+1903/11/16     28                  Monday                             
+1903/11/17     29                  Tuesday                            
+1903/11/18     30                  Wednesday                          
+1903/11/19     10th Lunar month    Thursday                           
+1903/11/20     2                   Friday                             
+1903/11/21     3                   Saturday                           
+1903/11/22     4                   Sunday                             
+1903/11/23     5                   Monday         Light Snow          
+1903/11/24     6                   Tuesday                            
+1903/11/25     7                   Wednesday                          
+1903/11/26     8                   Thursday                           
+1903/11/27     9                   Friday                             
+1903/11/28     10                  Saturday                           
+1903/11/29     11                  Sunday                             
+1903/11/30     12                  Monday                             
+1903/12/01     13                  Tuesday                            
+1903/12/02     14                  Wednesday                          
+1903/12/03     15                  Thursday                           
+1903/12/04     16                  Friday                             
+1903/12/05     17                  Saturday                           
+1903/12/06     18                  Sunday                             
+1903/12/07     19                  Monday                   
+1903/12/08     20                  Tuesday        Heavy Snow                    
+1903/12/09     21                  Wednesday                          
+1903/12/10     22                  Thursday                           
+1903/12/11     23                  Friday                             
+1903/12/12     24                  Saturday                           
+1903/12/13     25                  Sunday                             
+1903/12/14     26                  Monday                             
+1903/12/15     27                  Tuesday                            
+1903/12/16     28                  Wednesday                          
+1903/12/17     29                  Thursday                           
+1903/12/18     30                  Friday                             
+1903/12/19     11th Lunar month    Saturday                           
+1903/12/20     2                   Sunday                             
+1903/12/21     3                   Monday                             
+1903/12/22     4                   Tuesday             
+1903/12/23     5                   Wednesday      Winter Solstice                    
+1903/12/24     6                   Thursday                           
+1903/12/25     7                   Friday                             
+1903/12/26     8                   Saturday                           
+1903/12/27     9                   Sunday                             
+1903/12/28     10                  Monday                             
+1903/12/29     11                  Tuesday                            
+1903/12/30     12                  Wednesday                          
+1903/12/31     13                  Thursday                           

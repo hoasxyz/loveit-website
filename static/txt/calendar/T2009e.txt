@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2009 (Ji-chou ¡V year of the Ox)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2009/01/01     6                   Thursday                           
+2009/01/02     7                   Friday                             
+2009/01/03     8                   Saturday                           
+2009/01/04     9                   Sunday                             
+2009/01/05     10                  Monday         Moderate Cold       
+2009/01/06     11                  Tuesday                            
+2009/01/07     12                  Wednesday                          
+2009/01/08     13                  Thursday                           
+2009/01/09     14                  Friday                             
+2009/01/10     15                  Saturday                           
+2009/01/11     16                  Sunday                             
+2009/01/12     17                  Monday                             
+2009/01/13     18                  Tuesday                            
+2009/01/14     19                  Wednesday                          
+2009/01/15     20                  Thursday                           
+2009/01/16     21                  Friday                             
+2009/01/17     22                  Saturday                           
+2009/01/18     23                  Sunday                             
+2009/01/19     24                  Monday                             
+2009/01/20     25                  Tuesday        Severe Cold         
+2009/01/21     26                  Wednesday                          
+2009/01/22     27                  Thursday                           
+2009/01/23     28                  Friday                             
+2009/01/24     29                  Saturday                           
+2009/01/25     30                  Sunday                             
+2009/01/26     1st Lunar month     Monday                             
+2009/01/27     2                   Tuesday                            
+2009/01/28     3                   Wednesday                          
+2009/01/29     4                   Thursday                           
+2009/01/30     5                   Friday                             
+2009/01/31     6                   Saturday                           
+2009/02/01     7                   Sunday                             
+2009/02/02     8                   Monday                             
+2009/02/03     9                   Tuesday                            
+2009/02/04     10                  Wednesday      Spring Commences    
+2009/02/05     11                  Thursday                           
+2009/02/06     12                  Friday                             
+2009/02/07     13                  Saturday                           
+2009/02/08     14                  Sunday                             
+2009/02/09     15                  Monday                             
+2009/02/10     16                  Tuesday                            
+2009/02/11     17                  Wednesday                          
+2009/02/12     18                  Thursday                           
+2009/02/13     19                  Friday                             
+2009/02/14     20                  Saturday                           
+2009/02/15     21                  Sunday                             
+2009/02/16     22                  Monday                             
+2009/02/17     23                  Tuesday                            
+2009/02/18     24                  Wednesday      Spring Showers      
+2009/02/19     25                  Thursday                           
+2009/02/20     26                  Friday                             
+2009/02/21     27                  Saturday                           
+2009/02/22     28                  Sunday                             
+2009/02/23     29                  Monday                             
+2009/02/24     30                  Tuesday                            
+2009/02/25     2nd Lunar month     Wednesday                          
+2009/02/26     2                   Thursday                           
+2009/02/27     3                   Friday                             
+2009/02/28     4                   Saturday                           
+2009/03/01     5                   Sunday                             
+2009/03/02     6                   Monday                             
+2009/03/03     7                   Tuesday                            
+2009/03/04     8                   Wednesday                          
+2009/03/05     9                   Thursday       Insects Waken       
+2009/03/06     10                  Friday                             
+2009/03/07     11                  Saturday                           
+2009/03/08     12                  Sunday                             
+2009/03/09     13                  Monday                             
+2009/03/10     14                  Tuesday                            
+2009/03/11     15                  Wednesday                          
+2009/03/12     16                  Thursday                           
+2009/03/13     17                  Friday                             
+2009/03/14     18                  Saturday                           
+2009/03/15     19                  Sunday                             
+2009/03/16     20                  Monday                             
+2009/03/17     21                  Tuesday                            
+2009/03/18     22                  Wednesday                          
+2009/03/19     23                  Thursday                           
+2009/03/20     24                  Friday         Vernal Equinox      
+2009/03/21     25                  Saturday                           
+2009/03/22     26                  Sunday                             
+2009/03/23     27                  Monday                             
+2009/03/24     28                  Tuesday                            
+2009/03/25     29                  Wednesday                          
+2009/03/26     30                  Thursday                           
+2009/03/27     3rd Lunar month     Friday                             
+2009/03/28     2                   Saturday                           
+2009/03/29     3                   Sunday                             
+2009/03/30     4                   Monday                             
+2009/03/31     5                   Tuesday                            
+2009/04/01     6                   Wednesday                          
+2009/04/02     7                   Thursday                           
+2009/04/03     8                   Friday                             
+2009/04/04     9                   Saturday       Bright & Clear      
+2009/04/05     10                  Sunday                             
+2009/04/06     11                  Monday                             
+2009/04/07     12                  Tuesday                            
+2009/04/08     13                  Wednesday                          
+2009/04/09     14                  Thursday                           
+2009/04/10     15                  Friday                             
+2009/04/11     16                  Saturday                           
+2009/04/12     17                  Sunday                             
+2009/04/13     18                  Monday                             
+2009/04/14     19                  Tuesday                            
+2009/04/15     20                  Wednesday                          
+2009/04/16     21                  Thursday                           
+2009/04/17     22                  Friday                             
+2009/04/18     23                  Saturday                           
+2009/04/19     24                  Sunday                             
+2009/04/20     25                  Monday         Corn Rain           
+2009/04/21     26                  Tuesday                            
+2009/04/22     27                  Wednesday                          
+2009/04/23     28                  Thursday                           
+2009/04/24     29                  Friday                             
+2009/04/25     4th Lunar month     Saturday                           
+2009/04/26     2                   Sunday                             
+2009/04/27     3                   Monday                             
+2009/04/28     4                   Tuesday                            
+2009/04/29     5                   Wednesday                          
+2009/04/30     6                   Thursday                           
+2009/05/01     7                   Friday                             
+2009/05/02     8                   Saturday                           
+2009/05/03     9                   Sunday                             
+2009/05/04     10                  Monday                             
+2009/05/05     11                  Tuesday        Summer Commences    
+2009/05/06     12                  Wednesday                          
+2009/05/07     13                  Thursday                           
+2009/05/08     14                  Friday                             
+2009/05/09     15                  Saturday                           
+2009/05/10     16                  Sunday                             
+2009/05/11     17                  Monday                             
+2009/05/12     18                  Tuesday                            
+2009/05/13     19                  Wednesday                          
+2009/05/14     20                  Thursday                           
+2009/05/15     21                  Friday                             
+2009/05/16     22                  Saturday                           
+2009/05/17     23                  Sunday                             
+2009/05/18     24                  Monday                             
+2009/05/19     25                  Tuesday                            
+2009/05/20     26                  Wednesday                          
+2009/05/21     27                  Thursday       Corn Forms          
+2009/05/22     28                  Friday                             
+2009/05/23     29                  Saturday                           
+2009/05/24     5th Lunar month     Sunday                             
+2009/05/25     2                   Monday                             
+2009/05/26     3                   Tuesday                            
+2009/05/27     4                   Wednesday                          
+2009/05/28     5                   Thursday                           
+2009/05/29     6                   Friday                             
+2009/05/30     7                   Saturday                           
+2009/05/31     8                   Sunday                             
+2009/06/01     9                   Monday                             
+2009/06/02     10                  Tuesday                            
+2009/06/03     11                  Wednesday                          
+2009/06/04     12                  Thursday                           
+2009/06/05     13                  Friday         Corn on Ear         
+2009/06/06     14                  Saturday                           
+2009/06/07     15                  Sunday                             
+2009/06/08     16                  Monday                             
+2009/06/09     17                  Tuesday                            
+2009/06/10     18                  Wednesday                          
+2009/06/11     19                  Thursday                           
+2009/06/12     20                  Friday                             
+2009/06/13     21                  Saturday                           
+2009/06/14     22                  Sunday                             
+2009/06/15     23                  Monday                             
+2009/06/16     24                  Tuesday                            
+2009/06/17     25                  Wednesday                          
+2009/06/18     26                  Thursday                           
+2009/06/19     27                  Friday                             
+2009/06/20     28                  Saturday                           
+2009/06/21     29                  Sunday         Summer Solstice     
+2009/06/22     30                  Monday                             
+2009/06/23     5th Lunar month     Tuesday                            
+2009/06/24     2                   Wednesday                          
+2009/06/25     3                   Thursday                           
+2009/06/26     4                   Friday                             
+2009/06/27     5                   Saturday                           
+2009/06/28     6                   Sunday                             
+2009/06/29     7                   Monday                             
+2009/06/30     8                   Tuesday                            
+2009/07/01     9                   Wednesday                          
+2009/07/02     10                  Thursday                           
+2009/07/03     11                  Friday                             
+2009/07/04     12                  Saturday                           
+2009/07/05     13                  Sunday                             
+2009/07/06     14                  Monday                             
+2009/07/07     15                  Tuesday        Moderate Heat       
+2009/07/08     16                  Wednesday                          
+2009/07/09     17                  Thursday                           
+2009/07/10     18                  Friday                             
+2009/07/11     19                  Saturday                           
+2009/07/12     20                  Sunday                             
+2009/07/13     21                  Monday                             
+2009/07/14     22                  Tuesday                            
+2009/07/15     23                  Wednesday                          
+2009/07/16     24                  Thursday                           
+2009/07/17     25                  Friday                             
+2009/07/18     26                  Saturday                           
+2009/07/19     27                  Sunday                             
+2009/07/20     28                  Monday                             
+2009/07/21     29                  Tuesday                            
+2009/07/22     6th Lunar month     Wednesday                          
+2009/07/23     2                   Thursday       Great Heat          
+2009/07/24     3                   Friday                             
+2009/07/25     4                   Saturday                           
+2009/07/26     5                   Sunday                             
+2009/07/27     6                   Monday                             
+2009/07/28     7                   Tuesday                            
+2009/07/29     8                   Wednesday                          
+2009/07/30     9                   Thursday                           
+2009/07/31     10                  Friday                             
+2009/08/01     11                  Saturday                           
+2009/08/02     12                  Sunday                             
+2009/08/03     13                  Monday                             
+2009/08/04     14                  Tuesday                            
+2009/08/05     15                  Wednesday                          
+2009/08/06     16                  Thursday                           
+2009/08/07     17                  Friday         Autumn Commences    
+2009/08/08     18                  Saturday                           
+2009/08/09     19                  Sunday                             
+2009/08/10     20                  Monday                             
+2009/08/11     21                  Tuesday                            
+2009/08/12     22                  Wednesday                          
+2009/08/13     23                  Thursday                           
+2009/08/14     24                  Friday                             
+2009/08/15     25                  Saturday                           
+2009/08/16     26                  Sunday                             
+2009/08/17     27                  Monday                             
+2009/08/18     28                  Tuesday                            
+2009/08/19     29                  Wednesday                          
+2009/08/20     7th Lunar month     Thursday                           
+2009/08/21     2                   Friday                             
+2009/08/22     3                   Saturday                           
+2009/08/23     4                   Sunday         End of Heat         
+2009/08/24     5                   Monday                             
+2009/08/25     6                   Tuesday                            
+2009/08/26     7                   Wednesday                          
+2009/08/27     8                   Thursday                           
+2009/08/28     9                   Friday                             
+2009/08/29     10                  Saturday                           
+2009/08/30     11                  Sunday                             
+2009/08/31     12                  Monday                             
+2009/09/01     13                  Tuesday                            
+2009/09/02     14                  Wednesday                          
+2009/09/03     15                  Thursday                           
+2009/09/04     16                  Friday                             
+2009/09/05     17                  Saturday                           
+2009/09/06     18                  Sunday                             
+2009/09/07     19                  Monday         White Dew           
+2009/09/08     20                  Tuesday                            
+2009/09/09     21                  Wednesday                          
+2009/09/10     22                  Thursday                           
+2009/09/11     23                  Friday                             
+2009/09/12     24                  Saturday                           
+2009/09/13     25                  Sunday                             
+2009/09/14     26                  Monday                             
+2009/09/15     27                  Tuesday                            
+2009/09/16     28                  Wednesday                          
+2009/09/17     29                  Thursday                           
+2009/09/18     30                  Friday                             
+2009/09/19     8th Lunar month     Saturday                           
+2009/09/20     2                   Sunday                             
+2009/09/21     3                   Monday                             
+2009/09/22     4                   Tuesday                            
+2009/09/23     5                   Wednesday      Autumnal Equinox    
+2009/09/24     6                   Thursday                           
+2009/09/25     7                   Friday                             
+2009/09/26     8                   Saturday                           
+2009/09/27     9                   Sunday                             
+2009/09/28     10                  Monday                             
+2009/09/29     11                  Tuesday                            
+2009/09/30     12                  Wednesday                          
+2009/10/01     13                  Thursday                           
+2009/10/02     14                  Friday                             
+2009/10/03     15                  Saturday                           
+2009/10/04     16                  Sunday                             
+2009/10/05     17                  Monday                             
+2009/10/06     18                  Tuesday                            
+2009/10/07     19                  Wednesday                          
+2009/10/08     20                  Thursday       Cold Dew            
+2009/10/09     21                  Friday                             
+2009/10/10     22                  Saturday                           
+2009/10/11     23                  Sunday                             
+2009/10/12     24                  Monday                             
+2009/10/13     25                  Tuesday                            
+2009/10/14     26                  Wednesday                          
+2009/10/15     27                  Thursday                           
+2009/10/16     28                  Friday                             
+2009/10/17     29                  Saturday                           
+2009/10/18     9th Lunar month     Sunday                             
+2009/10/19     2                   Monday                             
+2009/10/20     3                   Tuesday                            
+2009/10/21     4                   Wednesday                          
+2009/10/22     5                   Thursday                           
+2009/10/23     6                   Friday         Frost               
+2009/10/24     7                   Saturday                           
+2009/10/25     8                   Sunday                             
+2009/10/26     9                   Monday                             
+2009/10/27     10                  Tuesday                            
+2009/10/28     11                  Wednesday                          
+2009/10/29     12                  Thursday                           
+2009/10/30     13                  Friday                             
+2009/10/31     14                  Saturday                           
+2009/11/01     15                  Sunday                             
+2009/11/02     16                  Monday                             
+2009/11/03     17                  Tuesday                            
+2009/11/04     18                  Wednesday                          
+2009/11/05     19                  Thursday                           
+2009/11/06     20                  Friday                             
+2009/11/07     21                  Saturday       Winter Commences    
+2009/11/08     22                  Sunday                             
+2009/11/09     23                  Monday                             
+2009/11/10     24                  Tuesday                            
+2009/11/11     25                  Wednesday                          
+2009/11/12     26                  Thursday                           
+2009/11/13     27                  Friday                             
+2009/11/14     28                  Saturday                           
+2009/11/15     29                  Sunday                             
+2009/11/16     30                  Monday                             
+2009/11/17     10th Lunar month    Tuesday                            
+2009/11/18     2                   Wednesday                          
+2009/11/19     3                   Thursday                           
+2009/11/20     4                   Friday                             
+2009/11/21     5                   Saturday                           
+2009/11/22     6                   Sunday         Light Snow          
+2009/11/23     7                   Monday                             
+2009/11/24     8                   Tuesday                            
+2009/11/25     9                   Wednesday                          
+2009/11/26     10                  Thursday                           
+2009/11/27     11                  Friday                             
+2009/11/28     12                  Saturday                           
+2009/11/29     13                  Sunday                             
+2009/11/30     14                  Monday                             
+2009/12/01     15                  Tuesday                            
+2009/12/02     16                  Wednesday                          
+2009/12/03     17                  Thursday                           
+2009/12/04     18                  Friday                             
+2009/12/05     19                  Saturday                           
+2009/12/06     20                  Sunday                             
+2009/12/07     21                  Monday         Heavy Snow          
+2009/12/08     22                  Tuesday                            
+2009/12/09     23                  Wednesday                          
+2009/12/10     24                  Thursday                           
+2009/12/11     25                  Friday                             
+2009/12/12     26                  Saturday                           
+2009/12/13     27                  Sunday                             
+2009/12/14     28                  Monday                             
+2009/12/15     29                  Tuesday                            
+2009/12/16     11th Lunar month    Wednesday                          
+2009/12/17     2                   Thursday                           
+2009/12/18     3                   Friday                             
+2009/12/19     4                   Saturday                           
+2009/12/20     5                   Sunday                             
+2009/12/21     6                   Monday                             
+2009/12/22     7                   Tuesday        Winter Solstice     
+2009/12/23     8                   Wednesday                          
+2009/12/24     9                   Thursday                           
+2009/12/25     10                  Friday                             
+2009/12/26     11                  Saturday                           
+2009/12/27     12                  Sunday                             
+2009/12/28     13                  Monday                             
+2009/12/29     14                  Tuesday                            
+2009/12/30     15                  Wednesday                          
+2009/12/31     16                  Thursday                           

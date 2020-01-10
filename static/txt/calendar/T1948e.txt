@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1948 (Wu-zi ¡V year of the Mouse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1948/01/01     21                  Thursday                           
+1948/01/02     22                  Friday                             
+1948/01/03     23                  Saturday                           
+1948/01/04     24                  Sunday                             
+1948/01/05     25                  Monday                             
+1948/01/06     26                  Tuesday        Moderate Cold       
+1948/01/07     27                  Wednesday                          
+1948/01/08     28                  Thursday                           
+1948/01/09     29                  Friday                             
+1948/01/10     30                  Saturday                           
+1948/01/11     12th Lunar month    Sunday                             
+1948/01/12     2                   Monday                             
+1948/01/13     3                   Tuesday                            
+1948/01/14     4                   Wednesday                          
+1948/01/15     5                   Thursday                           
+1948/01/16     6                   Friday                             
+1948/01/17     7                   Saturday                           
+1948/01/18     8                   Sunday                             
+1948/01/19     9                   Monday                             
+1948/01/20     10                  Tuesday                            
+1948/01/21     11                  Wednesday      Severe Cold         
+1948/01/22     12                  Thursday                           
+1948/01/23     13                  Friday                             
+1948/01/24     14                  Saturday                           
+1948/01/25     15                  Sunday                             
+1948/01/26     16                  Monday                             
+1948/01/27     17                  Tuesday                            
+1948/01/28     18                  Wednesday                          
+1948/01/29     19                  Thursday                           
+1948/01/30     20                  Friday                             
+1948/01/31     21                  Saturday                           
+1948/02/01     22                  Sunday                             
+1948/02/02     23                  Monday                             
+1948/02/03     24                  Tuesday                            
+1948/02/04     25                  Wednesday                          
+1948/02/05     26                  Thursday       Spring Commences    
+1948/02/06     27                  Friday                             
+1948/02/07     28                  Saturday                           
+1948/02/08     29                  Sunday                             
+1948/02/09     30                  Monday                             
+1948/02/10     1st Lunar month     Tuesday                            
+1948/02/11     2                   Wednesday                          
+1948/02/12     3                   Thursday                           
+1948/02/13     4                   Friday                             
+1948/02/14     5                   Saturday                           
+1948/02/15     6                   Sunday                             
+1948/02/16     7                   Monday                             
+1948/02/17     8                   Tuesday                            
+1948/02/18     9                   Wednesday                          
+1948/02/19     10                  Thursday                           
+1948/02/20     11                  Friday         Spring Showers      
+1948/02/21     12                  Saturday                           
+1948/02/22     13                  Sunday                             
+1948/02/23     14                  Monday                             
+1948/02/24     15                  Tuesday                            
+1948/02/25     16                  Wednesday                          
+1948/02/26     17                  Thursday                           
+1948/02/27     18                  Friday                             
+1948/02/28     19                  Saturday                           
+1948/02/29     20                  Sunday                             
+1948/03/01     21                  Monday                             
+1948/03/02     22                  Tuesday                            
+1948/03/03     23                  Wednesday                          
+1948/03/04     24                  Thursday                           
+1948/03/05     25                  Friday         Insects Waken       
+1948/03/06     26                  Saturday                           
+1948/03/07     27                  Sunday                             
+1948/03/08     28                  Monday                             
+1948/03/09     29                  Tuesday                            
+1948/03/10     30                  Wednesday                          
+1948/03/11     2nd Lunar month     Thursday                           
+1948/03/12     2                   Friday                             
+1948/03/13     3                   Saturday                           
+1948/03/14     4                   Sunday                             
+1948/03/15     5                   Monday                             
+1948/03/16     6                   Tuesday                            
+1948/03/17     7                   Wednesday                          
+1948/03/18     8                   Thursday                           
+1948/03/19     9                   Friday                             
+1948/03/20     10                  Saturday                           
+1948/03/21     11                  Sunday         Vernal Equinox      
+1948/03/22     12                  Monday                             
+1948/03/23     13                  Tuesday                            
+1948/03/24     14                  Wednesday                          
+1948/03/25     15                  Thursday                           
+1948/03/26     16                  Friday                             
+1948/03/27     17                  Saturday                           
+1948/03/28     18                  Sunday                             
+1948/03/29     19                  Monday                             
+1948/03/30     20                  Tuesday                            
+1948/03/31     21                  Wednesday                          
+1948/04/01     22                  Thursday                           
+1948/04/02     23                  Friday                             
+1948/04/03     24                  Saturday                           
+1948/04/04     25                  Sunday                             
+1948/04/05     26                  Monday         Bright & Clear      
+1948/04/06     27                  Tuesday                            
+1948/04/07     28                  Wednesday                          
+1948/04/08     29                  Thursday                           
+1948/04/09     3rd Lunar month     Friday                             
+1948/04/10     2                   Saturday                           
+1948/04/11     3                   Sunday                             
+1948/04/12     4                   Monday                             
+1948/04/13     5                   Tuesday                            
+1948/04/14     6                   Wednesday                          
+1948/04/15     7                   Thursday                           
+1948/04/16     8                   Friday                             
+1948/04/17     9                   Saturday                           
+1948/04/18     10                  Sunday                             
+1948/04/19     11                  Monday                             
+1948/04/20     12                  Tuesday        Corn Rain           
+1948/04/21     13                  Wednesday                          
+1948/04/22     14                  Thursday                           
+1948/04/23     15                  Friday                             
+1948/04/24     16                  Saturday                           
+1948/04/25     17                  Sunday                             
+1948/04/26     18                  Monday                             
+1948/04/27     19                  Tuesday                            
+1948/04/28     20                  Wednesday                          
+1948/04/29     21                  Thursday                           
+1948/04/30     22                  Friday                             
+1948/05/01     23                  Saturday                           
+1948/05/02     24                  Sunday                             
+1948/05/03     25                  Monday                             
+1948/05/04     26                  Tuesday                            
+1948/05/05     27                  Wednesday      Summer Commences    
+1948/05/06     28                  Thursday                           
+1948/05/07     29                  Friday                             
+1948/05/08     30                  Saturday                           
+1948/05/09     4th Lunar month     Sunday                             
+1948/05/10     2                   Monday                             
+1948/05/11     3                   Tuesday                            
+1948/05/12     4                   Wednesday                          
+1948/05/13     5                   Thursday                           
+1948/05/14     6                   Friday                             
+1948/05/15     7                   Saturday                           
+1948/05/16     8                   Sunday                             
+1948/05/17     9                   Monday                             
+1948/05/18     10                  Tuesday                            
+1948/05/19     11                  Wednesday                          
+1948/05/20     12                  Thursday                           
+1948/05/21     13                  Friday         Corn Forms          
+1948/05/22     14                  Saturday                           
+1948/05/23     15                  Sunday                             
+1948/05/24     16                  Monday                             
+1948/05/25     17                  Tuesday                            
+1948/05/26     18                  Wednesday                          
+1948/05/27     19                  Thursday                           
+1948/05/28     20                  Friday                             
+1948/05/29     21                  Saturday                           
+1948/05/30     22                  Sunday                             
+1948/05/31     23                  Monday                             
+1948/06/01     24                  Tuesday                            
+1948/06/02     25                  Wednesday                          
+1948/06/03     26                  Thursday                           
+1948/06/04     27                  Friday                             
+1948/06/05     28                  Saturday                           
+1948/06/06     29                  Sunday         Corn on Ear         
+1948/06/07     5th Lunar month     Monday                             
+1948/06/08     2                   Tuesday                            
+1948/06/09     3                   Wednesday                          
+1948/06/10     4                   Thursday                           
+1948/06/11     5                   Friday                             
+1948/06/12     6                   Saturday                           
+1948/06/13     7                   Sunday                             
+1948/06/14     8                   Monday                             
+1948/06/15     9                   Tuesday                            
+1948/06/16     10                  Wednesday                          
+1948/06/17     11                  Thursday                           
+1948/06/18     12                  Friday                             
+1948/06/19     13                  Saturday                           
+1948/06/20     14                  Sunday                             
+1948/06/21     15                  Monday         Summer Solstice     
+1948/06/22     16                  Tuesday                            
+1948/06/23     17                  Wednesday                          
+1948/06/24     18                  Thursday                           
+1948/06/25     19                  Friday                             
+1948/06/26     20                  Saturday                           
+1948/06/27     21                  Sunday                             
+1948/06/28     22                  Monday                             
+1948/06/29     23                  Tuesday                            
+1948/06/30     24                  Wednesday                          
+1948/07/01     25                  Thursday                           
+1948/07/02     26                  Friday                             
+1948/07/03     27                  Saturday                           
+1948/07/04     28                  Sunday                             
+1948/07/05     29                  Monday                             
+1948/07/06     30                  Tuesday                            
+1948/07/07     6th Lunar month     Wednesday      Moderate Heat       
+1948/07/08     2                   Thursday                           
+1948/07/09     3                   Friday                             
+1948/07/10     4                   Saturday                           
+1948/07/11     5                   Sunday                             
+1948/07/12     6                   Monday                             
+1948/07/13     7                   Tuesday                            
+1948/07/14     8                   Wednesday                          
+1948/07/15     9                   Thursday                           
+1948/07/16     10                  Friday                             
+1948/07/17     11                  Saturday                           
+1948/07/18     12                  Sunday                             
+1948/07/19     13                  Monday                             
+1948/07/20     14                  Tuesday                            
+1948/07/21     15                  Wednesday                          
+1948/07/22     16                  Thursday                           
+1948/07/23     17                  Friday         Great Heat          
+1948/07/24     18                  Saturday                           
+1948/07/25     19                  Sunday                             
+1948/07/26     20                  Monday                             
+1948/07/27     21                  Tuesday                            
+1948/07/28     22                  Wednesday                          
+1948/07/29     23                  Thursday                           
+1948/07/30     24                  Friday                             
+1948/07/31     25                  Saturday                           
+1948/08/01     26                  Sunday                             
+1948/08/02     27                  Monday                             
+1948/08/03     28                  Tuesday                            
+1948/08/04     29                  Wednesday                          
+1948/08/05     7th Lunar month     Thursday                           
+1948/08/06     2                   Friday                             
+1948/08/07     3                   Saturday       Autumn Commences    
+1948/08/08     4                   Sunday                             
+1948/08/09     5                   Monday                             
+1948/08/10     6                   Tuesday                            
+1948/08/11     7                   Wednesday                          
+1948/08/12     8                   Thursday                           
+1948/08/13     9                   Friday                             
+1948/08/14     10                  Saturday                           
+1948/08/15     11                  Sunday                             
+1948/08/16     12                  Monday                             
+1948/08/17     13                  Tuesday                            
+1948/08/18     14                  Wednesday                          
+1948/08/19     15                  Thursday                           
+1948/08/20     16                  Friday                             
+1948/08/21     17                  Saturday                           
+1948/08/22     18                  Sunday                             
+1948/08/23     19                  Monday         End of Heat         
+1948/08/24     20                  Tuesday                            
+1948/08/25     21                  Wednesday                          
+1948/08/26     22                  Thursday                           
+1948/08/27     23                  Friday                             
+1948/08/28     24                  Saturday                           
+1948/08/29     25                  Sunday                             
+1948/08/30     26                  Monday                             
+1948/08/31     27                  Tuesday                            
+1948/09/01     28                  Wednesday                          
+1948/09/02     29                  Thursday                           
+1948/09/03     8th Lunar month     Friday                             
+1948/09/04     2                   Saturday                           
+1948/09/05     3                   Sunday                             
+1948/09/06     4                   Monday                             
+1948/09/07     5                   Tuesday                            
+1948/09/08     6                   Wednesday      White Dew           
+1948/09/09     7                   Thursday                           
+1948/09/10     8                   Friday                             
+1948/09/11     9                   Saturday                           
+1948/09/12     10                  Sunday                             
+1948/09/13     11                  Monday                             
+1948/09/14     12                  Tuesday                            
+1948/09/15     13                  Wednesday                          
+1948/09/16     14                  Thursday                           
+1948/09/17     15                  Friday                             
+1948/09/18     16                  Saturday                           
+1948/09/19     17                  Sunday                             
+1948/09/20     18                  Monday                             
+1948/09/21     19                  Tuesday                            
+1948/09/22     20                  Wednesday                          
+1948/09/23     21                  Thursday       Autumnal Equinox    
+1948/09/24     22                  Friday                             
+1948/09/25     23                  Saturday                           
+1948/09/26     24                  Sunday                             
+1948/09/27     25                  Monday                             
+1948/09/28     26                  Tuesday                            
+1948/09/29     27                  Wednesday                          
+1948/09/30     28                  Thursday                           
+1948/10/01     29                  Friday                             
+1948/10/02     30                  Saturday                           
+1948/10/03     9th Lunar month     Sunday                             
+1948/10/04     2                   Monday                             
+1948/10/05     3                   Tuesday                            
+1948/10/06     4                   Wednesday                          
+1948/10/07     5                   Thursday                           
+1948/10/08     6                   Friday         Cold Dew            
+1948/10/09     7                   Saturday                           
+1948/10/10     8                   Sunday                             
+1948/10/11     9                   Monday                             
+1948/10/12     10                  Tuesday                            
+1948/10/13     11                  Wednesday                          
+1948/10/14     12                  Thursday                           
+1948/10/15     13                  Friday                             
+1948/10/16     14                  Saturday                           
+1948/10/17     15                  Sunday                             
+1948/10/18     16                  Monday                             
+1948/10/19     17                  Tuesday                            
+1948/10/20     18                  Wednesday                          
+1948/10/21     19                  Thursday                           
+1948/10/22     20                  Friday                             
+1948/10/23     21                  Saturday       Frost               
+1948/10/24     22                  Sunday                             
+1948/10/25     23                  Monday                             
+1948/10/26     24                  Tuesday                            
+1948/10/27     25                  Wednesday                          
+1948/10/28     26                  Thursday                           
+1948/10/29     27                  Friday                             
+1948/10/30     28                  Saturday                           
+1948/10/31     29                  Sunday                             
+1948/11/01     10th Lunar month    Monday                             
+1948/11/02     2                   Tuesday                            
+1948/11/03     3                   Wednesday                          
+1948/11/04     4                   Thursday                           
+1948/11/05     5                   Friday                             
+1948/11/06     6                   Saturday                           
+1948/11/07     7                   Sunday         Winter Commences    
+1948/11/08     8                   Monday                             
+1948/11/09     9                   Tuesday                            
+1948/11/10     10                  Wednesday                          
+1948/11/11     11                  Thursday                           
+1948/11/12     12                  Friday                             
+1948/11/13     13                  Saturday                           
+1948/11/14     14                  Sunday                             
+1948/11/15     15                  Monday                             
+1948/11/16     16                  Tuesday                            
+1948/11/17     17                  Wednesday                          
+1948/11/18     18                  Thursday                           
+1948/11/19     19                  Friday                             
+1948/11/20     20                  Saturday                           
+1948/11/21     21                  Sunday                             
+1948/11/22     22                  Monday         Light Snow          
+1948/11/23     23                  Tuesday                            
+1948/11/24     24                  Wednesday                          
+1948/11/25     25                  Thursday                           
+1948/11/26     26                  Friday                             
+1948/11/27     27                  Saturday                           
+1948/11/28     28                  Sunday                             
+1948/11/29     29                  Monday                             
+1948/11/30     30                  Tuesday                            
+1948/12/01     11th Lunar month    Wednesday                          
+1948/12/02     2                   Thursday                           
+1948/12/03     3                   Friday                             
+1948/12/04     4                   Saturday                           
+1948/12/05     5                   Sunday                             
+1948/12/06     6                   Monday                             
+1948/12/07     7                   Tuesday        Heavy Snow          
+1948/12/08     8                   Wednesday                          
+1948/12/09     9                   Thursday                           
+1948/12/10     10                  Friday                             
+1948/12/11     11                  Saturday                           
+1948/12/12     12                  Sunday                             
+1948/12/13     13                  Monday                             
+1948/12/14     14                  Tuesday                            
+1948/12/15     15                  Wednesday                          
+1948/12/16     16                  Thursday                           
+1948/12/17     17                  Friday                             
+1948/12/18     18                  Saturday                           
+1948/12/19     19                  Sunday                             
+1948/12/20     20                  Monday                             
+1948/12/21     21                  Tuesday                            
+1948/12/22     22                  Wednesday      Winter Solstice     
+1948/12/23     23                  Thursday                           
+1948/12/24     24                  Friday                             
+1948/12/25     25                  Saturday                           
+1948/12/26     26                  Sunday                             
+1948/12/27     27                  Monday                             
+1948/12/28     28                  Tuesday                            
+1948/12/29     29                  Wednesday                          
+1948/12/30     12th Lunar month    Thursday                           
+1948/12/31     2                   Friday                             
+
+In 1948, summer time was enforced during 2 May to 31 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1931 (Xin-wei ¡V year of the Goat)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1931/01/01     13                  Thursday                           
+1931/01/02     14                  Friday                             
+1931/01/03     15                  Saturday                           
+1931/01/04     16                  Sunday                             
+1931/01/05     17                  Monday                             
+1931/01/06     18                  Tuesday        Moderate Cold       
+1931/01/07     19                  Wednesday                          
+1931/01/08     20                  Thursday                           
+1931/01/09     21                  Friday                             
+1931/01/10     22                  Saturday                           
+1931/01/11     23                  Sunday                             
+1931/01/12     24                  Monday                             
+1931/01/13     25                  Tuesday                            
+1931/01/14     26                  Wednesday                          
+1931/01/15     27                  Thursday                           
+1931/01/16     28                  Friday                             
+1931/01/17     29                  Saturday                           
+1931/01/18     30                  Sunday                             
+1931/01/19     12th Lunar month    Monday                             
+1931/01/20     2                   Tuesday                            
+1931/01/21     3                   Wednesday      Severe Cold         
+1931/01/22     4                   Thursday                           
+1931/01/23     5                   Friday                             
+1931/01/24     6                   Saturday                           
+1931/01/25     7                   Sunday                             
+1931/01/26     8                   Monday                             
+1931/01/27     9                   Tuesday                            
+1931/01/28     10                  Wednesday                          
+1931/01/29     11                  Thursday                           
+1931/01/30     12                  Friday                             
+1931/01/31     13                  Saturday                           
+1931/02/01     14                  Sunday                             
+1931/02/02     15                  Monday                             
+1931/02/03     16                  Tuesday                            
+1931/02/04     17                  Wednesday                          
+1931/02/05     18                  Thursday       Spring Commences    
+1931/02/06     19                  Friday                             
+1931/02/07     20                  Saturday                           
+1931/02/08     21                  Sunday                             
+1931/02/09     22                  Monday                             
+1931/02/10     23                  Tuesday                            
+1931/02/11     24                  Wednesday                          
+1931/02/12     25                  Thursday                           
+1931/02/13     26                  Friday                             
+1931/02/14     27                  Saturday                           
+1931/02/15     28                  Sunday                             
+1931/02/16     29                  Monday                             
+1931/02/17     1st Lunar month     Tuesday                            
+1931/02/18     2                   Wednesday                          
+1931/02/19     3                   Thursday       Spring Showers      
+1931/02/20     4                   Friday                             
+1931/02/21     5                   Saturday                           
+1931/02/22     6                   Sunday                             
+1931/02/23     7                   Monday                             
+1931/02/24     8                   Tuesday                            
+1931/02/25     9                   Wednesday                          
+1931/02/26     10                  Thursday                           
+1931/02/27     11                  Friday                             
+1931/02/28     12                  Saturday                           
+1931/03/01     13                  Sunday                             
+1931/03/02     14                  Monday                             
+1931/03/03     15                  Tuesday                            
+1931/03/04     16                  Wednesday                          
+1931/03/05     17                  Thursday                           
+1931/03/06     18                  Friday         Insects Waken       
+1931/03/07     19                  Saturday                           
+1931/03/08     20                  Sunday                             
+1931/03/09     21                  Monday                             
+1931/03/10     22                  Tuesday                            
+1931/03/11     23                  Wednesday                          
+1931/03/12     24                  Thursday                           
+1931/03/13     25                  Friday                             
+1931/03/14     26                  Saturday                           
+1931/03/15     27                  Sunday                             
+1931/03/16     28                  Monday                             
+1931/03/17     29                  Tuesday                            
+1931/03/18     30                  Wednesday                          
+1931/03/19     2nd Lunar month     Thursday                           
+1931/03/20     2                   Friday                             
+1931/03/21     3                   Saturday       Vernal Equinox      
+1931/03/22     4                   Sunday                             
+1931/03/23     5                   Monday                             
+1931/03/24     6                   Tuesday                            
+1931/03/25     7                   Wednesday                          
+1931/03/26     8                   Thursday                           
+1931/03/27     9                   Friday                             
+1931/03/28     10                  Saturday                           
+1931/03/29     11                  Sunday                             
+1931/03/30     12                  Monday                             
+1931/03/31     13                  Tuesday                            
+1931/04/01     14                  Wednesday                          
+1931/04/02     15                  Thursday                           
+1931/04/03     16                  Friday                             
+1931/04/04     17                  Saturday                           
+1931/04/05     18                  Sunday                             
+1931/04/06     19                  Monday         Bright & Clear      
+1931/04/07     20                  Tuesday                            
+1931/04/08     21                  Wednesday                          
+1931/04/09     22                  Thursday                           
+1931/04/10     23                  Friday                             
+1931/04/11     24                  Saturday                           
+1931/04/12     25                  Sunday                             
+1931/04/13     26                  Monday                             
+1931/04/14     27                  Tuesday                            
+1931/04/15     28                  Wednesday                          
+1931/04/16     29                  Thursday                           
+1931/04/17     30                  Friday                             
+1931/04/18     3rd Lunar month     Saturday                           
+1931/04/19     2                   Sunday                             
+1931/04/20     3                   Monday                             
+1931/04/21     4                   Tuesday        Corn Rain           
+1931/04/22     5                   Wednesday                          
+1931/04/23     6                   Thursday                           
+1931/04/24     7                   Friday                             
+1931/04/25     8                   Saturday                           
+1931/04/26     9                   Sunday                             
+1931/04/27     10                  Monday                             
+1931/04/28     11                  Tuesday                            
+1931/04/29     12                  Wednesday                          
+1931/04/30     13                  Thursday                           
+1931/05/01     14                  Friday                             
+1931/05/02     15                  Saturday                           
+1931/05/03     16                  Sunday                             
+1931/05/04     17                  Monday                             
+1931/05/05     18                  Tuesday                            
+1931/05/06     19                  Wednesday      Summer Commences    
+1931/05/07     20                  Thursday                           
+1931/05/08     21                  Friday                             
+1931/05/09     22                  Saturday                           
+1931/05/10     23                  Sunday                             
+1931/05/11     24                  Monday                             
+1931/05/12     25                  Tuesday                            
+1931/05/13     26                  Wednesday                          
+1931/05/14     27                  Thursday                           
+1931/05/15     28                  Friday                             
+1931/05/16     29                  Saturday                           
+1931/05/17     4th Lunar month     Sunday                             
+1931/05/18     2                   Monday                             
+1931/05/19     3                   Tuesday                            
+1931/05/20     4                   Wednesday                          
+1931/05/21     5                   Thursday                           
+1931/05/22     6                   Friday         Corn Forms          
+1931/05/23     7                   Saturday                           
+1931/05/24     8                   Sunday                             
+1931/05/25     9                   Monday                             
+1931/05/26     10                  Tuesday                            
+1931/05/27     11                  Wednesday                          
+1931/05/28     12                  Thursday                           
+1931/05/29     13                  Friday                             
+1931/05/30     14                  Saturday                           
+1931/05/31     15                  Sunday                             
+1931/06/01     16                  Monday                             
+1931/06/02     17                  Tuesday                            
+1931/06/03     18                  Wednesday                          
+1931/06/04     19                  Thursday                           
+1931/06/05     20                  Friday                             
+1931/06/06     21                  Saturday                           
+1931/06/07     22                  Sunday         Corn on Ear         
+1931/06/08     23                  Monday                             
+1931/06/09     24                  Tuesday                            
+1931/06/10     25                  Wednesday                          
+1931/06/11     26                  Thursday                           
+1931/06/12     27                  Friday                             
+1931/06/13     28                  Saturday                           
+1931/06/14     29                  Sunday                             
+1931/06/15     30                  Monday                             
+1931/06/16     5th Lunar month     Tuesday                            
+1931/06/17     2                   Wednesday                          
+1931/06/18     3                   Thursday                           
+1931/06/19     4                   Friday                             
+1931/06/20     5                   Saturday                           
+1931/06/21     6                   Sunday                             
+1931/06/22     7                   Monday         Summer Solstice     
+1931/06/23     8                   Tuesday                            
+1931/06/24     9                   Wednesday                          
+1931/06/25     10                  Thursday                           
+1931/06/26     11                  Friday                             
+1931/06/27     12                  Saturday                           
+1931/06/28     13                  Sunday                             
+1931/06/29     14                  Monday                             
+1931/06/30     15                  Tuesday                            
+1931/07/01     16                  Wednesday                          
+1931/07/02     17                  Thursday                           
+1931/07/03     18                  Friday                             
+1931/07/04     19                  Saturday                           
+1931/07/05     20                  Sunday                             
+1931/07/06     21                  Monday                             
+1931/07/07     22                  Tuesday                            
+1931/07/08     23                  Wednesday      Moderate Heat       
+1931/07/09     24                  Thursday                           
+1931/07/10     25                  Friday                             
+1931/07/11     26                  Saturday                           
+1931/07/12     27                  Sunday                             
+1931/07/13     28                  Monday                             
+1931/07/14     29                  Tuesday                            
+1931/07/15     6th Lunar month     Wednesday                          
+1931/07/16     2                   Thursday                           
+1931/07/17     3                   Friday                             
+1931/07/18     4                   Saturday                           
+1931/07/19     5                   Sunday                             
+1931/07/20     6                   Monday                             
+1931/07/21     7                   Tuesday                            
+1931/07/22     8                   Wednesday                          
+1931/07/23     9                   Thursday                           
+1931/07/24     10                  Friday         Great Heat          
+1931/07/25     11                  Saturday                           
+1931/07/26     12                  Sunday                             
+1931/07/27     13                  Monday                             
+1931/07/28     14                  Tuesday                            
+1931/07/29     15                  Wednesday                          
+1931/07/30     16                  Thursday                           
+1931/07/31     17                  Friday                             
+1931/08/01     18                  Saturday                           
+1931/08/02     19                  Sunday                             
+1931/08/03     20                  Monday                             
+1931/08/04     21                  Tuesday                            
+1931/08/05     22                  Wednesday                          
+1931/08/06     23                  Thursday                           
+1931/08/07     24                  Friday                             
+1931/08/08     25                  Saturday       Autumn Commences    
+1931/08/09     26                  Sunday                             
+1931/08/10     27                  Monday                             
+1931/08/11     28                  Tuesday                            
+1931/08/12     29                  Wednesday                          
+1931/08/13     30                  Thursday                           
+1931/08/14     7th Lunar month     Friday                             
+1931/08/15     2                   Saturday                           
+1931/08/16     3                   Sunday                             
+1931/08/17     4                   Monday                             
+1931/08/18     5                   Tuesday                            
+1931/08/19     6                   Wednesday                          
+1931/08/20     7                   Thursday                           
+1931/08/21     8                   Friday                             
+1931/08/22     9                   Saturday                           
+1931/08/23     10                  Sunday                             
+1931/08/24     11                  Monday         End of Heat         
+1931/08/25     12                  Tuesday                            
+1931/08/26     13                  Wednesday                          
+1931/08/27     14                  Thursday                           
+1931/08/28     15                  Friday                             
+1931/08/29     16                  Saturday                           
+1931/08/30     17                  Sunday                             
+1931/08/31     18                  Monday                             
+1931/09/01     19                  Tuesday                            
+1931/09/02     20                  Wednesday                          
+1931/09/03     21                  Thursday                           
+1931/09/04     22                  Friday                             
+1931/09/05     23                  Saturday                           
+1931/09/06     24                  Sunday                             
+1931/09/07     25                  Monday                             
+1931/09/08     26                  Tuesday        White Dew           
+1931/09/09     27                  Wednesday                          
+1931/09/10     28                  Thursday                           
+1931/09/11     29                  Friday                             
+1931/09/12     8th Lunar month     Saturday                           
+1931/09/13     2                   Sunday                             
+1931/09/14     3                   Monday                             
+1931/09/15     4                   Tuesday                            
+1931/09/16     5                   Wednesday                          
+1931/09/17     6                   Thursday                           
+1931/09/18     7                   Friday                             
+1931/09/19     8                   Saturday                           
+1931/09/20     9                   Sunday                             
+1931/09/21     10                  Monday                             
+1931/09/22     11                  Tuesday                            
+1931/09/23     12                  Wednesday                          
+1931/09/24     13                  Thursday       Autumnal Equinox    
+1931/09/25     14                  Friday                             
+1931/09/26     15                  Saturday                           
+1931/09/27     16                  Sunday                             
+1931/09/28     17                  Monday                             
+1931/09/29     18                  Tuesday                            
+1931/09/30     19                  Wednesday                          
+1931/10/01     20                  Thursday                           
+1931/10/02     21                  Friday                             
+1931/10/03     22                  Saturday                           
+1931/10/04     23                  Sunday                             
+1931/10/05     24                  Monday                             
+1931/10/06     25                  Tuesday                            
+1931/10/07     26                  Wednesday                          
+1931/10/08     27                  Thursday                           
+1931/10/09     28                  Friday         Cold Dew            
+1931/10/10     29                  Saturday                           
+1931/10/11     9th Lunar month     Sunday                             
+1931/10/12     2                   Monday                             
+1931/10/13     3                   Tuesday                            
+1931/10/14     4                   Wednesday                          
+1931/10/15     5                   Thursday                           
+1931/10/16     6                   Friday                             
+1931/10/17     7                   Saturday                           
+1931/10/18     8                   Sunday                             
+1931/10/19     9                   Monday                             
+1931/10/20     10                  Tuesday                            
+1931/10/21     11                  Wednesday                          
+1931/10/22     12                  Thursday                           
+1931/10/23     13                  Friday                             
+1931/10/24     14                  Saturday       Frost               
+1931/10/25     15                  Sunday                             
+1931/10/26     16                  Monday                             
+1931/10/27     17                  Tuesday                            
+1931/10/28     18                  Wednesday                          
+1931/10/29     19                  Thursday                           
+1931/10/30     20                  Friday                             
+1931/10/31     21                  Saturday                           
+1931/11/01     22                  Sunday                             
+1931/11/02     23                  Monday                             
+1931/11/03     24                  Tuesday                            
+1931/11/04     25                  Wednesday                          
+1931/11/05     26                  Thursday                           
+1931/11/06     27                  Friday                             
+1931/11/07     28                  Saturday                           
+1931/11/08     29                  Sunday         Winter Commences    
+1931/11/09     30                  Monday                             
+1931/11/10     10th Lunar month    Tuesday                            
+1931/11/11     2                   Wednesday                          
+1931/11/12     3                   Thursday                           
+1931/11/13     4                   Friday                             
+1931/11/14     5                   Saturday                           
+1931/11/15     6                   Sunday                             
+1931/11/16     7                   Monday                             
+1931/11/17     8                   Tuesday                            
+1931/11/18     9                   Wednesday                          
+1931/11/19     10                  Thursday                           
+1931/11/20     11                  Friday                             
+1931/11/21     12                  Saturday                           
+1931/11/22     13                  Sunday                             
+1931/11/23     14                  Monday         Light Snow          
+1931/11/24     15                  Tuesday                            
+1931/11/25     16                  Wednesday                          
+1931/11/26     17                  Thursday                           
+1931/11/27     18                  Friday                             
+1931/11/28     19                  Saturday                           
+1931/11/29     20                  Sunday                             
+1931/11/30     21                  Monday                             
+1931/12/01     22                  Tuesday                            
+1931/12/02     23                  Wednesday                          
+1931/12/03     24                  Thursday                           
+1931/12/04     25                  Friday                             
+1931/12/05     26                  Saturday                           
+1931/12/06     27                  Sunday                             
+1931/12/07     28                  Monday                             
+1931/12/08     29                  Tuesday        Heavy Snow          
+1931/12/09     11th Lunar month    Wednesday                          
+1931/12/10     2                   Thursday                           
+1931/12/11     3                   Friday                             
+1931/12/12     4                   Saturday                           
+1931/12/13     5                   Sunday                             
+1931/12/14     6                   Monday                             
+1931/12/15     7                   Tuesday                            
+1931/12/16     8                   Wednesday                          
+1931/12/17     9                   Thursday                           
+1931/12/18     10                  Friday                             
+1931/12/19     11                  Saturday                           
+1931/12/20     12                  Sunday                             
+1931/12/21     13                  Monday                             
+1931/12/22     14                  Tuesday                            
+1931/12/23     15                  Wednesday      Winter Solstice     
+1931/12/24     16                  Thursday                           
+1931/12/25     17                  Friday                             
+1931/12/26     18                  Saturday                           
+1931/12/27     19                  Sunday                             
+1931/12/28     20                  Monday                             
+1931/12/29     21                  Tuesday                            
+1931/12/30     22                  Wednesday                          
+1931/12/31     23                  Thursday                           

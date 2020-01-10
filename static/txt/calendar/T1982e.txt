@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1982 (Ren-xu ¡V year of the Dog)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1982/01/01     7                   Friday                             
+1982/01/02     8                   Saturday                           
+1982/01/03     9                   Sunday                             
+1982/01/04     10                  Monday                             
+1982/01/05     11                  Tuesday                            
+1982/01/06     12                  Wednesday      Moderate Cold       
+1982/01/07     13                  Thursday                           
+1982/01/08     14                  Friday                             
+1982/01/09     15                  Saturday                           
+1982/01/10     16                  Sunday                             
+1982/01/11     17                  Monday                             
+1982/01/12     18                  Tuesday                            
+1982/01/13     19                  Wednesday                          
+1982/01/14     20                  Thursday                           
+1982/01/15     21                  Friday                             
+1982/01/16     22                  Saturday                           
+1982/01/17     23                  Sunday                             
+1982/01/18     24                  Monday                             
+1982/01/19     25                  Tuesday                            
+1982/01/20     26                  Wednesday      Severe Cold         
+1982/01/21     27                  Thursday                           
+1982/01/22     28                  Friday                             
+1982/01/23     29                  Saturday                           
+1982/01/24     30                  Sunday                             
+1982/01/25     1st Lunar month     Monday                             
+1982/01/26     2                   Tuesday                            
+1982/01/27     3                   Wednesday                          
+1982/01/28     4                   Thursday                           
+1982/01/29     5                   Friday                             
+1982/01/30     6                   Saturday                           
+1982/01/31     7                   Sunday                             
+1982/02/01     8                   Monday                             
+1982/02/02     9                   Tuesday                            
+1982/02/03     10                  Wednesday                          
+1982/02/04     11                  Thursday       Spring Commences    
+1982/02/05     12                  Friday                             
+1982/02/06     13                  Saturday                           
+1982/02/07     14                  Sunday                             
+1982/02/08     15                  Monday                             
+1982/02/09     16                  Tuesday                            
+1982/02/10     17                  Wednesday                          
+1982/02/11     18                  Thursday                           
+1982/02/12     19                  Friday                             
+1982/02/13     20                  Saturday                           
+1982/02/14     21                  Sunday                             
+1982/02/15     22                  Monday                             
+1982/02/16     23                  Tuesday                            
+1982/02/17     24                  Wednesday                          
+1982/02/18     25                  Thursday                           
+1982/02/19     26                  Friday         Spring Showers      
+1982/02/20     27                  Saturday                           
+1982/02/21     28                  Sunday                             
+1982/02/22     29                  Monday                             
+1982/02/23     30                  Tuesday                            
+1982/02/24     2nd Lunar month     Wednesday                          
+1982/02/25     2                   Thursday                           
+1982/02/26     3                   Friday                             
+1982/02/27     4                   Saturday                           
+1982/02/28     5                   Sunday                             
+1982/03/01     6                   Monday                             
+1982/03/02     7                   Tuesday                            
+1982/03/03     8                   Wednesday                          
+1982/03/04     9                   Thursday                           
+1982/03/05     10                  Friday                             
+1982/03/06     11                  Saturday       Insects Waken       
+1982/03/07     12                  Sunday                             
+1982/03/08     13                  Monday                             
+1982/03/09     14                  Tuesday                            
+1982/03/10     15                  Wednesday                          
+1982/03/11     16                  Thursday                           
+1982/03/12     17                  Friday                             
+1982/03/13     18                  Saturday                           
+1982/03/14     19                  Sunday                             
+1982/03/15     20                  Monday                             
+1982/03/16     21                  Tuesday                            
+1982/03/17     22                  Wednesday                          
+1982/03/18     23                  Thursday                           
+1982/03/19     24                  Friday                             
+1982/03/20     25                  Saturday                           
+1982/03/21     26                  Sunday         Vernal Equinox      
+1982/03/22     27                  Monday                             
+1982/03/23     28                  Tuesday                            
+1982/03/24     29                  Wednesday                          
+1982/03/25     3rd Lunar month     Thursday                           
+1982/03/26     2                   Friday                             
+1982/03/27     3                   Saturday                           
+1982/03/28     4                   Sunday                             
+1982/03/29     5                   Monday                             
+1982/03/30     6                   Tuesday                            
+1982/03/31     7                   Wednesday                          
+1982/04/01     8                   Thursday                           
+1982/04/02     9                   Friday                             
+1982/04/03     10                  Saturday                           
+1982/04/04     11                  Sunday                             
+1982/04/05     12                  Monday         Bright & Clear      
+1982/04/06     13                  Tuesday                            
+1982/04/07     14                  Wednesday                          
+1982/04/08     15                  Thursday                           
+1982/04/09     16                  Friday                             
+1982/04/10     17                  Saturday                           
+1982/04/11     18                  Sunday                             
+1982/04/12     19                  Monday                             
+1982/04/13     20                  Tuesday                            
+1982/04/14     21                  Wednesday                          
+1982/04/15     22                  Thursday                           
+1982/04/16     23                  Friday                             
+1982/04/17     24                  Saturday                           
+1982/04/18     25                  Sunday                             
+1982/04/19     26                  Monday                             
+1982/04/20     27                  Tuesday        Corn Rain           
+1982/04/21     28                  Wednesday                          
+1982/04/22     29                  Thursday                           
+1982/04/23     30                  Friday                             
+1982/04/24     4th Lunar month     Saturday                           
+1982/04/25     2                   Sunday                             
+1982/04/26     3                   Monday                             
+1982/04/27     4                   Tuesday                            
+1982/04/28     5                   Wednesday                          
+1982/04/29     6                   Thursday                           
+1982/04/30     7                   Friday                             
+1982/05/01     8                   Saturday                           
+1982/05/02     9                   Sunday                             
+1982/05/03     10                  Monday                             
+1982/05/04     11                  Tuesday                            
+1982/05/05     12                  Wednesday                          
+1982/05/06     13                  Thursday       Summer Commences    
+1982/05/07     14                  Friday                             
+1982/05/08     15                  Saturday                           
+1982/05/09     16                  Sunday                             
+1982/05/10     17                  Monday                             
+1982/05/11     18                  Tuesday                            
+1982/05/12     19                  Wednesday                          
+1982/05/13     20                  Thursday                           
+1982/05/14     21                  Friday                             
+1982/05/15     22                  Saturday                           
+1982/05/16     23                  Sunday                             
+1982/05/17     24                  Monday                             
+1982/05/18     25                  Tuesday                            
+1982/05/19     26                  Wednesday                          
+1982/05/20     27                  Thursday                           
+1982/05/21     28                  Friday         Corn Forms          
+1982/05/22     29                  Saturday                           
+1982/05/23     4th Lunar month     Sunday                             
+1982/05/24     2                   Monday                             
+1982/05/25     3                   Tuesday                            
+1982/05/26     4                   Wednesday                          
+1982/05/27     5                   Thursday                           
+1982/05/28     6                   Friday                             
+1982/05/29     7                   Saturday                           
+1982/05/30     8                   Sunday                             
+1982/05/31     9                   Monday                             
+1982/06/01     10                  Tuesday                            
+1982/06/02     11                  Wednesday                          
+1982/06/03     12                  Thursday                           
+1982/06/04     13                  Friday                             
+1982/06/05     14                  Saturday                           
+1982/06/06     15                  Sunday         Corn on Ear         
+1982/06/07     16                  Monday                             
+1982/06/08     17                  Tuesday                            
+1982/06/09     18                  Wednesday                          
+1982/06/10     19                  Thursday                           
+1982/06/11     20                  Friday                             
+1982/06/12     21                  Saturday                           
+1982/06/13     22                  Sunday                             
+1982/06/14     23                  Monday                             
+1982/06/15     24                  Tuesday                            
+1982/06/16     25                  Wednesday                          
+1982/06/17     26                  Thursday                           
+1982/06/18     27                  Friday                             
+1982/06/19     28                  Saturday                           
+1982/06/20     29                  Sunday                             
+1982/06/21     5th Lunar month     Monday                             
+1982/06/22     2                   Tuesday        Summer Solstice     
+1982/06/23     3                   Wednesday                          
+1982/06/24     4                   Thursday                           
+1982/06/25     5                   Friday                             
+1982/06/26     6                   Saturday                           
+1982/06/27     7                   Sunday                             
+1982/06/28     8                   Monday                             
+1982/06/29     9                   Tuesday                            
+1982/06/30     10                  Wednesday                          
+1982/07/01     11                  Thursday                           
+1982/07/02     12                  Friday                             
+1982/07/03     13                  Saturday                           
+1982/07/04     14                  Sunday                             
+1982/07/05     15                  Monday                             
+1982/07/06     16                  Tuesday                            
+1982/07/07     17                  Wednesday      Moderate Heat       
+1982/07/08     18                  Thursday                           
+1982/07/09     19                  Friday                             
+1982/07/10     20                  Saturday                           
+1982/07/11     21                  Sunday                             
+1982/07/12     22                  Monday                             
+1982/07/13     23                  Tuesday                            
+1982/07/14     24                  Wednesday                          
+1982/07/15     25                  Thursday                           
+1982/07/16     26                  Friday                             
+1982/07/17     27                  Saturday                           
+1982/07/18     28                  Sunday                             
+1982/07/19     29                  Monday                             
+1982/07/20     30                  Tuesday                            
+1982/07/21     6th Lunar month     Wednesday                          
+1982/07/22     2                   Thursday                           
+1982/07/23     3                   Friday         Great Heat          
+1982/07/24     4                   Saturday                           
+1982/07/25     5                   Sunday                             
+1982/07/26     6                   Monday                             
+1982/07/27     7                   Tuesday                            
+1982/07/28     8                   Wednesday                          
+1982/07/29     9                   Thursday                           
+1982/07/30     10                  Friday                             
+1982/07/31     11                  Saturday                           
+1982/08/01     12                  Sunday                             
+1982/08/02     13                  Monday                             
+1982/08/03     14                  Tuesday                            
+1982/08/04     15                  Wednesday                          
+1982/08/05     16                  Thursday                           
+1982/08/06     17                  Friday                             
+1982/08/07     18                  Saturday                           
+1982/08/08     19                  Sunday         Autumn Commences    
+1982/08/09     20                  Monday                             
+1982/08/10     21                  Tuesday                            
+1982/08/11     22                  Wednesday                          
+1982/08/12     23                  Thursday                           
+1982/08/13     24                  Friday                             
+1982/08/14     25                  Saturday                           
+1982/08/15     26                  Sunday                             
+1982/08/16     27                  Monday                             
+1982/08/17     28                  Tuesday                            
+1982/08/18     29                  Wednesday                          
+1982/08/19     7th Lunar month     Thursday                           
+1982/08/20     2                   Friday                             
+1982/08/21     3                   Saturday                           
+1982/08/22     4                   Sunday                             
+1982/08/23     5                   Monday         End of Heat         
+1982/08/24     6                   Tuesday                            
+1982/08/25     7                   Wednesday                          
+1982/08/26     8                   Thursday                           
+1982/08/27     9                   Friday                             
+1982/08/28     10                  Saturday                           
+1982/08/29     11                  Sunday                             
+1982/08/30     12                  Monday                             
+1982/08/31     13                  Tuesday                            
+1982/09/01     14                  Wednesday                          
+1982/09/02     15                  Thursday                           
+1982/09/03     16                  Friday                             
+1982/09/04     17                  Saturday                           
+1982/09/05     18                  Sunday                             
+1982/09/06     19                  Monday                             
+1982/09/07     20                  Tuesday                            
+1982/09/08     21                  Wednesday      White Dew           
+1982/09/09     22                  Thursday                           
+1982/09/10     23                  Friday                             
+1982/09/11     24                  Saturday                           
+1982/09/12     25                  Sunday                             
+1982/09/13     26                  Monday                             
+1982/09/14     27                  Tuesday                            
+1982/09/15     28                  Wednesday                          
+1982/09/16     29                  Thursday                           
+1982/09/17     8th Lunar month     Friday                             
+1982/09/18     2                   Saturday                           
+1982/09/19     3                   Sunday                             
+1982/09/20     4                   Monday                             
+1982/09/21     5                   Tuesday                            
+1982/09/22     6                   Wednesday                          
+1982/09/23     7                   Thursday       Autumnal Equinox    
+1982/09/24     8                   Friday                             
+1982/09/25     9                   Saturday                           
+1982/09/26     10                  Sunday                             
+1982/09/27     11                  Monday                             
+1982/09/28     12                  Tuesday                            
+1982/09/29     13                  Wednesday                          
+1982/09/30     14                  Thursday                           
+1982/10/01     15                  Friday                             
+1982/10/02     16                  Saturday                           
+1982/10/03     17                  Sunday                             
+1982/10/04     18                  Monday                             
+1982/10/05     19                  Tuesday                            
+1982/10/06     20                  Wednesday                          
+1982/10/07     21                  Thursday                           
+1982/10/08     22                  Friday         Cold Dew            
+1982/10/09     23                  Saturday                           
+1982/10/10     24                  Sunday                             
+1982/10/11     25                  Monday                             
+1982/10/12     26                  Tuesday                            
+1982/10/13     27                  Wednesday                          
+1982/10/14     28                  Thursday                           
+1982/10/15     29                  Friday                             
+1982/10/16     30                  Saturday                           
+1982/10/17     9th Lunar month     Sunday                             
+1982/10/18     2                   Monday                             
+1982/10/19     3                   Tuesday                            
+1982/10/20     4                   Wednesday                          
+1982/10/21     5                   Thursday                           
+1982/10/22     6                   Friday                             
+1982/10/23     7                   Saturday                           
+1982/10/24     8                   Sunday         Frost               
+1982/10/25     9                   Monday                             
+1982/10/26     10                  Tuesday                            
+1982/10/27     11                  Wednesday                          
+1982/10/28     12                  Thursday                           
+1982/10/29     13                  Friday                             
+1982/10/30     14                  Saturday                           
+1982/10/31     15                  Sunday                             
+1982/11/01     16                  Monday                             
+1982/11/02     17                  Tuesday                            
+1982/11/03     18                  Wednesday                          
+1982/11/04     19                  Thursday                           
+1982/11/05     20                  Friday                             
+1982/11/06     21                  Saturday                           
+1982/11/07     22                  Sunday                             
+1982/11/08     23                  Monday         Winter Commences    
+1982/11/09     24                  Tuesday                            
+1982/11/10     25                  Wednesday                          
+1982/11/11     26                  Thursday                           
+1982/11/12     27                  Friday                             
+1982/11/13     28                  Saturday                           
+1982/11/14     29                  Sunday                             
+1982/11/15     10th Lunar month    Monday                             
+1982/11/16     2                   Tuesday                            
+1982/11/17     3                   Wednesday                          
+1982/11/18     4                   Thursday                           
+1982/11/19     5                   Friday                             
+1982/11/20     6                   Saturday                           
+1982/11/21     7                   Sunday                             
+1982/11/22     8                   Monday         Light Snow          
+1982/11/23     9                   Tuesday                            
+1982/11/24     10                  Wednesday                          
+1982/11/25     11                  Thursday                           
+1982/11/26     12                  Friday                             
+1982/11/27     13                  Saturday                           
+1982/11/28     14                  Sunday                             
+1982/11/29     15                  Monday                             
+1982/11/30     16                  Tuesday                            
+1982/12/01     17                  Wednesday                          
+1982/12/02     18                  Thursday                           
+1982/12/03     19                  Friday                             
+1982/12/04     20                  Saturday                           
+1982/12/05     21                  Sunday                             
+1982/12/06     22                  Monday                             
+1982/12/07     23                  Tuesday        Heavy Snow          
+1982/12/08     24                  Wednesday                          
+1982/12/09     25                  Thursday                           
+1982/12/10     26                  Friday                             
+1982/12/11     27                  Saturday                           
+1982/12/12     28                  Sunday                             
+1982/12/13     29                  Monday                             
+1982/12/14     30                  Tuesday                            
+1982/12/15     11th Lunar month    Wednesday                          
+1982/12/16     2                   Thursday                           
+1982/12/17     3                   Friday                             
+1982/12/18     4                   Saturday                           
+1982/12/19     5                   Sunday                             
+1982/12/20     6                   Monday                             
+1982/12/21     7                   Tuesday                            
+1982/12/22     8                   Wednesday      Winter Solstice     
+1982/12/23     9                   Thursday                           
+1982/12/24     10                  Friday                             
+1982/12/25     11                  Saturday                           
+1982/12/26     12                  Sunday                             
+1982/12/27     13                  Monday                             
+1982/12/28     14                  Tuesday                            
+1982/12/29     15                  Wednesday                          
+1982/12/30     16                  Thursday                           
+1982/12/31     17                  Friday                             

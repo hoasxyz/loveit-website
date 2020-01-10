@@ -1,0 +1,1817 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>R语言网络爬虫 | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="R语言网络爬虫">
+<link rel="prev" href="/2019/03/2019-03-14-jiebar-in-chinese/" />
+<link rel="next" href="/2019/03/2019-03-23-using-r-in-cs/" />
+<link rel="canonical" href="/2019/03/2019-03-14-r-crawl-in-web/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="R语言网络爬虫"/>
+<meta name="twitter:description" content="R语言网络爬虫"/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "R语言网络爬虫",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/03\/2019-03-14-r-crawl-in-web\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/cover.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "R, 中文",
+    
+    "wordcount":  5748 ,
+    "url": "\/2019\/03\/2019-03-14-r-crawl-in-web\/",
+    
+        "datePublished": "2019-03-14T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-03-14T21:13:45\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/logo.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": "R语言网络爬虫"
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">R语言网络爬虫</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i><a href="/categories/fragmentray/">fragmentray</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-03-14>2019-03-14</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 5748 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 12 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content always-active">
+                    <nav id="TableOfContents">
+<ul>
+<li><a href="#常用函数">常用函数</a></li>
+<li><a href="#表格提取">表格提取</a></li>
+<li><a href="#图片的提取和模拟对话">图片的提取和模拟对话</a></li>
+<li><a href="#实例">实例</a>
+<ul>
+<li><a href="#链家网深圳二手房">链家网深圳二手房</a></li>
+<li><a href="#爬取豆瓣图书top250">爬取豆瓣图书top250</a></li>
+<li><a href="#网上下载-txt-文件">网上下载<code>.txt</code>文件</a></li>
+</ul></li>
+</ul>
+</nav>
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        <nav id="TableOfContentsMobile">
+<ul>
+<li><a href="#常用函数">常用函数</a></li>
+<li><a href="#表格提取">表格提取</a></li>
+<li><a href="#图片的提取和模拟对话">图片的提取和模拟对话</a></li>
+<li><a href="#实例">实例</a>
+<ul>
+<li><a href="#链家网深圳二手房">链家网深圳二手房</a></li>
+<li><a href="#爬取豆瓣图书top250">爬取豆瓣图书top250</a></li>
+<li><a href="#网上下载-txt-文件">网上下载<code>.txt</code>文件</a></li>
+</ul></li>
+</ul>
+</nav>
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>下个<a href="https://chrome.google.com/webstore/search/selectorgadget?hl=zh-CN">SelectorGadget</a>然后开启你的爬虫之旅~</p>
+
+<a class="post-dummy-target" id="常用函数"></a><h1>常用函数</h1>
+
+<ul>
+<li><code>read_html()</code>, 读取html文档或链接，可以是url链接，也可以是本地的html文件，
+甚至是包含html的字符串。</li>
+<li><code>html_nodes()</code>, 选择提取文档中指定元素的部分。
+支持<code>css</code>路径选择, 或<code>xpath</code>路径选择。
+如果tags层数较多，必须使用selectorGadget复制准确的路径。
+使用方式：开启SelectorGadget,然后鼠标选中位置，右击选择检查元素，光标移动到tags上。
+然后选择copy,选择selector或xpath选项。</li>
+<li><code>html_text()</code>,提取tags内文本，</li>
+<li><code>html_table()</code>, 提前tags内表格。</li>
+<li><code>html_form()</code>, <code>set_values()</code>, 和<code>submit_form()</code>分别表示提取、修改和提交表单。</li>
+</ul>
+
+<a class="post-dummy-target" id="表格提取"></a><h1>表格提取</h1>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="kn">library</span><span class="p">(</span>rvest<span class="p">)</span>
+<span class="kn">library</span><span class="p">(</span>magrittr<span class="p">)</span>
+
+city_name <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span>
+  <span class="s">&#34;beijing&#34;</span><span class="p">,</span> <span class="s">&#34;shanghai&#34;</span><span class="p">,</span> <span class="s">&#34;guangzhou&#34;</span><span class="p">,</span> <span class="s">&#34;shenzhen&#34;</span><span class="p">,</span> <span class="s">&#34;hangzhou&#34;</span><span class="p">,</span>
+  <span class="s">&#34;tianjin&#34;</span><span class="p">,</span> <span class="s">&#34;chengdu&#34;</span><span class="p">,</span> <span class="s">&#34;nanjing&#34;</span><span class="p">,</span> <span class="s">&#34;xian&#34;</span><span class="p">,</span> <span class="s">&#34;wuhan&#34;</span>
+<span class="p">)</span>
+url_cites <span class="o">&lt;-</span> <span class="kp">paste0</span><span class="p">(</span><span class="s">&#34;http://www.pm25.in/&#34;</span><span class="p">,</span> city_name<span class="p">)</span>
+
+<span class="kr">for</span> <span class="p">(</span>n <span class="kr">in</span> <span class="m">1</span><span class="o">:</span><span class="kp">length</span><span class="p">(</span>city_name<span class="p">))</span> <span class="p">{</span>
+
+  <span class="c1"># 提取表格</span>
+  pm_city <span class="o">&lt;-</span> read_html<span class="p">(</span>x <span class="o">=</span> url_cites<span class="p">[</span>n<span class="p">])</span> <span class="o">%&gt;%</span>
+    html_nodes<span class="p">(</span>css <span class="o">=</span> <span class="s">&#34;.aqis_live_data .container .table&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="m">.</span><span class="p">[[</span><span class="m">2</span><span class="p">]]</span> <span class="o">%&gt;%</span> <span class="c1"># 注意这里的点</span>
+    html_table<span class="p">()</span>
+
+  <span class="c1"># 批量生成变量</span>
+  <span class="kp">assign</span><span class="p">(</span>x <span class="o">=</span> <span class="kp">paste0</span><span class="p">(</span><span class="s">&#34;pm_&#34;</span><span class="p">,</span> city_name<span class="p">[</span>n<span class="p">]),</span> value <span class="o">=</span> pm_city<span class="p">)</span>
+<span class="p">}</span>
+<span class="kp">rm</span><span class="p">(</span>url_cites<span class="p">,</span> pm_city<span class="p">)</span>
+
+DT<span class="o">::</span>datatable<span class="p">(</span>pm_chengdu<span class="p">)</span>
+DT<span class="o">::</span>datatable<span class="p">(</span>pm_beijing<span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>虽然我一直没有搞懂这个点的意思，换句话说我根本没搞懂这行代码的意思，但是代码确实运行成功了。不过下面的代码可以，可能是因为<code>li</code>的原因吧……这个指令好像把网站上的所有表格都抓取了，可是为什么只到2008年？我大中国的辉煌您就不认为能延续吗？另外还有些表格的内容没有读取成功，也不清楚是什么原因……</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="lnt">  1
+</span><span class="lnt">  2
+</span><span class="lnt">  3
+</span><span class="lnt">  4
+</span><span class="lnt">  5
+</span><span class="lnt">  6
+</span><span class="lnt">  7
+</span><span class="lnt">  8
+</span><span class="lnt">  9
+</span><span class="lnt"> 10
+</span><span class="lnt"> 11
+</span><span class="lnt"> 12
+</span><span class="lnt"> 13
+</span><span class="lnt"> 14
+</span><span class="lnt"> 15
+</span><span class="lnt"> 16
+</span><span class="lnt"> 17
+</span><span class="lnt"> 18
+</span><span class="lnt"> 19
+</span><span class="lnt"> 20
+</span><span class="lnt"> 21
+</span><span class="lnt"> 22
+</span><span class="lnt"> 23
+</span><span class="lnt"> 24
+</span><span class="lnt"> 25
+</span><span class="lnt"> 26
+</span><span class="lnt"> 27
+</span><span class="lnt"> 28
+</span><span class="lnt"> 29
+</span><span class="lnt"> 30
+</span><span class="lnt"> 31
+</span><span class="lnt"> 32
+</span><span class="lnt"> 33
+</span><span class="lnt"> 34
+</span><span class="lnt"> 35
+</span><span class="lnt"> 36
+</span><span class="lnt"> 37
+</span><span class="lnt"> 38
+</span><span class="lnt"> 39
+</span><span class="lnt"> 40
+</span><span class="lnt"> 41
+</span><span class="lnt"> 42
+</span><span class="lnt"> 43
+</span><span class="lnt"> 44
+</span><span class="lnt"> 45
+</span><span class="lnt"> 46
+</span><span class="lnt"> 47
+</span><span class="lnt"> 48
+</span><span class="lnt"> 49
+</span><span class="lnt"> 50
+</span><span class="lnt"> 51
+</span><span class="lnt"> 52
+</span><span class="lnt"> 53
+</span><span class="lnt"> 54
+</span><span class="lnt"> 55
+</span><span class="lnt"> 56
+</span><span class="lnt"> 57
+</span><span class="lnt"> 58
+</span><span class="lnt"> 59
+</span><span class="lnt"> 60
+</span><span class="lnt"> 61
+</span><span class="lnt"> 62
+</span><span class="lnt"> 63
+</span><span class="lnt"> 64
+</span><span class="lnt"> 65
+</span><span class="lnt"> 66
+</span><span class="lnt"> 67
+</span><span class="lnt"> 68
+</span><span class="lnt"> 69
+</span><span class="lnt"> 70
+</span><span class="lnt"> 71
+</span><span class="lnt"> 72
+</span><span class="lnt"> 73
+</span><span class="lnt"> 74
+</span><span class="lnt"> 75
+</span><span class="lnt"> 76
+</span><span class="lnt"> 77
+</span><span class="lnt"> 78
+</span><span class="lnt"> 79
+</span><span class="lnt"> 80
+</span><span class="lnt"> 81
+</span><span class="lnt"> 82
+</span><span class="lnt"> 83
+</span><span class="lnt"> 84
+</span><span class="lnt"> 85
+</span><span class="lnt"> 86
+</span><span class="lnt"> 87
+</span><span class="lnt"> 88
+</span><span class="lnt"> 89
+</span><span class="lnt"> 90
+</span><span class="lnt"> 91
+</span><span class="lnt"> 92
+</span><span class="lnt"> 93
+</span><span class="lnt"> 94
+</span><span class="lnt"> 95
+</span><span class="lnt"> 96
+</span><span class="lnt"> 97
+</span><span class="lnt"> 98
+</span><span class="lnt"> 99
+</span><span class="lnt">100
+</span><span class="lnt">101
+</span><span class="lnt">102
+</span><span class="lnt">103
+</span><span class="lnt">104
+</span><span class="lnt">105
+</span><span class="lnt">106
+</span><span class="lnt">107
+</span><span class="lnt">108
+</span><span class="lnt">109
+</span><span class="lnt">110
+</span><span class="lnt">111
+</span><span class="lnt">112
+</span><span class="lnt">113
+</span><span class="lnt">114
+</span><span class="lnt">115
+</span><span class="lnt">116
+</span><span class="lnt">117
+</span><span class="lnt">118
+</span><span class="lnt">119
+</span><span class="lnt">120
+</span><span class="lnt">121
+</span><span class="lnt">122
+</span><span class="lnt">123
+</span><span class="lnt">124
+</span><span class="lnt">125
+</span><span class="lnt">126
+</span><span class="lnt">127
+</span><span class="lnt">128
+</span><span class="lnt">129
+</span><span class="lnt">130
+</span><span class="lnt">131
+</span><span class="lnt">132
+</span><span class="lnt">133
+</span><span class="lnt">134
+</span><span class="lnt">135
+</span><span class="lnt">136
+</span><span class="lnt">137
+</span><span class="lnt">138
+</span><span class="lnt">139
+</span><span class="lnt">140
+</span><span class="lnt">141
+</span><span class="lnt">142
+</span><span class="lnt">143
+</span><span class="lnt">144
+</span><span class="lnt">145
+</span><span class="lnt">146
+</span><span class="lnt">147
+</span><span class="lnt">148
+</span><span class="lnt">149
+</span><span class="lnt">150
+</span><span class="lnt">151
+</span><span class="lnt">152
+</span><span class="lnt">153
+</span><span class="lnt">154
+</span><span class="lnt">155
+</span><span class="lnt">156
+</span><span class="lnt">157
+</span><span class="lnt">158
+</span><span class="lnt">159
+</span><span class="lnt">160
+</span><span class="lnt">161
+</span><span class="lnt">162
+</span><span class="lnt">163
+</span><span class="lnt">164
+</span><span class="lnt">165
+</span><span class="lnt">166
+</span><span class="lnt">167
+</span><span class="lnt">168
+</span><span class="lnt">169
+</span><span class="lnt">170
+</span><span class="lnt">171
+</span><span class="lnt">172
+</span><span class="lnt">173
+</span><span class="lnt">174
+</span><span class="lnt">175
+</span><span class="lnt">176
+</span><span class="lnt">177
+</span><span class="lnt">178
+</span><span class="lnt">179
+</span><span class="lnt">180
+</span><span class="lnt">181
+</span><span class="lnt">182
+</span><span class="lnt">183
+</span><span class="lnt">184
+</span><span class="lnt">185
+</span><span class="lnt">186
+</span><span class="lnt">187
+</span><span class="lnt">188
+</span><span class="lnt">189
+</span><span class="lnt">190
+</span><span class="lnt">191
+</span><span class="lnt">192
+</span><span class="lnt">193
+</span><span class="lnt">194
+</span><span class="lnt">195
+</span><span class="lnt">196
+</span><span class="lnt">197
+</span><span class="lnt">198
+</span><span class="lnt">199
+</span><span class="lnt">200
+</span><span class="lnt">201
+</span><span class="lnt">202
+</span><span class="lnt">203
+</span><span class="lnt">204
+</span><span class="lnt">205
+</span><span class="lnt">206
+</span><span class="lnt">207
+</span><span class="lnt">208
+</span><span class="lnt">209
+</span><span class="lnt">210
+</span><span class="lnt">211
+</span><span class="lnt">212
+</span><span class="lnt">213
+</span><span class="lnt">214
+</span><span class="lnt">215
+</span><span class="lnt">216
+</span><span class="lnt">217
+</span><span class="lnt">218
+</span><span class="lnt">219
+</span><span class="lnt">220
+</span><span class="lnt">221
+</span><span class="lnt">222
+</span><span class="lnt">223
+</span><span class="lnt">224
+</span><span class="lnt">225
+</span><span class="lnt">226
+</span><span class="lnt">227
+</span><span class="lnt">228
+</span><span class="lnt">229
+</span><span class="lnt">230
+</span><span class="lnt">231
+</span><span class="lnt">232
+</span><span class="lnt">233
+</span><span class="lnt">234
+</span><span class="lnt">235
+</span><span class="lnt">236
+</span><span class="lnt">237
+</span><span class="lnt">238
+</span><span class="lnt">239
+</span><span class="lnt">240
+</span><span class="lnt">241
+</span><span class="lnt">242
+</span><span class="lnt">243
+</span><span class="lnt">244
+</span><span class="lnt">245
+</span><span class="lnt">246
+</span><span class="lnt">247
+</span><span class="lnt">248
+</span><span class="lnt">249
+</span><span class="lnt">250
+</span><span class="lnt">251
+</span><span class="lnt">252
+</span><span class="lnt">253
+</span><span class="lnt">254
+</span><span class="lnt">255
+</span><span class="lnt">256
+</span><span class="lnt">257
+</span><span class="lnt">258
+</span><span class="lnt">259
+</span><span class="lnt">260
+</span><span class="lnt">261
+</span><span class="lnt">262
+</span><span class="lnt">263
+</span><span class="lnt">264
+</span><span class="lnt">265
+</span><span class="lnt">266
+</span><span class="lnt">267
+</span><span class="lnt">268
+</span><span class="lnt">269
+</span><span class="lnt">270
+</span><span class="lnt">271
+</span><span class="lnt">272
+</span><span class="lnt">273
+</span><span class="lnt">274
+</span><span class="lnt">275
+</span><span class="lnt">276
+</span><span class="lnt">277
+</span><span class="lnt">278
+</span><span class="lnt">279
+</span><span class="lnt">280
+</span><span class="lnt">281
+</span><span class="lnt">282
+</span><span class="lnt">283
+</span><span class="lnt">284
+</span><span class="lnt">285
+</span><span class="lnt">286
+</span><span class="lnt">287
+</span><span class="lnt">288
+</span><span class="lnt">289
+</span><span class="lnt">290
+</span><span class="lnt">291
+</span><span class="lnt">292
+</span><span class="lnt">293
+</span><span class="lnt">294
+</span><span class="lnt">295
+</span><span class="lnt">296
+</span><span class="lnt">297
+</span><span class="lnt">298
+</span><span class="lnt">299
+</span><span class="lnt">300
+</span><span class="lnt">301
+</span><span class="lnt">302
+</span><span class="lnt">303
+</span><span class="lnt">304
+</span><span class="lnt">305
+</span><span class="lnt">306
+</span><span class="lnt">307
+</span><span class="lnt">308
+</span><span class="lnt">309
+</span><span class="lnt">310
+</span><span class="lnt">311
+</span><span class="lnt">312
+</span><span class="lnt">313
+</span><span class="lnt">314
+</span><span class="lnt">315
+</span><span class="lnt">316
+</span><span class="lnt">317
+</span><span class="lnt">318
+</span><span class="lnt">319
+</span><span class="lnt">320
+</span><span class="lnt">321
+</span><span class="lnt">322
+</span><span class="lnt">323
+</span><span class="lnt">324
+</span><span class="lnt">325
+</span><span class="lnt">326
+</span><span class="lnt">327
+</span><span class="lnt">328
+</span><span class="lnt">329
+</span><span class="lnt">330
+</span><span class="lnt">331
+</span><span class="lnt">332
+</span><span class="lnt">333
+</span><span class="lnt">334
+</span><span class="lnt">335
+</span><span class="lnt">336
+</span><span class="lnt">337
+</span><span class="lnt">338
+</span><span class="lnt">339
+</span><span class="lnt">340
+</span><span class="lnt">341
+</span><span class="lnt">342
+</span><span class="lnt">343
+</span><span class="lnt">344
+</span><span class="lnt">345
+</span><span class="lnt">346
+</span><span class="lnt">347
+</span><span class="lnt">348
+</span><span class="lnt">349
+</span><span class="lnt">350
+</span><span class="lnt">351
+</span><span class="lnt">352
+</span><span class="lnt">353
+</span><span class="lnt">354
+</span><span class="lnt">355
+</span><span class="lnt">356
+</span><span class="lnt">357
+</span><span class="lnt">358
+</span><span class="lnt">359
+</span><span class="lnt">360
+</span><span class="lnt">361
+</span><span class="lnt">362
+</span><span class="lnt">363
+</span><span class="lnt">364
+</span><span class="lnt">365
+</span><span class="lnt">366
+</span><span class="lnt">367
+</span><span class="lnt">368
+</span><span class="lnt">369
+</span><span class="lnt">370
+</span><span class="lnt">371
+</span><span class="lnt">372
+</span><span class="lnt">373
+</span><span class="lnt">374
+</span><span class="lnt">375
+</span><span class="lnt">376
+</span><span class="lnt">377
+</span><span class="lnt">378
+</span><span class="lnt">379
+</span><span class="lnt">380
+</span><span class="lnt">381
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="kn">library</span><span class="p">(</span>rvest<span class="p">)</span>
+<span class="c1">#&gt; 载入需要的程辑包：xml2</span>
+skiing <span class="o">&lt;-</span> read_html<span class="p">(</span><span class="s">&#34;http://info.2012.163.com/medals/&#34;</span><span class="p">)</span>
+skiing <span class="o">%&gt;%</span>
+  html_table<span class="p">(</span>fill <span class="o">=</span> <span class="kc">TRUE</span><span class="p">)</span>
+<span class="c1">#&gt; [[1]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     中国 51 21 28</span>
+<span class="c1">#&gt; 2     2     美国 36 38 36</span>
+<span class="c1">#&gt; 3     3   俄罗斯 23 21 29</span>
+<span class="c1">#&gt; 4     4     英国 19 13 15</span>
+<span class="c1">#&gt; 5     5     德国 16 10 15</span>
+<span class="c1">#&gt; 6     6 澳大利亚 14 15 17</span>
+<span class="c1">#&gt; 7     7     韩国 13 10  8</span>
+<span class="c1">#&gt; 8     8     日本  9  6 11</span>
+<span class="c1">#&gt; 9     9   意大利  8  9 10</span>
+<span class="c1">#&gt; 10   10     法国  7 16 17</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[2]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     美国 35 39 29</span>
+<span class="c1">#&gt; 2     2     中国 32 17 14</span>
+<span class="c1">#&gt; 3     3   俄罗斯 27 27 38</span>
+<span class="c1">#&gt; 4     4 澳大利亚 17 16 16</span>
+<span class="c1">#&gt; 5     5     日本 16  9 12</span>
+<span class="c1">#&gt; 6     6     德国 14 16 18</span>
+<span class="c1">#&gt; 7     7     法国 11  9 13</span>
+<span class="c1">#&gt; 8     8   意大利 10 11 11</span>
+<span class="c1">#&gt; 9     9     韩国  9 12  9</span>
+<span class="c1">#&gt; 10   10     英国  9  9 12</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[3]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     美国 37 24 31</span>
+<span class="c1">#&gt; 2     2   俄罗斯 32 28 28</span>
+<span class="c1">#&gt; 3     3     中国 28 16 15</span>
+<span class="c1">#&gt; 4     4 澳大利亚 16 25 17</span>
+<span class="c1">#&gt; 5     5     德国 13 17 26</span>
+<span class="c1">#&gt; 6     6     法国 13 14 11</span>
+<span class="c1">#&gt; 7     7   意大利 13  8 13</span>
+<span class="c1">#&gt; 8     8     荷兰 12  9  4</span>
+<span class="c1">#&gt; 9     9     古巴 11 11  7</span>
+<span class="c1">#&gt; 10   10     英国 11 10  7</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[4]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     美国 44 32 25</span>
+<span class="c1">#&gt; 2     2   俄罗斯 26 21 16</span>
+<span class="c1">#&gt; 3     3     德国 20 18 27</span>
+<span class="c1">#&gt; 4     4     中国 16 22 12</span>
+<span class="c1">#&gt; 5     5     法国 15  7 15</span>
+<span class="c1">#&gt; 6     6   意大利 13 10 12</span>
+<span class="c1">#&gt; 7     7 澳大利亚  9  9 23</span>
+<span class="c1">#&gt; 8     8     古巴  9  8  8</span>
+<span class="c1">#&gt; 9     9   乌克兰  9  2 12</span>
+<span class="c1">#&gt; 10   10     韩国  7 15  5</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[5]]</span>
+<span class="c1">#&gt;    排名             国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1 联合队（独联体） 45 38 29</span>
+<span class="c1">#&gt; 2     2             美国 37 34 37</span>
+<span class="c1">#&gt; 3     3             德国 33 21 28</span>
+<span class="c1">#&gt; 4     4             中国 16 22 16</span>
+<span class="c1">#&gt; 5     5             古巴 14  6 11</span>
+<span class="c1">#&gt; 6     6           西班牙 13  7  2</span>
+<span class="c1">#&gt; 7     7             韩国 12  5 12</span>
+<span class="c1">#&gt; 8     8           匈牙利 11 12  7</span>
+<span class="c1">#&gt; 9     9             法国  8  5 16</span>
+<span class="c1">#&gt; 10   10         澳大利亚  7  9 11</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[6]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     苏联 55 31 46</span>
+<span class="c1">#&gt; 2     2 民主德国 37 35 30</span>
+<span class="c1">#&gt; 3     3     美国 36 31 27</span>
+<span class="c1">#&gt; 4     4   南朝鲜 12 10 11</span>
+<span class="c1">#&gt; 5     5 联邦德国 11 14 15</span>
+<span class="c1">#&gt; 6     6   匈牙利 11  6  6</span>
+<span class="c1">#&gt; 7     7 保加利亚 10 12 13</span>
+<span class="c1">#&gt; 8     8 罗马尼亚  7 11  6</span>
+<span class="c1">#&gt; 9     9     法国  6  4  6</span>
+<span class="c1">#&gt; 10   10   意大利  6  4  4</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[7]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     美国 83 61 30</span>
+<span class="c1">#&gt; 2     2 罗马尼亚 20 16 17</span>
+<span class="c1">#&gt; 3     3 联邦德国 17 19 23</span>
+<span class="c1">#&gt; 4     4     中国 15  8  9</span>
+<span class="c1">#&gt; 5     5   意大利 14  6 12</span>
+<span class="c1">#&gt; 6     6   加拿大 10 18 16</span>
+<span class="c1">#&gt; 7     7     日本 10  8 14</span>
+<span class="c1">#&gt; 8     8   新西兰  8  1  2</span>
+<span class="c1">#&gt; 9     9 南斯拉夫  7  4  7</span>
+<span class="c1">#&gt; 10   10     韩国  6  6  7</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[8]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     苏联 80 69 46</span>
+<span class="c1">#&gt; 2     2 民主德国 47 37 42</span>
+<span class="c1">#&gt; 3     3 保加利亚  8 16 17</span>
+<span class="c1">#&gt; 4     4     古巴  8  7  5</span>
+<span class="c1">#&gt; 5     5   意大利  8  3  4</span>
+<span class="c1">#&gt; 6     6   匈牙利  7 10 15</span>
+<span class="c1">#&gt; 7     7 罗马尼亚  6  6 13</span>
+<span class="c1">#&gt; 8     8     法国  6  5  3</span>
+<span class="c1">#&gt; 9     9     英国  5  7  9</span>
+<span class="c1">#&gt; 10   10     波兰  3 14 15</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[9]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     苏联 49 41 35</span>
+<span class="c1">#&gt; 2     2 民主德国 40 25 25</span>
+<span class="c1">#&gt; 3     3     美国 34 35 25</span>
+<span class="c1">#&gt; 4     4 联邦德国 10 12 17</span>
+<span class="c1">#&gt; 5     5     日本  9  6 10</span>
+<span class="c1">#&gt; 6     6     波兰  7  6 13</span>
+<span class="c1">#&gt; 7     7 保加利亚  6  9  7</span>
+<span class="c1">#&gt; 8     8     古巴  6  4  3</span>
+<span class="c1">#&gt; 9     9 罗马尼亚  4  9 14</span>
+<span class="c1">#&gt; 10   10   匈牙利  4  5 13</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[10]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     苏联 50 27 22</span>
+<span class="c1">#&gt; 2     2     美国 33 31 30</span>
+<span class="c1">#&gt; 3     3 民主德国 20 23 23</span>
+<span class="c1">#&gt; 4     4 联邦德国 13 11 16</span>
+<span class="c1">#&gt; 5     5     日本 13  8  8</span>
+<span class="c1">#&gt; 6     6 澳大利亚  8  7  2</span>
+<span class="c1">#&gt; 7     7     波兰  7  5  9</span>
+<span class="c1">#&gt; 8     8   匈牙利  6 13 16</span>
+<span class="c1">#&gt; 9     9 保加利亚  6 10  5</span>
+<span class="c1">#&gt; 10   10   意大利  5  3 10</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[11]]</span>
+<span class="c1">#&gt;    排名         国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1         美国 45 28 34</span>
+<span class="c1">#&gt; 2     2         苏联 29 32 30</span>
+<span class="c1">#&gt; 3     3         日本 11  7  7</span>
+<span class="c1">#&gt; 4     4       匈牙利 10 10 12</span>
+<span class="c1">#&gt; 5     5     民主德国  9  9  7</span>
+<span class="c1">#&gt; 6     6         法国  7  3  5</span>
+<span class="c1">#&gt; 7     7 捷克斯洛伐克  7  2  4</span>
+<span class="c1">#&gt; 8     8     联邦德国  5 11 10</span>
+<span class="c1">#&gt; 9     9     澳大利亚  5  7  5</span>
+<span class="c1">#&gt; 10   10         英国  5  5  3</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[12]]</span>
+<span class="c1">#&gt;    排名         国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1         美国 36 26 28</span>
+<span class="c1">#&gt; 2     2         苏联 30 31 35</span>
+<span class="c1">#&gt; 3     3         日本 16  5  8</span>
+<span class="c1">#&gt; 4     4         德国 10 22 18</span>
+<span class="c1">#&gt; 5     5       意大利 10 10  7</span>
+<span class="c1">#&gt; 6     6       匈牙利 10  7  5</span>
+<span class="c1">#&gt; 7     7         波兰  7  6 10</span>
+<span class="c1">#&gt; 8     8     澳大利亚  6  2 10</span>
+<span class="c1">#&gt; 9     9 捷克斯洛伐克  5  6  3</span>
+<span class="c1">#&gt; 10   10         英国  4 12  2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[13]]</span>
+<span class="c1">#&gt;    排名         国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1         苏联 43 29 31</span>
+<span class="c1">#&gt; 2     2         美国 34 21 16</span>
+<span class="c1">#&gt; 3     3       意大利 13 10 13</span>
+<span class="c1">#&gt; 4     4         德国 12 19 11</span>
+<span class="c1">#&gt; 5     5     澳大利亚  8  8  6</span>
+<span class="c1">#&gt; 6     6       土耳其  7  2  0</span>
+<span class="c1">#&gt; 7     7       匈牙利  6  8  7</span>
+<span class="c1">#&gt; 8     8         日本  4  7  7</span>
+<span class="c1">#&gt; 9     9         波兰  4  6 11</span>
+<span class="c1">#&gt; 10   10 捷克斯洛伐克  3  2  3</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[14]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     苏联 37 29 32</span>
+<span class="c1">#&gt; 2     2     美国 32 25 17</span>
+<span class="c1">#&gt; 3     3 澳大利亚 13  8 14</span>
+<span class="c1">#&gt; 4     4   匈牙利  9 10  7</span>
+<span class="c1">#&gt; 5     5   意大利  8  8  9</span>
+<span class="c1">#&gt; 6     6     瑞典  8  5  6</span>
+<span class="c1">#&gt; 7     7     德国  6  7 11</span>
+<span class="c1">#&gt; 8     8     英国  6  7 11</span>
+<span class="c1">#&gt; 9     9 罗马尼亚  5  3  5</span>
+<span class="c1">#&gt; 10   10     日本  4 10  5</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[15]]</span>
+<span class="c1">#&gt;    排名         国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1         美国 40 19 17</span>
+<span class="c1">#&gt; 2     2         苏联 22 30 19</span>
+<span class="c1">#&gt; 3     3         瑞典 12 12 10</span>
+<span class="c1">#&gt; 4     4       匈牙利 10 10 16</span>
+<span class="c1">#&gt; 5     5       意大利  8  9  4</span>
+<span class="c1">#&gt; 6     6 捷克斯洛伐克  7  3  3</span>
+<span class="c1">#&gt; 7     7         法国  6  6  6</span>
+<span class="c1">#&gt; 8     8         芬兰  6  3 13</span>
+<span class="c1">#&gt; 9     9     澳大利亚  6  2  3</span>
+<span class="c1">#&gt; 10   10         挪威  3  0  2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[16]]</span>
+<span class="c1">#&gt;    排名         国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1         美国 38 27 19</span>
+<span class="c1">#&gt; 2     2         瑞典 16 11 17</span>
+<span class="c1">#&gt; 3     3         法国 10  6 13</span>
+<span class="c1">#&gt; 4     4       匈牙利 10  5 12</span>
+<span class="c1">#&gt; 5     5       意大利  8 11  8</span>
+<span class="c1">#&gt; 6     6         芬兰  8  7  5</span>
+<span class="c1">#&gt; 7     7       土耳其  6  4  2</span>
+<span class="c1">#&gt; 8     8 捷克斯洛伐克  6  2  3</span>
+<span class="c1">#&gt; 9     9         瑞士  5 10  5</span>
+<span class="c1">#&gt; 10   10         丹麦  5  7  8</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[17]]</span>
+<span class="c1">#&gt;    排名 国家 金 银 铜</span>
+<span class="c1">#&gt; 1    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 2    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 3    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 4    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 5    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 6    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 7    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 8    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 9    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 10   NA   NA NA NA NA</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[18]]</span>
+<span class="c1">#&gt;    排名 国家 金 银 铜</span>
+<span class="c1">#&gt; 1    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 2    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 3    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 4    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 5    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 6    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 7    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 8    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 9    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 10   NA   NA NA NA NA</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[19]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   德国 33 26 30</span>
+<span class="c1">#&gt; 2     2   美国 24 20 12</span>
+<span class="c1">#&gt; 3     3 匈牙利 10  1  5</span>
+<span class="c1">#&gt; 4     4 意大利  8  9  5</span>
+<span class="c1">#&gt; 5     5   芬兰  7  6  6</span>
+<span class="c1">#&gt; 6     6   法国  7  6  6</span>
+<span class="c1">#&gt; 7     7   瑞典  6  5  9</span>
+<span class="c1">#&gt; 8     8   日本  6  4  8</span>
+<span class="c1">#&gt; 9     9   荷兰  6  4  7</span>
+<span class="c1">#&gt; 10   10   英国  4  7  3</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[20]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     美国 41 32 30</span>
+<span class="c1">#&gt; 2     2   意大利 12 12 12</span>
+<span class="c1">#&gt; 3     3     法国 10  5  4</span>
+<span class="c1">#&gt; 4     4     瑞典  9  5  9</span>
+<span class="c1">#&gt; 5     5     日本  7  7  4</span>
+<span class="c1">#&gt; 6     6   匈牙利  6  4  5</span>
+<span class="c1">#&gt; 7     7     芬兰  5  8 10</span>
+<span class="c1">#&gt; 8     8     德国  4 12  5</span>
+<span class="c1">#&gt; 9     9     英国  4  7  5</span>
+<span class="c1">#&gt; 10   10 澳大利亚  3  1  1</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[21]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   美国 22 18 16</span>
+<span class="c1">#&gt; 2     2   德国 10  7 14</span>
+<span class="c1">#&gt; 3     3   芬兰  8  8  9</span>
+<span class="c1">#&gt; 4     4   瑞典  7  6 12</span>
+<span class="c1">#&gt; 5     5 意大利  7  5  7</span>
+<span class="c1">#&gt; 6     6   瑞士  7  4  4</span>
+<span class="c1">#&gt; 7     7   法国  6 10  5</span>
+<span class="c1">#&gt; 8     8   荷兰  6  9  4</span>
+<span class="c1">#&gt; 9     9 匈牙利  4  5  0</span>
+<span class="c1">#&gt; 10   10 加拿大  4  4  7</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[22]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   美国 45 27 27</span>
+<span class="c1">#&gt; 2     2   芬兰 14 13 10</span>
+<span class="c1">#&gt; 3     3   法国 13 15 10</span>
+<span class="c1">#&gt; 4     4   英国  9 13 12</span>
+<span class="c1">#&gt; 5     5 意大利  8  3  5</span>
+<span class="c1">#&gt; 6     6   瑞士  7  8 10</span>
+<span class="c1">#&gt; 7     7   挪威  5  2  3</span>
+<span class="c1">#&gt; 8     8   瑞典  4 13 12</span>
+<span class="c1">#&gt; 9     9   荷兰  4  1  5</span>
+<span class="c1">#&gt; 10   10 比利时  3  7  3</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[23]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   美国 41 27 28</span>
+<span class="c1">#&gt; 2     2   瑞典 19 20 25</span>
+<span class="c1">#&gt; 3     3   英国 15 15 13</span>
+<span class="c1">#&gt; 4     4   芬兰 15 10  9</span>
+<span class="c1">#&gt; 5     5 比利时 13 11 11</span>
+<span class="c1">#&gt; 6     6   挪威 13  9  9</span>
+<span class="c1">#&gt; 7     7 意大利 13  5  5</span>
+<span class="c1">#&gt; 8     8   法国  9 19 13</span>
+<span class="c1">#&gt; 9     9   荷兰  4  2  5</span>
+<span class="c1">#&gt; 10   10   丹麦  3  9  1</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[24]]</span>
+<span class="c1">#&gt;    排名 国家 金 银 铜</span>
+<span class="c1">#&gt; 1    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 2    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 3    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 4    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 5    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 6    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 7    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 8    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 9    NA   NA NA NA NA</span>
+<span class="c1">#&gt; 10   NA   NA NA NA NA</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[25]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   瑞典 24 24 16</span>
+<span class="c1">#&gt; 2     2   美国 23 19 19</span>
+<span class="c1">#&gt; 3     3   英国 10 15 16</span>
+<span class="c1">#&gt; 4     4   芬兰  9  8  9</span>
+<span class="c1">#&gt; 5     5   法国  7  4  3</span>
+<span class="c1">#&gt; 6     6   德国  5 13  7</span>
+<span class="c1">#&gt; 7     7   南非  4  2  0</span>
+<span class="c1">#&gt; 8     8   挪威  4  1  3</span>
+<span class="c1">#&gt; 9     9 匈牙利  3  2  3</span>
+<span class="c1">#&gt; 10   10 加拿大  3  2  2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[26]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   英国 56 50 39</span>
+<span class="c1">#&gt; 2     2   美国 23 12 12</span>
+<span class="c1">#&gt; 3     3   瑞典  8  6 11</span>
+<span class="c1">#&gt; 4     4   法国  5  5  9</span>
+<span class="c1">#&gt; 5     5   德国  3  5  4</span>
+<span class="c1">#&gt; 6     6 匈牙利  3  4  2</span>
+<span class="c1">#&gt; 7     7 加拿大  3  3  7</span>
+<span class="c1">#&gt; 8     8   挪威  2  3  3</span>
+<span class="c1">#&gt; 9     9 意大利  2  2  0</span>
+<span class="c1">#&gt; 10   10 比利时  1  5  2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[27]]</span>
+<span class="c1">#&gt;    排名   国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1   美国 78 82 79</span>
+<span class="c1">#&gt; 2     2   德国  4  4  5</span>
+<span class="c1">#&gt; 3     3   古巴  4  2  3</span>
+<span class="c1">#&gt; 4     4 加拿大  4  1  1</span>
+<span class="c1">#&gt; 5     5 匈牙利  2  1  1</span>
+<span class="c1">#&gt; 6     6 混合队  1  1  0</span>
+<span class="c1">#&gt; 7     7   英国  1  1  0</span>
+<span class="c1">#&gt; 8     8   希腊  1  0  1</span>
+<span class="c1">#&gt; 9     9   瑞士  1  0  1</span>
+<span class="c1">#&gt; 10   10 奥地利  0  0  1</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[28]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     法国 26 36 33</span>
+<span class="c1">#&gt; 2     2     美国 20 15 16</span>
+<span class="c1">#&gt; 3     3     英国 17  8 12</span>
+<span class="c1">#&gt; 4     4   比利时  5  6  3</span>
+<span class="c1">#&gt; 5     5     瑞士  5  3  1</span>
+<span class="c1">#&gt; 6     6     德国  4  2  2</span>
+<span class="c1">#&gt; 7     7     丹麦  2  3  2</span>
+<span class="c1">#&gt; 8     8   意大利  2  2  0</span>
+<span class="c1">#&gt; 9     9 澳大利亚  2  0  4</span>
+<span class="c1">#&gt; 10   10   匈牙利  1  2  2</span>
+<span class="c1">#&gt; </span>
+<span class="c1">#&gt; [[29]]</span>
+<span class="c1">#&gt;    排名     国家 金 银 铜</span>
+<span class="c1">#&gt; 1     1     美国 11  7  1</span>
+<span class="c1">#&gt; 2     2     希腊 10 19 17</span>
+<span class="c1">#&gt; 3     3     德国  7  5  2</span>
+<span class="c1">#&gt; 4     4     法国  5  4  2</span>
+<span class="c1">#&gt; 5     5     英国  2  3  2</span>
+<span class="c1">#&gt; 6     6   匈牙利  2  1  2</span>
+<span class="c1">#&gt; 7     7   奥地利  2  0  3</span>
+<span class="c1">#&gt; 8     8 澳大利亚  2  0  0</span>
+<span class="c1">#&gt; 9     9     丹麦  1  2  4</span>
+<span class="c1">#&gt; 10   10     瑞士  1  2  0</span></code></pre></td></tr></table>
+</div>
+</div>
+<p><sup>Created on 2019-04-22 by the <a href="https://reprex.tidyverse.org">reprex package</a> (v0.2.1)</sup></p>
+
+<a class="post-dummy-target" id="图片的提取和模拟对话"></a><h1>图片的提取和模拟对话</h1>
+
+<p>不想写了，代码运行不出来，如果自己以后会用到就直接看<a href="https://mp.weixin.qq.com/s/CI3TpgRNZNtBb_BqYxlAmA">链接</a>学吧！</p>
+
+<a class="post-dummy-target" id="实例"></a><h1>实例</h1>
+
+<a class="post-dummy-target" id="链家网深圳二手房"></a><h2>链家网深圳二手房</h2>
+
+<p>爬取网站：<a href="https://sz.lianjia.com/ershoufang/pg/">https://sz.lianjia.com/ershoufang/pg/</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="n">require</span><span class="p">(</span><span class="n">pacman</span><span class="p">)</span>
+<span class="n">p_load</span><span class="p">(</span><span class="n">xml2</span><span class="p">,</span><span class="n">rvest</span><span class="p">,</span><span class="n">downloader</span><span class="p">)</span>
+<span class="cp">#t1 &lt;- proc.time()
+</span><span class="cp"></span><span class="n">hs</span> <span class="o">&lt;-</span> <span class="n">tibble</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="mi">1</span><span class="o">:</span><span class="mi">100</span><span class="p">)</span> <span class="p">{</span>
+  <span class="n">url</span> <span class="o">&lt;-</span> <span class="n">paste</span><span class="p">(</span><span class="s">&#34;https://sz.lianjia.com/ershoufang/pg/d&#34;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+  
+  <span class="n">hs_info</span> <span class="o">&lt;-</span> <span class="n">url</span> <span class="o">%&gt;%</span>
+    <span class="n">read_html</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;div.houseInfo&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34;</span><span class="se">\\</span><span class="s">|&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  
+  <span class="n">hs_info</span><span class="p">[,</span> <span class="mi">3</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">hs_info</span><span class="p">[,</span> <span class="mi">3</span><span class="p">]</span> <span class="o">%&gt;%</span>
+    <span class="n">str_remove</span><span class="p">(</span><span class="s">&#34;(平米)&#34;</span><span class="p">)</span>
+  
+  <span class="n">hs_posi</span> <span class="o">&lt;-</span> <span class="n">url</span> <span class="o">%&gt;%</span>
+    <span class="n">read_html</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;div.positionInfo&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34; - &#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  
+  <span class="n">hs_pric</span> <span class="o">&lt;-</span> <span class="n">url</span> <span class="o">%&gt;%</span>
+    <span class="n">read_html</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;div.priceInfo&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_extract_all</span><span class="p">(</span><span class="s">&#34;(</span><span class="se">\\</span><span class="s">d{3,6})&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  
+  <span class="n">house</span> <span class="o">&lt;-</span> <span class="n">cbind</span><span class="p">(</span><span class="n">hs_info</span><span class="p">,</span> <span class="n">hs_posi</span><span class="p">,</span> <span class="n">hs_pric</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">as_tibble</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">rename</span><span class="p">(</span>
+      <span class="err">小区名</span> <span class="o">=</span> <span class="n">V1</span><span class="p">,</span> <span class="err">厅室</span> <span class="o">=</span> <span class="n">V2</span><span class="p">,</span> <span class="err">面积</span> <span class="o">=</span> <span class="n">V3</span><span class="p">,</span> <span class="err">朝向</span> <span class="o">=</span> <span class="n">V4</span><span class="p">,</span> <span class="err">装饰</span> <span class="o">=</span> <span class="n">V5</span><span class="p">,</span>
+      <span class="err">电梯</span> <span class="o">=</span> <span class="n">V6</span><span class="p">,</span> <span class="err">楼层</span> <span class="o">=</span> <span class="n">V7</span><span class="p">,</span> <span class="err">周边</span> <span class="o">=</span> <span class="n">V8</span><span class="p">,</span> <span class="err">总价</span> <span class="o">=</span> <span class="n">V9</span><span class="p">,</span> <span class="err">单价</span> <span class="o">=</span> <span class="n">V10</span>
+    <span class="p">)</span>
+  
+  <span class="n">hs</span> <span class="o">&lt;-</span> <span class="n">rbind</span><span class="p">(</span><span class="n">hs</span><span class="p">,</span> <span class="n">house</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="n">hs</span><span class="err">$面积</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">(</span><span class="n">hs</span><span class="err">$面积</span><span class="p">)</span>
+<span class="n">hs</span><span class="err">$总价</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">(</span><span class="n">hs</span><span class="err">$总价</span><span class="p">)</span>
+<span class="n">hs</span><span class="err">$单价</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">(</span><span class="n">hs</span><span class="err">$单价</span><span class="p">)</span>
+
+<span class="n">write</span><span class="p">.</span><span class="n">csv</span><span class="p">(</span><span class="n">hs</span><span class="p">,</span> <span class="s">&#34;深圳二手房.csv&#34;</span><span class="p">)</span>
+<span class="cp">#proc.time() - t1
+</span><span class="cp"></span><span class="n">hs</span> <span class="o">&lt;-</span> <span class="n">read</span><span class="p">.</span><span class="n">csv</span><span class="p">(</span><span class="s">&#34;E:/1R/website/Excel/ershou.csv&#34;</span><span class="p">,</span> <span class="n">fileEncoding</span> <span class="o">=</span> <span class="s">&#34;UTF-8&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+  <span class="n">select</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>这里一共100页，一页30个二手房源，一共有3000个房源数据，和网友分析的一样，关于正则表达式的那一块，这里也贴上他们的小改进：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="cp"># 1
+</span><span class="cp"></span><span class="n">str_split_fixed</span><span class="p">(</span><span class="n">house_tag</span><span class="p">,</span><span class="s">&#34; *</span><span class="se">\\</span><span class="s">|&#34;</span><span class="p">,</span><span class="mi">7</span><span class="p">)</span> <span class="err">#正则改成这样就能将所有的变量都分隔开了</span>
+
+<span class="cp"># 2
+</span><span class="cp"></span><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span>
+<span class="cp">#df是数据集，col是按那一列进行划分，into是划分为新数据集的列名称，sep是划分的符号
+</span><span class="cp"></span><span class="n">df</span><span class="o">=</span><span class="n">separate</span><span class="p">(</span><span class="n">data</span> <span class="o">=</span> <span class="n">df</span><span class="p">,</span> <span class="n">col</span> <span class="o">=</span> <span class="n">colname</span><span class="p">,</span> <span class="n">into</span> <span class="o">=</span> <span class="n">c</span><span class="p">(</span><span class="s">&#34;code&#34;</span><span class="p">,</span> <span class="s">&#34;name&#34;</span><span class="p">),</span> <span class="n">sep</span> <span class="o">=</span> <span class="s">&#34;</span><span class="se">\\</span><span class="s">|&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>安居客深圳租房</p>
+
+<p>我发现我自己有点不知天高地厚啊？竟然有胆量去查 <strong>二手房</strong> ！！知错就改还是好孩子嘛，这不马上写个<del>单室</del>租房的……不过换了网站，因为：</p>
+
+<ul>
+<li>不想套用代码；</li>
+<li>房源数量一样；</li>
+<li>想尝试使用progress；</li>
+<li>价钱只有一个。</li>
+</ul>
+
+<p>链接：<a href="https://sz.zu.anjuke.com/fangyuan/fx1/">https://sz.zu.anjuke.com/fangyuan/fx1/</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="n">library</span><span class="p">(</span><span class="n">rvest</span><span class="p">)</span>
+<span class="n">library</span><span class="p">(</span><span class="n">progress</span><span class="p">)</span>
+<span class="n">pg</span> <span class="o">&lt;-</span> <span class="n">progress_bar</span><span class="err">$</span><span class="n">new</span><span class="p">(</span><span class="n">total</span> <span class="o">=</span> <span class="mi">50</span><span class="p">)</span>
+
+<span class="n">hs</span> <span class="o">&lt;-</span> <span class="n">tibble</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="mi">1</span><span class="o">:</span><span class="mi">50</span><span class="p">)</span> <span class="p">{</span>
+  <span class="n">url</span> <span class="o">&lt;-</span> <span class="n">paste</span><span class="p">(</span><span class="s">&#34;https://sz.zu.anjuke.com/fangyuan/fx1-p&#34;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+
+  <span class="n">hs_info</span> <span class="o">&lt;-</span> <span class="n">url</span> <span class="o">%&gt;%</span>
+    <span class="n">read_html</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;p.details-item.tag&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34;</span><span class="se">\\</span><span class="s">|&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+
+  <span class="n">hs_info</span><span class="p">[,</span> <span class="mi">1</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">str_remove_all</span><span class="p">(</span><span class="n">hs_info</span><span class="p">[,</span> <span class="mi">1</span><span class="p">],</span> <span class="s">&#34;</span><span class="se">\\</span><span class="s">s&#34;</span><span class="p">)</span>
+  <span class="n">hs_info</span><span class="p">[,</span> <span class="mi">2</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">str_remove</span><span class="p">(</span><span class="n">hs_info</span><span class="p">[,</span> <span class="mi">2</span><span class="p">],</span> <span class="s">&#34;平米&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">()</span>
+  <span class="n">hs_info_else</span> <span class="o">&lt;-</span> <span class="n">str_split</span><span class="p">(</span><span class="n">hs_info</span><span class="p">[,</span> <span class="mi">3</span><span class="p">],</span> <span class="s">&#34;</span><span class="se">\\</span><span class="s">s&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)[,</span> <span class="mi">1</span><span class="p">]</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34;层</span><span class="se">\\</span><span class="s">ue147&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  <span class="n">hs_info</span> <span class="o">&lt;-</span> <span class="n">hs_info</span><span class="p">[,</span> <span class="mi">1</span><span class="o">:</span><span class="mi">2</span><span class="p">]</span> <span class="o">%&gt;%</span>
+    <span class="n">cbind</span><span class="p">(</span><span class="n">hs_info_else</span><span class="p">)</span>
+
+  <span class="n">hs_posi</span> <span class="o">&lt;-</span> <span class="n">url</span> <span class="o">%&gt;%</span>
+    <span class="n">read_html</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;address.details-item&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34;</span><span class="se">\\</span><span class="s">n&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  <span class="n">hs_posi</span><span class="p">[,</span> <span class="mi">2</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">str_remove_all</span><span class="p">(</span><span class="n">hs_posi</span><span class="p">[,</span> <span class="mi">2</span><span class="p">],</span> <span class="s">&#34;</span><span class="se">\\</span><span class="s">s&#34;</span><span class="p">)</span>
+  <span class="n">hs_posi_else</span> <span class="o">&lt;-</span> <span class="n">str_split</span><span class="p">(</span><span class="n">hs_posi</span><span class="p">[,</span> <span class="mi">3</span><span class="p">],</span> <span class="s">&#34;</span><span class="se">\\</span><span class="s">s&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  <span class="n">hs_posi</span> <span class="o">&lt;-</span> <span class="n">cbind</span><span class="p">(</span><span class="n">hs_posi</span><span class="p">[,</span> <span class="mi">2</span><span class="p">],</span> <span class="n">hs_posi_else</span><span class="p">[,</span> <span class="mi">57</span><span class="p">],</span> <span class="n">hs_posi_else</span><span class="p">[,</span> <span class="mi">58</span><span class="p">])</span>
+
+  <span class="n">hs_pric</span> <span class="o">&lt;-</span> <span class="n">url</span> <span class="o">%&gt;%</span>
+    <span class="n">read_html</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;div.zu-side&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_extract</span><span class="p">(</span><span class="s">&#34;(</span><span class="se">\\</span><span class="s">d{3,})&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">()</span>
+
+  <span class="n">house</span> <span class="o">&lt;-</span> <span class="n">cbind</span><span class="p">(</span><span class="n">hs_posi</span><span class="p">,</span> <span class="n">hs_info</span><span class="p">,</span> <span class="n">hs_pric</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">as_tibble</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">rename</span><span class="p">(</span><span class="err">小区名</span> <span class="o">=</span> <span class="n">V1</span><span class="p">,</span> <span class="err">地区</span> <span class="o">=</span> <span class="n">V2</span><span class="p">,</span> <span class="err">道路</span> <span class="o">=</span> <span class="n">V3</span><span class="p">,</span> <span class="err">厅室</span> <span class="o">=</span> <span class="n">V4</span><span class="p">,</span> <span class="err">面积</span> <span class="o">=</span> <span class="n">V5</span><span class="p">,</span> <span class="err">层数</span> <span class="o">=</span> <span class="n">V6</span><span class="p">,</span> <span class="err">联系人</span> <span class="o">=</span> <span class="n">V7</span><span class="p">,</span> <span class="err">月租</span> <span class="o">=</span> <span class="n">hs_pric</span><span class="p">)</span>
+
+  <span class="n">hs</span> <span class="o">&lt;-</span> <span class="n">rbind</span><span class="p">(</span><span class="n">hs</span><span class="p">,</span> <span class="n">house</span><span class="p">)</span>
+  <span class="n">pg</span><span class="err">$</span><span class="n">tick</span><span class="p">()</span>
+  <span class="n">Sys</span><span class="p">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">1</span> <span class="o">/</span> <span class="mi">100</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="n">write</span><span class="p">.</span><span class="n">csv</span><span class="p">(</span><span class="n">hs</span><span class="p">,</span> <span class="s">&#34;深圳市租房.csv&#34;</span><span class="p">)</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>这网站还设人机识别……加了进度条感觉目标似乎更加明确了呢！这里发现如果要导出<code>.csv</code>文件用到的是<code>write.csv()</code>，如果是<code>write.csv2()</code>那么所有的信息都在一列了，而且都是乱码……</p>
+
+<p>如果在<code>write.csv()</code>中使用<code>fileEncoding = &quot;UTF-8&quot;</code>那么生成的也是乱码。因为Excel的默认编码方式不是<code>UTF-8</code>。但是不管是哪种在R中都没问题！</p>
+
+<a class="post-dummy-target" id="爬取豆瓣图书top250"></a><h2>爬取豆瓣图书top250</h2>
+
+<p>说实话豆瓣还没人家二手房网站用心，你看看你们自己的数据，再看看人家的？我真是写得恼火气！</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span><span class="lnt">61
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="n">library</span><span class="p">(</span><span class="n">rvest</span><span class="p">)</span>
+<span class="n">book</span> <span class="o">&lt;-</span> <span class="n">tibble</span><span class="p">()</span>
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="n">seq</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">225</span><span class="p">,</span> <span class="mi">25</span><span class="p">))</span> <span class="p">{</span>
+  <span class="n">url</span> <span class="o">&lt;-</span> <span class="n">paste</span><span class="p">(</span><span class="s">&#34;https://book.douban.com/top250?start=&#34;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+
+  <span class="n">bname</span> <span class="o">&lt;-</span> <span class="n">read_html</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="s">&#34;UTF-8&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;div.pl2&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34;</span><span class="se">\\</span><span class="s">n&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  <span class="n">bname</span> <span class="o">&lt;-</span> <span class="n">bname</span><span class="p">[,</span> <span class="mi">5</span><span class="p">]</span> <span class="o">%&gt;%</span>
+    <span class="n">str_remove_all</span><span class="p">(</span><span class="s">&#34;(</span><span class="se">\\</span><span class="s">s)&#34;</span><span class="p">)</span>
+
+  <span class="n">bdetail</span> <span class="o">&lt;-</span> <span class="n">read_html</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="s">&#34;UTF-8&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;p.pl&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_split</span><span class="p">(</span><span class="s">&#34;/&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  <span class="k">for</span> <span class="p">(</span><span class="n">j</span> <span class="n">in</span> <span class="mi">1</span><span class="o">:</span><span class="mi">25</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span><span class="p">(</span><span class="n">length</span><span class="p">(</span><span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,])</span> <span class="o">==</span><span class="mi">5</span><span class="p">){</span>
+      <span class="k">if</span> <span class="p">(</span><span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">5</span><span class="p">]</span> <span class="o">!=</span> <span class="s">&#34;&#34;</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">1</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">str_c</span><span class="p">(</span><span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">1</span><span class="p">],</span> <span class="s">&#34;(译)&#34;</span><span class="p">,</span> <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">2</span><span class="p">])</span>
+        <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">2</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span>
+        <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">4</span><span class="p">]</span>
+        <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">4</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">5</span><span class="p">]</span>
+      <span class="p">}</span>
+    <span class="p">}</span><span class="err">#</span><span class="k">else</span> <span class="k">if</span><span class="p">(</span><span class="n">length</span><span class="p">(</span><span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,])</span> <span class="o">==</span><span class="mi">6</span><span class="p">){</span><span class="err">#</span> <span class="err">加一个判断，</span><span class="mi">50</span><span class="err">时的</span><span class="s">&#34;你今天真好看&#34;</span><span class="p">...</span>
+    <span class="cp">#   bdetail[j,] &lt;- bdetail[j,-3]
+</span><span class="cp"></span>    <span class="cp">#   if (bdetail[j, 5] != &#34;&#34;) {
+</span><span class="cp"></span>    <span class="cp">#     bdetail[j, 1] &lt;- str_c(bdetail[j, 1], &#34;(译)&#34;, bdetail[j, 2])
+</span><span class="cp"></span>    <span class="cp">#     bdetail[j, 2] &lt;- bdetail[j, 3]
+</span><span class="cp"></span>    <span class="cp">#     bdetail[j, 3] &lt;- bdetail[j, 4]
+</span><span class="cp"></span>    <span class="cp">#     bdetail[j, 4] &lt;- bdetail[j, 5]
+</span><span class="cp"></span>    <span class="cp"># }
+</span><span class="cp"></span>    <span class="cp"># }
+</span><span class="cp"></span>  <span class="p">}</span>
+  <span class="n">bdetail</span> <span class="o">&lt;-</span> <span class="n">bdetail</span><span class="p">[,</span> <span class="mi">1</span><span class="o">:</span><span class="mi">4</span><span class="p">]</span>
+  <span class="k">for</span> <span class="p">(</span><span class="n">j</span> <span class="n">in</span> <span class="mi">1</span><span class="o">:</span><span class="mi">25</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">4</span><span class="p">]</span> <span class="o">!=</span> <span class="s">&#34;&#34;</span><span class="p">)</span> <span class="p">{</span>
+      <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">4</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">bdetail</span><span class="p">[</span><span class="n">j</span><span class="p">,</span> <span class="mi">4</span><span class="p">]</span> <span class="o">%&gt;%</span>
+        <span class="n">str_extract_all</span><span class="p">(</span><span class="s">&#34;(</span><span class="se">\\</span><span class="s">d{1,3}).(</span><span class="se">\\</span><span class="s">d{1,2})&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+
+  <span class="n">bgrade</span> <span class="o">&lt;-</span> <span class="n">read_html</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="s">&#34;UTF-8&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;span.rating_nums&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span>
+  <span class="n">bnumber</span> <span class="o">&lt;-</span> <span class="n">read_html</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="s">&#34;UTF-8&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;span.pl&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">str_extract_all</span><span class="p">(</span><span class="s">&#34;(</span><span class="se">\\</span><span class="s">d{4,})&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">length</span><span class="p">(</span><span class="n">bnumber</span><span class="p">)</span> <span class="o">&gt;=</span> <span class="mi">25</span><span class="p">)</span> <span class="n">bnumber</span> <span class="o">&lt;-</span> <span class="n">bnumber</span><span class="p">[</span><span class="mi">1</span><span class="o">:</span><span class="mi">25</span><span class="p">,</span> <span class="mi">1</span><span class="p">]</span>
+  <span class="n">bquote</span> <span class="o">&lt;-</span> <span class="n">read_html</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="s">&#34;UTF-8&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_nodes</span><span class="p">(</span><span class="s">&#34;span.inq&#34;</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">html_text</span><span class="p">()</span>
+  <span class="n">b</span> <span class="o">&lt;-</span> <span class="n">cbind</span><span class="p">(</span><span class="n">bname</span><span class="p">,</span> <span class="n">bdetail</span><span class="p">,</span> <span class="n">bgrade</span><span class="p">,</span> <span class="n">bnumber</span><span class="p">,</span> <span class="n">bquote</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">as_tibble</span><span class="p">()</span> <span class="o">%&gt;%</span>
+    <span class="n">rename</span><span class="p">(</span>
+      <span class="err">书名</span> <span class="o">=</span> <span class="n">bname</span><span class="p">,</span> <span class="err">作者</span> <span class="o">=</span> <span class="n">V2</span><span class="p">,</span> <span class="err">出版社</span> <span class="o">=</span> <span class="n">V3</span><span class="p">,</span> <span class="err">出版时间</span> <span class="o">=</span> <span class="n">V4</span><span class="p">,</span>
+      <span class="err">售价</span> <span class="o">=</span> <span class="n">V5</span><span class="p">,</span> <span class="err">豆瓣评分</span> <span class="o">=</span> <span class="n">bgrade</span><span class="p">,</span> <span class="err">评分人数</span> <span class="o">=</span> <span class="n">bnumber</span><span class="p">,</span> <span class="err">引言</span> <span class="o">=</span> <span class="n">bquote</span>
+    <span class="p">)</span>
+  <span class="n">book</span> <span class="o">&lt;-</span> <span class="n">rbind</span><span class="p">(</span><span class="n">book</span><span class="p">,</span> <span class="n">b</span><span class="p">)</span>
+<span class="p">}</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>只能运行到前100个，其中还有个张爱玲的书豆瓣连作者都没加上去；还有一书多价的（别找借口）；还有多个出版社的……</p>
+
+<p>掀桌了！</p>
+
+<a class="post-dummy-target" id="网上下载-txt-文件"></a><h2>网上下载<code>.txt</code>文件</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span><span class="lnt">61
+</span><span class="lnt">62
+</span><span class="lnt">63
+</span><span class="lnt">64
+</span><span class="lnt">65
+</span><span class="lnt">66
+</span><span class="lnt">67
+</span><span class="lnt">68
+</span><span class="lnt">69
+</span><span class="lnt">70
+</span><span class="lnt">71
+</span><span class="lnt">72
+</span><span class="lnt">73
+</span><span class="lnt">74
+</span><span class="lnt">75
+</span><span class="lnt">76
+</span><span class="lnt">77
+</span><span class="lnt">78
+</span><span class="lnt">79
+</span><span class="lnt">80
+</span><span class="lnt">81
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="n">require</span><span class="p">(</span><span class="n">pacman</span><span class="p">)</span>
+<span class="n">p_load</span><span class="p">(</span><span class="n">downloader</span><span class="p">)</span>
+
+<span class="n">wd</span> <span class="o">&lt;-</span> <span class="n">tibble</span><span class="p">()</span>
+
+<span class="cp"># for(i in 1901:2100){
+</span><span class="cp">#   url &lt;- paste(&#34;https:</span><span class="c1">//data.weather.gov.hk/gts/time/calendar/text/T&#34;, i,&#34;e.txt&#34;, sep = &#34;&#34;)
+</span><span class="c1"></span><span class="cp">#   name &lt;- paste(&#34;T&#34;, i, &#34;e.txt&#34;, sep = &#34;&#34;)
+</span><span class="cp">#   download(url = url, destfile = name)
+</span><span class="cp"># }
+</span><span class="cp"></span>    
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="mi">2019</span><span class="o">:</span><span class="mi">2025</span><span class="p">)</span> <span class="p">{</span>
+  <span class="n">url</span> <span class="o">&lt;-</span> <span class="n">paste</span><span class="p">(</span><span class="s">&#34;https://hoas.xyz/txt/calendar/T&#34;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="s">&#34;e.txt&#34;</span><span class="p">,</span> <span class="n">sep</span> <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="p">)</span>
+  
+  <span class="n">wd_en</span> <span class="o">&lt;-</span> <span class="n">fread</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">fill</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">,</span> <span class="n">header</span> <span class="o">=</span> <span class="n">FALSE</span><span class="p">,</span> <span class="n">skip</span> <span class="o">=</span> <span class="mi">2</span><span class="p">,</span> <span class="n">select</span> <span class="o">=</span> <span class="mi">1</span><span class="o">:</span><span class="mi">5</span><span class="p">)</span> <span class="o">%&gt;%</span>
+    <span class="n">as_tibble</span><span class="p">()</span>
+  
+  <span class="n">wd</span> <span class="o">&lt;-</span> <span class="n">rbind</span><span class="p">(</span><span class="n">wd</span><span class="p">,</span> <span class="n">wd_en</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="n">wd</span> <span class="o">&lt;-</span> <span class="n">wd</span> <span class="o">%&gt;%</span>
+  <span class="n">rename</span><span class="p">(</span><span class="n">solar</span> <span class="o">=</span> <span class="n">V1</span><span class="p">,</span> <span class="n">lunar</span> <span class="o">=</span> <span class="n">V2</span><span class="p">,</span> <span class="n">week</span> <span class="o">=</span> <span class="n">V3</span><span class="p">)</span> <span class="o">%&gt;%</span>
+  <span class="n">as_tibble</span><span class="p">()</span> <span class="o">%&gt;%</span>
+  <span class="n">mutate</span><span class="p">(</span><span class="n">month</span> <span class="o">=</span> <span class="n">NA</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="n">seq_along</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">1</span><span class="p">]]))</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">str_detect</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">2</span><span class="p">]][</span><span class="n">i</span><span class="p">],</span> <span class="s">&#34;[td]&#34;</span><span class="p">))</span> <span class="p">{</span>
+    <span class="n">wd</span><span class="p">[[</span><span class="mi">3</span><span class="p">]][</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">wd</span><span class="p">[[</span><span class="mi">5</span><span class="p">]][</span><span class="n">i</span><span class="p">]</span>
+    <span class="n">wd</span><span class="p">[[</span><span class="mi">2</span><span class="p">]][</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">str_replace</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">2</span><span class="p">]][</span><span class="n">i</span><span class="p">],</span> <span class="s">&#34;(.d)|(th)|(st)&#34;</span><span class="p">,</span> <span class="s">&#34;/1&#34;</span><span class="p">)</span>
+    <span class="n">wd</span><span class="err">$</span><span class="n">month</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">(</span><span class="n">str_split</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">2</span><span class="p">]][</span><span class="n">i</span><span class="p">],</span> <span class="s">&#34;/&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)[</span><span class="mi">1</span><span class="p">])</span>
+    <span class="n">wd</span><span class="err">$</span><span class="n">lunar</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">str_split</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">2</span><span class="p">]][</span><span class="n">i</span><span class="p">],</span> <span class="s">&#34;/&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)[</span><span class="mi">2</span><span class="p">]</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="n">wd</span> <span class="o">&lt;-</span> <span class="n">wd</span> <span class="o">%&gt;%</span>
+  <span class="n">select</span><span class="p">(</span><span class="mi">1</span><span class="o">:</span><span class="mi">3</span><span class="p">,</span> <span class="n">month</span><span class="p">)</span> <span class="o">%&gt;%</span>
+  <span class="n">mutate</span><span class="p">(</span><span class="n">year</span> <span class="o">=</span> <span class="mi">0</span><span class="p">)</span>
+
+<span class="n">j</span> <span class="o">&lt;-</span> <span class="mi">0</span>
+<span class="n">k</span> <span class="o">&lt;-</span> <span class="mi">0</span>
+<span class="n">l</span> <span class="o">&lt;-</span> <span class="n">length</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">1</span><span class="p">]])</span>
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="n">seq_along</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">1</span><span class="p">]]))</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">is</span><span class="p">.</span><span class="n">na</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="n">i</span><span class="p">]))</span> <span class="p">{</span>
+    <span class="n">j</span> <span class="o">&lt;-</span> <span class="n">i</span> <span class="o">-</span> <span class="mi">1</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="n">i</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span> <span class="o">&lt;</span> <span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
+      <span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="nl">k</span><span class="p">:</span><span class="n">j</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="mi">12</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+      <span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="nl">k</span><span class="p">:</span><span class="n">j</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="n">i</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span>
+    <span class="p">}</span>
+    <span class="n">k</span> <span class="o">&lt;-</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span>
+  <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">((</span><span class="n">i</span> <span class="o">==</span> <span class="n">l</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">is</span><span class="p">.</span><span class="n">na</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="n">i</span><span class="p">])))</span> <span class="p">{</span>
+    <span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="nl">k</span><span class="p">:</span><span class="n">l</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="n">wd</span><span class="p">[[</span><span class="mi">4</span><span class="p">]][</span><span class="n">k</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="cp"># 英文最终整理
+</span><span class="cp"></span><span class="n">j</span> <span class="o">&lt;-</span> <span class="mi">0</span>
+<span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="n">seq_along</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">1</span><span class="p">]]))</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">month</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">j</span> <span class="o">&lt;-</span> <span class="n">i</span>
+    <span class="n">wd</span><span class="err">$</span><span class="n">year</span><span class="p">[</span><span class="nl">j</span><span class="p">:</span><span class="n">length</span><span class="p">(</span><span class="n">wd</span><span class="p">[[</span><span class="mi">1</span><span class="p">]])]</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">(</span><span class="n">str_split</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">solar</span><span class="p">,</span> <span class="s">&#34;/&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)[</span><span class="mi">1</span><span class="p">])</span>
+    <span class="k">break</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+<span class="n">wd</span><span class="err">$</span><span class="n">year</span><span class="p">[</span><span class="mi">1</span><span class="o">:</span><span class="p">(</span><span class="n">j</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)]</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">numeric</span><span class="p">(</span><span class="n">str_split</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">solar</span><span class="p">,</span> <span class="s">&#34;/&#34;</span><span class="p">,</span> <span class="n">simplify</span> <span class="o">=</span> <span class="n">TRUE</span><span class="p">)[</span><span class="mi">1</span><span class="p">])</span> <span class="o">-</span> <span class="mi">1</span>
+
+<span class="n">wd</span><span class="err">$</span><span class="n">month</span> <span class="o">&lt;-</span> <span class="n">as</span><span class="p">.</span><span class="n">character</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">month</span><span class="p">)</span>
+
+<span class="cp"># 2-29显示不出来！！！
+</span><span class="cp"></span><span class="n">wd</span><span class="err">$</span><span class="n">lunar</span> <span class="o">&lt;-</span> <span class="n">str_c</span><span class="p">(</span>
+  <span class="n">as</span><span class="p">.</span><span class="n">character</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">year</span><span class="p">),</span>
+  <span class="s">&#34;-&#34;</span><span class="p">,</span>
+  <span class="n">as</span><span class="p">.</span><span class="n">character</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">month</span><span class="p">),</span>
+  <span class="s">&#34;-&#34;</span><span class="p">,</span>
+  <span class="n">wd</span><span class="err">$</span><span class="n">lunar</span>
+<span class="p">)</span>
+
+<span class="n">wd</span><span class="err">$</span><span class="n">solar</span> <span class="o">&lt;-</span> <span class="n">lubridate</span><span class="o">::</span><span class="n">ymd</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">solar</span><span class="p">)</span>
+
+<span class="n">wd</span> <span class="o">%&gt;%</span>
+  <span class="n">dplyr</span><span class="o">::</span><span class="n">filter</span><span class="p">(</span><span class="n">is</span><span class="p">.</span><span class="n">na</span><span class="p">(</span><span class="n">wd</span><span class="err">$</span><span class="n">solar</span><span class="p">))</span></code></pre></td></tr></table>
+</div>
+</div>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-03-14 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/03/2019-03-14-r-crawl-in-web/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                    </span>
+                
+                    <span class="tag">
+                        <a href="/tags/%E4%B8%AD%E6%96%87/"><i class="fas fa-tag fa-fw"></i>中文</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/03/2019-03-14-jiebar-in-chinese/" class="prev" rel="prev" title="R语言自然语言处理：中文分词"><i class="fas fa-angle-left fa-fw"></i>R语言自然语言处理：中文分词</a>
+        
+        
+            <a href="/2019/03/2019-03-23-using-r-in-cs/" class="next" rel="next" title="C#调用R">C#调用R<i class="fas fa-angle-right fa-fw"></i></a>
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2018 - 2019</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

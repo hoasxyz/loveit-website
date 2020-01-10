@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2052 (Ren-shen  -  year of the Monkey)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2052/1/1          30                      Monday                             
+2052/1/2          12th Lunar Month        Tuesday                            
+2052/1/3          2                       Wednesday                          
+2052/1/4          3                       Thursday                           
+2052/1/5          4                       Friday         Moderate Cold       
+2052/1/6          5                       Saturday                           
+2052/1/7          6                       Sunday                             
+2052/1/8          7                       Monday                             
+2052/1/9          8                       Tuesday                            
+2052/1/10         9                       Wednesday                          
+2052/1/11         10                      Thursday                           
+2052/1/12         11                      Friday                             
+2052/1/13         12                      Saturday                           
+2052/1/14         13                      Sunday                             
+2052/1/15         14                      Monday                             
+2052/1/16         15                      Tuesday                            
+2052/1/17         16                      Wednesday                          
+2052/1/18         17                      Thursday                           
+2052/1/19         18                      Friday                             
+2052/1/20         19                      Saturday       Severe Cold         
+2052/1/21         20                      Sunday                             
+2052/1/22         21                      Monday                             
+2052/1/23         22                      Tuesday                            
+2052/1/24         23                      Wednesday                          
+2052/1/25         24                      Thursday                           
+2052/1/26         25                      Friday                             
+2052/1/27         26                      Saturday                           
+2052/1/28         27                      Sunday                             
+2052/1/29         28                      Monday                             
+2052/1/30         29                      Tuesday                            
+2052/1/31         30                      Wednesday                          
+2052/2/1          1st Lunar Month         Thursday                           
+2052/2/2          2                       Friday                             
+2052/2/3          3                       Saturday                           
+2052/2/4          4                       Sunday         Spring Commences    
+2052/2/5          5                       Monday                             
+2052/2/6          6                       Tuesday                            
+2052/2/7          7                       Wednesday                          
+2052/2/8          8                       Thursday                           
+2052/2/9          9                       Friday                             
+2052/2/10         10                      Saturday                           
+2052/2/11         11                      Sunday                             
+2052/2/12         12                      Monday                             
+2052/2/13         13                      Tuesday                            
+2052/2/14         14                      Wednesday                          
+2052/2/15         15                      Thursday                           
+2052/2/16         16                      Friday                             
+2052/2/17         17                      Saturday                           
+2052/2/18         18                      Sunday                             
+2052/2/19         19                      Monday         Spring Showers      
+2052/2/20         20                      Tuesday                            
+2052/2/21         21                      Wednesday                          
+2052/2/22         22                      Thursday                           
+2052/2/23         23                      Friday                             
+2052/2/24         24                      Saturday                           
+2052/2/25         25                      Sunday                             
+2052/2/26         26                      Monday                             
+2052/2/27         27                      Tuesday                            
+2052/2/28         28                      Wednesday                          
+2052/2/29         29                      Thursday                           
+2052/3/1          2nd Lunar Month         Friday                             
+2052/3/2          2                       Saturday                           
+2052/3/3          3                       Sunday                             
+2052/3/4          4                       Monday                             
+2052/3/5          5                       Tuesday        Insects Waken       
+2052/3/6          6                       Wednesday                          
+2052/3/7          7                       Thursday                           
+2052/3/8          8                       Friday                             
+2052/3/9          9                       Saturday                           
+2052/3/10         10                      Sunday                             
+2052/3/11         11                      Monday                             
+2052/3/12         12                      Tuesday                            
+2052/3/13         13                      Wednesday                          
+2052/3/14         14                      Thursday                           
+2052/3/15         15                      Friday                             
+2052/3/16         16                      Saturday                           
+2052/3/17         17                      Sunday                             
+2052/3/18         18                      Monday                             
+2052/3/19         19                      Tuesday                            
+2052/3/20         20                      Wednesday      Vernal Equinox      
+2052/3/21         21                      Thursday                           
+2052/3/22         22                      Friday                             
+2052/3/23         23                      Saturday                           
+2052/3/24         24                      Sunday                             
+2052/3/25         25                      Monday                             
+2052/3/26         26                      Tuesday                            
+2052/3/27         27                      Wednesday                          
+2052/3/28         28                      Thursday                           
+2052/3/29         29                      Friday                             
+2052/3/30         30                      Saturday                           
+2052/3/31         3rd Lunar Month         Sunday                             
+2052/4/1          2                       Monday                             
+2052/4/2          3                       Tuesday                            
+2052/4/3          4                       Wednesday                          
+2052/4/4          5                       Thursday       Bright & Clear      
+2052/4/5          6                       Friday                             
+2052/4/6          7                       Saturday                           
+2052/4/7          8                       Sunday                             
+2052/4/8          9                       Monday                             
+2052/4/9          10                      Tuesday                            
+2052/4/10         11                      Wednesday                          
+2052/4/11         12                      Thursday                           
+2052/4/12         13                      Friday                             
+2052/4/13         14                      Saturday                           
+2052/4/14         15                      Sunday                             
+2052/4/15         16                      Monday                             
+2052/4/16         17                      Tuesday                            
+2052/4/17         18                      Wednesday                          
+2052/4/18         19                      Thursday                           
+2052/4/19         20                      Friday         Corn Rain           
+2052/4/20         21                      Saturday                           
+2052/4/21         22                      Sunday                             
+2052/4/22         23                      Monday                             
+2052/4/23         24                      Tuesday                            
+2052/4/24         25                      Wednesday                          
+2052/4/25         26                      Thursday                           
+2052/4/26         27                      Friday                             
+2052/4/27         28                      Saturday                           
+2052/4/28         29                      Sunday                             
+2052/4/29         4th Lunar Month         Monday                             
+2052/4/30         2                       Tuesday                            
+2052/5/1          3                       Wednesday                          
+2052/5/2          4                       Thursday                           
+2052/5/3          5                       Friday                             
+2052/5/4          6                       Saturday                           
+2052/5/5          7                       Sunday         Summer Commences    
+2052/5/6          8                       Monday                             
+2052/5/7          9                       Tuesday                            
+2052/5/8          10                      Wednesday                          
+2052/5/9          11                      Thursday                           
+2052/5/10         12                      Friday                             
+2052/5/11         13                      Saturday                           
+2052/5/12         14                      Sunday                             
+2052/5/13         15                      Monday                             
+2052/5/14         16                      Tuesday                            
+2052/5/15         17                      Wednesday                          
+2052/5/16         18                      Thursday                           
+2052/5/17         19                      Friday                             
+2052/5/18         20                      Saturday                           
+2052/5/19         21                      Sunday                             
+2052/5/20         22                      Monday         Corn Forms          
+2052/5/21         23                      Tuesday                            
+2052/5/22         24                      Wednesday                          
+2052/5/23         25                      Thursday                           
+2052/5/24         26                      Friday                             
+2052/5/25         27                      Saturday                           
+2052/5/26         28                      Sunday                             
+2052/5/27         29                      Monday                             
+2052/5/28         5th Lunar Month         Tuesday                            
+2052/5/29         2                       Wednesday                          
+2052/5/30         3                       Thursday                           
+2052/5/31         4                       Friday                             
+2052/6/1          5                       Saturday                           
+2052/6/2          6                       Sunday                             
+2052/6/3          7                       Monday                             
+2052/6/4          8                       Tuesday                            
+2052/6/5          9                       Wednesday      Corn on Ear         
+2052/6/6          10                      Thursday                           
+2052/6/7          11                      Friday                             
+2052/6/8          12                      Saturday                           
+2052/6/9          13                      Sunday                             
+2052/6/10         14                      Monday                             
+2052/6/11         15                      Tuesday                            
+2052/6/12         16                      Wednesday                          
+2052/6/13         17                      Thursday                           
+2052/6/14         18                      Friday                             
+2052/6/15         19                      Saturday                           
+2052/6/16         20                      Sunday                             
+2052/6/17         21                      Monday                             
+2052/6/18         22                      Tuesday                            
+2052/6/19         23                      Wednesday                          
+2052/6/20         24                      Thursday       Summer Solstice     
+2052/6/21         25                      Friday                             
+2052/6/22         26                      Saturday                           
+2052/6/23         27                      Sunday                             
+2052/6/24         28                      Monday                             
+2052/6/25         29                      Tuesday                            
+2052/6/26         30                      Wednesday                          
+2052/6/27         6th Lunar Month         Thursday                           
+2052/6/28         2                       Friday                             
+2052/6/29         3                       Saturday                           
+2052/6/30         4                       Sunday                             
+2052/7/1          5                       Monday                             
+2052/7/2          6                       Tuesday                            
+2052/7/3          7                       Wednesday                          
+2052/7/4          8                       Thursday                           
+2052/7/5          9                       Friday                             
+2052/7/6          10                      Saturday       Moderate Heat       
+2052/7/7          11                      Sunday                             
+2052/7/8          12                      Monday                             
+2052/7/9          13                      Tuesday                            
+2052/7/10         14                      Wednesday                          
+2052/7/11         15                      Thursday                           
+2052/7/12         16                      Friday                             
+2052/7/13         17                      Saturday                           
+2052/7/14         18                      Sunday                             
+2052/7/15         19                      Monday                             
+2052/7/16         20                      Tuesday                            
+2052/7/17         21                      Wednesday                          
+2052/7/18         22                      Thursday                           
+2052/7/19         23                      Friday                             
+2052/7/20         24                      Saturday                           
+2052/7/21         25                      Sunday                             
+2052/7/22         26                      Monday         Great Heat          
+2052/7/23         27                      Tuesday                            
+2052/7/24         28                      Wednesday                          
+2052/7/25         29                      Thursday                           
+2052/7/26         7th Lunar Month         Friday                             
+2052/7/27         2                       Saturday                           
+2052/7/28         3                       Sunday                             
+2052/7/29         4                       Monday                             
+2052/7/30         5                       Tuesday                            
+2052/7/31         6                       Wednesday                          
+2052/8/1          7                       Thursday                           
+2052/8/2          8                       Friday                             
+2052/8/3          9                       Saturday                           
+2052/8/4          10                      Sunday                             
+2052/8/5          11                      Monday                             
+2052/8/6          12                      Tuesday                            
+2052/8/7          13                      Wednesday      Autumn Commences    
+2052/8/8          14                      Thursday                           
+2052/8/9          15                      Friday                             
+2052/8/10         16                      Saturday                           
+2052/8/11         17                      Sunday                             
+2052/8/12         18                      Monday                             
+2052/8/13         19                      Tuesday                            
+2052/8/14         20                      Wednesday                          
+2052/8/15         21                      Thursday                           
+2052/8/16         22                      Friday                             
+2052/8/17         23                      Saturday                           
+2052/8/18         24                      Sunday                             
+2052/8/19         25                      Monday                             
+2052/8/20         26                      Tuesday                            
+2052/8/21         27                      Wednesday                          
+2052/8/22         28                      Thursday       End of Heat         
+2052/8/23         29                      Friday                             
+2052/8/24         8th Lunar Month         Saturday                           
+2052/8/25         2                       Sunday                             
+2052/8/26         3                       Monday                             
+2052/8/27         4                       Tuesday                            
+2052/8/28         5                       Wednesday                          
+2052/8/29         6                       Thursday                           
+2052/8/30         7                       Friday                             
+2052/8/31         8                       Saturday                           
+2052/9/1          9                       Sunday                             
+2052/9/2          10                      Monday                             
+2052/9/3          11                      Tuesday                            
+2052/9/4          12                      Wednesday                          
+2052/9/5          13                      Thursday                           
+2052/9/6          14                      Friday                             
+2052/9/7          15                      Saturday       White Dew           
+2052/9/8          16                      Sunday                             
+2052/9/9          17                      Monday                             
+2052/9/10         18                      Tuesday                            
+2052/9/11         19                      Wednesday                          
+2052/9/12         20                      Thursday                           
+2052/9/13         21                      Friday                             
+2052/9/14         22                      Saturday                           
+2052/9/15         23                      Sunday                             
+2052/9/16         24                      Monday                             
+2052/9/17         25                      Tuesday                            
+2052/9/18         26                      Wednesday                          
+2052/9/19         27                      Thursday                           
+2052/9/20         28                      Friday                             
+2052/9/21         29                      Saturday                           
+2052/9/22         30                      Sunday         Autumnal Equinox    
+2052/9/23         8th Lunar Month         Monday                             
+2052/9/24         2                       Tuesday                            
+2052/9/25         3                       Wednesday                          
+2052/9/26         4                       Thursday                           
+2052/9/27         5                       Friday                             
+2052/9/28         6                       Saturday                           
+2052/9/29         7                       Sunday                             
+2052/9/30         8                       Monday                             
+2052/10/1         9                       Tuesday                            
+2052/10/2         10                      Wednesday                          
+2052/10/3         11                      Thursday                           
+2052/10/4         12                      Friday                             
+2052/10/5         13                      Saturday                           
+2052/10/6         14                      Sunday                             
+2052/10/7         15                      Monday         Cold Dew            
+2052/10/8         16                      Tuesday                            
+2052/10/9         17                      Wednesday                          
+2052/10/10        18                      Thursday                           
+2052/10/11        19                      Friday                             
+2052/10/12        20                      Saturday                           
+2052/10/13        21                      Sunday                             
+2052/10/14        22                      Monday                             
+2052/10/15        23                      Tuesday                            
+2052/10/16        24                      Wednesday                          
+2052/10/17        25                      Thursday                           
+2052/10/18        26                      Friday                             
+2052/10/19        27                      Saturday                           
+2052/10/20        28                      Sunday                             
+2052/10/21        29                      Monday                             
+2052/10/22        9th Lunar Month         Tuesday                            
+2052/10/23        2                       Wednesday      Frost               
+2052/10/24        3                       Thursday                           
+2052/10/25        4                       Friday                             
+2052/10/26        5                       Saturday                           
+2052/10/27        6                       Sunday                             
+2052/10/28        7                       Monday                             
+2052/10/29        8                       Tuesday                            
+2052/10/30        9                       Wednesday                          
+2052/10/31        10                      Thursday                           
+2052/11/1         11                      Friday                             
+2052/11/2         12                      Saturday                           
+2052/11/3         13                      Sunday                             
+2052/11/4         14                      Monday                             
+2052/11/5         15                      Tuesday                            
+2052/11/6         16                      Wednesday                          
+2052/11/7         17                      Thursday       Winter Commences    
+2052/11/8         18                      Friday                             
+2052/11/9         19                      Saturday                           
+2052/11/10        20                      Sunday                             
+2052/11/11        21                      Monday                             
+2052/11/12        22                      Tuesday                            
+2052/11/13        23                      Wednesday                          
+2052/11/14        24                      Thursday                           
+2052/11/15        25                      Friday                             
+2052/11/16        26                      Saturday                           
+2052/11/17        27                      Sunday                             
+2052/11/18        28                      Monday                             
+2052/11/19        29                      Tuesday                            
+2052/11/20        30                      Wednesday                          
+2052/11/21        10th Lunar Month        Thursday       Light Snow          
+2052/11/22        2                       Friday                             
+2052/11/23        3                       Saturday                           
+2052/11/24        4                       Sunday                             
+2052/11/25        5                       Monday                             
+2052/11/26        6                       Tuesday                            
+2052/11/27        7                       Wednesday                          
+2052/11/28        8                       Thursday                           
+2052/11/29        9                       Friday                             
+2052/11/30        10                      Saturday                           
+2052/12/1         11                      Sunday                             
+2052/12/2         12                      Monday                             
+2052/12/3         13                      Tuesday                            
+2052/12/4         14                      Wednesday                          
+2052/12/5         15                      Thursday                           
+2052/12/6         16                      Friday         Heavy Snow          
+2052/12/7         17                      Saturday                           
+2052/12/8         18                      Sunday                             
+2052/12/9         19                      Monday                             
+2052/12/10        20                      Tuesday                            
+2052/12/11        21                      Wednesday                          
+2052/12/12        22                      Thursday                           
+2052/12/13        23                      Friday                             
+2052/12/14        24                      Saturday                           
+2052/12/15        25                      Sunday                             
+2052/12/16        26                      Monday                             
+2052/12/17        27                      Tuesday                            
+2052/12/18        28                      Wednesday                          
+2052/12/19        29                      Thursday                           
+2052/12/20        30                      Friday                             
+2052/12/21        11th Lunar Month        Saturday       Winter Solstice     
+2052/12/22        2                       Sunday                             
+2052/12/23        3                       Monday                             
+2052/12/24        4                       Tuesday                            
+2052/12/25        5                       Wednesday                          
+2052/12/26        6                       Thursday                           
+2052/12/27        7                       Friday                             
+2052/12/28        8                       Saturday                           
+2052/12/29        9                       Sunday                             
+2052/12/30        10                      Monday                             
+2052/12/31        11                      Tuesday                            

@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1909 (Ji-you ¡V year of the Rooster)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1909/01/01     10                  Friday                             
+1909/01/02     11                  Saturday                           
+1909/01/03     12                  Sunday                             
+1909/01/04     13                  Monday                             
+1909/01/05     14                  Tuesday                            
+1909/01/06     15                  Wednesday      Moderate Cold       
+1909/01/07     16                  Thursday                           
+1909/01/08     17                  Friday                             
+1909/01/09     18                  Saturday                           
+1909/01/10     19                  Sunday                             
+1909/01/11     20                  Monday                             
+1909/01/12     21                  Tuesday                            
+1909/01/13     22                  Wednesday                          
+1909/01/14     23                  Thursday                           
+1909/01/15     24                  Friday                             
+1909/01/16     25                  Saturday                           
+1909/01/17     26                  Sunday                             
+1909/01/18     27                  Monday                             
+1909/01/19     28                  Tuesday                            
+1909/01/20     29                  Wednesday                          
+1909/01/21     30                  Thursday       Severe Cold         
+1909/01/22     1st Lunar month     Friday                             
+1909/01/23     2                   Saturday                           
+1909/01/24     3                   Sunday                             
+1909/01/25     4                   Monday                             
+1909/01/26     5                   Tuesday                            
+1909/01/27     6                   Wednesday                          
+1909/01/28     7                   Thursday                           
+1909/01/29     8                   Friday                             
+1909/01/30     9                   Saturday                           
+1909/01/31     10                  Sunday                             
+1909/02/01     11                  Monday                             
+1909/02/02     12                  Tuesday                            
+1909/02/03     13                  Wednesday                          
+1909/02/04     14                  Thursday       Spring Commences    
+1909/02/05     15                  Friday                             
+1909/02/06     16                  Saturday                           
+1909/02/07     17                  Sunday                             
+1909/02/08     18                  Monday                             
+1909/02/09     19                  Tuesday                            
+1909/02/10     20                  Wednesday                          
+1909/02/11     21                  Thursday                           
+1909/02/12     22                  Friday                             
+1909/02/13     23                  Saturday                           
+1909/02/14     24                  Sunday                             
+1909/02/15     25                  Monday                             
+1909/02/16     26                  Tuesday                            
+1909/02/17     27                  Wednesday                          
+1909/02/18     28                  Thursday                           
+1909/02/19     29                  Friday         Spring Showers      
+1909/02/20     2nd Lunar month     Saturday                           
+1909/02/21     2                   Sunday                             
+1909/02/22     3                   Monday                             
+1909/02/23     4                   Tuesday                            
+1909/02/24     5                   Wednesday                          
+1909/02/25     6                   Thursday                           
+1909/02/26     7                   Friday                             
+1909/02/27     8                   Saturday                           
+1909/02/28     9                   Sunday                             
+1909/03/01     10                  Monday                             
+1909/03/02     11                  Tuesday                            
+1909/03/03     12                  Wednesday                          
+1909/03/04     13                  Thursday                           
+1909/03/05     14                  Friday                             
+1909/03/06     15                  Saturday       Insects Waken       
+1909/03/07     16                  Sunday                             
+1909/03/08     17                  Monday                             
+1909/03/09     18                  Tuesday                            
+1909/03/10     19                  Wednesday                          
+1909/03/11     20                  Thursday                           
+1909/03/12     21                  Friday                             
+1909/03/13     22                  Saturday                           
+1909/03/14     23                  Sunday                             
+1909/03/15     24                  Monday                             
+1909/03/16     25                  Tuesday                            
+1909/03/17     26                  Wednesday                          
+1909/03/18     27                  Thursday                           
+1909/03/19     28                  Friday                             
+1909/03/20     29                  Saturday                           
+1909/03/21     30                  Sunday         Vernal Equinox      
+1909/03/22     2nd Lunar month     Monday                             
+1909/03/23     2                   Tuesday                            
+1909/03/24     3                   Wednesday                          
+1909/03/25     4                   Thursday                           
+1909/03/26     5                   Friday                             
+1909/03/27     6                   Saturday                           
+1909/03/28     7                   Sunday                             
+1909/03/29     8                   Monday                             
+1909/03/30     9                   Tuesday                            
+1909/03/31     10                  Wednesday                          
+1909/04/01     11                  Thursday                           
+1909/04/02     12                  Friday                             
+1909/04/03     13                  Saturday                           
+1909/04/04     14                  Sunday                             
+1909/04/05     15                  Monday         Bright & Clear      
+1909/04/06     16                  Tuesday                            
+1909/04/07     17                  Wednesday                          
+1909/04/08     18                  Thursday                           
+1909/04/09     19                  Friday                             
+1909/04/10     20                  Saturday                           
+1909/04/11     21                  Sunday                             
+1909/04/12     22                  Monday                             
+1909/04/13     23                  Tuesday                            
+1909/04/14     24                  Wednesday                          
+1909/04/15     25                  Thursday                           
+1909/04/16     26                  Friday                             
+1909/04/17     27                  Saturday                           
+1909/04/18     28                  Sunday                             
+1909/04/19     29                  Monday                             
+1909/04/20     3rd Lunar month     Tuesday                            
+1909/04/21     2                   Wednesday      Corn Rain           
+1909/04/22     3                   Thursday                           
+1909/04/23     4                   Friday                             
+1909/04/24     5                   Saturday                           
+1909/04/25     6                   Sunday                             
+1909/04/26     7                   Monday                             
+1909/04/27     8                   Tuesday                            
+1909/04/28     9                   Wednesday                          
+1909/04/29     10                  Thursday                           
+1909/04/30     11                  Friday                             
+1909/05/01     12                  Saturday                           
+1909/05/02     13                  Sunday                             
+1909/05/03     14                  Monday                             
+1909/05/04     15                  Tuesday                            
+1909/05/05     16                  Wednesday                          
+1909/05/06     17                  Thursday       Summer Commences    
+1909/05/07     18                  Friday                             
+1909/05/08     19                  Saturday                           
+1909/05/09     20                  Sunday                             
+1909/05/10     21                  Monday                             
+1909/05/11     22                  Tuesday                            
+1909/05/12     23                  Wednesday                          
+1909/05/13     24                  Thursday                           
+1909/05/14     25                  Friday                             
+1909/05/15     26                  Saturday                           
+1909/05/16     27                  Sunday                             
+1909/05/17     28                  Monday                             
+1909/05/18     29                  Tuesday                            
+1909/05/19     4th Lunar month     Wednesday                          
+1909/05/20     2                   Thursday                           
+1909/05/21     3                   Friday                             
+1909/05/22     4                   Saturday       Corn Forms          
+1909/05/23     5                   Sunday                             
+1909/05/24     6                   Monday                             
+1909/05/25     7                   Tuesday                            
+1909/05/26     8                   Wednesday                          
+1909/05/27     9                   Thursday                           
+1909/05/28     10                  Friday                             
+1909/05/29     11                  Saturday                           
+1909/05/30     12                  Sunday                             
+1909/05/31     13                  Monday                             
+1909/06/01     14                  Tuesday                            
+1909/06/02     15                  Wednesday                          
+1909/06/03     16                  Thursday                           
+1909/06/04     17                  Friday                             
+1909/06/05     18                  Saturday                           
+1909/06/06     19                  Sunday         Corn on Ear         
+1909/06/07     20                  Monday                             
+1909/06/08     21                  Tuesday                            
+1909/06/09     22                  Wednesday                          
+1909/06/10     23                  Thursday                           
+1909/06/11     24                  Friday                             
+1909/06/12     25                  Saturday                           
+1909/06/13     26                  Sunday                             
+1909/06/14     27                  Monday                             
+1909/06/15     28                  Tuesday                            
+1909/06/16     29                  Wednesday                          
+1909/06/17     30                  Thursday                           
+1909/06/18     5th Lunar month     Friday                             
+1909/06/19     2                   Saturday                           
+1909/06/20     3                   Sunday                             
+1909/06/21     4                   Monday                             
+1909/06/22     5                   Tuesday        Summer Solstice     
+1909/06/23     6                   Wednesday                          
+1909/06/24     7                   Thursday                           
+1909/06/25     8                   Friday                             
+1909/06/26     9                   Saturday                           
+1909/06/27     10                  Sunday                             
+1909/06/28     11                  Monday                             
+1909/06/29     12                  Tuesday                            
+1909/06/30     13                  Wednesday                          
+1909/07/01     14                  Thursday                           
+1909/07/02     15                  Friday                             
+1909/07/03     16                  Saturday                           
+1909/07/04     17                  Sunday                             
+1909/07/05     18                  Monday                             
+1909/07/06     19                  Tuesday                            
+1909/07/07     20                  Wednesday                          
+1909/07/08     21                  Thursday       Moderate Heat       
+1909/07/09     22                  Friday                             
+1909/07/10     23                  Saturday                           
+1909/07/11     24                  Sunday                             
+1909/07/12     25                  Monday                             
+1909/07/13     26                  Tuesday                            
+1909/07/14     27                  Wednesday                          
+1909/07/15     28                  Thursday                           
+1909/07/16     29                  Friday                             
+1909/07/17     6th Lunar month     Saturday                           
+1909/07/18     2                   Sunday                             
+1909/07/19     3                   Monday                             
+1909/07/20     4                   Tuesday                            
+1909/07/21     5                   Wednesday                          
+1909/07/22     6                   Thursday                           
+1909/07/23     7                   Friday         Great Heat          
+1909/07/24     8                   Saturday                           
+1909/07/25     9                   Sunday                             
+1909/07/26     10                  Monday                             
+1909/07/27     11                  Tuesday                            
+1909/07/28     12                  Wednesday                          
+1909/07/29     13                  Thursday                           
+1909/07/30     14                  Friday                             
+1909/07/31     15                  Saturday                           
+1909/08/01     16                  Sunday                             
+1909/08/02     17                  Monday                             
+1909/08/03     18                  Tuesday                            
+1909/08/04     19                  Wednesday                          
+1909/08/05     20                  Thursday                           
+1909/08/06     21                  Friday                             
+1909/08/07     22                  Saturday                           
+1909/08/08     23                  Sunday         Autumn Commences    
+1909/08/09     24                  Monday                             
+1909/08/10     25                  Tuesday                            
+1909/08/11     26                  Wednesday                          
+1909/08/12     27                  Thursday                           
+1909/08/13     28                  Friday                             
+1909/08/14     29                  Saturday                           
+1909/08/15     30                  Sunday                             
+1909/08/16     7th Lunar month     Monday                             
+1909/08/17     2                   Tuesday                            
+1909/08/18     3                   Wednesday                          
+1909/08/19     4                   Thursday                           
+1909/08/20     5                   Friday                             
+1909/08/21     6                   Saturday                           
+1909/08/22     7                   Sunday                             
+1909/08/23     8                   Monday                             
+1909/08/24     9                   Tuesday        End of Heat         
+1909/08/25     10                  Wednesday                          
+1909/08/26     11                  Thursday                           
+1909/08/27     12                  Friday                             
+1909/08/28     13                  Saturday                           
+1909/08/29     14                  Sunday                             
+1909/08/30     15                  Monday                             
+1909/08/31     16                  Tuesday                            
+1909/09/01     17                  Wednesday                          
+1909/09/02     18                  Thursday                           
+1909/09/03     19                  Friday                             
+1909/09/04     20                  Saturday                           
+1909/09/05     21                  Sunday                             
+1909/09/06     22                  Monday                             
+1909/09/07     23                  Tuesday                            
+1909/09/08     24                  Wednesday      White Dew           
+1909/09/09     25                  Thursday                           
+1909/09/10     26                  Friday                             
+1909/09/11     27                  Saturday                           
+1909/09/12     28                  Sunday                             
+1909/09/13     29                  Monday                             
+1909/09/14     8th Lunar month     Tuesday                            
+1909/09/15     2                   Wednesday                          
+1909/09/16     3                   Thursday                           
+1909/09/17     4                   Friday                             
+1909/09/18     5                   Saturday                           
+1909/09/19     6                   Sunday                             
+1909/09/20     7                   Monday                             
+1909/09/21     8                   Tuesday                            
+1909/09/22     9                   Wednesday                          
+1909/09/23     10                  Thursday                           
+1909/09/24     11                  Friday         Autumnal Equinox    
+1909/09/25     12                  Saturday                           
+1909/09/26     13                  Sunday                             
+1909/09/27     14                  Monday                             
+1909/09/28     15                  Tuesday                            
+1909/09/29     16                  Wednesday                          
+1909/09/30     17                  Thursday                           
+1909/10/01     18                  Friday                             
+1909/10/02     19                  Saturday                           
+1909/10/03     20                  Sunday                             
+1909/10/04     21                  Monday                             
+1909/10/05     22                  Tuesday                            
+1909/10/06     23                  Wednesday                          
+1909/10/07     24                  Thursday                           
+1909/10/08     25                  Friday                             
+1909/10/09     26                  Saturday       Cold Dew            
+1909/10/10     27                  Sunday                             
+1909/10/11     28                  Monday                             
+1909/10/12     29                  Tuesday                            
+1909/10/13     30                  Wednesday                          
+1909/10/14     9th Lunar month     Thursday                           
+1909/10/15     2                   Friday                             
+1909/10/16     3                   Saturday                           
+1909/10/17     4                   Sunday                             
+1909/10/18     5                   Monday                             
+1909/10/19     6                   Tuesday                            
+1909/10/20     7                   Wednesday                          
+1909/10/21     8                   Thursday                           
+1909/10/22     9                   Friday                             
+1909/10/23     10                  Saturday                           
+1909/10/24     11                  Sunday         Frost               
+1909/10/25     12                  Monday                             
+1909/10/26     13                  Tuesday                            
+1909/10/27     14                  Wednesday                          
+1909/10/28     15                  Thursday                           
+1909/10/29     16                  Friday                             
+1909/10/30     17                  Saturday                           
+1909/10/31     18                  Sunday                             
+1909/11/01     19                  Monday                             
+1909/11/02     20                  Tuesday                            
+1909/11/03     21                  Wednesday                          
+1909/11/04     22                  Thursday                           
+1909/11/05     23                  Friday                             
+1909/11/06     24                  Saturday                           
+1909/11/07     25                  Sunday                             
+1909/11/08     26                  Monday         Winter Commences    
+1909/11/09     27                  Tuesday                            
+1909/11/10     28                  Wednesday                          
+1909/11/11     29                  Thursday                           
+1909/11/12     30                  Friday                             
+1909/11/13     10th Lunar month    Saturday                           
+1909/11/14     2                   Sunday                             
+1909/11/15     3                   Monday                             
+1909/11/16     4                   Tuesday                            
+1909/11/17     5                   Wednesday                          
+1909/11/18     6                   Thursday                           
+1909/11/19     7                   Friday                             
+1909/11/20     8                   Saturday                           
+1909/11/21     9                   Sunday                             
+1909/11/22     10                  Monday                             
+1909/11/23     11                  Tuesday        Light Snow          
+1909/11/24     12                  Wednesday                          
+1909/11/25     13                  Thursday                           
+1909/11/26     14                  Friday                             
+1909/11/27     15                  Saturday                           
+1909/11/28     16                  Sunday                             
+1909/11/29     17                  Monday                             
+1909/11/30     18                  Tuesday                            
+1909/12/01     19                  Wednesday                          
+1909/12/02     20                  Thursday                           
+1909/12/03     21                  Friday                             
+1909/12/04     22                  Saturday                           
+1909/12/05     23                  Sunday                             
+1909/12/06     24                  Monday                             
+1909/12/07     25                  Tuesday                            
+1909/12/08     26                  Wednesday      Heavy Snow          
+1909/12/09     27                  Thursday                           
+1909/12/10     28                  Friday                             
+1909/12/11     29                  Saturday                           
+1909/12/12     30                  Sunday                             
+1909/12/13     11th Lunar month    Monday                             
+1909/12/14     2                   Tuesday                            
+1909/12/15     3                   Wednesday                          
+1909/12/16     4                   Thursday                           
+1909/12/17     5                   Friday                             
+1909/12/18     6                   Saturday                           
+1909/12/19     7                   Sunday                             
+1909/12/20     8                   Monday                             
+1909/12/21     9                   Tuesday                            
+1909/12/22     10                  Wednesday      Winter Solstice     
+1909/12/23     11                  Thursday                           
+1909/12/24     12                  Friday                             
+1909/12/25     13                  Saturday                           
+1909/12/26     14                  Sunday                             
+1909/12/27     15                  Monday                             
+1909/12/28     16                  Tuesday                            
+1909/12/29     17                  Wednesday                          
+1909/12/30     18                  Thursday                           
+1909/12/31     19                  Friday                             

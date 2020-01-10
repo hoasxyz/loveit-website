@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2058 (Wu-yin  -  year of the Tiger)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2058/1/1          7                       Tuesday                            
+2058/1/2          8                       Wednesday                          
+2058/1/3          9                       Thursday                           
+2058/1/4          10                      Friday                             
+2058/1/5          11                      Saturday       Moderate Cold       
+2058/1/6          12                      Sunday                             
+2058/1/7          13                      Monday                             
+2058/1/8          14                      Tuesday                            
+2058/1/9          15                      Wednesday                          
+2058/1/10         16                      Thursday                           
+2058/1/11         17                      Friday                             
+2058/1/12         18                      Saturday                           
+2058/1/13         19                      Sunday                             
+2058/1/14         20                      Monday                             
+2058/1/15         21                      Tuesday                            
+2058/1/16         22                      Wednesday                          
+2058/1/17         23                      Thursday                           
+2058/1/18         24                      Friday                             
+2058/1/19         25                      Saturday                           
+2058/1/20         26                      Sunday         Severe Cold         
+2058/1/21         27                      Monday                             
+2058/1/22         28                      Tuesday                            
+2058/1/23         29                      Wednesday                          
+2058/1/24         1st Lunar Month         Thursday                           
+2058/1/25         2                       Friday                             
+2058/1/26         3                       Saturday                           
+2058/1/27         4                       Sunday                             
+2058/1/28         5                       Monday                             
+2058/1/29         6                       Tuesday                            
+2058/1/30         7                       Wednesday                          
+2058/1/31         8                       Thursday                           
+2058/2/1          9                       Friday                             
+2058/2/2          10                      Saturday                           
+2058/2/3          11                      Sunday         Spring Commences    
+2058/2/4          12                      Monday                             
+2058/2/5          13                      Tuesday                            
+2058/2/6          14                      Wednesday                          
+2058/2/7          15                      Thursday                           
+2058/2/8          16                      Friday                             
+2058/2/9          17                      Saturday                           
+2058/2/10         18                      Sunday                             
+2058/2/11         19                      Monday                             
+2058/2/12         20                      Tuesday                            
+2058/2/13         21                      Wednesday                          
+2058/2/14         22                      Thursday                           
+2058/2/15         23                      Friday                             
+2058/2/16         24                      Saturday                           
+2058/2/17         25                      Sunday                             
+2058/2/18         26                      Monday         Spring Showers      
+2058/2/19         27                      Tuesday                            
+2058/2/20         28                      Wednesday                          
+2058/2/21         29                      Thursday                           
+2058/2/22         30                      Friday                             
+2058/2/23         2nd Lunar Month         Saturday                           
+2058/2/24         2                       Sunday                             
+2058/2/25         3                       Monday                             
+2058/2/26         4                       Tuesday                            
+2058/2/27         5                       Wednesday                          
+2058/2/28         6                       Thursday                           
+2058/3/1          7                       Friday                             
+2058/3/2          8                       Saturday                           
+2058/3/3          9                       Sunday                             
+2058/3/4          10                      Monday                             
+2058/3/5          11                      Tuesday        Insects Waken       
+2058/3/6          12                      Wednesday                          
+2058/3/7          13                      Thursday                           
+2058/3/8          14                      Friday                             
+2058/3/9          15                      Saturday                           
+2058/3/10         16                      Sunday                             
+2058/3/11         17                      Monday                             
+2058/3/12         18                      Tuesday                            
+2058/3/13         19                      Wednesday                          
+2058/3/14         20                      Thursday                           
+2058/3/15         21                      Friday                             
+2058/3/16         22                      Saturday                           
+2058/3/17         23                      Sunday                             
+2058/3/18         24                      Monday                             
+2058/3/19         25                      Tuesday                            
+2058/3/20         26                      Wednesday      Vernal Equinox      
+2058/3/21         27                      Thursday                           
+2058/3/22         28                      Friday                             
+2058/3/23         29                      Saturday                           
+2058/3/24         3rd Lunar Month         Sunday                             
+2058/3/25         2                       Monday                             
+2058/3/26         3                       Tuesday                            
+2058/3/27         4                       Wednesday                          
+2058/3/28         5                       Thursday                           
+2058/3/29         6                       Friday                             
+2058/3/30         7                       Saturday                           
+2058/3/31         8                       Sunday                             
+2058/4/1          9                       Monday                             
+2058/4/2          10                      Tuesday                            
+2058/4/3          11                      Wednesday                          
+2058/4/4          12                      Thursday       Bright & Clear      
+2058/4/5          13                      Friday                             
+2058/4/6          14                      Saturday                           
+2058/4/7          15                      Sunday                             
+2058/4/8          16                      Monday                             
+2058/4/9          17                      Tuesday                            
+2058/4/10         18                      Wednesday                          
+2058/4/11         19                      Thursday                           
+2058/4/12         20                      Friday                             
+2058/4/13         21                      Saturday                           
+2058/4/14         22                      Sunday                             
+2058/4/15         23                      Monday                             
+2058/4/16         24                      Tuesday                            
+2058/4/17         25                      Wednesday                          
+2058/4/18         26                      Thursday                           
+2058/4/19         27                      Friday                             
+2058/4/20         28                      Saturday       Corn Rain           
+2058/4/21         29                      Sunday                             
+2058/4/22         30                      Monday                             
+2058/4/23         4th Lunar Month         Tuesday                            
+2058/4/24         2                       Wednesday                          
+2058/4/25         3                       Thursday                           
+2058/4/26         4                       Friday                             
+2058/4/27         5                       Saturday                           
+2058/4/28         6                       Sunday                             
+2058/4/29         7                       Monday                             
+2058/4/30         8                       Tuesday                            
+2058/5/1          9                       Wednesday                          
+2058/5/2          10                      Thursday                           
+2058/5/3          11                      Friday                             
+2058/5/4          12                      Saturday                           
+2058/5/5          13                      Sunday         Summer Commences    
+2058/5/6          14                      Monday                             
+2058/5/7          15                      Tuesday                            
+2058/5/8          16                      Wednesday                          
+2058/5/9          17                      Thursday                           
+2058/5/10         18                      Friday                             
+2058/5/11         19                      Saturday                           
+2058/5/12         20                      Sunday                             
+2058/5/13         21                      Monday                             
+2058/5/14         22                      Tuesday                            
+2058/5/15         23                      Wednesday                          
+2058/5/16         24                      Thursday                           
+2058/5/17         25                      Friday                             
+2058/5/18         26                      Saturday                           
+2058/5/19         27                      Sunday                             
+2058/5/20         28                      Monday                             
+2058/5/21         29                      Tuesday        Corn Forms          
+2058/5/22         4th Lunar Month         Wednesday                          
+2058/5/23         2                       Thursday                           
+2058/5/24         3                       Friday                             
+2058/5/25         4                       Saturday                           
+2058/5/26         5                       Sunday                             
+2058/5/27         6                       Monday                             
+2058/5/28         7                       Tuesday                            
+2058/5/29         8                       Wednesday                          
+2058/5/30         9                       Thursday                           
+2058/5/31         10                      Friday                             
+2058/6/1          11                      Saturday                           
+2058/6/2          12                      Sunday                             
+2058/6/3          13                      Monday                             
+2058/6/4          14                      Tuesday                            
+2058/6/5          15                      Wednesday      Corn on Ear         
+2058/6/6          16                      Thursday                           
+2058/6/7          17                      Friday                             
+2058/6/8          18                      Saturday                           
+2058/6/9          19                      Sunday                             
+2058/6/10         20                      Monday                             
+2058/6/11         21                      Tuesday                            
+2058/6/12         22                      Wednesday                          
+2058/6/13         23                      Thursday                           
+2058/6/14         24                      Friday                             
+2058/6/15         25                      Saturday                           
+2058/6/16         26                      Sunday                             
+2058/6/17         27                      Monday                             
+2058/6/18         28                      Tuesday                            
+2058/6/19         29                      Wednesday                          
+2058/6/20         30                      Thursday                           
+2058/6/21         5th Lunar Month         Friday         Summer Solstice     
+2058/6/22         2                       Saturday                           
+2058/6/23         3                       Sunday                             
+2058/6/24         4                       Monday                             
+2058/6/25         5                       Tuesday                            
+2058/6/26         6                       Wednesday                          
+2058/6/27         7                       Thursday                           
+2058/6/28         8                       Friday                             
+2058/6/29         9                       Saturday                           
+2058/6/30         10                      Sunday                             
+2058/7/1          11                      Monday                             
+2058/7/2          12                      Tuesday                            
+2058/7/3          13                      Wednesday                          
+2058/7/4          14                      Thursday                           
+2058/7/5          15                      Friday                             
+2058/7/6          16                      Saturday                           
+2058/7/7          17                      Sunday         Moderate Heat       
+2058/7/8          18                      Monday                             
+2058/7/9          19                      Tuesday                            
+2058/7/10         20                      Wednesday                          
+2058/7/11         21                      Thursday                           
+2058/7/12         22                      Friday                             
+2058/7/13         23                      Saturday                           
+2058/7/14         24                      Sunday                             
+2058/7/15         25                      Monday                             
+2058/7/16         26                      Tuesday                            
+2058/7/17         27                      Wednesday                          
+2058/7/18         28                      Thursday                           
+2058/7/19         29                      Friday                             
+2058/7/20         6th Lunar Month         Saturday                           
+2058/7/21         2                       Sunday                             
+2058/7/22         3                       Monday         Great Heat          
+2058/7/23         4                       Tuesday                            
+2058/7/24         5                       Wednesday                          
+2058/7/25         6                       Thursday                           
+2058/7/26         7                       Friday                             
+2058/7/27         8                       Saturday                           
+2058/7/28         9                       Sunday                             
+2058/7/29         10                      Monday                             
+2058/7/30         11                      Tuesday                            
+2058/7/31         12                      Wednesday                          
+2058/8/1          13                      Thursday                           
+2058/8/2          14                      Friday                             
+2058/8/3          15                      Saturday                           
+2058/8/4          16                      Sunday                             
+2058/8/5          17                      Monday                             
+2058/8/6          18                      Tuesday                            
+2058/8/7          19                      Wednesday      Autumn Commences    
+2058/8/8          20                      Thursday                           
+2058/8/9          21                      Friday                             
+2058/8/10         22                      Saturday                           
+2058/8/11         23                      Sunday                             
+2058/8/12         24                      Monday                             
+2058/8/13         25                      Tuesday                            
+2058/8/14         26                      Wednesday                          
+2058/8/15         27                      Thursday                           
+2058/8/16         28                      Friday                             
+2058/8/17         29                      Saturday                           
+2058/8/18         30                      Sunday                             
+2058/8/19         7th Lunar Month         Monday                             
+2058/8/20         2                       Tuesday                            
+2058/8/21         3                       Wednesday                          
+2058/8/22         4                       Thursday                           
+2058/8/23         5                       Friday         End of Heat         
+2058/8/24         6                       Saturday                           
+2058/8/25         7                       Sunday                             
+2058/8/26         8                       Monday                             
+2058/8/27         9                       Tuesday                            
+2058/8/28         10                      Wednesday                          
+2058/8/29         11                      Thursday                           
+2058/8/30         12                      Friday                             
+2058/8/31         13                      Saturday                           
+2058/9/1          14                      Sunday                             
+2058/9/2          15                      Monday                             
+2058/9/3          16                      Tuesday                            
+2058/9/4          17                      Wednesday                          
+2058/9/5          18                      Thursday                           
+2058/9/6          19                      Friday                             
+2058/9/7          20                      Saturday       White Dew           
+2058/9/8          21                      Sunday                             
+2058/9/9          22                      Monday                             
+2058/9/10         23                      Tuesday                            
+2058/9/11         24                      Wednesday                          
+2058/9/12         25                      Thursday                           
+2058/9/13         26                      Friday                             
+2058/9/14         27                      Saturday                           
+2058/9/15         28                      Sunday                             
+2058/9/16         29                      Monday                             
+2058/9/17         30                      Tuesday                            
+2058/9/18         8th Lunar Month         Wednesday                          
+2058/9/19         2                       Thursday                           
+2058/9/20         3                       Friday                             
+2058/9/21         4                       Saturday                           
+2058/9/22         5                       Sunday                             
+2058/9/23         6                       Monday         Autumnal Equinox    
+2058/9/24         7                       Tuesday                            
+2058/9/25         8                       Wednesday                          
+2058/9/26         9                       Thursday                           
+2058/9/27         10                      Friday                             
+2058/9/28         11                      Saturday                           
+2058/9/29         12                      Sunday                             
+2058/9/30         13                      Monday                             
+2058/10/1         14                      Tuesday                            
+2058/10/2         15                      Wednesday                          
+2058/10/3         16                      Thursday                           
+2058/10/4         17                      Friday                             
+2058/10/5         18                      Saturday                           
+2058/10/6         19                      Sunday                             
+2058/10/7         20                      Monday                             
+2058/10/8         21                      Tuesday        Cold Dew            
+2058/10/9         22                      Wednesday                          
+2058/10/10        23                      Thursday                           
+2058/10/11        24                      Friday                             
+2058/10/12        25                      Saturday                           
+2058/10/13        26                      Sunday                             
+2058/10/14        27                      Monday                             
+2058/10/15        28                      Tuesday                            
+2058/10/16        29                      Wednesday                          
+2058/10/17        9th Lunar Month         Thursday                           
+2058/10/18        2                       Friday                             
+2058/10/19        3                       Saturday                           
+2058/10/20        4                       Sunday                             
+2058/10/21        5                       Monday                             
+2058/10/22        6                       Tuesday                            
+2058/10/23        7                       Wednesday      Frost               
+2058/10/24        8                       Thursday                           
+2058/10/25        9                       Friday                             
+2058/10/26        10                      Saturday                           
+2058/10/27        11                      Sunday                             
+2058/10/28        12                      Monday                             
+2058/10/29        13                      Tuesday                            
+2058/10/30        14                      Wednesday                          
+2058/10/31        15                      Thursday                           
+2058/11/1         16                      Friday                             
+2058/11/2         17                      Saturday                           
+2058/11/3         18                      Sunday                             
+2058/11/4         19                      Monday                             
+2058/11/5         20                      Tuesday                            
+2058/11/6         21                      Wednesday                          
+2058/11/7         22                      Thursday       Winter Commences    
+2058/11/8         23                      Friday                             
+2058/11/9         24                      Saturday                           
+2058/11/10        25                      Sunday                             
+2058/11/11        26                      Monday                             
+2058/11/12        27                      Tuesday                            
+2058/11/13        28                      Wednesday                          
+2058/11/14        29                      Thursday                           
+2058/11/15        30                      Friday                             
+2058/11/16        10th Lunar Month        Saturday                           
+2058/11/17        2                       Sunday                             
+2058/11/18        3                       Monday                             
+2058/11/19        4                       Tuesday                            
+2058/11/20        5                       Wednesday                          
+2058/11/21        6                       Thursday                           
+2058/11/22        7                       Friday         Light Snow          
+2058/11/23        8                       Saturday                           
+2058/11/24        9                       Sunday                             
+2058/11/25        10                      Monday                             
+2058/11/26        11                      Tuesday                            
+2058/11/27        12                      Wednesday                          
+2058/11/28        13                      Thursday                           
+2058/11/29        14                      Friday                             
+2058/11/30        15                      Saturday                           
+2058/12/1         16                      Sunday                             
+2058/12/2         17                      Monday                             
+2058/12/3         18                      Tuesday                            
+2058/12/4         19                      Wednesday                          
+2058/12/5         20                      Thursday                           
+2058/12/6         21                      Friday                             
+2058/12/7         22                      Saturday       Heavy Snow          
+2058/12/8         23                      Sunday                             
+2058/12/9         24                      Monday                             
+2058/12/10        25                      Tuesday                            
+2058/12/11        26                      Wednesday                          
+2058/12/12        27                      Thursday                           
+2058/12/13        28                      Friday                             
+2058/12/14        29                      Saturday                           
+2058/12/15        30                      Sunday                             
+2058/12/16        11th Lunar Month        Monday                             
+2058/12/17        2                       Tuesday                            
+2058/12/18        3                       Wednesday                          
+2058/12/19        4                       Thursday                           
+2058/12/20        5                       Friday                             
+2058/12/21        6                       Saturday       Winter Solstice     
+2058/12/22        7                       Sunday                             
+2058/12/23        8                       Monday                             
+2058/12/24        9                       Tuesday                            
+2058/12/25        10                      Wednesday                          
+2058/12/26        11                      Thursday                           
+2058/12/27        12                      Friday                             
+2058/12/28        13                      Saturday                           
+2058/12/29        14                      Sunday                             
+2058/12/30        15                      Monday                             
+2058/12/31        16                      Tuesday                            

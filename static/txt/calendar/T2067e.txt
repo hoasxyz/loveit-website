@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2067 (Ding-hai  -  year of the Pig)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2067/1/1          16                      Saturday                           
+2067/1/2          17                      Sunday                             
+2067/1/3          18                      Monday                             
+2067/1/4          19                      Tuesday                            
+2067/1/5          20                      Wednesday      Moderate Cold       
+2067/1/6          21                      Thursday                           
+2067/1/7          22                      Friday                             
+2067/1/8          23                      Saturday                           
+2067/1/9          24                      Sunday                             
+2067/1/10         25                      Monday                             
+2067/1/11         26                      Tuesday                            
+2067/1/12         27                      Wednesday                          
+2067/1/13         28                      Thursday                           
+2067/1/14         29                      Friday                             
+2067/1/15         12th Lunar Month        Saturday                           
+2067/1/16         2                       Sunday                             
+2067/1/17         3                       Monday                             
+2067/1/18         4                       Tuesday                            
+2067/1/19         5                       Wednesday                          
+2067/1/20         6                       Thursday       Severe Cold         
+2067/1/21         7                       Friday                             
+2067/1/22         8                       Saturday                           
+2067/1/23         9                       Sunday                             
+2067/1/24         10                      Monday                             
+2067/1/25         11                      Tuesday                            
+2067/1/26         12                      Wednesday                          
+2067/1/27         13                      Thursday                           
+2067/1/28         14                      Friday                             
+2067/1/29         15                      Saturday                           
+2067/1/30         16                      Sunday                             
+2067/1/31         17                      Monday                             
+2067/2/1          18                      Tuesday                            
+2067/2/2          19                      Wednesday                          
+2067/2/3          20                      Thursday                           
+2067/2/4          21                      Friday         Spring Commences    
+2067/2/5          22                      Saturday                           
+2067/2/6          23                      Sunday                             
+2067/2/7          24                      Monday                             
+2067/2/8          25                      Tuesday                            
+2067/2/9          26                      Wednesday                          
+2067/2/10         27                      Thursday                           
+2067/2/11         28                      Friday                             
+2067/2/12         29                      Saturday                           
+2067/2/13         30                      Sunday                             
+2067/2/14         1st Lunar Month         Monday                             
+2067/2/15         2                       Tuesday                            
+2067/2/16         3                       Wednesday                          
+2067/2/17         4                       Thursday                           
+2067/2/18         5                       Friday         Spring Showers      
+2067/2/19         6                       Saturday                           
+2067/2/20         7                       Sunday                             
+2067/2/21         8                       Monday                             
+2067/2/22         9                       Tuesday                            
+2067/2/23         10                      Wednesday                          
+2067/2/24         11                      Thursday                           
+2067/2/25         12                      Friday                             
+2067/2/26         13                      Saturday                           
+2067/2/27         14                      Sunday                             
+2067/2/28         15                      Monday                             
+2067/3/1          16                      Tuesday                            
+2067/3/2          17                      Wednesday                          
+2067/3/3          18                      Thursday                           
+2067/3/4          19                      Friday                             
+2067/3/5          20                      Saturday       Insects Waken       
+2067/3/6          21                      Sunday                             
+2067/3/7          22                      Monday                             
+2067/3/8          23                      Tuesday                            
+2067/3/9          24                      Wednesday                          
+2067/3/10         25                      Thursday                           
+2067/3/11         26                      Friday                             
+2067/3/12         27                      Saturday                           
+2067/3/13         28                      Sunday                             
+2067/3/14         29                      Monday                             
+2067/3/15         2nd Lunar Month         Tuesday                            
+2067/3/16         2                       Wednesday                          
+2067/3/17         3                       Thursday                           
+2067/3/18         4                       Friday                             
+2067/3/19         5                       Saturday                           
+2067/3/20         6                       Sunday         Vernal Equinox      
+2067/3/21         7                       Monday                             
+2067/3/22         8                       Tuesday                            
+2067/3/23         9                       Wednesday                          
+2067/3/24         10                      Thursday                           
+2067/3/25         11                      Friday                             
+2067/3/26         12                      Saturday                           
+2067/3/27         13                      Sunday                             
+2067/3/28         14                      Monday                             
+2067/3/29         15                      Tuesday                            
+2067/3/30         16                      Wednesday                          
+2067/3/31         17                      Thursday                           
+2067/4/1          18                      Friday                             
+2067/4/2          19                      Saturday                           
+2067/4/3          20                      Sunday                             
+2067/4/4          21                      Monday                             
+2067/4/5          22                      Tuesday        Bright & Clear      
+2067/4/6          23                      Wednesday                          
+2067/4/7          24                      Thursday                           
+2067/4/8          25                      Friday                             
+2067/4/9          26                      Saturday                           
+2067/4/10         27                      Sunday                             
+2067/4/11         28                      Monday                             
+2067/4/12         29                      Tuesday                            
+2067/4/13         30                      Wednesday                          
+2067/4/14         3rd Lunar Month         Thursday                           
+2067/4/15         2                       Friday                             
+2067/4/16         3                       Saturday                           
+2067/4/17         4                       Sunday                             
+2067/4/18         5                       Monday                             
+2067/4/19         6                       Tuesday                            
+2067/4/20         7                       Wednesday      Corn Rain           
+2067/4/21         8                       Thursday                           
+2067/4/22         9                       Friday                             
+2067/4/23         10                      Saturday                           
+2067/4/24         11                      Sunday                             
+2067/4/25         12                      Monday                             
+2067/4/26         13                      Tuesday                            
+2067/4/27         14                      Wednesday                          
+2067/4/28         15                      Thursday                           
+2067/4/29         16                      Friday                             
+2067/4/30         17                      Saturday                           
+2067/5/1          18                      Sunday                             
+2067/5/2          19                      Monday                             
+2067/5/3          20                      Tuesday                            
+2067/5/4          21                      Wednesday                          
+2067/5/5          22                      Thursday       Summer Commences    
+2067/5/6          23                      Friday                             
+2067/5/7          24                      Saturday                           
+2067/5/8          25                      Sunday                             
+2067/5/9          26                      Monday                             
+2067/5/10         27                      Tuesday                            
+2067/5/11         28                      Wednesday                          
+2067/5/12         29                      Thursday                           
+2067/5/13         4th Lunar Month         Friday                             
+2067/5/14         2                       Saturday                           
+2067/5/15         3                       Sunday                             
+2067/5/16         4                       Monday                             
+2067/5/17         5                       Tuesday                            
+2067/5/18         6                       Wednesday                          
+2067/5/19         7                       Thursday                           
+2067/5/20         8                       Friday                             
+2067/5/21         9                       Saturday       Corn Forms          
+2067/5/22         10                      Sunday                             
+2067/5/23         11                      Monday                             
+2067/5/24         12                      Tuesday                            
+2067/5/25         13                      Wednesday                          
+2067/5/26         14                      Thursday                           
+2067/5/27         15                      Friday                             
+2067/5/28         16                      Saturday                           
+2067/5/29         17                      Sunday                             
+2067/5/30         18                      Monday                             
+2067/5/31         19                      Tuesday                            
+2067/6/1          20                      Wednesday                          
+2067/6/2          21                      Thursday                           
+2067/6/3          22                      Friday                             
+2067/6/4          23                      Saturday                           
+2067/6/5          24                      Sunday         Corn on Ear         
+2067/6/6          25                      Monday                             
+2067/6/7          26                      Tuesday                            
+2067/6/8          27                      Wednesday                          
+2067/6/9          28                      Thursday                           
+2067/6/10         29                      Friday                             
+2067/6/11         30                      Saturday                           
+2067/6/12         5th Lunar Month         Sunday                             
+2067/6/13         2                       Monday                             
+2067/6/14         3                       Tuesday                            
+2067/6/15         4                       Wednesday                          
+2067/6/16         5                       Thursday                           
+2067/6/17         6                       Friday                             
+2067/6/18         7                       Saturday                           
+2067/6/19         8                       Sunday                             
+2067/6/20         9                       Monday                             
+2067/6/21         10                      Tuesday        Summer Solstice     
+2067/6/22         11                      Wednesday                          
+2067/6/23         12                      Thursday                           
+2067/6/24         13                      Friday                             
+2067/6/25         14                      Saturday                           
+2067/6/26         15                      Sunday                             
+2067/6/27         16                      Monday                             
+2067/6/28         17                      Tuesday                            
+2067/6/29         18                      Wednesday                          
+2067/6/30         19                      Thursday                           
+2067/7/1          20                      Friday                             
+2067/7/2          21                      Saturday                           
+2067/7/3          22                      Sunday                             
+2067/7/4          23                      Monday                             
+2067/7/5          24                      Tuesday                            
+2067/7/6          25                      Wednesday                          
+2067/7/7          26                      Thursday       Moderate Heat       
+2067/7/8          27                      Friday                             
+2067/7/9          28                      Saturday                           
+2067/7/10         29                      Sunday                             
+2067/7/11         6th Lunar Month         Monday                             
+2067/7/12         2                       Tuesday                            
+2067/7/13         3                       Wednesday                          
+2067/7/14         4                       Thursday                           
+2067/7/15         5                       Friday                             
+2067/7/16         6                       Saturday                           
+2067/7/17         7                       Sunday                             
+2067/7/18         8                       Monday                             
+2067/7/19         9                       Tuesday                            
+2067/7/20         10                      Wednesday                          
+2067/7/21         11                      Thursday                           
+2067/7/22         12                      Friday                             
+2067/7/23         13                      Saturday       Great Heat          
+2067/7/24         14                      Sunday                             
+2067/7/25         15                      Monday                             
+2067/7/26         16                      Tuesday                            
+2067/7/27         17                      Wednesday                          
+2067/7/28         18                      Thursday                           
+2067/7/29         19                      Friday                             
+2067/7/30         20                      Saturday                           
+2067/7/31         21                      Sunday                             
+2067/8/1          22                      Monday                             
+2067/8/2          23                      Tuesday                            
+2067/8/3          24                      Wednesday                          
+2067/8/4          25                      Thursday                           
+2067/8/5          26                      Friday                             
+2067/8/6          27                      Saturday                           
+2067/8/7          28                      Sunday         Autumn Commences    
+2067/8/8          29                      Monday                             
+2067/8/9          30                      Tuesday                            
+2067/8/10         7th Lunar Month         Wednesday                          
+2067/8/11         2                       Thursday                           
+2067/8/12         3                       Friday                             
+2067/8/13         4                       Saturday                           
+2067/8/14         5                       Sunday                             
+2067/8/15         6                       Monday                             
+2067/8/16         7                       Tuesday                            
+2067/8/17         8                       Wednesday                          
+2067/8/18         9                       Thursday                           
+2067/8/19         10                      Friday                             
+2067/8/20         11                      Saturday                           
+2067/8/21         12                      Sunday                             
+2067/8/22         13                      Monday                             
+2067/8/23         14                      Tuesday        End of Heat         
+2067/8/24         15                      Wednesday                          
+2067/8/25         16                      Thursday                           
+2067/8/26         17                      Friday                             
+2067/8/27         18                      Saturday                           
+2067/8/28         19                      Sunday                             
+2067/8/29         20                      Monday                             
+2067/8/30         21                      Tuesday                            
+2067/8/31         22                      Wednesday                          
+2067/9/1          23                      Thursday                           
+2067/9/2          24                      Friday                             
+2067/9/3          25                      Saturday                           
+2067/9/4          26                      Sunday                             
+2067/9/5          27                      Monday                             
+2067/9/6          28                      Tuesday                            
+2067/9/7          29                      Wednesday      White Dew           
+2067/9/8          30                      Thursday                           
+2067/9/9          8th Lunar Month         Friday                             
+2067/9/10         2                       Saturday                           
+2067/9/11         3                       Sunday                             
+2067/9/12         4                       Monday                             
+2067/9/13         5                       Tuesday                            
+2067/9/14         6                       Wednesday                          
+2067/9/15         7                       Thursday                           
+2067/9/16         8                       Friday                             
+2067/9/17         9                       Saturday                           
+2067/9/18         10                      Sunday                             
+2067/9/19         11                      Monday                             
+2067/9/20         12                      Tuesday                            
+2067/9/21         13                      Wednesday                          
+2067/9/22         14                      Thursday                           
+2067/9/23         15                      Friday         Autumnal Equinox    
+2067/9/24         16                      Saturday                           
+2067/9/25         17                      Sunday                             
+2067/9/26         18                      Monday                             
+2067/9/27         19                      Tuesday                            
+2067/9/28         20                      Wednesday                          
+2067/9/29         21                      Thursday                           
+2067/9/30         22                      Friday                             
+2067/10/1         23                      Saturday                           
+2067/10/2         24                      Sunday                             
+2067/10/3         25                      Monday                             
+2067/10/4         26                      Tuesday                            
+2067/10/5         27                      Wednesday                          
+2067/10/6         28                      Thursday                           
+2067/10/7         29                      Friday                             
+2067/10/8         9th Lunar Month         Saturday       Cold Dew            
+2067/10/9         2                       Sunday                             
+2067/10/10        3                       Monday                             
+2067/10/11        4                       Tuesday                            
+2067/10/12        5                       Wednesday                          
+2067/10/13        6                       Thursday                           
+2067/10/14        7                       Friday                             
+2067/10/15        8                       Saturday                           
+2067/10/16        9                       Sunday                             
+2067/10/17        10                      Monday                             
+2067/10/18        11                      Tuesday                            
+2067/10/19        12                      Wednesday                          
+2067/10/20        13                      Thursday                           
+2067/10/21        14                      Friday                             
+2067/10/22        15                      Saturday                           
+2067/10/23        16                      Sunday         Frost               
+2067/10/24        17                      Monday                             
+2067/10/25        18                      Tuesday                            
+2067/10/26        19                      Wednesday                          
+2067/10/27        20                      Thursday                           
+2067/10/28        21                      Friday                             
+2067/10/29        22                      Saturday                           
+2067/10/30        23                      Sunday                             
+2067/10/31        24                      Monday                             
+2067/11/1         25                      Tuesday                            
+2067/11/2         26                      Wednesday                          
+2067/11/3         27                      Thursday                           
+2067/11/4         28                      Friday                             
+2067/11/5         29                      Saturday                           
+2067/11/6         30                      Sunday                             
+2067/11/7         10th Lunar Month        Monday         Winter Commences    
+2067/11/8         2                       Tuesday                            
+2067/11/9         3                       Wednesday                          
+2067/11/10        4                       Thursday                           
+2067/11/11        5                       Friday                             
+2067/11/12        6                       Saturday                           
+2067/11/13        7                       Sunday                             
+2067/11/14        8                       Monday                             
+2067/11/15        9                       Tuesday                            
+2067/11/16        10                      Wednesday                          
+2067/11/17        11                      Thursday                           
+2067/11/18        12                      Friday                             
+2067/11/19        13                      Saturday                           
+2067/11/20        14                      Sunday                             
+2067/11/21        15                      Monday                             
+2067/11/22        16                      Tuesday        Light Snow          
+2067/11/23        17                      Wednesday                          
+2067/11/24        18                      Thursday                           
+2067/11/25        19                      Friday                             
+2067/11/26        20                      Saturday                           
+2067/11/27        21                      Sunday                             
+2067/11/28        22                      Monday                             
+2067/11/29        23                      Tuesday                            
+2067/11/30        24                      Wednesday                          
+2067/12/1         25                      Thursday                           
+2067/12/2         26                      Friday                             
+2067/12/3         27                      Saturday                           
+2067/12/4         28                      Sunday                             
+2067/12/5         29                      Monday                             
+2067/12/6         11th Lunar Month        Tuesday                            
+2067/12/7         2                       Wednesday      Heavy Snow          
+2067/12/8         3                       Thursday                           
+2067/12/9         4                       Friday                             
+2067/12/10        5                       Saturday                           
+2067/12/11        6                       Sunday                             
+2067/12/12        7                       Monday                             
+2067/12/13        8                       Tuesday                            
+2067/12/14        9                       Wednesday                          
+2067/12/15        10                      Thursday                           
+2067/12/16        11                      Friday                             
+2067/12/17        12                      Saturday                           
+2067/12/18        13                      Sunday                             
+2067/12/19        14                      Monday                             
+2067/12/20        15                      Tuesday                            
+2067/12/21        16                      Wednesday                          
+2067/12/22        17                      Thursday       Winter Solstice     
+2067/12/23        18                      Friday                             
+2067/12/24        19                      Saturday                           
+2067/12/25        20                      Sunday                             
+2067/12/26        21                      Monday                             
+2067/12/27        22                      Tuesday                            
+2067/12/28        23                      Wednesday                          
+2067/12/29        24                      Thursday                           
+2067/12/30        25                      Friday                             
+2067/12/31        26                      Saturday                           

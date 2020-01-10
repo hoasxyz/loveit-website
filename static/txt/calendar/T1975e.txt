@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1975 (Yi-mao ¡V year of the Rabbit)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1975/01/01     19                  Wednesday                          
+1975/01/02     20                  Thursday                           
+1975/01/03     21                  Friday                             
+1975/01/04     22                  Saturday                           
+1975/01/05     23                  Sunday                             
+1975/01/06     24                  Monday         Moderate Cold       
+1975/01/07     25                  Tuesday                            
+1975/01/08     26                  Wednesday                          
+1975/01/09     27                  Thursday                           
+1975/01/10     28                  Friday                             
+1975/01/11     29                  Saturday                           
+1975/01/12     12th Lunar month    Sunday                             
+1975/01/13     2                   Monday                             
+1975/01/14     3                   Tuesday                            
+1975/01/15     4                   Wednesday                          
+1975/01/16     5                   Thursday                           
+1975/01/17     6                   Friday                             
+1975/01/18     7                   Saturday                           
+1975/01/19     8                   Sunday                             
+1975/01/20     9                   Monday                             
+1975/01/21     10                  Tuesday        Severe Cold         
+1975/01/22     11                  Wednesday                          
+1975/01/23     12                  Thursday                           
+1975/01/24     13                  Friday                             
+1975/01/25     14                  Saturday                           
+1975/01/26     15                  Sunday                             
+1975/01/27     16                  Monday                             
+1975/01/28     17                  Tuesday                            
+1975/01/29     18                  Wednesday                          
+1975/01/30     19                  Thursday                           
+1975/01/31     20                  Friday                             
+1975/02/01     21                  Saturday                           
+1975/02/02     22                  Sunday                             
+1975/02/03     23                  Monday                             
+1975/02/04     24                  Tuesday        Spring Commences    
+1975/02/05     25                  Wednesday                          
+1975/02/06     26                  Thursday                           
+1975/02/07     27                  Friday                             
+1975/02/08     28                  Saturday                           
+1975/02/09     29                  Sunday                             
+1975/02/10     30                  Monday                             
+1975/02/11     1st Lunar month     Tuesday                            
+1975/02/12     2                   Wednesday                          
+1975/02/13     3                   Thursday                           
+1975/02/14     4                   Friday                             
+1975/02/15     5                   Saturday                           
+1975/02/16     6                   Sunday                             
+1975/02/17     7                   Monday                             
+1975/02/18     8                   Tuesday                            
+1975/02/19     9                   Wednesday      Spring Showers      
+1975/02/20     10                  Thursday                           
+1975/02/21     11                  Friday                             
+1975/02/22     12                  Saturday                           
+1975/02/23     13                  Sunday                        
+1975/02/24     14                  Monday                             
+1975/02/25     15                  Tuesday                            
+1975/02/26     16                  Wednesday                          
+1975/02/27     17                  Thursday                           
+1975/02/28     18                  Friday                             
+1975/03/01     19                  Saturday                           
+1975/03/02     20                  Sunday                             
+1975/03/03     21                  Monday                             
+1975/03/04     22                  Tuesday                            
+1975/03/05     23                  Wednesday                          
+1975/03/06     24                  Thursday       Insects Waken       
+1975/03/07     25                  Friday                             
+1975/03/08     26                  Saturday                           
+1975/03/09     27                  Sunday                             
+1975/03/10     28                  Monday                             
+1975/03/11     29                  Tuesday                            
+1975/03/12     30                  Wednesday                          
+1975/03/13     2nd Lunar month     Thursday                           
+1975/03/14     2                   Friday                             
+1975/03/15     3                   Saturday                           
+1975/03/16     4                   Sunday                             
+1975/03/17     5                   Monday                             
+1975/03/18     6                   Tuesday                            
+1975/03/19     7                   Wednesday                          
+1975/03/20     8                   Thursday                           
+1975/03/21     9                   Friday         Vernal Equinox      
+1975/03/22     10                  Saturday                           
+1975/03/23     11                  Sunday                             
+1975/03/24     12                  Monday                             
+1975/03/25     13                  Tuesday                            
+1975/03/26     14                  Wednesday                          
+1975/03/27     15                  Thursday                           
+1975/03/28     16                  Friday                             
+1975/03/29     17                  Saturday                           
+1975/03/30     18                  Sunday                             
+1975/03/31     19                  Monday                             
+1975/04/01     20                  Tuesday                            
+1975/04/02     21                  Wednesday                          
+1975/04/03     22                  Thursday                           
+1975/04/04     23                  Friday                             
+1975/04/05     24                  Saturday       Bright & Clear      
+1975/04/06     25                  Sunday                             
+1975/04/07     26                  Monday                             
+1975/04/08     27                  Tuesday                            
+1975/04/09     28                  Wednesday                          
+1975/04/10     29                  Thursday                           
+1975/04/11     30                  Friday                             
+1975/04/12     3rd Lunar month     Saturday                           
+1975/04/13     2                   Sunday                             
+1975/04/14     3                   Monday                             
+1975/04/15     4                   Tuesday                            
+1975/04/16     5                   Wednesday                          
+1975/04/17     6                   Thursday                           
+1975/04/18     7                   Friday                             
+1975/04/19     8                   Saturday                           
+1975/04/20     9                   Sunday                             
+1975/04/21     10                  Monday         Corn Rain           
+1975/04/22     11                  Tuesday                            
+1975/04/23     12                  Wednesday                          
+1975/04/24     13                  Thursday                           
+1975/04/25     14                  Friday                             
+1975/04/26     15                  Saturday                           
+1975/04/27     16                  Sunday                             
+1975/04/28     17                  Monday                             
+1975/04/29     18                  Tuesday                            
+1975/04/30     19                  Wednesday                          
+1975/05/01     20                  Thursday                           
+1975/05/02     21                  Friday                             
+1975/05/03     22                  Saturday                           
+1975/05/04     23                  Sunday                             
+1975/05/05     24                  Monday                             
+1975/05/06     25                  Tuesday        Summer Commences    
+1975/05/07     26                  Wednesday                          
+1975/05/08     27                  Thursday                           
+1975/05/09     28                  Friday                             
+1975/05/10     29                  Saturday                           
+1975/05/11     4th Lunar month     Sunday                             
+1975/05/12     2                   Monday                             
+1975/05/13     3                   Tuesday                            
+1975/05/14     4                   Wednesday                          
+1975/05/15     5                   Thursday                           
+1975/05/16     6                   Friday                             
+1975/05/17     7                   Saturday                           
+1975/05/18     8                   Sunday                             
+1975/05/19     9                   Monday                             
+1975/05/20     10                  Tuesday                            
+1975/05/21     11                  Wednesday                          
+1975/05/22     12                  Thursday       Corn Forms          
+1975/05/23     13                  Friday                             
+1975/05/24     14                  Saturday                           
+1975/05/25     15                  Sunday                             
+1975/05/26     16                  Monday                             
+1975/05/27     17                  Tuesday                            
+1975/05/28     18                  Wednesday                          
+1975/05/29     19                  Thursday                           
+1975/05/30     20                  Friday                             
+1975/05/31     21                  Saturday                           
+1975/06/01     22                  Sunday                             
+1975/06/02     23                  Monday                             
+1975/06/03     24                  Tuesday                            
+1975/06/04     25                  Wednesday                          
+1975/06/05     26                  Thursday                           
+1975/06/06     27                  Friday         Corn on Ear         
+1975/06/07     28                  Saturday                           
+1975/06/08     29                  Sunday                             
+1975/06/09     30                  Monday                             
+1975/06/10     5th Lunar month     Tuesday                            
+1975/06/11     2                   Wednesday                          
+1975/06/12     3                   Thursday                           
+1975/06/13     4                   Friday                             
+1975/06/14     5                   Saturday                           
+1975/06/15     6                   Sunday                             
+1975/06/16     7                   Monday                             
+1975/06/17     8                   Tuesday                            
+1975/06/18     9                   Wednesday                          
+1975/06/19     10                  Thursday                           
+1975/06/20     11                  Friday                             
+1975/06/21     12                  Saturday                           
+1975/06/22     13                  Sunday         Summer Solstice     
+1975/06/23     14                  Monday                             
+1975/06/24     15                  Tuesday                            
+1975/06/25     16                  Wednesday                          
+1975/06/26     17                  Thursday                           
+1975/06/27     18                  Friday                             
+1975/06/28     19                  Saturday                           
+1975/06/29     20                  Sunday                             
+1975/06/30     21                  Monday                             
+1975/07/01     22                  Tuesday                            
+1975/07/02     23                  Wednesday                          
+1975/07/03     24                  Thursday                           
+1975/07/04     25                  Friday                             
+1975/07/05     26                  Saturday                           
+1975/07/06     27                  Sunday                             
+1975/07/07     28                  Monday                             
+1975/07/08     29                  Tuesday        Moderate Heat       
+1975/07/09     6th Lunar month     Wednesday                          
+1975/07/10     2                   Thursday                           
+1975/07/11     3                   Friday                             
+1975/07/12     4                   Saturday                           
+1975/07/13     5                   Sunday                             
+1975/07/14     6                   Monday                             
+1975/07/15     7                   Tuesday                            
+1975/07/16     8                   Wednesday                          
+1975/07/17     9                   Thursday                           
+1975/07/18     10                  Friday                             
+1975/07/19     11                  Saturday                           
+1975/07/20     12                  Sunday                             
+1975/07/21     13                  Monday                             
+1975/07/22     14                  Tuesday                            
+1975/07/23     15                  Wednesday      Great Heat          
+1975/07/24     16                  Thursday                           
+1975/07/25     17                  Friday                             
+1975/07/26     18                  Saturday                           
+1975/07/27     19                  Sunday                             
+1975/07/28     20                  Monday                             
+1975/07/29     21                  Tuesday                            
+1975/07/30     22                  Wednesday                          
+1975/07/31     23                  Thursday                           
+1975/08/01     24                  Friday                             
+1975/08/02     25                  Saturday                           
+1975/08/03     26                  Sunday                             
+1975/08/04     27                  Monday                             
+1975/08/05     28                  Tuesday                            
+1975/08/06     29                  Wednesday                          
+1975/08/07     7th Lunar month     Thursday                           
+1975/08/08     2                   Friday         Autumn Commences    
+1975/08/09     3                   Saturday                           
+1975/08/10     4                   Sunday                             
+1975/08/11     5                   Monday                             
+1975/08/12     6                   Tuesday                            
+1975/08/13     7                   Wednesday                          
+1975/08/14     8                   Thursday                           
+1975/08/15     9                   Friday                             
+1975/08/16     10                  Saturday                           
+1975/08/17     11                  Sunday                             
+1975/08/18     12                  Monday                             
+1975/08/19     13                  Tuesday                            
+1975/08/20     14                  Wednesday                          
+1975/08/21     15                  Thursday                           
+1975/08/22     16                  Friday                             
+1975/08/23     17                  Saturday                           
+1975/08/24     18                  Sunday         End of Heat         
+1975/08/25     19                  Monday                             
+1975/08/26     20                  Tuesday                            
+1975/08/27     21                  Wednesday                          
+1975/08/28     22                  Thursday                           
+1975/08/29     23                  Friday                             
+1975/08/30     24                  Saturday                           
+1975/08/31     25                  Sunday                             
+1975/09/01     26                  Monday                             
+1975/09/02     27                  Tuesday                            
+1975/09/03     28                  Wednesday                          
+1975/09/04     29                  Thursday                           
+1975/09/05     30                  Friday                             
+1975/09/06     8th Lunar month     Saturday                           
+1975/09/07     2                   Sunday                             
+1975/09/08     3                   Monday         White Dew           
+1975/09/09     4                   Tuesday                            
+1975/09/10     5                   Wednesday                          
+1975/09/11     6                   Thursday                           
+1975/09/12     7                   Friday                             
+1975/09/13     8                   Saturday                           
+1975/09/14     9                   Sunday                             
+1975/09/15     10                  Monday                             
+1975/09/16     11                  Tuesday                            
+1975/09/17     12                  Wednesday                          
+1975/09/18     13                  Thursday                           
+1975/09/19     14                  Friday                             
+1975/09/20     15                  Saturday                           
+1975/09/21     16                  Sunday                             
+1975/09/22     17                  Monday                             
+1975/09/23     18                  Tuesday        Autumnal Equinox    
+1975/09/24     19                  Wednesday                          
+1975/09/25     20                  Thursday                           
+1975/09/26     21                  Friday                             
+1975/09/27     22                  Saturday                           
+1975/09/28     23                  Sunday                             
+1975/09/29     24                  Monday                             
+1975/09/30     25                  Tuesday                            
+1975/10/01     26                  Wednesday                          
+1975/10/02     27                  Thursday                           
+1975/10/03     28                  Friday                             
+1975/10/04     29                  Saturday                           
+1975/10/05     9th Lunar month     Sunday                             
+1975/10/06     2                   Monday                             
+1975/10/07     3                   Tuesday                            
+1975/10/08     4                   Wednesday                          
+1975/10/09     5                   Thursday       Cold Dew            
+1975/10/10     6                   Friday                             
+1975/10/11     7                   Saturday                           
+1975/10/12     8                   Sunday                             
+1975/10/13     9                   Monday                             
+1975/10/14     10                  Tuesday                            
+1975/10/15     11                  Wednesday                          
+1975/10/16     12                  Thursday                           
+1975/10/17     13                  Friday                             
+1975/10/18     14                  Saturday                           
+1975/10/19     15                  Sunday                             
+1975/10/20     16                  Monday                             
+1975/10/21     17                  Tuesday                            
+1975/10/22     18                  Wednesday                          
+1975/10/23     19                  Thursday                           
+1975/10/24     20                  Friday         Frost               
+1975/10/25     21                  Saturday                           
+1975/10/26     22                  Sunday                             
+1975/10/27     23                  Monday                             
+1975/10/28     24                  Tuesday                            
+1975/10/29     25                  Wednesday                          
+1975/10/30     26                  Thursday                           
+1975/10/31     27                  Friday                             
+1975/11/01     28                  Saturday                           
+1975/11/02     29                  Sunday                             
+1975/11/03     10th Lunar month    Monday                             
+1975/11/04     2                   Tuesday                            
+1975/11/05     3                   Wednesday                          
+1975/11/06     4                   Thursday                           
+1975/11/07     5                   Friday                             
+1975/11/08     6                   Saturday       Winter Commences    
+1975/11/09     7                   Sunday                             
+1975/11/10     8                   Monday                             
+1975/11/11     9                   Tuesday                            
+1975/11/12     10                  Wednesday                          
+1975/11/13     11                  Thursday                           
+1975/11/14     12                  Friday                             
+1975/11/15     13                  Saturday                           
+1975/11/16     14                  Sunday                             
+1975/11/17     15                  Monday                             
+1975/11/18     16                  Tuesday                            
+1975/11/19     17                  Wednesday                          
+1975/11/20     18                  Thursday                           
+1975/11/21     19                  Friday                             
+1975/11/22     20                  Saturday                           
+1975/11/23     21                  Sunday         Light Snow          
+1975/11/24     22                  Monday                             
+1975/11/25     23                  Tuesday                            
+1975/11/26     24                  Wednesday                          
+1975/11/27     25                  Thursday                           
+1975/11/28     26                  Friday                             
+1975/11/29     27                  Saturday                           
+1975/11/30     28                  Sunday                             
+1975/12/01     29                  Monday                             
+1975/12/02     30                  Tuesday                            
+1975/12/03     11th Lunar month    Wednesday                          
+1975/12/04     2                   Thursday                           
+1975/12/05     3                   Friday                             
+1975/12/06     4                   Saturday                           
+1975/12/07     5                   Sunday                             
+1975/12/08     6                   Monday         Heavy Snow          
+1975/12/09     7                   Tuesday                            
+1975/12/10     8                   Wednesday                          
+1975/12/11     9                   Thursday                           
+1975/12/12     10                  Friday                             
+1975/12/13     11                  Saturday                           
+1975/12/14     12                  Sunday                             
+1975/12/15     13                  Monday                             
+1975/12/16     14                  Tuesday                            
+1975/12/17     15                  Wednesday                          
+1975/12/18     16                  Thursday                           
+1975/12/19     17                  Friday                             
+1975/12/20     18                  Saturday                           
+1975/12/21     19                  Sunday                             
+1975/12/22     20                  Monday         Winter Solstice     
+1975/12/23     21                  Tuesday                            
+1975/12/24     22                  Wednesday                          
+1975/12/25     23                  Thursday                           
+1975/12/26     24                  Friday                             
+1975/12/27     25                  Saturday                           
+1975/12/28     26                  Sunday                             
+1975/12/29     27                  Monday                             
+1975/12/30     28                  Tuesday                            
+1975/12/31     29                  Wednesday                          
+
+In 1975, summer time was enforced during 20 April to 19 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

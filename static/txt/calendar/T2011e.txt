@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2011 (Xin-mao  -  year of the Rabbit)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2011/1/1          27                      Saturday                           
+2011/1/2          28                      Sunday                             
+2011/1/3          29                      Monday                             
+2011/1/4          12th Lunar Month        Tuesday                            
+2011/1/5          2                       Wednesday                          
+2011/1/6          3                       Thursday       Moderate Cold       
+2011/1/7          4                       Friday                             
+2011/1/8          5                       Saturday                           
+2011/1/9          6                       Sunday                             
+2011/1/10         7                       Monday                             
+2011/1/11         8                       Tuesday                            
+2011/1/12         9                       Wednesday                          
+2011/1/13         10                      Thursday                           
+2011/1/14         11                      Friday                             
+2011/1/15         12                      Saturday                           
+2011/1/16         13                      Sunday                             
+2011/1/17         14                      Monday                             
+2011/1/18         15                      Tuesday                 
+2011/1/19         16                      Wednesday                          
+2011/1/20         17                      Thursday       Severe Cold                    
+2011/1/21         18                      Friday                             
+2011/1/22         19                      Saturday                           
+2011/1/23         20                      Sunday                             
+2011/1/24         21                      Monday                             
+2011/1/25         22                      Tuesday                            
+2011/1/26         23                      Wednesday                          
+2011/1/27         24                      Thursday                           
+2011/1/28         25                      Friday                             
+2011/1/29         26                      Saturday                           
+2011/1/30         27                      Sunday                             
+2011/1/31         28                      Monday                             
+2011/2/1          29                      Tuesday                            
+2011/2/2          30                      Wednesday                          
+2011/2/3          1st Lunar Month         Thursday                           
+2011/2/4          2                       Friday         Spring Commences    
+2011/2/5          3                       Saturday                           
+2011/2/6          4                       Sunday                             
+2011/2/7          5                       Monday                             
+2011/2/8          6                       Tuesday                            
+2011/2/9          7                       Wednesday                          
+2011/2/10         8                       Thursday                           
+2011/2/11         9                       Friday                             
+2011/2/12         10                      Saturday                           
+2011/2/13         11                      Sunday                             
+2011/2/14         12                      Monday                             
+2011/2/15         13                      Tuesday                            
+2011/2/16         14                      Wednesday                          
+2011/2/17         15                      Thursday                           
+2011/2/18         16                      Friday                             
+2011/2/19         17                      Saturday       Spring Showers      
+2011/2/20         18                      Sunday                             
+2011/2/21         19                      Monday                             
+2011/2/22         20                      Tuesday                            
+2011/2/23         21                      Wednesday                          
+2011/2/24         22                      Thursday                           
+2011/2/25         23                      Friday                             
+2011/2/26         24                      Saturday                           
+2011/2/27         25                      Sunday                             
+2011/2/28         26                      Monday                             
+2011/3/1          27                      Tuesday                            
+2011/3/2          28                      Wednesday                          
+2011/3/3          29                      Thursday                           
+2011/3/4          30                      Friday                             
+2011/3/5          2nd Lunar Month         Saturday                           
+2011/3/6          2                       Sunday         Insects Waken       
+2011/3/7          3                       Monday                             
+2011/3/8          4                       Tuesday                            
+2011/3/9          5                       Wednesday                          
+2011/3/10         6                       Thursday                           
+2011/3/11         7                       Friday                             
+2011/3/12         8                       Saturday                           
+2011/3/13         9                       Sunday                             
+2011/3/14         10                      Monday                             
+2011/3/15         11                      Tuesday                            
+2011/3/16         12                      Wednesday                          
+2011/3/17         13                      Thursday                           
+2011/3/18         14                      Friday                             
+2011/3/19         15                      Saturday                           
+2011/3/20         16                      Sunday                             
+2011/3/21         17                      Monday         Vernal Equinox      
+2011/3/22         18                      Tuesday                            
+2011/3/23         19                      Wednesday                          
+2011/3/24         20                      Thursday                           
+2011/3/25         21                      Friday                             
+2011/3/26         22                      Saturday                           
+2011/3/27         23                      Sunday                             
+2011/3/28         24                      Monday                             
+2011/3/29         25                      Tuesday                            
+2011/3/30         26                      Wednesday                          
+2011/3/31         27                      Thursday                           
+2011/4/1          28                      Friday                             
+2011/4/2          29                      Saturday                           
+2011/4/3          3rd Lunar Month         Sunday                             
+2011/4/4          2                       Monday                             
+2011/4/5          3                       Tuesday        Bright & Clear      
+2011/4/6          4                       Wednesday                          
+2011/4/7          5                       Thursday                           
+2011/4/8          6                       Friday                             
+2011/4/9          7                       Saturday                           
+2011/4/10         8                       Sunday                             
+2011/4/11         9                       Monday                             
+2011/4/12         10                      Tuesday                            
+2011/4/13         11                      Wednesday                          
+2011/4/14         12                      Thursday                           
+2011/4/15         13                      Friday                             
+2011/4/16         14                      Saturday                           
+2011/4/17         15                      Sunday                             
+2011/4/18         16                      Monday                             
+2011/4/19         17                      Tuesday                            
+2011/4/20         18                      Wednesday      Corn Rain           
+2011/4/21         19                      Thursday                           
+2011/4/22         20                      Friday                             
+2011/4/23         21                      Saturday                           
+2011/4/24         22                      Sunday                             
+2011/4/25         23                      Monday                             
+2011/4/26         24                      Tuesday                            
+2011/4/27         25                      Wednesday                          
+2011/4/28         26                      Thursday                           
+2011/4/29         27                      Friday                             
+2011/4/30         28                      Saturday                           
+2011/5/1          29                      Sunday                             
+2011/5/2          30                      Monday                             
+2011/5/3          4th Lunar Month         Tuesday                            
+2011/5/4          2                       Wednesday                          
+2011/5/5          3                       Thursday                           
+2011/5/6          4                       Friday         Summer Commences    
+2011/5/7          5                       Saturday                           
+2011/5/8          6                       Sunday                             
+2011/5/9          7                       Monday                             
+2011/5/10         8                       Tuesday                            
+2011/5/11         9                       Wednesday                          
+2011/5/12         10                      Thursday                           
+2011/5/13         11                      Friday                             
+2011/5/14         12                      Saturday                           
+2011/5/15         13                      Sunday                             
+2011/5/16         14                      Monday                             
+2011/5/17         15                      Tuesday                            
+2011/5/18         16                      Wednesday                          
+2011/5/19         17                      Thursday                           
+2011/5/20         18                      Friday                             
+2011/5/21         19                      Saturday       Corn Forms          
+2011/5/22         20                      Sunday                             
+2011/5/23         21                      Monday                             
+2011/5/24         22                      Tuesday                            
+2011/5/25         23                      Wednesday                          
+2011/5/26         24                      Thursday                           
+2011/5/27         25                      Friday                             
+2011/5/28         26                      Saturday                           
+2011/5/29         27                      Sunday                             
+2011/5/30         28                      Monday                             
+2011/5/31         29                      Tuesday                            
+2011/6/1          30                      Wednesday                          
+2011/6/2          5th Lunar Month         Thursday                           
+2011/6/3          2                       Friday                             
+2011/6/4          3                       Saturday                           
+2011/6/5          4                       Sunday                             
+2011/6/6          5                       Monday         Corn on Ear         
+2011/6/7          6                       Tuesday                            
+2011/6/8          7                       Wednesday                          
+2011/6/9          8                       Thursday                           
+2011/6/10         9                       Friday                             
+2011/6/11         10                      Saturday                           
+2011/6/12         11                      Sunday                             
+2011/6/13         12                      Monday                             
+2011/6/14         13                      Tuesday                            
+2011/6/15         14                      Wednesday                          
+2011/6/16         15                      Thursday                           
+2011/6/17         16                      Friday                             
+2011/6/18         17                      Saturday                           
+2011/6/19         18                      Sunday                             
+2011/6/20         19                      Monday                             
+2011/6/21         20                      Tuesday                            
+2011/6/22         21                      Wednesday      Summer Solstice     
+2011/6/23         22                      Thursday                           
+2011/6/24         23                      Friday                             
+2011/6/25         24                      Saturday                           
+2011/6/26         25                      Sunday                             
+2011/6/27         26                      Monday                             
+2011/6/28         27                      Tuesday                            
+2011/6/29         28                      Wednesday                          
+2011/6/30         29                      Thursday                           
+2011/7/1          6th Lunar Month         Friday                             
+2011/7/2          2                       Saturday                           
+2011/7/3          3                       Sunday                             
+2011/7/4          4                       Monday                             
+2011/7/5          5                       Tuesday                            
+2011/7/6          6                       Wednesday                          
+2011/7/7          7                       Thursday       Moderate Heat       
+2011/7/8          8                       Friday                             
+2011/7/9          9                       Saturday                           
+2011/7/10         10                      Sunday                             
+2011/7/11         11                      Monday                             
+2011/7/12         12                      Tuesday                            
+2011/7/13         13                      Wednesday                          
+2011/7/14         14                      Thursday                           
+2011/7/15         15                      Friday                             
+2011/7/16         16                      Saturday                           
+2011/7/17         17                      Sunday                             
+2011/7/18         18                      Monday                             
+2011/7/19         19                      Tuesday                            
+2011/7/20         20                      Wednesday                          
+2011/7/21         21                      Thursday                           
+2011/7/22         22                      Friday                             
+2011/7/23         23                      Saturday       Great Heat          
+2011/7/24         24                      Sunday                             
+2011/7/25         25                      Monday                             
+2011/7/26         26                      Tuesday                            
+2011/7/27         27                      Wednesday                          
+2011/7/28         28                      Thursday                           
+2011/7/29         29                      Friday                             
+2011/7/30         30                      Saturday                           
+2011/7/31         7th Lunar Month         Sunday                             
+2011/8/1          2                       Monday                             
+2011/8/2          3                       Tuesday                            
+2011/8/3          4                       Wednesday                          
+2011/8/4          5                       Thursday                           
+2011/8/5          6                       Friday                             
+2011/8/6          7                       Saturday                           
+2011/8/7          8                       Sunday                             
+2011/8/8          9                       Monday         Autumn Commences    
+2011/8/9          10                      Tuesday                            
+2011/8/10         11                      Wednesday                          
+2011/8/11         12                      Thursday                           
+2011/8/12         13                      Friday                             
+2011/8/13         14                      Saturday                           
+2011/8/14         15                      Sunday                             
+2011/8/15         16                      Monday                             
+2011/8/16         17                      Tuesday                            
+2011/8/17         18                      Wednesday                          
+2011/8/18         19                      Thursday                           
+2011/8/19         20                      Friday                             
+2011/8/20         21                      Saturday                           
+2011/8/21         22                      Sunday                             
+2011/8/22         23                      Monday                             
+2011/8/23         24                      Tuesday        End of Heat         
+2011/8/24         25                      Wednesday                          
+2011/8/25         26                      Thursday                           
+2011/8/26         27                      Friday                             
+2011/8/27         28                      Saturday                           
+2011/8/28         29                      Sunday                             
+2011/8/29         8th Lunar Month         Monday                             
+2011/8/30         2                       Tuesday                            
+2011/8/31         3                       Wednesday                          
+2011/9/1          4                       Thursday                           
+2011/9/2          5                       Friday                             
+2011/9/3          6                       Saturday                           
+2011/9/4          7                       Sunday                             
+2011/9/5          8                       Monday                             
+2011/9/6          9                       Tuesday                            
+2011/9/7          10                      Wednesday                          
+2011/9/8          11                      Thursday       White Dew           
+2011/9/9          12                      Friday                             
+2011/9/10         13                      Saturday                           
+2011/9/11         14                      Sunday                             
+2011/9/12         15                      Monday                             
+2011/9/13         16                      Tuesday                            
+2011/9/14         17                      Wednesday                          
+2011/9/15         18                      Thursday                           
+2011/9/16         19                      Friday                             
+2011/9/17         20                      Saturday                           
+2011/9/18         21                      Sunday                             
+2011/9/19         22                      Monday                             
+2011/9/20         23                      Tuesday                            
+2011/9/21         24                      Wednesday                          
+2011/9/22         25                      Thursday                           
+2011/9/23         26                      Friday         Autumnal Equinox    
+2011/9/24         27                      Saturday                           
+2011/9/25         28                      Sunday                             
+2011/9/26         29                      Monday                             
+2011/9/27         9th Lunar Month         Tuesday                            
+2011/9/28         2                       Wednesday                          
+2011/9/29         3                       Thursday                           
+2011/9/30         4                       Friday                             
+2011/10/1         5                       Saturday                           
+2011/10/2         6                       Sunday                             
+2011/10/3         7                       Monday                             
+2011/10/4         8                       Tuesday                            
+2011/10/5         9                       Wednesday                          
+2011/10/6         10                      Thursday                           
+2011/10/7         11                      Friday                             
+2011/10/8         12                      Saturday       Cold Dew            
+2011/10/9         13                      Sunday                             
+2011/10/10        14                      Monday                             
+2011/10/11        15                      Tuesday                            
+2011/10/12        16                      Wednesday                          
+2011/10/13        17                      Thursday                           
+2011/10/14        18                      Friday                             
+2011/10/15        19                      Saturday                           
+2011/10/16        20                      Sunday                             
+2011/10/17        21                      Monday                             
+2011/10/18        22                      Tuesday                            
+2011/10/19        23                      Wednesday                          
+2011/10/20        24                      Thursday                           
+2011/10/21        25                      Friday                             
+2011/10/22        26                      Saturday                           
+2011/10/23        27                      Sunday                             
+2011/10/24        28                      Monday         Frost               
+2011/10/25        29                      Tuesday                            
+2011/10/26        30                      Wednesday                          
+2011/10/27        10th Lunar Month        Thursday                           
+2011/10/28        2                       Friday                             
+2011/10/29        3                       Saturday                           
+2011/10/30        4                       Sunday                             
+2011/10/31        5                       Monday                             
+2011/11/1         6                       Tuesday                            
+2011/11/2         7                       Wednesday                          
+2011/11/3         8                       Thursday                           
+2011/11/4         9                       Friday                             
+2011/11/5         10                      Saturday                           
+2011/11/6         11                      Sunday                             
+2011/11/7         12                      Monday                             
+2011/11/8         13                      Tuesday        Winter Commences    
+2011/11/9         14                      Wednesday                          
+2011/11/10        15                      Thursday                           
+2011/11/11        16                      Friday                             
+2011/11/12        17                      Saturday                           
+2011/11/13        18                      Sunday                             
+2011/11/14        19                      Monday                             
+2011/11/15        20                      Tuesday                            
+2011/11/16        21                      Wednesday                          
+2011/11/17        22                      Thursday                           
+2011/11/18        23                      Friday                             
+2011/11/19        24                      Saturday                           
+2011/11/20        25                      Sunday                             
+2011/11/21        26                      Monday                             
+2011/11/22        27                      Tuesday                            
+2011/11/23        28                      Wednesday      Light Snow          
+2011/11/24        29                      Thursday                           
+2011/11/25        11th Lunar Month        Friday                             
+2011/11/26        2                       Saturday                           
+2011/11/27        3                       Sunday                             
+2011/11/28        4                       Monday                             
+2011/11/29        5                       Tuesday                            
+2011/11/30        6                       Wednesday                          
+2011/12/1         7                       Thursday                           
+2011/12/2         8                       Friday                             
+2011/12/3         9                       Saturday                           
+2011/12/4         10                      Sunday                             
+2011/12/5         11                      Monday                             
+2011/12/6         12                      Tuesday                            
+2011/12/7         13                      Wednesday      Heavy Snow          
+2011/12/8         14                      Thursday                           
+2011/12/9         15                      Friday                             
+2011/12/10        16                      Saturday                           
+2011/12/11        17                      Sunday                             
+2011/12/12        18                      Monday                             
+2011/12/13        19                      Tuesday                            
+2011/12/14        20                      Wednesday                          
+2011/12/15        21                      Thursday                           
+2011/12/16        22                      Friday                             
+2011/12/17        23                      Saturday                           
+2011/12/18        24                      Sunday                             
+2011/12/19        25                      Monday                             
+2011/12/20        26                      Tuesday                            
+2011/12/21        27                      Wednesday                          
+2011/12/22        28                      Thursday       Winter Solstice     
+2011/12/23        29                      Friday                             
+2011/12/24        30                      Saturday                           
+2011/12/25        12th Lunar Month        Sunday                             
+2011/12/26        2                       Monday                             
+2011/12/27        3                       Tuesday                            
+2011/12/28        4                       Wednesday                          
+2011/12/29        5                       Thursday                           
+2011/12/30        6                       Friday                             
+2011/12/31        7                       Saturday                           

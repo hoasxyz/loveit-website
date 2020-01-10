@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1911 (Xin-hai ¡V year of the Pig)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1911/01/01     12th Lunar month    Sunday                             
+1911/01/02     2                   Monday                             
+1911/01/03     3                   Tuesday                            
+1911/01/04     4                   Wednesday                          
+1911/01/05     5                   Thursday                           
+1911/01/06     6                   Friday         Moderate Cold       
+1911/01/07     7                   Saturday                           
+1911/01/08     8                   Sunday                             
+1911/01/09     9                   Monday                             
+1911/01/10     10                  Tuesday                            
+1911/01/11     11                  Wednesday                          
+1911/01/12     12                  Thursday                           
+1911/01/13     13                  Friday                             
+1911/01/14     14                  Saturday                           
+1911/01/15     15                  Sunday                             
+1911/01/16     16                  Monday                             
+1911/01/17     17                  Tuesday                            
+1911/01/18     18                  Wednesday                          
+1911/01/19     19                  Thursday                           
+1911/01/20     20                  Friday                             
+1911/01/21     21                  Saturday       Severe Cold         
+1911/01/22     22                  Sunday                             
+1911/01/23     23                  Monday                             
+1911/01/24     24                  Tuesday                            
+1911/01/25     25                  Wednesday                          
+1911/01/26     26                  Thursday                           
+1911/01/27     27                  Friday                             
+1911/01/28     28                  Saturday                           
+1911/01/29     29                  Sunday                             
+1911/01/30     1st Lunar month     Monday                             
+1911/01/31     2                   Tuesday                            
+1911/02/01     3                   Wednesday                          
+1911/02/02     4                   Thursday                           
+1911/02/03     5                   Friday                             
+1911/02/04     6                   Saturday                           
+1911/02/05     7                   Sunday         Spring Commences    
+1911/02/06     8                   Monday                             
+1911/02/07     9                   Tuesday                            
+1911/02/08     10                  Wednesday                          
+1911/02/09     11                  Thursday                           
+1911/02/10     12                  Friday                             
+1911/02/11     13                  Saturday                           
+1911/02/12     14                  Sunday                             
+1911/02/13     15                  Monday                             
+1911/02/14     16                  Tuesday                            
+1911/02/15     17                  Wednesday                          
+1911/02/16     18                  Thursday                           
+1911/02/17     19                  Friday                             
+1911/02/18     20                  Saturday                           
+1911/02/19     21                  Sunday                             
+1911/02/20     22                  Monday         Spring Showers      
+1911/02/21     23                  Tuesday                            
+1911/02/22     24                  Wednesday                          
+1911/02/23     25                  Thursday                           
+1911/02/24     26                  Friday                             
+1911/02/25     27                  Saturday                           
+1911/02/26     28                  Sunday                             
+1911/02/27     29                  Monday                             
+1911/02/28     30                  Tuesday                            
+1911/03/01     2nd Lunar month     Wednesday                          
+1911/03/02     2                   Thursday                           
+1911/03/03     3                   Friday                             
+1911/03/04     4                   Saturday                           
+1911/03/05     5                   Sunday                             
+1911/03/06     6                   Monday                             
+1911/03/07     7                   Tuesday        Insects Waken       
+1911/03/08     8                   Wednesday                          
+1911/03/09     9                   Thursday                           
+1911/03/10     10                  Friday                             
+1911/03/11     11                  Saturday                           
+1911/03/12     12                  Sunday                             
+1911/03/13     13                  Monday                             
+1911/03/14     14                  Tuesday                            
+1911/03/15     15                  Wednesday                          
+1911/03/16     16                  Thursday                           
+1911/03/17     17                  Friday                             
+1911/03/18     18                  Saturday                           
+1911/03/19     19                  Sunday                             
+1911/03/20     20                  Monday                             
+1911/03/21     21                  Tuesday                            
+1911/03/22     22                  Wednesday      Vernal Equinox      
+1911/03/23     23                  Thursday                           
+1911/03/24     24                  Friday                             
+1911/03/25     25                  Saturday                           
+1911/03/26     26                  Sunday                             
+1911/03/27     27                  Monday                             
+1911/03/28     28                  Tuesday                            
+1911/03/29     29                  Wednesday                          
+1911/03/30     3rd Lunar month     Thursday                           
+1911/03/31     2                   Friday                             
+1911/04/01     3                   Saturday                           
+1911/04/02     4                   Sunday                             
+1911/04/03     5                   Monday                             
+1911/04/04     6                   Tuesday                            
+1911/04/05     7                   Wednesday                          
+1911/04/06     8                   Thursday       Bright & Clear      
+1911/04/07     9                   Friday                             
+1911/04/08     10                  Saturday                           
+1911/04/09     11                  Sunday                             
+1911/04/10     12                  Monday                             
+1911/04/11     13                  Tuesday                            
+1911/04/12     14                  Wednesday                          
+1911/04/13     15                  Thursday                           
+1911/04/14     16                  Friday                             
+1911/04/15     17                  Saturday                           
+1911/04/16     18                  Sunday                             
+1911/04/17     19                  Monday                             
+1911/04/18     20                  Tuesday                            
+1911/04/19     21                  Wednesday                          
+1911/04/20     22                  Thursday                           
+1911/04/21     23                  Friday         Corn Rain           
+1911/04/22     24                  Saturday                           
+1911/04/23     25                  Sunday                             
+1911/04/24     26                  Monday                             
+1911/04/25     27                  Tuesday                            
+1911/04/26     28                  Wednesday                          
+1911/04/27     29                  Thursday                           
+1911/04/28     30                  Friday                             
+1911/04/29     4th Lunar month     Saturday                           
+1911/04/30     2                   Sunday                             
+1911/05/01     3                   Monday                             
+1911/05/02     4                   Tuesday                            
+1911/05/03     5                   Wednesday                          
+1911/05/04     6                   Thursday                           
+1911/05/05     7                   Friday                             
+1911/05/06     8                   Saturday                           
+1911/05/07     9                   Sunday         Summer Commences    
+1911/05/08     10                  Monday                             
+1911/05/09     11                  Tuesday                            
+1911/05/10     12                  Wednesday                          
+1911/05/11     13                  Thursday                           
+1911/05/12     14                  Friday                             
+1911/05/13     15                  Saturday                           
+1911/05/14     16                  Sunday                             
+1911/05/15     17                  Monday                             
+1911/05/16     18                  Tuesday                            
+1911/05/17     19                  Wednesday                          
+1911/05/18     20                  Thursday                           
+1911/05/19     21                  Friday                             
+1911/05/20     22                  Saturday                           
+1911/05/21     23                  Sunday                             
+1911/05/22     24                  Monday         Corn Forms          
+1911/05/23     25                  Tuesday                            
+1911/05/24     26                  Wednesday                          
+1911/05/25     27                  Thursday                           
+1911/05/26     28                  Friday                             
+1911/05/27     29                  Saturday                           
+1911/05/28     5th Lunar month     Sunday                             
+1911/05/29     2                   Monday                             
+1911/05/30     3                   Tuesday                            
+1911/05/31     4                   Wednesday                          
+1911/06/01     5                   Thursday                           
+1911/06/02     6                   Friday                             
+1911/06/03     7                   Saturday                           
+1911/06/04     8                   Sunday                             
+1911/06/05     9                   Monday                             
+1911/06/06     10                  Tuesday                            
+1911/06/07     11                  Wednesday      Corn on Ear         
+1911/06/08     12                  Thursday                           
+1911/06/09     13                  Friday                             
+1911/06/10     14                  Saturday                           
+1911/06/11     15                  Sunday                             
+1911/06/12     16                  Monday                             
+1911/06/13     17                  Tuesday                            
+1911/06/14     18                  Wednesday                          
+1911/06/15     19                  Thursday                           
+1911/06/16     20                  Friday                             
+1911/06/17     21                  Saturday                           
+1911/06/18     22                  Sunday                             
+1911/06/19     23                  Monday                             
+1911/06/20     24                  Tuesday                            
+1911/06/21     25                  Wednesday                          
+1911/06/22     26                  Thursday       Summer Solstice     
+1911/06/23     27                  Friday                             
+1911/06/24     28                  Saturday                           
+1911/06/25     29                  Sunday                             
+1911/06/26     6th Lunar month     Monday                             
+1911/06/27     2                   Tuesday                            
+1911/06/28     3                   Wednesday                          
+1911/06/29     4                   Thursday                           
+1911/06/30     5                   Friday                             
+1911/07/01     6                   Saturday                           
+1911/07/02     7                   Sunday                             
+1911/07/03     8                   Monday                             
+1911/07/04     9                   Tuesday                            
+1911/07/05     10                  Wednesday                          
+1911/07/06     11                  Thursday                           
+1911/07/07     12                  Friday                             
+1911/07/08     13                  Saturday       Moderate Heat       
+1911/07/09     14                  Sunday                             
+1911/07/10     15                  Monday                             
+1911/07/11     16                  Tuesday                            
+1911/07/12     17                  Wednesday                          
+1911/07/13     18                  Thursday                           
+1911/07/14     19                  Friday                             
+1911/07/15     20                  Saturday                           
+1911/07/16     21                  Sunday                             
+1911/07/17     22                  Monday                             
+1911/07/18     23                  Tuesday                            
+1911/07/19     24                  Wednesday                          
+1911/07/20     25                  Thursday                           
+1911/07/21     26                  Friday                             
+1911/07/22     27                  Saturday                           
+1911/07/23     28                  Sunday                             
+1911/07/24     29                  Monday         Great Heat          
+1911/07/25     30                  Tuesday                            
+1911/07/26     6th Lunar month     Wednesday                          
+1911/07/27     2                   Thursday                           
+1911/07/28     3                   Friday                             
+1911/07/29     4                   Saturday                           
+1911/07/30     5                   Sunday                             
+1911/07/31     6                   Monday                             
+1911/08/01     7                   Tuesday                            
+1911/08/02     8                   Wednesday                          
+1911/08/03     9                   Thursday                           
+1911/08/04     10                  Friday                             
+1911/08/05     11                  Saturday                           
+1911/08/06     12                  Sunday                             
+1911/08/07     13                  Monday                             
+1911/08/08     14                  Tuesday                            
+1911/08/09     15                  Wednesday      Autumn Commences    
+1911/08/10     16                  Thursday                           
+1911/08/11     17                  Friday                             
+1911/08/12     18                  Saturday                           
+1911/08/13     19                  Sunday                             
+1911/08/14     20                  Monday                             
+1911/08/15     21                  Tuesday                            
+1911/08/16     22                  Wednesday                          
+1911/08/17     23                  Thursday                           
+1911/08/18     24                  Friday                             
+1911/08/19     25                  Saturday                           
+1911/08/20     26                  Sunday                             
+1911/08/21     27                  Monday                             
+1911/08/22     28                  Tuesday                            
+1911/08/23     29                  Wednesday                          
+1911/08/24     7th Lunar month     Thursday       End of Heat         
+1911/08/25     2                   Friday                             
+1911/08/26     3                   Saturday                           
+1911/08/27     4                   Sunday                             
+1911/08/28     5                   Monday                             
+1911/08/29     6                   Tuesday                            
+1911/08/30     7                   Wednesday                          
+1911/08/31     8                   Thursday                           
+1911/09/01     9                   Friday                             
+1911/09/02     10                  Saturday                           
+1911/09/03     11                  Sunday                             
+1911/09/04     12                  Monday                             
+1911/09/05     13                  Tuesday                            
+1911/09/06     14                  Wednesday                          
+1911/09/07     15                  Thursday                           
+1911/09/08     16                  Friday                             
+1911/09/09     17                  Saturday       White Dew           
+1911/09/10     18                  Sunday                             
+1911/09/11     19                  Monday                             
+1911/09/12     20                  Tuesday                            
+1911/09/13     21                  Wednesday                          
+1911/09/14     22                  Thursday                           
+1911/09/15     23                  Friday                             
+1911/09/16     24                  Saturday                           
+1911/09/17     25                  Sunday                             
+1911/09/18     26                  Monday                             
+1911/09/19     27                  Tuesday                            
+1911/09/20     28                  Wednesday                          
+1911/09/21     29                  Thursday                           
+1911/09/22     8th Lunar month     Friday                             
+1911/09/23     2                   Saturday                           
+1911/09/24     3                   Sunday         Autumnal Equinox    
+1911/09/25     4                   Monday                             
+1911/09/26     5                   Tuesday                            
+1911/09/27     6                   Wednesday                          
+1911/09/28     7                   Thursday                           
+1911/09/29     8                   Friday                             
+1911/09/30     9                   Saturday                           
+1911/10/01     10                  Sunday                             
+1911/10/02     11                  Monday                             
+1911/10/03     12                  Tuesday                            
+1911/10/04     13                  Wednesday                          
+1911/10/05     14                  Thursday                           
+1911/10/06     15                  Friday                             
+1911/10/07     16                  Saturday                           
+1911/10/08     17                  Sunday                             
+1911/10/09     18                  Monday         Cold Dew            
+1911/10/10     19                  Tuesday                            
+1911/10/11     20                  Wednesday                          
+1911/10/12     21                  Thursday                           
+1911/10/13     22                  Friday                             
+1911/10/14     23                  Saturday                           
+1911/10/15     24                  Sunday                             
+1911/10/16     25                  Monday                             
+1911/10/17     26                  Tuesday                            
+1911/10/18     27                  Wednesday                          
+1911/10/19     28                  Thursday                           
+1911/10/20     29                  Friday                             
+1911/10/21     30                  Saturday                           
+1911/10/22     9th Lunar month     Sunday                             
+1911/10/23     2                   Monday                             
+1911/10/24     3                   Tuesday        Frost               
+1911/10/25     4                   Wednesday                          
+1911/10/26     5                   Thursday                           
+1911/10/27     6                   Friday                             
+1911/10/28     7                   Saturday                           
+1911/10/29     8                   Sunday                             
+1911/10/30     9                   Monday                             
+1911/10/31     10                  Tuesday                            
+1911/11/01     11                  Wednesday                          
+1911/11/02     12                  Thursday                           
+1911/11/03     13                  Friday                             
+1911/11/04     14                  Saturday                           
+1911/11/05     15                  Sunday                             
+1911/11/06     16                  Monday                             
+1911/11/07     17                  Tuesday                            
+1911/11/08     18                  Wednesday      Winter Commences    
+1911/11/09     19                  Thursday                           
+1911/11/10     20                  Friday                             
+1911/11/11     21                  Saturday                           
+1911/11/12     22                  Sunday                             
+1911/11/13     23                  Monday                             
+1911/11/14     24                  Tuesday                            
+1911/11/15     25                  Wednesday                          
+1911/11/16     26                  Thursday                           
+1911/11/17     27                  Friday                             
+1911/11/18     28                  Saturday                           
+1911/11/19     29                  Sunday                             
+1911/11/20     30                  Monday                             
+1911/11/21     10th Lunar month    Tuesday                            
+1911/11/22     2                   Wednesday                          
+1911/11/23     3                   Thursday       Light Snow          
+1911/11/24     4                   Friday                             
+1911/11/25     5                   Saturday                           
+1911/11/26     6                   Sunday                             
+1911/11/27     7                   Monday                             
+1911/11/28     8                   Tuesday                            
+1911/11/29     9                   Wednesday                          
+1911/11/30     10                  Thursday                           
+1911/12/01     11                  Friday                             
+1911/12/02     12                  Saturday                           
+1911/12/03     13                  Sunday                             
+1911/12/04     14                  Monday                             
+1911/12/05     15                  Tuesday                            
+1911/12/06     16                  Wednesday                          
+1911/12/07     17                  Thursday                           
+1911/12/08     18                  Friday         Heavy Snow          
+1911/12/09     19                  Saturday                           
+1911/12/10     20                  Sunday                             
+1911/12/11     21                  Monday                             
+1911/12/12     22                  Tuesday                            
+1911/12/13     23                  Wednesday                          
+1911/12/14     24                  Thursday                           
+1911/12/15     25                  Friday                             
+1911/12/16     26                  Saturday                           
+1911/12/17     27                  Sunday                             
+1911/12/18     28                  Monday                             
+1911/12/19     29                  Tuesday                            
+1911/12/20     11th Lunar month    Wednesday                          
+1911/12/21     2                   Thursday                           
+1911/12/22     3                   Friday                             
+1911/12/23     4                   Saturday       Winter Solstice     
+1911/12/24     5                   Sunday                             
+1911/12/25     6                   Monday                             
+1911/12/26     7                   Tuesday                            
+1911/12/27     8                   Wednesday                          
+1911/12/28     9                   Thursday                           
+1911/12/29     10                  Friday                             
+1911/12/30     11                  Saturday                           
+1911/12/31     12                  Sunday                             

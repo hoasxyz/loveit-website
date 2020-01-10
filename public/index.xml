@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>hoas&#39; blog | One Stupid Boy on hoas&#39; blog | One Stupid Boy</title>
+        <link>/</link>
+        <description>Recent content in hoas&#39; blog | One Stupid Boy on hoas&#39; blog | One Stupid Boy</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>zh</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+            <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+        
+        <atom:link href="/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Posts</title>
+                <link>/posts/</link>
+                <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+                
+                <guid>/posts/</guid>
+                <description></description>
+            </item>
+        
+            <item>
+                <title>关于hoas</title>
+                <link>/about/</link>
+                <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
+                
+                <guid>/about/</guid>
+                <description>&lt;h2 id=&#34;关于网站&#34;&gt;关于网站&lt;/h2&gt;
+&lt;h4 id=&#34;个人网站主要用作备忘&#34;&gt;个人网站，主要用作备忘&lt;/h4&gt;
+&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;:(fab fa-r-project): &lt;a href=&#34;https://www.r-project.org/&#34;&gt;R语言&lt;/a&gt;小白一只。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;:(fas fa-music): &lt;a href=&#34;https://hoas.xyz/post/terrylin/&#34;&gt;林志炫&lt;/a&gt;热忱知音。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;:(fas fa-gamepad): 人懒，贪玩，嗜睡，好吃。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>水电站水库运行与调度课设总结 | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="Website of hoas">
+<link rel="prev" href="/2019/04/2019-04-27-update-r/" />
+<link rel="canonical" href="/2019/12/2019-12-24-summary-of-course-design-of-reservoir-dispatch/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="水电站水库运行与调度课设总结"/>
+<meta name="twitter:description" content="这应该是最后一次课设了，把一些用R编程需要的总结贴在这里，不要老是再犯错！"/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "水电站水库运行与调度课设总结",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/12\/2019-12-24-summary-of-course-design-of-reservoir-dispatch\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/images\/hoas.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "R",
+    
+    "wordcount":  780 ,
+    "url": "\/2019\/12\/2019-12-24-summary-of-course-design-of-reservoir-dispatch\/",
+    
+        "datePublished": "2019-12-24T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-12-24T20:07:41\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/images\/hoas.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": ""
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">归档</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">归档</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">水电站水库运行与调度课设总结</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i>&nbsp;<a href="/categories/course/">course</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-12-24>2019-12-24</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 780 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 2 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content always-active">
+                    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#read_excel">read_excel</a></li>
+    <li><a href="#表格运算">表格运算</a></li>
+    <li><a href="#添加进度条">添加进度条</a></li>
+    <li><a href="#自定义红字非警告提示信息">自定义红字非警告提示信息</a></li>
+    <li><a href="#插值">插值</a></li>
+    <li><a href="#shiny">shiny</a></li>
+  </ul>
+</nav>
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        <nav id="TableOfContentsMobile">
+  <ul>
+    <li><a href="#read_excel">read_excel</a></li>
+    <li><a href="#表格运算">表格运算</a></li>
+    <li><a href="#添加进度条">添加进度条</a></li>
+    <li><a href="#自定义红字非警告提示信息">自定义红字非警告提示信息</a></li>
+    <li><a href="#插值">插值</a></li>
+    <li><a href="#shiny">shiny</a></li>
+  </ul>
+</nav>
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>这应该是最后一次课设了，把一些用R编程需要的总结贴在这里，不要老是再犯错！</p>
+<a class="post-dummy-target" id="read_excel"></a><h2><code>read_excel</code></h2>
+<p>在使用这个函数的时候要注意有可能读取的时候为日期格式！即使在Excel中以数字格式显示的，所以每次导入还是检查一下，如果出现日期格式的情况，在<code>read_excel</code>函数中加入<code>col_types = 'numeric'</code>。</p>
+<a class="post-dummy-target" id="表格运算"></a><h2>表格运算</h2>
+<p>在<a href="https://hoas.xyz/post/summary-of-course-design/">上次课设中介绍的表格运算</a>里，</p>
+<ol>
+<li>如果中途生成了非向量形式的结构，比如<code>matrix</code>或者<code>data.frame</code>，那么需要在每次循环最后进行移除；</li>
+<li>如果每次循环有生成下次循环的初始变量，那么可以在循环的最后加上<code>if(i &lt; length(y)) z[i + 1] &lt;- z_next[i]</code>，最开始最好全部赋值为<code>NA</code>，用<code>if(i == 1) z[i] &lt;- z0</code>引入初值；</li>
+<li>某些公式中一定要注意<strong>单位变换</strong>！比如：</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">      <span class="n">z_next</span><span class="n">[i</span><span class="n">]</span> <span class="o">&lt;-</span> <span class="nf">spline</span><span class="p">(</span>
+        <span class="n">x</span> <span class="o">=</span> <span class="n">para_zv</span><span class="o">$</span><span class="n">V</span><span class="p">,</span>
+        <span class="n">y</span> <span class="o">=</span> <span class="n">para_zv</span><span class="o">$</span><span class="n">Z</span><span class="p">,</span>
+        <span class="n">xout</span> <span class="o">=</span> <span class="nf">ifelse</span><span class="p">(</span><span class="n">qq</span><span class="n">[i</span><span class="n">]</span> <span class="o">&gt;</span> <span class="m">0</span><span class="p">,</span> <span class="n">v_max</span><span class="p">,</span> <span class="n">v</span><span class="n">[i</span><span class="n">]</span> <span class="o">+</span> <span class="p">(</span><span class="n">q</span><span class="n">[i</span><span class="n">]</span> <span class="o">-</span> <span class="n">qx</span><span class="n">[i</span><span class="n">]</span><span class="p">)</span> <span class="o">*</span> <span class="m">30.4</span> <span class="o">*</span> <span class="m">24</span> <span class="o">*</span> <span class="m">60</span> <span class="o">*</span> <span class="m">60</span> <span class="o">/</span> <span class="m">100000000</span><span class="p">)</span>
+      <span class="p">)</span><span class="o">$</span><span class="n">y</span> <span class="c1"># 流量和库容的换算</span>
+
+	 <span class="n">qx2</span><span class="n">[i</span><span class="n">]</span> <span class="o">&lt;-</span> <span class="n">n</span><span class="n">[i</span><span class="n">]</span> <span class="o">*</span> <span class="m">1000</span> <span class="o">/</span> <span class="m">8.6</span> <span class="o">/</span> <span class="n">h</span><span class="n">[i</span><span class="n">]</span> <span class="c1"># 出力公式</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>以上代码中也要记住，使用<code>spline</code>插值时，不要忘了加<code>$y</code>！</p>
+<ol start="4">
+<li>如果存在过程中数据突增或突减的情况，很可能是过程量超过了插值范围！</li>
+</ol>
+<a class="post-dummy-target" id="添加进度条"></a><h2>添加进度条</h2>
+<p>使用<code>progress</code>包来解决，很简单，只需要在循环前输入：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="n">pg</span> <span class="o">&lt;-</span> <span class="n">progress_bar</span><span class="o">$</span><span class="nf">new</span><span class="p">(</span><span class="n">format</span> <span class="o">=</span> <span class="s">&#34;</span><span class="s">[:bar] :current/:total (:percent)&#34;</span><span class="p">,</span> <span class="n">total</span> <span class="o">=</span> <span class="nf">length</span><span class="p">(</span><span class="n">y</span><span class="p">)</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>循环内的最后使用：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r">  <span class="n">pg</span><span class="o">$</span><span class="nf">tick</span><span class="p">(</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>即可。详情见：https://github.com/r-lib/progress</p>
+<a class="post-dummy-target" id="自定义红字非警告提示信息"></a><h2>自定义红字非警告提示信息</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">message</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#39;</span><span class="s">i = &#39;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="s">&#39;</span><span class="s">, temp_n = &#39;</span><span class="p">,</span> <span class="n">temp_n</span><span class="p">)</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>这种方法非常适合在循环无解但是很难查明原因的情况中使用：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">message</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#39;</span><span class="s">i = &#39;</span><span class="p">,</span> <span class="n">i</span><span class="p">,</span> <span class="s">&#39;</span><span class="s">, temp_n = &#39;</span><span class="p">,</span> <span class="n">temp_n</span><span class="p">,</span> <span class="s">&#39;</span><span class="s">, qx[i] = &#39;</span><span class="p">,</span> <span class="n">qx</span><span class="n">[i</span><span class="n">]</span><span class="p">,</span> <span class="s">&#39;</span><span class="s">, qx2[i] = &#39;</span><span class="p">,</span> <span class="n">qx2</span><span class="n">[i</span><span class="n">]</span><span class="p">)</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><code>message()</code>一般是换行的，但是<strong>progress</strong>包没有换行，所以会连在一起。</p>
+<a class="post-dummy-target" id="插值"></a><h2>插值</h2>
+<p>在进行插值时，某些<strong>特定且关键</strong>的参数的插值与反差值不对应。解决的方法有：</p>
+<ol>
+<li>使用相同的插值方法；</li>
+<li>即使基于第1点，也需要进行插值与反差值查看结果是否完全对应。实在不行可以<code>near(z[i])</code>。</li>
+</ol>
+<a class="post-dummy-target" id="shiny"></a><h2>shiny</h2>
+<p>使用<strong>shiny</strong>时，最好还是在官网上找个样式的模板直接套，如果demo比较简单的话。</p>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-12-24 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/12/2019-12-24-summary-of-course-design-of-reservoir-dispatch/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/04/2019-04-27-update-r/" class="prev" rel="prev" title="更新R"><i class="fas fa-angle-left fa-fw"></i>更新R</a>
+        
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

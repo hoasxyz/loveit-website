@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1988 (Wu-chen ¡V year of the Dragon)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1988/01/01     12                  Friday                             
+1988/01/02     13                  Saturday                           
+1988/01/03     14                  Sunday                             
+1988/01/04     15                  Monday                             
+1988/01/05     16                  Tuesday                            
+1988/01/06     17                  Wednesday      Moderate Cold       
+1988/01/07     18                  Thursday                           
+1988/01/08     19                  Friday                             
+1988/01/09     20                  Saturday                           
+1988/01/10     21                  Sunday                             
+1988/01/11     22                  Monday                             
+1988/01/12     23                  Tuesday                            
+1988/01/13     24                  Wednesday                          
+1988/01/14     25                  Thursday                           
+1988/01/15     26                  Friday                             
+1988/01/16     27                  Saturday                           
+1988/01/17     28                  Sunday                             
+1988/01/18     29                  Monday                             
+1988/01/19     12th Lunar month    Tuesday                            
+1988/01/20     2                   Wednesday                          
+1988/01/21     3                   Thursday       Severe Cold         
+1988/01/22     4                   Friday                             
+1988/01/23     5                   Saturday                           
+1988/01/24     6                   Sunday                             
+1988/01/25     7                   Monday                             
+1988/01/26     8                   Tuesday                            
+1988/01/27     9                   Wednesday                          
+1988/01/28     10                  Thursday                           
+1988/01/29     11                  Friday                             
+1988/01/30     12                  Saturday                           
+1988/01/31     13                  Sunday                             
+1988/02/01     14                  Monday                             
+1988/02/02     15                  Tuesday                            
+1988/02/03     16                  Wednesday                          
+1988/02/04     17                  Thursday       Spring Commences    
+1988/02/05     18                  Friday                             
+1988/02/06     19                  Saturday                           
+1988/02/07     20                  Sunday                             
+1988/02/08     21                  Monday                             
+1988/02/09     22                  Tuesday                            
+1988/02/10     23                  Wednesday                          
+1988/02/11     24                  Thursday                           
+1988/02/12     25                  Friday                             
+1988/02/13     26                  Saturday                           
+1988/02/14     27                  Sunday                             
+1988/02/15     28                  Monday                             
+1988/02/16     29                  Tuesday                            
+1988/02/17     1st Lunar month     Wednesday                          
+1988/02/18     2                   Thursday                           
+1988/02/19     3                   Friday         Spring Showers      
+1988/02/20     4                   Saturday                           
+1988/02/21     5                   Sunday                             
+1988/02/22     6                   Monday                             
+1988/02/23     7                   Tuesday                            
+1988/02/24     8                   Wednesday                          
+1988/02/25     9                   Thursday                           
+1988/02/26     10                  Friday                             
+1988/02/27     11                  Saturday                           
+1988/02/28     12                  Sunday                             
+1988/02/29     13                  Monday                             
+1988/03/01     14                  Tuesday                            
+1988/03/02     15                  Wednesday                          
+1988/03/03     16                  Thursday                           
+1988/03/04     17                  Friday                             
+1988/03/05     18                  Saturday       Insects Waken       
+1988/03/06     19                  Sunday                             
+1988/03/07     20                  Monday                             
+1988/03/08     21                  Tuesday                            
+1988/03/09     22                  Wednesday                          
+1988/03/10     23                  Thursday                           
+1988/03/11     24                  Friday                             
+1988/03/12     25                  Saturday                           
+1988/03/13     26                  Sunday                             
+1988/03/14     27                  Monday                             
+1988/03/15     28                  Tuesday                            
+1988/03/16     29                  Wednesday                          
+1988/03/17     30                  Thursday                           
+1988/03/18     2nd Lunar month     Friday                             
+1988/03/19     2                   Saturday                           
+1988/03/20     3                   Sunday         Vernal Equinox      
+1988/03/21     4                   Monday                             
+1988/03/22     5                   Tuesday                            
+1988/03/23     6                   Wednesday                          
+1988/03/24     7                   Thursday                           
+1988/03/25     8                   Friday                             
+1988/03/26     9                   Saturday                           
+1988/03/27     10                  Sunday                             
+1988/03/28     11                  Monday                             
+1988/03/29     12                  Tuesday                            
+1988/03/30     13                  Wednesday                          
+1988/03/31     14                  Thursday                           
+1988/04/01     15                  Friday                             
+1988/04/02     16                  Saturday                           
+1988/04/03     17                  Sunday                             
+1988/04/04     18                  Monday         Bright & Clear      
+1988/04/05     19                  Tuesday                            
+1988/04/06     20                  Wednesday                          
+1988/04/07     21                  Thursday                           
+1988/04/08     22                  Friday                             
+1988/04/09     23                  Saturday                           
+1988/04/10     24                  Sunday                             
+1988/04/11     25                  Monday                             
+1988/04/12     26                  Tuesday                            
+1988/04/13     27                  Wednesday                          
+1988/04/14     28                  Thursday                           
+1988/04/15     29                  Friday                             
+1988/04/16     3rd Lunar month     Saturday                           
+1988/04/17     2                   Sunday                             
+1988/04/18     3                   Monday                             
+1988/04/19     4                   Tuesday                            
+1988/04/20     5                   Wednesday      Corn Rain           
+1988/04/21     6                   Thursday                           
+1988/04/22     7                   Friday                             
+1988/04/23     8                   Saturday                           
+1988/04/24     9                   Sunday                             
+1988/04/25     10                  Monday                             
+1988/04/26     11                  Tuesday                            
+1988/04/27     12                  Wednesday                          
+1988/04/28     13                  Thursday                           
+1988/04/29     14                  Friday                             
+1988/04/30     15                  Saturday                           
+1988/05/01     16                  Sunday                             
+1988/05/02     17                  Monday                             
+1988/05/03     18                  Tuesday                            
+1988/05/04     19                  Wednesday                          
+1988/05/05     20                  Thursday       Summer Commences    
+1988/05/06     21                  Friday                             
+1988/05/07     22                  Saturday                           
+1988/05/08     23                  Sunday                             
+1988/05/09     24                  Monday                             
+1988/05/10     25                  Tuesday                            
+1988/05/11     26                  Wednesday                          
+1988/05/12     27                  Thursday                           
+1988/05/13     28                  Friday                             
+1988/05/14     29                  Saturday                           
+1988/05/15     30                  Sunday                             
+1988/05/16     4th Lunar month     Monday                             
+1988/05/17     2                   Tuesday                            
+1988/05/18     3                   Wednesday                          
+1988/05/19     4                   Thursday                           
+1988/05/20     5                   Friday                             
+1988/05/21     6                   Saturday       Corn Forms          
+1988/05/22     7                   Sunday                             
+1988/05/23     8                   Monday                             
+1988/05/24     9                   Tuesday                            
+1988/05/25     10                  Wednesday                          
+1988/05/26     11                  Thursday                           
+1988/05/27     12                  Friday                             
+1988/05/28     13                  Saturday                           
+1988/05/29     14                  Sunday                             
+1988/05/30     15                  Monday                             
+1988/05/31     16                  Tuesday                            
+1988/06/01     17                  Wednesday                          
+1988/06/02     18                  Thursday                           
+1988/06/03     19                  Friday                             
+1988/06/04     20                  Saturday                           
+1988/06/05     21                  Sunday         Corn on Ear         
+1988/06/06     22                  Monday                             
+1988/06/07     23                  Tuesday                            
+1988/06/08     24                  Wednesday                          
+1988/06/09     25                  Thursday                           
+1988/06/10     26                  Friday                             
+1988/06/11     27                  Saturday                           
+1988/06/12     28                  Sunday                             
+1988/06/13     29                  Monday                             
+1988/06/14     5th Lunar month     Tuesday                            
+1988/06/15     2                   Wednesday                          
+1988/06/16     3                   Thursday                           
+1988/06/17     4                   Friday                             
+1988/06/18     5                   Saturday                           
+1988/06/19     6                   Sunday                             
+1988/06/20     7                   Monday                             
+1988/06/21     8                   Tuesday        Summer Solstice     
+1988/06/22     9                   Wednesday                          
+1988/06/23     10                  Thursday                           
+1988/06/24     11                  Friday                             
+1988/06/25     12                  Saturday                           
+1988/06/26     13                  Sunday                             
+1988/06/27     14                  Monday                             
+1988/06/28     15                  Tuesday                            
+1988/06/29     16                  Wednesday                          
+1988/06/30     17                  Thursday                           
+1988/07/01     18                  Friday                             
+1988/07/02     19                  Saturday                           
+1988/07/03     20                  Sunday                             
+1988/07/04     21                  Monday                             
+1988/07/05     22                  Tuesday                            
+1988/07/06     23                  Wednesday                          
+1988/07/07     24                  Thursday       Moderate Heat       
+1988/07/08     25                  Friday                             
+1988/07/09     26                  Saturday                           
+1988/07/10     27                  Sunday                             
+1988/07/11     28                  Monday                             
+1988/07/12     29                  Tuesday                            
+1988/07/13     30                  Wednesday                          
+1988/07/14     6th Lunar month     Thursday                           
+1988/07/15     2                   Friday                             
+1988/07/16     3                   Saturday                           
+1988/07/17     4                   Sunday                             
+1988/07/18     5                   Monday                             
+1988/07/19     6                   Tuesday                            
+1988/07/20     7                   Wednesday                          
+1988/07/21     8                   Thursday                           
+1988/07/22     9                   Friday         Great Heat          
+1988/07/23     10                  Saturday                           
+1988/07/24     11                  Sunday                             
+1988/07/25     12                  Monday                             
+1988/07/26     13                  Tuesday                            
+1988/07/27     14                  Wednesday                          
+1988/07/28     15                  Thursday                           
+1988/07/29     16                  Friday                             
+1988/07/30     17                  Saturday                           
+1988/07/31     18                  Sunday                             
+1988/08/01     19                  Monday                             
+1988/08/02     20                  Tuesday                            
+1988/08/03     21                  Wednesday                          
+1988/08/04     22                  Thursday                           
+1988/08/05     23                  Friday                             
+1988/08/06     24                  Saturday                           
+1988/08/07     25                  Sunday         Autumn Commences    
+1988/08/08     26                  Monday                             
+1988/08/09     27                  Tuesday                            
+1988/08/10     28                  Wednesday                          
+1988/08/11     29                  Thursday                           
+1988/08/12     7th Lunar month     Friday                             
+1988/08/13     2                   Saturday                           
+1988/08/14     3                   Sunday                             
+1988/08/15     4                   Monday                             
+1988/08/16     5                   Tuesday                            
+1988/08/17     6                   Wednesday                          
+1988/08/18     7                   Thursday                           
+1988/08/19     8                   Friday                             
+1988/08/20     9                   Saturday                           
+1988/08/21     10                  Sunday                             
+1988/08/22     11                  Monday                             
+1988/08/23     12                  Tuesday        End of Heat         
+1988/08/24     13                  Wednesday                          
+1988/08/25     14                  Thursday                           
+1988/08/26     15                  Friday                             
+1988/08/27     16                  Saturday                           
+1988/08/28     17                  Sunday                             
+1988/08/29     18                  Monday                             
+1988/08/30     19                  Tuesday                            
+1988/08/31     20                  Wednesday                          
+1988/09/01     21                  Thursday                           
+1988/09/02     22                  Friday                             
+1988/09/03     23                  Saturday                           
+1988/09/04     24                  Sunday                             
+1988/09/05     25                  Monday                             
+1988/09/06     26                  Tuesday                            
+1988/09/07     27                  Wednesday      White Dew           
+1988/09/08     28                  Thursday                           
+1988/09/09     29                  Friday                             
+1988/09/10     30                  Saturday                           
+1988/09/11     8th Lunar month     Sunday                             
+1988/09/12     2                   Monday                             
+1988/09/13     3                   Tuesday                            
+1988/09/14     4                   Wednesday                          
+1988/09/15     5                   Thursday                           
+1988/09/16     6                   Friday                             
+1988/09/17     7                   Saturday                           
+1988/09/18     8                   Sunday                             
+1988/09/19     9                   Monday                             
+1988/09/20     10                  Tuesday                            
+1988/09/21     11                  Wednesday                          
+1988/09/22     12                  Thursday                           
+1988/09/23     13                  Friday         Autumnal Equinox    
+1988/09/24     14                  Saturday                           
+1988/09/25     15                  Sunday                             
+1988/09/26     16                  Monday                             
+1988/09/27     17                  Tuesday                            
+1988/09/28     18                  Wednesday                          
+1988/09/29     19                  Thursday                           
+1988/09/30     20                  Friday                             
+1988/10/01     21                  Saturday                           
+1988/10/02     22                  Sunday                             
+1988/10/03     23                  Monday                             
+1988/10/04     24                  Tuesday                            
+1988/10/05     25                  Wednesday                          
+1988/10/06     26                  Thursday                           
+1988/10/07     27                  Friday                             
+1988/10/08     28                  Saturday       Cold Dew            
+1988/10/09     29                  Sunday                             
+1988/10/10     30                  Monday                             
+1988/10/11     9th Lunar month     Tuesday                            
+1988/10/12     2                   Wednesday                          
+1988/10/13     3                   Thursday                           
+1988/10/14     4                   Friday                             
+1988/10/15     5                   Saturday                           
+1988/10/16     6                   Sunday                             
+1988/10/17     7                   Monday                             
+1988/10/18     8                   Tuesday                            
+1988/10/19     9                   Wednesday                          
+1988/10/20     10                  Thursday                           
+1988/10/21     11                  Friday                             
+1988/10/22     12                  Saturday                           
+1988/10/23     13                  Sunday         Frost               
+1988/10/24     14                  Monday                             
+1988/10/25     15                  Tuesday                            
+1988/10/26     16                  Wednesday                          
+1988/10/27     17                  Thursday                           
+1988/10/28     18                  Friday                             
+1988/10/29     19                  Saturday                           
+1988/10/30     20                  Sunday                             
+1988/10/31     21                  Monday                             
+1988/11/01     22                  Tuesday                            
+1988/11/02     23                  Wednesday                          
+1988/11/03     24                  Thursday                           
+1988/11/04     25                  Friday                             
+1988/11/05     26                  Saturday                           
+1988/11/06     27                  Sunday                             
+1988/11/07     28                  Monday         Winter Commences    
+1988/11/08     29                  Tuesday                            
+1988/11/09     10th Lunar month    Wednesday                          
+1988/11/10     2                   Thursday                           
+1988/11/11     3                   Friday                             
+1988/11/12     4                   Saturday                           
+1988/11/13     5                   Sunday                             
+1988/11/14     6                   Monday                             
+1988/11/15     7                   Tuesday                            
+1988/11/16     8                   Wednesday                          
+1988/11/17     9                   Thursday                           
+1988/11/18     10                  Friday                             
+1988/11/19     11                  Saturday                           
+1988/11/20     12                  Sunday                             
+1988/11/21     13                  Monday                             
+1988/11/22     14                  Tuesday        Light Snow          
+1988/11/23     15                  Wednesday                          
+1988/11/24     16                  Thursday                           
+1988/11/25     17                  Friday                             
+1988/11/26     18                  Saturday                           
+1988/11/27     19                  Sunday                             
+1988/11/28     20                  Monday                             
+1988/11/29     21                  Tuesday                            
+1988/11/30     22                  Wednesday                          
+1988/12/01     23                  Thursday                           
+1988/12/02     24                  Friday                             
+1988/12/03     25                  Saturday                           
+1988/12/04     26                  Sunday                             
+1988/12/05     27                  Monday                             
+1988/12/06     28                  Tuesday                            
+1988/12/07     29                  Wednesday      Heavy Snow          
+1988/12/08     30                  Thursday                           
+1988/12/09     11th Lunar month    Friday                             
+1988/12/10     2                   Saturday                           
+1988/12/11     3                   Sunday                             
+1988/12/12     4                   Monday                             
+1988/12/13     5                   Tuesday                            
+1988/12/14     6                   Wednesday                          
+1988/12/15     7                   Thursday                           
+1988/12/16     8                   Friday                             
+1988/12/17     9                   Saturday                           
+1988/12/18     10                  Sunday                             
+1988/12/19     11                  Monday                             
+1988/12/20     12                  Tuesday                            
+1988/12/21     13                  Wednesday      Winter Solstice     
+1988/12/22     14                  Thursday                           
+1988/12/23     15                  Friday                             
+1988/12/24     16                  Saturday                           
+1988/12/25     17                  Sunday                             
+1988/12/26     18                  Monday                             
+1988/12/27     19                  Tuesday                            
+1988/12/28     20                  Wednesday                          
+1988/12/29     21                  Thursday                           
+1988/12/30     22                  Friday                             
+1988/12/31     23                  Saturday                           

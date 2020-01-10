@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1966 (Bing-wu ¡V year of the Horse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1966/01/01     10                  Saturday                           
+1966/01/02     11                  Sunday                             
+1966/01/03     12                  Monday                             
+1966/01/04     13                  Tuesday                            
+1966/01/05     14                  Wednesday                          
+1966/01/06     15                  Thursday       Moderate Cold       
+1966/01/07     16                  Friday                             
+1966/01/08     17                  Saturday                           
+1966/01/09     18                  Sunday                             
+1966/01/10     19                  Monday                             
+1966/01/11     20                  Tuesday                            
+1966/01/12     21                  Wednesday                          
+1966/01/13     22                  Thursday                           
+1966/01/14     23                  Friday                             
+1966/01/15     24                  Saturday                           
+1966/01/16     25                  Sunday                             
+1966/01/17     26                  Monday                             
+1966/01/18     27                  Tuesday                            
+1966/01/19     28                  Wednesday                          
+1966/01/20     29                  Thursday       Severe Cold         
+1966/01/21     1st Lunar month     Friday                             
+1966/01/22     2                   Saturday                           
+1966/01/23     3                   Sunday                             
+1966/01/24     4                   Monday                             
+1966/01/25     5                   Tuesday                            
+1966/01/26     6                   Wednesday                          
+1966/01/27     7                   Thursday                           
+1966/01/28     8                   Friday                             
+1966/01/29     9                   Saturday                           
+1966/01/30     10                  Sunday                             
+1966/01/31     11                  Monday                             
+1966/02/01     12                  Tuesday                            
+1966/02/02     13                  Wednesday                          
+1966/02/03     14                  Thursday                           
+1966/02/04     15                  Friday         Spring Commences    
+1966/02/05     16                  Saturday                           
+1966/02/06     17                  Sunday                             
+1966/02/07     18                  Monday                             
+1966/02/08     19                  Tuesday                            
+1966/02/09     20                  Wednesday                          
+1966/02/10     21                  Thursday                           
+1966/02/11     22                  Friday                             
+1966/02/12     23                  Saturday                           
+1966/02/13     24                  Sunday                             
+1966/02/14     25                  Monday                             
+1966/02/15     26                  Tuesday                            
+1966/02/16     27                  Wednesday                          
+1966/02/17     28                  Thursday                           
+1966/02/18     29                  Friday                             
+1966/02/19     30                  Saturday       Spring Showers      
+1966/02/20     2nd Lunar month     Sunday                             
+1966/02/21     2                   Monday                             
+1966/02/22     3                   Tuesday                            
+1966/02/23     4                   Wednesday                     
+1966/02/24     5                   Thursday                           
+1966/02/25     6                   Friday                             
+1966/02/26     7                   Saturday                           
+1966/02/27     8                   Sunday                             
+1966/02/28     9                   Monday                             
+1966/03/01     10                  Tuesday                            
+1966/03/02     11                  Wednesday                          
+1966/03/03     12                  Thursday                           
+1966/03/04     13                  Friday                             
+1966/03/05     14                  Saturday                           
+1966/03/06     15                  Sunday         Insects Waken       
+1966/03/07     16                  Monday                             
+1966/03/08     17                  Tuesday                            
+1966/03/09     18                  Wednesday                          
+1966/03/10     19                  Thursday                           
+1966/03/11     20                  Friday                             
+1966/03/12     21                  Saturday                           
+1966/03/13     22                  Sunday                             
+1966/03/14     23                  Monday                             
+1966/03/15     24                  Tuesday                            
+1966/03/16     25                  Wednesday                          
+1966/03/17     26                  Thursday                           
+1966/03/18     27                  Friday                             
+1966/03/19     28                  Saturday                           
+1966/03/20     29                  Sunday                             
+1966/03/21     30                  Monday         Vernal Equinox      
+1966/03/22     3rd Lunar month     Tuesday                            
+1966/03/23     2                   Wednesday                          
+1966/03/24     3                   Thursday                           
+1966/03/25     4                   Friday                             
+1966/03/26     5                   Saturday                           
+1966/03/27     6                   Sunday                             
+1966/03/28     7                   Monday                             
+1966/03/29     8                   Tuesday                            
+1966/03/30     9                   Wednesday                          
+1966/03/31     10                  Thursday                           
+1966/04/01     11                  Friday                             
+1966/04/02     12                  Saturday                           
+1966/04/03     13                  Sunday                             
+1966/04/04     14                  Monday                             
+1966/04/05     15                  Tuesday        Bright & Clear      
+1966/04/06     16                  Wednesday                          
+1966/04/07     17                  Thursday                           
+1966/04/08     18                  Friday                             
+1966/04/09     19                  Saturday                           
+1966/04/10     20                  Sunday                             
+1966/04/11     21                  Monday                             
+1966/04/12     22                  Tuesday                            
+1966/04/13     23                  Wednesday                          
+1966/04/14     24                  Thursday                           
+1966/04/15     25                  Friday                             
+1966/04/16     26                  Saturday                           
+1966/04/17     27                  Sunday                             
+1966/04/18     28                  Monday                             
+1966/04/19     29                  Tuesday                            
+1966/04/20     30                  Wednesday      Corn Rain           
+1966/04/21     3rd Lunar month     Thursday                           
+1966/04/22     2                   Friday                             
+1966/04/23     3                   Saturday                           
+1966/04/24     4                   Sunday                             
+1966/04/25     5                   Monday                             
+1966/04/26     6                   Tuesday                            
+1966/04/27     7                   Wednesday                          
+1966/04/28     8                   Thursday                           
+1966/04/29     9                   Friday                             
+1966/04/30     10                  Saturday                           
+1966/05/01     11                  Sunday                             
+1966/05/02     12                  Monday                             
+1966/05/03     13                  Tuesday                            
+1966/05/04     14                  Wednesday                          
+1966/05/05     15                  Thursday                           
+1966/05/06     16                  Friday         Summer Commences    
+1966/05/07     17                  Saturday                           
+1966/05/08     18                  Sunday                             
+1966/05/09     19                  Monday                             
+1966/05/10     20                  Tuesday                            
+1966/05/11     21                  Wednesday                          
+1966/05/12     22                  Thursday                           
+1966/05/13     23                  Friday                             
+1966/05/14     24                  Saturday                           
+1966/05/15     25                  Sunday                             
+1966/05/16     26                  Monday                             
+1966/05/17     27                  Tuesday                            
+1966/05/18     28                  Wednesday                          
+1966/05/19     29                  Thursday                           
+1966/05/20     4th Lunar month     Friday                             
+1966/05/21     2                   Saturday       Corn Forms          
+1966/05/22     3                   Sunday                             
+1966/05/23     4                   Monday                             
+1966/05/24     5                   Tuesday                            
+1966/05/25     6                   Wednesday                          
+1966/05/26     7                   Thursday                           
+1966/05/27     8                   Friday                             
+1966/05/28     9                   Saturday                           
+1966/05/29     10                  Sunday                             
+1966/05/30     11                  Monday                             
+1966/05/31     12                  Tuesday                            
+1966/06/01     13                  Wednesday                          
+1966/06/02     14                  Thursday                           
+1966/06/03     15                  Friday                             
+1966/06/04     16                  Saturday                           
+1966/06/05     17                  Sunday                             
+1966/06/06     18                  Monday         Corn on Ear         
+1966/06/07     19                  Tuesday                            
+1966/06/08     20                  Wednesday                          
+1966/06/09     21                  Thursday                           
+1966/06/10     22                  Friday                             
+1966/06/11     23                  Saturday                           
+1966/06/12     24                  Sunday                             
+1966/06/13     25                  Monday                             
+1966/06/14     26                  Tuesday                            
+1966/06/15     27                  Wednesday                          
+1966/06/16     28                  Thursday                           
+1966/06/17     29                  Friday                             
+1966/06/18     30                  Saturday                           
+1966/06/19     5th Lunar month     Sunday                             
+1966/06/20     2                   Monday                             
+1966/06/21     3                   Tuesday                            
+1966/06/22     4                   Wednesday      Summer Solstice     
+1966/06/23     5                   Thursday                           
+1966/06/24     6                   Friday                             
+1966/06/25     7                   Saturday                           
+1966/06/26     8                   Sunday                             
+1966/06/27     9                   Monday                             
+1966/06/28     10                  Tuesday                            
+1966/06/29     11                  Wednesday                          
+1966/06/30     12                  Thursday                           
+1966/07/01     13                  Friday                             
+1966/07/02     14                  Saturday                           
+1966/07/03     15                  Sunday                             
+1966/07/04     16                  Monday                             
+1966/07/05     17                  Tuesday                            
+1966/07/06     18                  Wednesday                          
+1966/07/07     19                  Thursday       Moderate Heat       
+1966/07/08     20                  Friday                             
+1966/07/09     21                  Saturday                           
+1966/07/10     22                  Sunday                             
+1966/07/11     23                  Monday                             
+1966/07/12     24                  Tuesday                            
+1966/07/13     25                  Wednesday                          
+1966/07/14     26                  Thursday                           
+1966/07/15     27                  Friday                             
+1966/07/16     28                  Saturday                           
+1966/07/17     29                  Sunday                             
+1966/07/18     6th Lunar month     Monday                             
+1966/07/19     2                   Tuesday                            
+1966/07/20     3                   Wednesday                          
+1966/07/21     4                   Thursday                           
+1966/07/22     5                   Friday                             
+1966/07/23     6                   Saturday       Great Heat          
+1966/07/24     7                   Sunday                             
+1966/07/25     8                   Monday                             
+1966/07/26     9                   Tuesday                            
+1966/07/27     10                  Wednesday                          
+1966/07/28     11                  Thursday                           
+1966/07/29     12                  Friday                             
+1966/07/30     13                  Saturday                           
+1966/07/31     14                  Sunday                             
+1966/08/01     15                  Monday                             
+1966/08/02     16                  Tuesday                            
+1966/08/03     17                  Wednesday                          
+1966/08/04     18                  Thursday                           
+1966/08/05     19                  Friday                             
+1966/08/06     20                  Saturday                           
+1966/08/07     21                  Sunday                             
+1966/08/08     22                  Monday         Autumn Commences    
+1966/08/09     23                  Tuesday                            
+1966/08/10     24                  Wednesday                          
+1966/08/11     25                  Thursday                           
+1966/08/12     26                  Friday                             
+1966/08/13     27                  Saturday                           
+1966/08/14     28                  Sunday                             
+1966/08/15     29                  Monday                             
+1966/08/16     7th Lunar month     Tuesday                            
+1966/08/17     2                   Wednesday                          
+1966/08/18     3                   Thursday                           
+1966/08/19     4                   Friday                             
+1966/08/20     5                   Saturday                           
+1966/08/21     6                   Sunday                             
+1966/08/22     7                   Monday                             
+1966/08/23     8                   Tuesday        End of Heat         
+1966/08/24     9                   Wednesday                          
+1966/08/25     10                  Thursday                           
+1966/08/26     11                  Friday                             
+1966/08/27     12                  Saturday                           
+1966/08/28     13                  Sunday                             
+1966/08/29     14                  Monday                             
+1966/08/30     15                  Tuesday                            
+1966/08/31     16                  Wednesday                          
+1966/09/01     17                  Thursday                           
+1966/09/02     18                  Friday                             
+1966/09/03     19                  Saturday                           
+1966/09/04     20                  Sunday                             
+1966/09/05     21                  Monday                             
+1966/09/06     22                  Tuesday                            
+1966/09/07     23                  Wednesday                          
+1966/09/08     24                  Thursday       White Dew           
+1966/09/09     25                  Friday                             
+1966/09/10     26                  Saturday                           
+1966/09/11     27                  Sunday                             
+1966/09/12     28                  Monday                             
+1966/09/13     29                  Tuesday                            
+1966/09/14     30                  Wednesday                          
+1966/09/15     8th Lunar month     Thursday                           
+1966/09/16     2                   Friday                             
+1966/09/17     3                   Saturday                           
+1966/09/18     4                   Sunday                             
+1966/09/19     5                   Monday                             
+1966/09/20     6                   Tuesday                            
+1966/09/21     7                   Wednesday                          
+1966/09/22     8                   Thursday                           
+1966/09/23     9                   Friday         Autumnal Equinox    
+1966/09/24     10                  Saturday                           
+1966/09/25     11                  Sunday                             
+1966/09/26     12                  Monday                             
+1966/09/27     13                  Tuesday                            
+1966/09/28     14                  Wednesday                          
+1966/09/29     15                  Thursday                           
+1966/09/30     16                  Friday                             
+1966/10/01     17                  Saturday                           
+1966/10/02     18                  Sunday                             
+1966/10/03     19                  Monday                             
+1966/10/04     20                  Tuesday                            
+1966/10/05     21                  Wednesday                          
+1966/10/06     22                  Thursday                           
+1966/10/07     23                  Friday                             
+1966/10/08     24                  Saturday                           
+1966/10/09     25                  Sunday         Cold Dew            
+1966/10/10     26                  Monday                             
+1966/10/11     27                  Tuesday                            
+1966/10/12     28                  Wednesday                          
+1966/10/13     29                  Thursday                           
+1966/10/14     9th Lunar month     Friday                             
+1966/10/15     2                   Saturday                           
+1966/10/16     3                   Sunday                             
+1966/10/17     4                   Monday                             
+1966/10/18     5                   Tuesday                            
+1966/10/19     6                   Wednesday                          
+1966/10/20     7                   Thursday                           
+1966/10/21     8                   Friday                             
+1966/10/22     9                   Saturday                           
+1966/10/23     10                  Sunday                             
+1966/10/24     11                  Monday         Frost               
+1966/10/25     12                  Tuesday                            
+1966/10/26     13                  Wednesday                          
+1966/10/27     14                  Thursday                           
+1966/10/28     15                  Friday                             
+1966/10/29     16                  Saturday                           
+1966/10/30     17                  Sunday                             
+1966/10/31     18                  Monday                             
+1966/11/01     19                  Tuesday                            
+1966/11/02     20                  Wednesday                          
+1966/11/03     21                  Thursday                           
+1966/11/04     22                  Friday                             
+1966/11/05     23                  Saturday                           
+1966/11/06     24                  Sunday                             
+1966/11/07     25                  Monday                             
+1966/11/08     26                  Tuesday        Winter Commences    
+1966/11/09     27                  Wednesday                          
+1966/11/10     28                  Thursday                           
+1966/11/11     29                  Friday                             
+1966/11/12     10th Lunar month    Saturday                           
+1966/11/13     2                   Sunday                             
+1966/11/14     3                   Monday                             
+1966/11/15     4                   Tuesday                            
+1966/11/16     5                   Wednesday                          
+1966/11/17     6                   Thursday                           
+1966/11/18     7                   Friday                             
+1966/11/19     8                   Saturday                           
+1966/11/20     9                   Sunday                             
+1966/11/21     10                  Monday                             
+1966/11/22     11                  Tuesday                  
+1966/11/23     12                  Wednesday      Light Snow                    
+1966/11/24     13                  Thursday                           
+1966/11/25     14                  Friday                             
+1966/11/26     15                  Saturday                           
+1966/11/27     16                  Sunday                             
+1966/11/28     17                  Monday                             
+1966/11/29     18                  Tuesday                            
+1966/11/30     19                  Wednesday                          
+1966/12/01     20                  Thursday                           
+1966/12/02     21                  Friday                             
+1966/12/03     22                  Saturday                           
+1966/12/04     23                  Sunday                             
+1966/12/05     24                  Monday                             
+1966/12/06     25                  Tuesday                            
+1966/12/07     26                  Wednesday      Heavy Snow          
+1966/12/08     27                  Thursday                           
+1966/12/09     28                  Friday                             
+1966/12/10     29                  Saturday                           
+1966/12/11     30                  Sunday                             
+1966/12/12     11th Lunar month    Monday                             
+1966/12/13     2                   Tuesday                            
+1966/12/14     3                   Wednesday                          
+1966/12/15     4                   Thursday                           
+1966/12/16     5                   Friday                             
+1966/12/17     6                   Saturday                           
+1966/12/18     7                   Sunday                             
+1966/12/19     8                   Monday                             
+1966/12/20     9                   Tuesday                            
+1966/12/21     10                  Wednesday                          
+1966/12/22     11                  Thursday       Winter Solstice     
+1966/12/23     12                  Friday                             
+1966/12/24     13                  Saturday                           
+1966/12/25     14                  Sunday                             
+1966/12/26     15                  Monday                             
+1966/12/27     16                  Tuesday                            
+1966/12/28     17                  Wednesday                          
+1966/12/29     18                  Thursday                           
+1966/12/30     19                  Friday                             
+1966/12/31     20                  Saturday                           
+
+In 1966, summer time was enforced during 17 April to 16 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

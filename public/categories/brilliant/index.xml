@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brilliant on hoas&#39; blog | One Stupid Boy</title>
+    <link>/categories/brilliant/</link>
+    <description>Recent content in brilliant on hoas&#39; blog | One Stupid Boy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/brilliant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>055</title>
+      <link>/2019/04/2019-04-25-055/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/2019-04-25-055/</guid>
+      <description>&lt;p&gt;055靠窗，白天的时候，大家习惯把窗帘关上，挡住其实也没那么刺眼的阳光。&lt;/p&gt;
+
+&lt;p&gt;055背墙，意味着我不大可能坐那里，因为我知道我的视觉偏好捕捉动态的熙攘。&lt;/p&gt;
+
+&lt;p&gt;055的标签旁，经常放着两个不同的杯子，它们属于同一个姑娘。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1496092607007-ca127e0b6a10?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1085&amp;amp;q=80&#34; alt=&#34;window&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>R语言人脸识别</title>
+      <link>/2019/03/2019-03-25-human-face-detection-with-r/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/2019-03-25-human-face-detection-with-r/</guid>
+      <description>&lt;p&gt;无意中在&lt;a href=&#34;https://www.r-bloggers.com/&#34;&gt;R-bloggers&lt;/a&gt;上看到了一篇&lt;del&gt;终于可以自己操作的&lt;/del&gt;&lt;a href=&#34;https://www.r-bloggers.com/human-face-detection-with-r/&#34;&gt;关于人脸识别的文章&lt;/a&gt;！自己也来试了试，嘿嘿，这小猪脸也被识别成人脸了，猪年就是不一样呀！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/hoasxyz/mdphotos/raw/master/Terry%20Lin/%E6%8A%93%E7%8C%AA%E7%82%AB.jpeg&#34; alt=&#34;抓猪炫&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

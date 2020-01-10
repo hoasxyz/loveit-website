@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1955 (Yi-wei ¡V year of the Goat)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1955/01/01     8                   Saturday                           
+1955/01/02     9                   Sunday                             
+1955/01/03     10                  Monday                             
+1955/01/04     11                  Tuesday                            
+1955/01/05     12                  Wednesday                          
+1955/01/06     13                  Thursday       Moderate Cold       
+1955/01/07     14                  Friday                             
+1955/01/08     15                  Saturday                           
+1955/01/09     16                  Sunday                             
+1955/01/10     17                  Monday                             
+1955/01/11     18                  Tuesday                            
+1955/01/12     19                  Wednesday                          
+1955/01/13     20                  Thursday                           
+1955/01/14     21                  Friday                             
+1955/01/15     22                  Saturday                           
+1955/01/16     23                  Sunday                             
+1955/01/17     24                  Monday                             
+1955/01/18     25                  Tuesday                            
+1955/01/19     26                  Wednesday                          
+1955/01/20     27                  Thursday                           
+1955/01/21     28                  Friday         Severe Cold         
+1955/01/22     29                  Saturday                           
+1955/01/23     30                  Sunday                             
+1955/01/24     1st Lunar month     Monday                             
+1955/01/25     2                   Tuesday                            
+1955/01/26     3                   Wednesday                          
+1955/01/27     4                   Thursday                           
+1955/01/28     5                   Friday                             
+1955/01/29     6                   Saturday                           
+1955/01/30     7                   Sunday                             
+1955/01/31     8                   Monday                             
+1955/02/01     9                   Tuesday                            
+1955/02/02     10                  Wednesday                          
+1955/02/03     11                  Thursday                           
+1955/02/04     12                  Friday         Spring Commences    
+1955/02/05     13                  Saturday                           
+1955/02/06     14                  Sunday                             
+1955/02/07     15                  Monday                             
+1955/02/08     16                  Tuesday                            
+1955/02/09     17                  Wednesday                          
+1955/02/10     18                  Thursday                           
+1955/02/11     19                  Friday                             
+1955/02/12     20                  Saturday                           
+1955/02/13     21                  Sunday                             
+1955/02/14     22                  Monday                             
+1955/02/15     23                  Tuesday                            
+1955/02/16     24                  Wednesday                          
+1955/02/17     25                  Thursday                           
+1955/02/18     26                  Friday                             
+1955/02/19     27                  Saturday       Spring Showers      
+1955/02/20     28                  Sunday                             
+1955/02/21     29                  Monday                             
+1955/02/22     2nd Lunar month     Tuesday                            
+1955/02/23     2                   Wednesday                          
+1955/02/24     3                   Thursday                           
+1955/02/25     4                   Friday                             
+1955/02/26     5                   Saturday                           
+1955/02/27     6                   Sunday                             
+1955/02/28     7                   Monday                             
+1955/03/01     8                   Tuesday                            
+1955/03/02     9                   Wednesday                          
+1955/03/03     10                  Thursday                           
+1955/03/04     11                  Friday                             
+1955/03/05     12                  Saturday                           
+1955/03/06     13                  Sunday         Insects Waken       
+1955/03/07     14                  Monday                             
+1955/03/08     15                  Tuesday                            
+1955/03/09     16                  Wednesday                          
+1955/03/10     17                  Thursday                           
+1955/03/11     18                  Friday                             
+1955/03/12     19                  Saturday                           
+1955/03/13     20                  Sunday                             
+1955/03/14     21                  Monday                             
+1955/03/15     22                  Tuesday                            
+1955/03/16     23                  Wednesday                          
+1955/03/17     24                  Thursday                           
+1955/03/18     25                  Friday                             
+1955/03/19     26                  Saturday                           
+1955/03/20     27                  Sunday                             
+1955/03/21     28                  Monday         Vernal Equinox      
+1955/03/22     29                  Tuesday                            
+1955/03/23     30                  Wednesday                          
+1955/03/24     3rd Lunar month     Thursday                           
+1955/03/25     2                   Friday                             
+1955/03/26     3                   Saturday                           
+1955/03/27     4                   Sunday                             
+1955/03/28     5                   Monday                             
+1955/03/29     6                   Tuesday                            
+1955/03/30     7                   Wednesday                          
+1955/03/31     8                   Thursday                           
+1955/04/01     9                   Friday                             
+1955/04/02     10                  Saturday                           
+1955/04/03     11                  Sunday                             
+1955/04/04     12                  Monday                             
+1955/04/05     13                  Tuesday        Bright & Clear      
+1955/04/06     14                  Wednesday                          
+1955/04/07     15                  Thursday                           
+1955/04/08     16                  Friday                             
+1955/04/09     17                  Saturday                           
+1955/04/10     18                  Sunday                             
+1955/04/11     19                  Monday                             
+1955/04/12     20                  Tuesday                            
+1955/04/13     21                  Wednesday                          
+1955/04/14     22                  Thursday                           
+1955/04/15     23                  Friday                             
+1955/04/16     24                  Saturday                           
+1955/04/17     25                  Sunday                             
+1955/04/18     26                  Monday                             
+1955/04/19     27                  Tuesday                            
+1955/04/20     28                  Wednesday                          
+1955/04/21     29                  Thursday       Corn Rain           
+1955/04/22     3rd Lunar month     Friday                             
+1955/04/23     2                   Saturday                           
+1955/04/24     3                   Sunday                             
+1955/04/25     4                   Monday                             
+1955/04/26     5                   Tuesday                            
+1955/04/27     6                   Wednesday                          
+1955/04/28     7                   Thursday                           
+1955/04/29     8                   Friday                             
+1955/04/30     9                   Saturday                           
+1955/05/01     10                  Sunday                             
+1955/05/02     11                  Monday                             
+1955/05/03     12                  Tuesday                            
+1955/05/04     13                  Wednesday                          
+1955/05/05     14                  Thursday                           
+1955/05/06     15                  Friday         Summer Commences    
+1955/05/07     16                  Saturday                           
+1955/05/08     17                  Sunday                             
+1955/05/09     18                  Monday                             
+1955/05/10     19                  Tuesday                            
+1955/05/11     20                  Wednesday                          
+1955/05/12     21                  Thursday                           
+1955/05/13     22                  Friday                             
+1955/05/14     23                  Saturday                           
+1955/05/15     24                  Sunday                             
+1955/05/16     25                  Monday                             
+1955/05/17     26                  Tuesday                            
+1955/05/18     27                  Wednesday                          
+1955/05/19     28                  Thursday                           
+1955/05/20     29                  Friday                             
+1955/05/21     30                  Saturday                           
+1955/05/22     4th Lunar month     Sunday         Corn Forms          
+1955/05/23     2                   Monday                             
+1955/05/24     3                   Tuesday                            
+1955/05/25     4                   Wednesday                          
+1955/05/26     5                   Thursday                           
+1955/05/27     6                   Friday                             
+1955/05/28     7                   Saturday                           
+1955/05/29     8                   Sunday                             
+1955/05/30     9                   Monday                             
+1955/05/31     10                  Tuesday                            
+1955/06/01     11                  Wednesday                          
+1955/06/02     12                  Thursday                           
+1955/06/03     13                  Friday                             
+1955/06/04     14                  Saturday                           
+1955/06/05     15                  Sunday                             
+1955/06/06     16                  Monday         Corn on Ear         
+1955/06/07     17                  Tuesday                            
+1955/06/08     18                  Wednesday                          
+1955/06/09     19                  Thursday                           
+1955/06/10     20                  Friday                             
+1955/06/11     21                  Saturday                           
+1955/06/12     22                  Sunday                             
+1955/06/13     23                  Monday                             
+1955/06/14     24                  Tuesday                            
+1955/06/15     25                  Wednesday                          
+1955/06/16     26                  Thursday                           
+1955/06/17     27                  Friday                             
+1955/06/18     28                  Saturday                           
+1955/06/19     29                  Sunday                             
+1955/06/20     5th Lunar month     Monday                             
+1955/06/21     2                   Tuesday                            
+1955/06/22     3                   Wednesday      Summer Solstice     
+1955/06/23     4                   Thursday                           
+1955/06/24     5                   Friday                             
+1955/06/25     6                   Saturday                           
+1955/06/26     7                   Sunday                             
+1955/06/27     8                   Monday                             
+1955/06/28     9                   Tuesday                            
+1955/06/29     10                  Wednesday                          
+1955/06/30     11                  Thursday                           
+1955/07/01     12                  Friday                             
+1955/07/02     13                  Saturday                           
+1955/07/03     14                  Sunday                             
+1955/07/04     15                  Monday                             
+1955/07/05     16                  Tuesday                            
+1955/07/06     17                  Wednesday                          
+1955/07/07     18                  Thursday                           
+1955/07/08     19                  Friday         Moderate Heat       
+1955/07/09     20                  Saturday                           
+1955/07/10     21                  Sunday                             
+1955/07/11     22                  Monday                             
+1955/07/12     23                  Tuesday                            
+1955/07/13     24                  Wednesday                          
+1955/07/14     25                  Thursday                           
+1955/07/15     26                  Friday                             
+1955/07/16     27                  Saturday                           
+1955/07/17     28                  Sunday                             
+1955/07/18     29                  Monday                             
+1955/07/19     6th Lunar month     Tuesday                            
+1955/07/20     2                   Wednesday                          
+1955/07/21     3                   Thursday                           
+1955/07/22     4                   Friday                             
+1955/07/23     5                   Saturday       Great Heat          
+1955/07/24     6                   Sunday                             
+1955/07/25     7                   Monday                             
+1955/07/26     8                   Tuesday                            
+1955/07/27     9                   Wednesday                          
+1955/07/28     10                  Thursday                           
+1955/07/29     11                  Friday                             
+1955/07/30     12                  Saturday                           
+1955/07/31     13                  Sunday                             
+1955/08/01     14                  Monday                             
+1955/08/02     15                  Tuesday                            
+1955/08/03     16                  Wednesday                          
+1955/08/04     17                  Thursday                           
+1955/08/05     18                  Friday                             
+1955/08/06     19                  Saturday                           
+1955/08/07     20                  Sunday                             
+1955/08/08     21                  Monday         Autumn Commences    
+1955/08/09     22                  Tuesday                            
+1955/08/10     23                  Wednesday                          
+1955/08/11     24                  Thursday                           
+1955/08/12     25                  Friday                             
+1955/08/13     26                  Saturday                           
+1955/08/14     27                  Sunday                             
+1955/08/15     28                  Monday                             
+1955/08/16     29                  Tuesday                            
+1955/08/17     30                  Wednesday                          
+1955/08/18     7th Lunar month     Thursday                           
+1955/08/19     2                   Friday                             
+1955/08/20     3                   Saturday                           
+1955/08/21     4                   Sunday                             
+1955/08/22     5                   Monday                             
+1955/08/23     6                   Tuesday                            
+1955/08/24     7                   Wednesday      End of Heat         
+1955/08/25     8                   Thursday                           
+1955/08/26     9                   Friday                             
+1955/08/27     10                  Saturday                           
+1955/08/28     11                  Sunday                             
+1955/08/29     12                  Monday                             
+1955/08/30     13                  Tuesday                            
+1955/08/31     14                  Wednesday                          
+1955/09/01     15                  Thursday                           
+1955/09/02     16                  Friday                             
+1955/09/03     17                  Saturday                           
+1955/09/04     18                  Sunday                             
+1955/09/05     19                  Monday                             
+1955/09/06     20                  Tuesday                            
+1955/09/07     21                  Wednesday                          
+1955/09/08     22                  Thursday       White Dew           
+1955/09/09     23                  Friday                             
+1955/09/10     24                  Saturday                           
+1955/09/11     25                  Sunday                             
+1955/09/12     26                  Monday                             
+1955/09/13     27                  Tuesday                            
+1955/09/14     28                  Wednesday                          
+1955/09/15     29                  Thursday                           
+1955/09/16     8th Lunar month     Friday                             
+1955/09/17     2                   Saturday                           
+1955/09/18     3                   Sunday                             
+1955/09/19     4                   Monday                             
+1955/09/20     5                   Tuesday                            
+1955/09/21     6                   Wednesday                          
+1955/09/22     7                   Thursday                           
+1955/09/23     8                   Friday                             
+1955/09/24     9                   Saturday       Autumnal Equinox    
+1955/09/25     10                  Sunday                             
+1955/09/26     11                  Monday                             
+1955/09/27     12                  Tuesday                            
+1955/09/28     13                  Wednesday                          
+1955/09/29     14                  Thursday                           
+1955/09/30     15                  Friday                             
+1955/10/01     16                  Saturday                           
+1955/10/02     17                  Sunday                             
+1955/10/03     18                  Monday                             
+1955/10/04     19                  Tuesday                            
+1955/10/05     20                  Wednesday                          
+1955/10/06     21                  Thursday                           
+1955/10/07     22                  Friday                             
+1955/10/08     23                  Saturday                           
+1955/10/09     24                  Sunday         Cold Dew            
+1955/10/10     25                  Monday                             
+1955/10/11     26                  Tuesday                            
+1955/10/12     27                  Wednesday                          
+1955/10/13     28                  Thursday                           
+1955/10/14     29                  Friday                             
+1955/10/15     30                  Saturday                           
+1955/10/16     9th Lunar month     Sunday                             
+1955/10/17     2                   Monday                             
+1955/10/18     3                   Tuesday                            
+1955/10/19     4                   Wednesday                          
+1955/10/20     5                   Thursday                           
+1955/10/21     6                   Friday                             
+1955/10/22     7                   Saturday                           
+1955/10/23     8                   Sunday                             
+1955/10/24     9                   Monday         Frost               
+1955/10/25     10                  Tuesday                            
+1955/10/26     11                  Wednesday                          
+1955/10/27     12                  Thursday                           
+1955/10/28     13                  Friday                             
+1955/10/29     14                  Saturday                           
+1955/10/30     15                  Sunday                             
+1955/10/31     16                  Monday                             
+1955/11/01     17                  Tuesday                            
+1955/11/02     18                  Wednesday                          
+1955/11/03     19                  Thursday                           
+1955/11/04     20                  Friday                             
+1955/11/05     21                  Saturday                           
+1955/11/06     22                  Sunday                             
+1955/11/07     23                  Monday                             
+1955/11/08     24                  Tuesday        Winter Commences    
+1955/11/09     25                  Wednesday                          
+1955/11/10     26                  Thursday                           
+1955/11/11     27                  Friday                             
+1955/11/12     28                  Saturday                           
+1955/11/13     29                  Sunday                             
+1955/11/14     10th Lunar month    Monday                             
+1955/11/15     2                   Tuesday                            
+1955/11/16     3                   Wednesday                          
+1955/11/17     4                   Thursday                           
+1955/11/18     5                   Friday                             
+1955/11/19     6                   Saturday                           
+1955/11/20     7                   Sunday                             
+1955/11/21     8                   Monday                             
+1955/11/22     9                   Tuesday                            
+1955/11/23     10                  Wednesday      Light Snow          
+1955/11/24     11                  Thursday                           
+1955/11/25     12                  Friday                             
+1955/11/26     13                  Saturday                           
+1955/11/27     14                  Sunday                             
+1955/11/28     15                  Monday                             
+1955/11/29     16                  Tuesday                            
+1955/11/30     17                  Wednesday                          
+1955/12/01     18                  Thursday                           
+1955/12/02     19                  Friday                             
+1955/12/03     20                  Saturday                           
+1955/12/04     21                  Sunday                             
+1955/12/05     22                  Monday                             
+1955/12/06     23                  Tuesday                            
+1955/12/07     24                  Wednesday                          
+1955/12/08     25                  Thursday       Heavy Snow          
+1955/12/09     26                  Friday                             
+1955/12/10     27                  Saturday                           
+1955/12/11     28                  Sunday                             
+1955/12/12     29                  Monday                             
+1955/12/13     30                  Tuesday                            
+1955/12/14     11th Lunar month    Wednesday                          
+1955/12/15     2                   Thursday                           
+1955/12/16     3                   Friday                             
+1955/12/17     4                   Saturday                           
+1955/12/18     5                   Sunday                             
+1955/12/19     6                   Monday                             
+1955/12/20     7                   Tuesday                            
+1955/12/21     8                   Wednesday                          
+1955/12/22     9                   Thursday       Winter Solstice     
+1955/12/23     10                  Friday                             
+1955/12/24     11                  Saturday                           
+1955/12/25     12                  Sunday                             
+1955/12/26     13                  Monday                             
+1955/12/27     14                  Tuesday                            
+1955/12/28     15                  Wednesday                          
+1955/12/29     16                  Thursday                           
+1955/12/30     17                  Friday                             
+1955/12/31     18                  Saturday                           
+
+In 1955, summer time was enforced during 20 March to 6 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

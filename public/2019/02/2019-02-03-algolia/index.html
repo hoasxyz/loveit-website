@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Algolia | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="Learning search from Algolia.">
+<link rel="prev" href="/2019/01/2019-01-28-wifi-code-referring/" />
+<link rel="next" href="/2019/02/2019-02-11-%E7%94%A8github%E5%81%9A%E5%9B%BE%E5%BA%8A%E7%9A%84%E5%B0%9D%E8%AF%95/" />
+<link rel="canonical" href="/2019/02/2019-02-03-algolia/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Algolia"/>
+<meta name="twitter:description" content="Learning search from Algolia."/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Algolia",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/02\/2019-02-03-algolia\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/cover.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "hugo, JavaScript",
+    
+    "wordcount":  569 ,
+    "url": "\/2019\/02\/2019-02-03-algolia\/",
+    
+        "datePublished": "2019-02-03T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-02-03T20:57:16\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/logo.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": "Learning search from Algolia."
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">Algolia</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i><a href="/categories/fragmentray/">fragmentray</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-02-03>2019-02-03</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 569 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 2 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content always-active">
+                    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#create-you-first-index">Create you first index</a></li>
+<li><a href="#select-your-attributes-to-index">Select your attributes to index</a></li>
+<li><a href="#select-your-custom-ranking-attributes">Select your Custom Ranking attributes</a></li>
+</ul></li>
+<li><a href="#build-your-ui">Build your UI</a></li>
+</ul>
+</nav>
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        <nav id="TableOfContentsMobile">
+<ul>
+<li>
+<ul>
+<li><a href="#create-you-first-index">Create you first index</a></li>
+<li><a href="#select-your-attributes-to-index">Select your attributes to index</a></li>
+<li><a href="#select-your-custom-ranking-attributes">Select your Custom Ranking attributes</a></li>
+</ul></li>
+<li><a href="#build-your-ui">Build your UI</a></li>
+</ul>
+</nav>
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>本来想用这个来给自己的网站添加搜索的，但是折腾了很长时间都失败了，想想还是算了吧……
+<figure><img src=/images/loading.svg data-sizes=auto data-src=https://www.algolia.com/static_assets/images/v3/shared/logos/algolia/logo-algolia-nebula-blue-whitespaces-bf76438c.svg alt=Algolia class=lazyload><figcaption class=image-caption>Algolia</figcaption></figure></p>
+
+<a class="post-dummy-target" id="create-you-first-index"></a><h2>Create you first index</h2>
+
+<p>An index is an entity within Algolia where you import the data you want to search (indexing) and perform queries against (search). There are 3 main ways to synchronize your data …</p>
+
+<ul>
+<li><p>API Clients. For those who love to build things by themselves, you can use our API clients to interact with the Algolia REST API.</p></li>
+
+<li><p>Plugins &amp; Extensions. If you&rsquo;re using a CMS or a platform for your service, you can simply use one of our plugins and integrations to easily implement Algolia.</p></li>
+
+<li><p>Algolia Dashboard. The dashboard is the easiest way to upload your data and get your first experience with Algolia. Simply drag and drop your JSON or CSV files.</p></li>
+</ul>
+
+<p>In Algolia, every object is a record and is defined with JSON.<a class="post-dummy-target" id="fnref:n"></a><sup class="footnote-ref"><a href="#fn:n">1</a></sup> Let&rsquo;s simply upload a dataset of actors&hellip;</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-json" data-lang="json"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-json" data-lang="json">  <span class="p">[</span>
+    <span class="p">{</span>
+      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Monica Bellucci&#34;</span><span class="p">,</span>
+      <span class="nt">&#34;alternative_name&#34;</span><span class="p">:</span> <span class="s2">&#34;Monica Anna Maria Bellucci&#34;</span><span class="p">,</span>
+      <span class="nt">&#34;rating&#34;</span><span class="p">:</span> <span class="mi">3956</span><span class="p">,</span>
+      <span class="nt">&#34;image_path&#34;</span><span class="p">:</span> <span class="s2">&#34;/z3sLuRKP7hQVr.jpg&#34;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Sean Connery&#34;</span><span class="p">,</span>
+      <span class="nt">&#34;alternative_name&#34;</span><span class="p">:</span> <span class="s2">&#34;Sir Sean Connery&#34;</span><span class="p">,</span>
+      <span class="nt">&#34;rating&#34;</span><span class="p">:</span> <span class="mi">746</span><span class="p">,</span>
+      <span class="nt">&#34;image_path&#34;</span><span class="p">:</span> <span class="s2">&#34;/ce84udJZ9QRSR44jxwK2apM3DM8.jpg&#34;</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Will Smith&#34;</span><span class="p">,</span>
+      <span class="nt">&#34;alternative_name&#34;</span><span class="p">:</span> <span class="kc">null</span><span class="p">,</span>
+      <span class="nt">&#34;rating&#34;</span><span class="p">:</span> <span class="mi">492</span><span class="p">,</span>
+      <span class="nt">&#34;image_path&#34;</span><span class="p">:</span> <span class="s2">&#34;/2iYXDlCvLyVO49louRyDDXagZ0G.jpg&#34;</span>
+    <span class="p">},</span>
+    <span class="p">{</span><span class="err">...</span><span class="p">}</span>
+  <span class="p">]</span></code></pre></td></tr></table>
+</div>
+</div>
+<a class="post-dummy-target" id="select-your-attributes-to-index"></a><h2>Select your attributes to index</h2>
+
+<ol>
+<li><p>By default, Algolia indexes and searches across all the attributes of your records.</p></li>
+
+<li><p>Oops, we also search in the <code>image_path</code> attribute. In order to improve the relevance of the results, it would make more sense to search only in the <code>name</code> and <code>alternative_name</code> attributes.</p></li>
+
+<li><p>Click on <code>Add an searchable attribute</code>, then select from the list or type the first letter of the name of the attribute. Use drag and drop to put <code>name</code> before <code>alternative_name</code> in the list to make it more important. Then save.</p></li>
+</ol>
+
+<a class="post-dummy-target" id="select-your-custom-ranking-attributes"></a><h2>Select your Custom Ranking attributes</h2>
+
+<p>You would want to be able to use the popularity of the actors in how the results are ranked. Algolia has a unique way to add this kind of metric to the relevance calculation. For instance, the <code>rating</code> attribute could be a good metric to use here.</p>
+
+<p>Use the <code>rating</code> attribute as a ranking criterion. By using the rating attribute as your customRanking attribute (ordered by DESCending order), you will see first the &ldquo;Ben&rdquo; actors that have the highest ratings. Click <code>Add an attribute</code>, then select <code>rating</code> in the list and save.</p>
+
+<a class="post-dummy-target" id="build-your-ui"></a><h1>Build your UI</h1>
+
+<p>Every time you request Algolia&rsquo;s Search API, it answers with a JSON object that contains the best matching objects: the <strong>hits</strong>.</p>
+
+<p>We recommend rendering these hits directly from the web browser of your end-users (using JavaScript) or the mobile device instead of going through your backend server.</p>
+
+<blockquote>
+<p>To help you with this aspect of setting up Algolia, we provide many examples and tools, such as our browser extension.</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-template-html" data-lang="template-html"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-template-html" data-lang="template-html"># Raw
+{{ hit }}
+
+# Minimalist
+&lt;li class=&#34;results&#34;&gt;
+  {{ hit.name }}
+&lt;/li&gt;
+
+# Highlighted
+&lt;li class=&#34;results&#34;&gt;
+  {{{ hit._highlightResult.name.value }}}
+&lt;/li&gt;
+
+# Detailed
+&lt;li class=&#34;results&#34;&gt;
+  &lt;img src=&#34;https://image.tmdb.org/t/p/w154/{{ hit.image_path }}&#34; /&gt;
+  &lt;h3&gt;{{{ hit._highlightResult.name.value }}}&lt;/h3&gt;
+  {{ hit.alternative_name }}
+&lt;/li&gt;</code></pre></td></tr></table>
+</div>
+</div><div class="footnotes">
+
+<hr />
+
+<ol>
+<li><a class="post-dummy-target" id="fn:n"></a>Json: Standard format that uses human-readable text to transmit date objects consisting of attribute-value pairs.
+ <a class="footnote-return" href="#fnref:n"><sup>[返回]</sup></a></li>
+</ol>
+</div>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-02-03 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/02/2019-02-03-algolia/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/hugo/"><i class="fas fa-tag fa-fw"></i>hugo</a>
+                    </span>
+                
+                    <span class="tag">
+                        <a href="/tags/javascript/"><i class="fas fa-tag fa-fw"></i>JavaScript</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/01/2019-01-28-wifi-code-referring/" class="prev" rel="prev" title="WiFi密码查看方法"><i class="fas fa-angle-left fa-fw"></i>WiFi密码查看方法</a>
+        
+        
+            <a href="/2019/02/2019-02-11-%E7%94%A8github%E5%81%9A%E5%9B%BE%E5%BA%8A%E7%9A%84%E5%B0%9D%E8%AF%95/" class="next" rel="next" title="用GitHub做图床的尝试">用GitHub做图床的尝试<i class="fas fa-angle-right fa-fw"></i></a>
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2018 - 2019</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

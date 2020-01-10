@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1990 (Geng-wu ¡V year of the Horse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1990/01/01     5                   Monday                             
+1990/01/02     6                   Tuesday                            
+1990/01/03     7                   Wednesday                          
+1990/01/04     8                   Thursday                           
+1990/01/05     9                   Friday         Moderate Cold       
+1990/01/06     10                  Saturday                           
+1990/01/07     11                  Sunday                             
+1990/01/08     12                  Monday                             
+1990/01/09     13                  Tuesday                            
+1990/01/10     14                  Wednesday                          
+1990/01/11     15                  Thursday                           
+1990/01/12     16                  Friday                             
+1990/01/13     17                  Saturday                           
+1990/01/14     18                  Sunday                             
+1990/01/15     19                  Monday                             
+1990/01/16     20                  Tuesday                            
+1990/01/17     21                  Wednesday                          
+1990/01/18     22                  Thursday                           
+1990/01/19     23                  Friday                             
+1990/01/20     24                  Saturday       Severe Cold         
+1990/01/21     25                  Sunday                             
+1990/01/22     26                  Monday                             
+1990/01/23     27                  Tuesday                            
+1990/01/24     28                  Wednesday                          
+1990/01/25     29                  Thursday                           
+1990/01/26     30                  Friday                             
+1990/01/27     1st Lunar month     Saturday                           
+1990/01/28     2                   Sunday                             
+1990/01/29     3                   Monday                             
+1990/01/30     4                   Tuesday                            
+1990/01/31     5                   Wednesday                          
+1990/02/01     6                   Thursday                           
+1990/02/02     7                   Friday                             
+1990/02/03     8                   Saturday                           
+1990/02/04     9                   Sunday         Spring Commences    
+1990/02/05     10                  Monday                             
+1990/02/06     11                  Tuesday                            
+1990/02/07     12                  Wednesday                          
+1990/02/08     13                  Thursday                           
+1990/02/09     14                  Friday                             
+1990/02/10     15                  Saturday                           
+1990/02/11     16                  Sunday                             
+1990/02/12     17                  Monday                             
+1990/02/13     18                  Tuesday                            
+1990/02/14     19                  Wednesday                          
+1990/02/15     20                  Thursday                           
+1990/02/16     21                  Friday                             
+1990/02/17     22                  Saturday                           
+1990/02/18     23                  Sunday                             
+1990/02/19     24                  Monday         Spring Showers      
+1990/02/20     25                  Tuesday                            
+1990/02/21     26                  Wednesday                          
+1990/02/22     27                  Thursday                           
+1990/02/23     28                  Friday                        
+1990/02/24     29                  Saturday                           
+1990/02/25     2nd Lunar month     Sunday                             
+1990/02/26     2                   Monday                             
+1990/02/27     3                   Tuesday                            
+1990/02/28     4                   Wednesday                          
+1990/03/01     5                   Thursday                           
+1990/03/02     6                   Friday                             
+1990/03/03     7                   Saturday                           
+1990/03/04     8                   Sunday                             
+1990/03/05     9                   Monday                             
+1990/03/06     10                  Tuesday        Insects Waken       
+1990/03/07     11                  Wednesday                          
+1990/03/08     12                  Thursday                           
+1990/03/09     13                  Friday                             
+1990/03/10     14                  Saturday                           
+1990/03/11     15                  Sunday                             
+1990/03/12     16                  Monday                             
+1990/03/13     17                  Tuesday                            
+1990/03/14     18                  Wednesday                          
+1990/03/15     19                  Thursday                           
+1990/03/16     20                  Friday                             
+1990/03/17     21                  Saturday                           
+1990/03/18     22                  Sunday                             
+1990/03/19     23                  Monday                             
+1990/03/20     24                  Tuesday                            
+1990/03/21     25                  Wednesday      Vernal Equinox      
+1990/03/22     26                  Thursday                           
+1990/03/23     27                  Friday                             
+1990/03/24     28                  Saturday                           
+1990/03/25     29                  Sunday                             
+1990/03/26     30                  Monday                             
+1990/03/27     3rd Lunar month     Tuesday                            
+1990/03/28     2                   Wednesday                          
+1990/03/29     3                   Thursday                           
+1990/03/30     4                   Friday                             
+1990/03/31     5                   Saturday                           
+1990/04/01     6                   Sunday                             
+1990/04/02     7                   Monday                             
+1990/04/03     8                   Tuesday                            
+1990/04/04     9                   Wednesday                          
+1990/04/05     10                  Thursday       Bright & Clear      
+1990/04/06     11                  Friday                             
+1990/04/07     12                  Saturday                           
+1990/04/08     13                  Sunday                             
+1990/04/09     14                  Monday                             
+1990/04/10     15                  Tuesday                            
+1990/04/11     16                  Wednesday                          
+1990/04/12     17                  Thursday                           
+1990/04/13     18                  Friday                             
+1990/04/14     19                  Saturday                           
+1990/04/15     20                  Sunday                             
+1990/04/16     21                  Monday                             
+1990/04/17     22                  Tuesday                            
+1990/04/18     23                  Wednesday                          
+1990/04/19     24                  Thursday                           
+1990/04/20     25                  Friday         Corn Rain           
+1990/04/21     26                  Saturday                           
+1990/04/22     27                  Sunday                             
+1990/04/23     28                  Monday                             
+1990/04/24     29                  Tuesday                            
+1990/04/25     4th Lunar month     Wednesday                          
+1990/04/26     2                   Thursday                           
+1990/04/27     3                   Friday                             
+1990/04/28     4                   Saturday                           
+1990/04/29     5                   Sunday                             
+1990/04/30     6                   Monday                             
+1990/05/01     7                   Tuesday                            
+1990/05/02     8                   Wednesday                          
+1990/05/03     9                   Thursday                           
+1990/05/04     10                  Friday                             
+1990/05/05     11                  Saturday                           
+1990/05/06     12                  Sunday         Summer Commences    
+1990/05/07     13                  Monday                             
+1990/05/08     14                  Tuesday                            
+1990/05/09     15                  Wednesday                          
+1990/05/10     16                  Thursday                           
+1990/05/11     17                  Friday                             
+1990/05/12     18                  Saturday                           
+1990/05/13     19                  Sunday                             
+1990/05/14     20                  Monday                             
+1990/05/15     21                  Tuesday                            
+1990/05/16     22                  Wednesday                          
+1990/05/17     23                  Thursday                           
+1990/05/18     24                  Friday                             
+1990/05/19     25                  Saturday                           
+1990/05/20     26                  Sunday                             
+1990/05/21     27                  Monday         Corn Forms          
+1990/05/22     28                  Tuesday                            
+1990/05/23     29                  Wednesday                          
+1990/05/24     5th Lunar month     Thursday                           
+1990/05/25     2                   Friday                             
+1990/05/26     3                   Saturday                           
+1990/05/27     4                   Sunday                             
+1990/05/28     5                   Monday                             
+1990/05/29     6                   Tuesday                            
+1990/05/30     7                   Wednesday                          
+1990/05/31     8                   Thursday                           
+1990/06/01     9                   Friday                             
+1990/06/02     10                  Saturday                           
+1990/06/03     11                  Sunday                             
+1990/06/04     12                  Monday                             
+1990/06/05     13                  Tuesday                            
+1990/06/06     14                  Wednesday      Corn on Ear         
+1990/06/07     15                  Thursday                           
+1990/06/08     16                  Friday                             
+1990/06/09     17                  Saturday                           
+1990/06/10     18                  Sunday                             
+1990/06/11     19                  Monday                             
+1990/06/12     20                  Tuesday                            
+1990/06/13     21                  Wednesday                          
+1990/06/14     22                  Thursday                           
+1990/06/15     23                  Friday                             
+1990/06/16     24                  Saturday                           
+1990/06/17     25                  Sunday                             
+1990/06/18     26                  Monday                             
+1990/06/19     27                  Tuesday                            
+1990/06/20     28                  Wednesday                          
+1990/06/21     29                  Thursday       Summer Solstice     
+1990/06/22     30                  Friday                             
+1990/06/23     5th Lunar month     Saturday                           
+1990/06/24     2                   Sunday                             
+1990/06/25     3                   Monday                             
+1990/06/26     4                   Tuesday                            
+1990/06/27     5                   Wednesday                          
+1990/06/28     6                   Thursday                           
+1990/06/29     7                   Friday                             
+1990/06/30     8                   Saturday                           
+1990/07/01     9                   Sunday                             
+1990/07/02     10                  Monday                             
+1990/07/03     11                  Tuesday                            
+1990/07/04     12                  Wednesday                          
+1990/07/05     13                  Thursday                           
+1990/07/06     14                  Friday                             
+1990/07/07     15                  Saturday       Moderate Heat       
+1990/07/08     16                  Sunday                             
+1990/07/09     17                  Monday                             
+1990/07/10     18                  Tuesday                            
+1990/07/11     19                  Wednesday                          
+1990/07/12     20                  Thursday                           
+1990/07/13     21                  Friday                             
+1990/07/14     22                  Saturday                           
+1990/07/15     23                  Sunday                             
+1990/07/16     24                  Monday                             
+1990/07/17     25                  Tuesday                            
+1990/07/18     26                  Wednesday                          
+1990/07/19     27                  Thursday                           
+1990/07/20     28                  Friday                             
+1990/07/21     29                  Saturday                           
+1990/07/22     6th Lunar month     Sunday                             
+1990/07/23     2                   Monday         Great Heat          
+1990/07/24     3                   Tuesday                            
+1990/07/25     4                   Wednesday                          
+1990/07/26     5                   Thursday                           
+1990/07/27     6                   Friday                             
+1990/07/28     7                   Saturday                           
+1990/07/29     8                   Sunday                             
+1990/07/30     9                   Monday                             
+1990/07/31     10                  Tuesday                            
+1990/08/01     11                  Wednesday                          
+1990/08/02     12                  Thursday                           
+1990/08/03     13                  Friday                             
+1990/08/04     14                  Saturday                           
+1990/08/05     15                  Sunday                             
+1990/08/06     16                  Monday                             
+1990/08/07     17                  Tuesday                            
+1990/08/08     18                  Wednesday      Autumn Commences    
+1990/08/09     19                  Thursday                           
+1990/08/10     20                  Friday                             
+1990/08/11     21                  Saturday                           
+1990/08/12     22                  Sunday                             
+1990/08/13     23                  Monday                             
+1990/08/14     24                  Tuesday                            
+1990/08/15     25                  Wednesday                          
+1990/08/16     26                  Thursday                           
+1990/08/17     27                  Friday                             
+1990/08/18     28                  Saturday                           
+1990/08/19     29                  Sunday                             
+1990/08/20     7th Lunar month     Monday                             
+1990/08/21     2                   Tuesday                            
+1990/08/22     3                   Wednesday                          
+1990/08/23     4                   Thursday       End of Heat         
+1990/08/24     5                   Friday                             
+1990/08/25     6                   Saturday                           
+1990/08/26     7                   Sunday                             
+1990/08/27     8                   Monday                             
+1990/08/28     9                   Tuesday                            
+1990/08/29     10                  Wednesday                          
+1990/08/30     11                  Thursday                           
+1990/08/31     12                  Friday                             
+1990/09/01     13                  Saturday                           
+1990/09/02     14                  Sunday                             
+1990/09/03     15                  Monday                             
+1990/09/04     16                  Tuesday                            
+1990/09/05     17                  Wednesday                          
+1990/09/06     18                  Thursday                           
+1990/09/07     19                  Friday                             
+1990/09/08     20                  Saturday       White Dew           
+1990/09/09     21                  Sunday                             
+1990/09/10     22                  Monday                             
+1990/09/11     23                  Tuesday                            
+1990/09/12     24                  Wednesday                          
+1990/09/13     25                  Thursday                           
+1990/09/14     26                  Friday                             
+1990/09/15     27                  Saturday                           
+1990/09/16     28                  Sunday                             
+1990/09/17     29                  Monday                             
+1990/09/18     30                  Tuesday                            
+1990/09/19     8th Lunar month     Wednesday                          
+1990/09/20     2                   Thursday                           
+1990/09/21     3                   Friday                             
+1990/09/22     4                   Saturday                           
+1990/09/23     5                   Sunday         Autumnal Equinox    
+1990/09/24     6                   Monday                             
+1990/09/25     7                   Tuesday                            
+1990/09/26     8                   Wednesday                          
+1990/09/27     9                   Thursday                           
+1990/09/28     10                  Friday                             
+1990/09/29     11                  Saturday                           
+1990/09/30     12                  Sunday                             
+1990/10/01     13                  Monday                             
+1990/10/02     14                  Tuesday                            
+1990/10/03     15                  Wednesday                          
+1990/10/04     16                  Thursday                           
+1990/10/05     17                  Friday                             
+1990/10/06     18                  Saturday                           
+1990/10/07     19                  Sunday                             
+1990/10/08     20                  Monday         Cold Dew            
+1990/10/09     21                  Tuesday                            
+1990/10/10     22                  Wednesday                          
+1990/10/11     23                  Thursday                           
+1990/10/12     24                  Friday                             
+1990/10/13     25                  Saturday                           
+1990/10/14     26                  Sunday                             
+1990/10/15     27                  Monday                             
+1990/10/16     28                  Tuesday                            
+1990/10/17     29                  Wednesday                          
+1990/10/18     9th Lunar month     Thursday                           
+1990/10/19     2                   Friday                             
+1990/10/20     3                   Saturday                           
+1990/10/21     4                   Sunday                             
+1990/10/22     5                   Monday                             
+1990/10/23     6                   Tuesday                            
+1990/10/24     7                   Wednesday      Frost               
+1990/10/25     8                   Thursday                           
+1990/10/26     9                   Friday                             
+1990/10/27     10                  Saturday                           
+1990/10/28     11                  Sunday                             
+1990/10/29     12                  Monday                             
+1990/10/30     13                  Tuesday                            
+1990/10/31     14                  Wednesday                          
+1990/11/01     15                  Thursday                           
+1990/11/02     16                  Friday                             
+1990/11/03     17                  Saturday                           
+1990/11/04     18                  Sunday                             
+1990/11/05     19                  Monday                             
+1990/11/06     20                  Tuesday                            
+1990/11/07     21                  Wednesday                          
+1990/11/08     22                  Thursday       Winter Commences    
+1990/11/09     23                  Friday                             
+1990/11/10     24                  Saturday                           
+1990/11/11     25                  Sunday                             
+1990/11/12     26                  Monday                             
+1990/11/13     27                  Tuesday                            
+1990/11/14     28                  Wednesday                          
+1990/11/15     29                  Thursday                           
+1990/11/16     30                  Friday                             
+1990/11/17     10th Lunar month    Saturday                           
+1990/11/18     2                   Sunday                             
+1990/11/19     3                   Monday                             
+1990/11/20     4                   Tuesday                            
+1990/11/21     5                   Wednesday                          
+1990/11/22     6                   Thursday       Light Snow          
+1990/11/23     7                   Friday                             
+1990/11/24     8                   Saturday                           
+1990/11/25     9                   Sunday                             
+1990/11/26     10                  Monday                             
+1990/11/27     11                  Tuesday                            
+1990/11/28     12                  Wednesday                          
+1990/11/29     13                  Thursday                           
+1990/11/30     14                  Friday                             
+1990/12/01     15                  Saturday                           
+1990/12/02     16                  Sunday                             
+1990/12/03     17                  Monday                             
+1990/12/04     18                  Tuesday                            
+1990/12/05     19                  Wednesday                          
+1990/12/06     20                  Thursday                           
+1990/12/07     21                  Friday         Heavy Snow          
+1990/12/08     22                  Saturday                           
+1990/12/09     23                  Sunday                             
+1990/12/10     24                  Monday                             
+1990/12/11     25                  Tuesday                            
+1990/12/12     26                  Wednesday                          
+1990/12/13     27                  Thursday                           
+1990/12/14     28                  Friday                             
+1990/12/15     29                  Saturday                           
+1990/12/16     30                  Sunday                             
+1990/12/17     11th Lunar month    Monday                             
+1990/12/18     2                   Tuesday                            
+1990/12/19     3                   Wednesday                          
+1990/12/20     4                   Thursday                           
+1990/12/21     5                   Friday                             
+1990/12/22     6                   Saturday       Winter Solstice     
+1990/12/23     7                   Sunday                             
+1990/12/24     8                   Monday                             
+1990/12/25     9                   Tuesday                            
+1990/12/26     10                  Wednesday                          
+1990/12/27     11                  Thursday                           
+1990/12/28     12                  Friday                             
+1990/12/29     13                  Saturday                           
+1990/12/30     14                  Sunday                             
+1990/12/31     15                  Monday                             

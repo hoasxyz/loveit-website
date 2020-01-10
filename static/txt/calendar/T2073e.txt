@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2073 (Gui-si  -  year of the Snake)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2073/1/1          23                      Sunday                             
+2073/1/2          24                      Monday                             
+2073/1/3          25                      Tuesday                            
+2073/1/4          26                      Wednesday                          
+2073/1/5          27                      Thursday       Moderate Cold       
+2073/1/6          28                      Friday                             
+2073/1/7          29                      Saturday                           
+2073/1/8          12th Lunar Month        Sunday                             
+2073/1/9          2                       Monday                             
+2073/1/10         3                       Tuesday                            
+2073/1/11         4                       Wednesday                          
+2073/1/12         5                       Thursday                           
+2073/1/13         6                       Friday                             
+2073/1/14         7                       Saturday                           
+2073/1/15         8                       Sunday                             
+2073/1/16         9                       Monday                             
+2073/1/17         10                      Tuesday                            
+2073/1/18         11                      Wednesday                          
+2073/1/19         12                      Thursday       Severe Cold         
+2073/1/20         13                      Friday                             
+2073/1/21         14                      Saturday                           
+2073/1/22         15                      Sunday                             
+2073/1/23         16                      Monday                             
+2073/1/24         17                      Tuesday                            
+2073/1/25         18                      Wednesday                          
+2073/1/26         19                      Thursday                           
+2073/1/27         20                      Friday                             
+2073/1/28         21                      Saturday                           
+2073/1/29         22                      Sunday                             
+2073/1/30         23                      Monday                             
+2073/1/31         24                      Tuesday                            
+2073/2/1          25                      Wednesday                          
+2073/2/2          26                      Thursday                           
+2073/2/3          27                      Friday         Spring Commences    
+2073/2/4          28                      Saturday                           
+2073/2/5          29                      Sunday                             
+2073/2/6          30                      Monday                             
+2073/2/7          1st Lunar Month         Tuesday                            
+2073/2/8          2                       Wednesday                          
+2073/2/9          3                       Thursday                           
+2073/2/10         4                       Friday                             
+2073/2/11         5                       Saturday                           
+2073/2/12         6                       Sunday                             
+2073/2/13         7                       Monday                             
+2073/2/14         8                       Tuesday                            
+2073/2/15         9                       Wednesday                          
+2073/2/16         10                      Thursday                           
+2073/2/17         11                      Friday                             
+2073/2/18         12                      Saturday       Spring Showers      
+2073/2/19         13                      Sunday                             
+2073/2/20         14                      Monday                             
+2073/2/21         15                      Tuesday                            
+2073/2/22         16                      Wednesday                          
+2073/2/23         17                      Thursday                           
+2073/2/24         18                      Friday                             
+2073/2/25         19                      Saturday                           
+2073/2/26         20                      Sunday                             
+2073/2/27         21                      Monday                             
+2073/2/28         22                      Tuesday                            
+2073/3/1          23                      Wednesday                          
+2073/3/2          24                      Thursday                           
+2073/3/3          25                      Friday                             
+2073/3/4          26                      Saturday                           
+2073/3/5          27                      Sunday         Insects Waken       
+2073/3/6          28                      Monday                             
+2073/3/7          29                      Tuesday                            
+2073/3/8          30                      Wednesday                          
+2073/3/9          2nd Lunar Month         Thursday                           
+2073/3/10         2                       Friday                             
+2073/3/11         3                       Saturday                           
+2073/3/12         4                       Sunday                             
+2073/3/13         5                       Monday                             
+2073/3/14         6                       Tuesday                            
+2073/3/15         7                       Wednesday                          
+2073/3/16         8                       Thursday                           
+2073/3/17         9                       Friday                             
+2073/3/18         10                      Saturday                           
+2073/3/19         11                      Sunday                             
+2073/3/20         12                      Monday         Vernal Equinox      
+2073/3/21         13                      Tuesday                            
+2073/3/22         14                      Wednesday                          
+2073/3/23         15                      Thursday                           
+2073/3/24         16                      Friday                             
+2073/3/25         17                      Saturday                           
+2073/3/26         18                      Sunday                             
+2073/3/27         19                      Monday                             
+2073/3/28         20                      Tuesday                            
+2073/3/29         21                      Wednesday                          
+2073/3/30         22                      Thursday                           
+2073/3/31         23                      Friday                             
+2073/4/1          24                      Saturday                           
+2073/4/2          25                      Sunday                             
+2073/4/3          26                      Monday                             
+2073/4/4          27                      Tuesday        Bright & Clear      
+2073/4/5          28                      Wednesday                          
+2073/4/6          29                      Thursday                           
+2073/4/7          3rd Lunar Month         Friday                             
+2073/4/8          2                       Saturday                           
+2073/4/9          3                       Sunday                             
+2073/4/10         4                       Monday                             
+2073/4/11         5                       Tuesday                            
+2073/4/12         6                       Wednesday                          
+2073/4/13         7                       Thursday                           
+2073/4/14         8                       Friday                             
+2073/4/15         9                       Saturday                           
+2073/4/16         10                      Sunday                             
+2073/4/17         11                      Monday                             
+2073/4/18         12                      Tuesday                            
+2073/4/19         13                      Wednesday      Corn Rain           
+2073/4/20         14                      Thursday                           
+2073/4/21         15                      Friday                             
+2073/4/22         16                      Saturday                           
+2073/4/23         17                      Sunday                             
+2073/4/24         18                      Monday                             
+2073/4/25         19                      Tuesday                            
+2073/4/26         20                      Wednesday                          
+2073/4/27         21                      Thursday                           
+2073/4/28         22                      Friday                             
+2073/4/29         23                      Saturday                           
+2073/4/30         24                      Sunday                             
+2073/5/1          25                      Monday                             
+2073/5/2          26                      Tuesday                            
+2073/5/3          27                      Wednesday                          
+2073/5/4          28                      Thursday                           
+2073/5/5          29                      Friday         Summer Commences    
+2073/5/6          30                      Saturday                           
+2073/5/7          4th Lunar Month         Sunday                             
+2073/5/8          2                       Monday                             
+2073/5/9          3                       Tuesday                            
+2073/5/10         4                       Wednesday                          
+2073/5/11         5                       Thursday                           
+2073/5/12         6                       Friday                             
+2073/5/13         7                       Saturday                           
+2073/5/14         8                       Sunday                             
+2073/5/15         9                       Monday                             
+2073/5/16         10                      Tuesday                            
+2073/5/17         11                      Wednesday                          
+2073/5/18         12                      Thursday                           
+2073/5/19         13                      Friday                             
+2073/5/20         14                      Saturday       Corn Forms          
+2073/5/21         15                      Sunday                             
+2073/5/22         16                      Monday                             
+2073/5/23         17                      Tuesday                            
+2073/5/24         18                      Wednesday                          
+2073/5/25         19                      Thursday                           
+2073/5/26         20                      Friday                             
+2073/5/27         21                      Saturday                           
+2073/5/28         22                      Sunday                             
+2073/5/29         23                      Monday                             
+2073/5/30         24                      Tuesday                            
+2073/5/31         25                      Wednesday                          
+2073/6/1          26                      Thursday                           
+2073/6/2          27                      Friday                             
+2073/6/3          28                      Saturday                           
+2073/6/4          29                      Sunday                             
+2073/6/5          30                      Monday         Corn on Ear         
+2073/6/6          5th Lunar Month         Tuesday                            
+2073/6/7          2                       Wednesday                          
+2073/6/8          3                       Thursday                           
+2073/6/9          4                       Friday                             
+2073/6/10         5                       Saturday                           
+2073/6/11         6                       Sunday                             
+2073/6/12         7                       Monday                             
+2073/6/13         8                       Tuesday                            
+2073/6/14         9                       Wednesday                          
+2073/6/15         10                      Thursday                           
+2073/6/16         11                      Friday                             
+2073/6/17         12                      Saturday                           
+2073/6/18         13                      Sunday                             
+2073/6/19         14                      Monday                             
+2073/6/20         15                      Tuesday                            
+2073/6/21         16                      Wednesday      Summer Solstice     
+2073/6/22         17                      Thursday                           
+2073/6/23         18                      Friday                             
+2073/6/24         19                      Saturday                           
+2073/6/25         20                      Sunday                             
+2073/6/26         21                      Monday                             
+2073/6/27         22                      Tuesday                            
+2073/6/28         23                      Wednesday                          
+2073/6/29         24                      Thursday                           
+2073/6/30         25                      Friday                             
+2073/7/1          26                      Saturday                           
+2073/7/2          27                      Sunday                             
+2073/7/3          28                      Monday                             
+2073/7/4          29                      Tuesday                            
+2073/7/5          6th Lunar Month         Wednesday                          
+2073/7/6          2                       Thursday       Moderate Heat       
+2073/7/7          3                       Friday                             
+2073/7/8          4                       Saturday                           
+2073/7/9          5                       Sunday                             
+2073/7/10         6                       Monday                             
+2073/7/11         7                       Tuesday                            
+2073/7/12         8                       Wednesday                          
+2073/7/13         9                       Thursday                           
+2073/7/14         10                      Friday                             
+2073/7/15         11                      Saturday                           
+2073/7/16         12                      Sunday                             
+2073/7/17         13                      Monday                             
+2073/7/18         14                      Tuesday                            
+2073/7/19         15                      Wednesday                          
+2073/7/20         16                      Thursday                           
+2073/7/21         17                      Friday                             
+2073/7/22         18                      Saturday       Great Heat          
+2073/7/23         19                      Sunday                             
+2073/7/24         20                      Monday                             
+2073/7/25         21                      Tuesday                            
+2073/7/26         22                      Wednesday                          
+2073/7/27         23                      Thursday                           
+2073/7/28         24                      Friday                             
+2073/7/29         25                      Saturday                           
+2073/7/30         26                      Sunday                             
+2073/7/31         27                      Monday                             
+2073/8/1          28                      Tuesday                            
+2073/8/2          29                      Wednesday                          
+2073/8/3          30                      Thursday                           
+2073/8/4          7th Lunar Month         Friday                             
+2073/8/5          2                       Saturday                           
+2073/8/6          3                       Sunday                             
+2073/8/7          4                       Monday         Autumn Commences    
+2073/8/8          5                       Tuesday                            
+2073/8/9          6                       Wednesday                          
+2073/8/10         7                       Thursday                           
+2073/8/11         8                       Friday                             
+2073/8/12         9                       Saturday                           
+2073/8/13         10                      Sunday                             
+2073/8/14         11                      Monday                             
+2073/8/15         12                      Tuesday                            
+2073/8/16         13                      Wednesday                          
+2073/8/17         14                      Thursday                           
+2073/8/18         15                      Friday                             
+2073/8/19         16                      Saturday                           
+2073/8/20         17                      Sunday                             
+2073/8/21         18                      Monday                             
+2073/8/22         19                      Tuesday        End of Heat         
+2073/8/23         20                      Wednesday                          
+2073/8/24         21                      Thursday                           
+2073/8/25         22                      Friday                             
+2073/8/26         23                      Saturday                           
+2073/8/27         24                      Sunday                             
+2073/8/28         25                      Monday                             
+2073/8/29         26                      Tuesday                            
+2073/8/30         27                      Wednesday                          
+2073/8/31         28                      Thursday                           
+2073/9/1          29                      Friday                             
+2073/9/2          8th Lunar Month         Saturday                           
+2073/9/3          2                       Sunday                             
+2073/9/4          3                       Monday                             
+2073/9/5          4                       Tuesday                            
+2073/9/6          5                       Wednesday                          
+2073/9/7          6                       Thursday       White Dew           
+2073/9/8          7                       Friday                             
+2073/9/9          8                       Saturday                           
+2073/9/10         9                       Sunday                             
+2073/9/11         10                      Monday                             
+2073/9/12         11                      Tuesday                            
+2073/9/13         12                      Wednesday                          
+2073/9/14         13                      Thursday                           
+2073/9/15         14                      Friday                             
+2073/9/16         15                      Saturday                           
+2073/9/17         16                      Sunday                             
+2073/9/18         17                      Monday                             
+2073/9/19         18                      Tuesday                            
+2073/9/20         19                      Wednesday                          
+2073/9/21         20                      Thursday                           
+2073/9/22         21                      Friday         Autumnal Equinox    
+2073/9/23         22                      Saturday                           
+2073/9/24         23                      Sunday                             
+2073/9/25         24                      Monday                             
+2073/9/26         25                      Tuesday                            
+2073/9/27         26                      Wednesday                          
+2073/9/28         27                      Thursday                           
+2073/9/29         28                      Friday                             
+2073/9/30         29                      Saturday                           
+2073/10/1         9th Lunar Month         Sunday                             
+2073/10/2         2                       Monday                             
+2073/10/3         3                       Tuesday                            
+2073/10/4         4                       Wednesday                          
+2073/10/5         5                       Thursday                           
+2073/10/6         6                       Friday                             
+2073/10/7         7                       Saturday       Cold Dew            
+2073/10/8         8                       Sunday                             
+2073/10/9         9                       Monday                             
+2073/10/10        10                      Tuesday                            
+2073/10/11        11                      Wednesday                          
+2073/10/12        12                      Thursday                           
+2073/10/13        13                      Friday                             
+2073/10/14        14                      Saturday                           
+2073/10/15        15                      Sunday                             
+2073/10/16        16                      Monday                             
+2073/10/17        17                      Tuesday                            
+2073/10/18        18                      Wednesday                          
+2073/10/19        19                      Thursday                           
+2073/10/20        20                      Friday                             
+2073/10/21        21                      Saturday                           
+2073/10/22        22                      Sunday                             
+2073/10/23        23                      Monday         Frost               
+2073/10/24        24                      Tuesday                            
+2073/10/25        25                      Wednesday                          
+2073/10/26        26                      Thursday                           
+2073/10/27        27                      Friday                             
+2073/10/28        28                      Saturday                           
+2073/10/29        29                      Sunday                             
+2073/10/30        30                      Monday                             
+2073/10/31        10th Lunar Month        Tuesday                            
+2073/11/1         2                       Wednesday                          
+2073/11/2         3                       Thursday                           
+2073/11/3         4                       Friday                             
+2073/11/4         5                       Saturday                           
+2073/11/5         6                       Sunday                             
+2073/11/6         7                       Monday                             
+2073/11/7         8                       Tuesday        Winter Commences    
+2073/11/8         9                       Wednesday                          
+2073/11/9         10                      Thursday                           
+2073/11/10        11                      Friday                             
+2073/11/11        12                      Saturday                           
+2073/11/12        13                      Sunday                             
+2073/11/13        14                      Monday                             
+2073/11/14        15                      Tuesday                            
+2073/11/15        16                      Wednesday                          
+2073/11/16        17                      Thursday                           
+2073/11/17        18                      Friday                             
+2073/11/18        19                      Saturday                           
+2073/11/19        20                      Sunday                             
+2073/11/20        21                      Monday                             
+2073/11/21        22                      Tuesday                            
+2073/11/22        23                      Wednesday      Light Snow          
+2073/11/23        24                      Thursday                           
+2073/11/24        25                      Friday                             
+2073/11/25        26                      Saturday                           
+2073/11/26        27                      Sunday                             
+2073/11/27        28                      Monday                             
+2073/11/28        29                      Tuesday                            
+2073/11/29        11th Lunar Month        Wednesday                          
+2073/11/30        2                       Thursday                           
+2073/12/1         3                       Friday                             
+2073/12/2         4                       Saturday                           
+2073/12/3         5                       Sunday                             
+2073/12/4         6                       Monday                             
+2073/12/5         7                       Tuesday                            
+2073/12/6         8                       Wednesday      Heavy Snow          
+2073/12/7         9                       Thursday                           
+2073/12/8         10                      Friday                             
+2073/12/9         11                      Saturday                           
+2073/12/10        12                      Sunday                             
+2073/12/11        13                      Monday                             
+2073/12/12        14                      Tuesday                            
+2073/12/13        15                      Wednesday                          
+2073/12/14        16                      Thursday                           
+2073/12/15        17                      Friday                             
+2073/12/16        18                      Saturday                           
+2073/12/17        19                      Sunday                             
+2073/12/18        20                      Monday                             
+2073/12/19        21                      Tuesday                            
+2073/12/20        22                      Wednesday                          
+2073/12/21        23                      Thursday       Winter Solstice     
+2073/12/22        24                      Friday                             
+2073/12/23        25                      Saturday                           
+2073/12/24        26                      Sunday                             
+2073/12/25        27                      Monday                             
+2073/12/26        28                      Tuesday                            
+2073/12/27        29                      Wednesday                          
+2073/12/28        30                      Thursday                           
+2073/12/29        12th Lunar Month        Friday                             
+2073/12/30        2                       Saturday                           
+2073/12/31        3                       Sunday                             

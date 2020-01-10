@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2085 (Yi-si  -  year of the Snake)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2085/1/1          6                       Monday                             
+2085/1/2          7                       Tuesday                            
+2085/1/3          8                       Wednesday                          
+2085/1/4          9                       Thursday       Moderate Cold       
+2085/1/5          10                      Friday                             
+2085/1/6          11                      Saturday                           
+2085/1/7          12                      Sunday                             
+2085/1/8          13                      Monday                             
+2085/1/9          14                      Tuesday                            
+2085/1/10         15                      Wednesday                          
+2085/1/11         16                      Thursday                           
+2085/1/12         17                      Friday                             
+2085/1/13         18                      Saturday                           
+2085/1/14         19                      Sunday                             
+2085/1/15         20                      Monday                             
+2085/1/16         21                      Tuesday                            
+2085/1/17         22                      Wednesday                          
+2085/1/18         23                      Thursday                           
+2085/1/19         24                      Friday         Severe Cold         
+2085/1/20         25                      Saturday                           
+2085/1/21         26                      Sunday                             
+2085/1/22         27                      Monday                             
+2085/1/23         28                      Tuesday                            
+2085/1/24         29                      Wednesday                          
+2085/1/25         30                      Thursday                           
+2085/1/26         1st Lunar Month         Friday                             
+2085/1/27         2                       Saturday                           
+2085/1/28         3                       Sunday                             
+2085/1/29         4                       Monday                             
+2085/1/30         5                       Tuesday                            
+2085/1/31         6                       Wednesday                          
+2085/2/1          7                       Thursday                           
+2085/2/2          8                       Friday                             
+2085/2/3          9                       Saturday       Spring Commences    
+2085/2/4          10                      Sunday                             
+2085/2/5          11                      Monday                             
+2085/2/6          12                      Tuesday                            
+2085/2/7          13                      Wednesday                          
+2085/2/8          14                      Thursday                           
+2085/2/9          15                      Friday                             
+2085/2/10         16                      Saturday                           
+2085/2/11         17                      Sunday                             
+2085/2/12         18                      Monday                             
+2085/2/13         19                      Tuesday                            
+2085/2/14         20                      Wednesday                          
+2085/2/15         21                      Thursday                           
+2085/2/16         22                      Friday                             
+2085/2/17         23                      Saturday                           
+2085/2/18         24                      Sunday         Spring Showers      
+2085/2/19         25                      Monday                             
+2085/2/20         26                      Tuesday                            
+2085/2/21         27                      Wednesday                          
+2085/2/22         28                      Thursday                           
+2085/2/23         29                      Friday                             
+2085/2/24         2nd Lunar Month         Saturday                           
+2085/2/25         2                       Sunday                             
+2085/2/26         3                       Monday                             
+2085/2/27         4                       Tuesday                            
+2085/2/28         5                       Wednesday                          
+2085/3/1          6                       Thursday                           
+2085/3/2          7                       Friday                             
+2085/3/3          8                       Saturday                           
+2085/3/4          9                       Sunday                             
+2085/3/5          10                      Monday         Insects Waken       
+2085/3/6          11                      Tuesday                            
+2085/3/7          12                      Wednesday                          
+2085/3/8          13                      Thursday                           
+2085/3/9          14                      Friday                             
+2085/3/10         15                      Saturday                           
+2085/3/11         16                      Sunday                             
+2085/3/12         17                      Monday                             
+2085/3/13         18                      Tuesday                            
+2085/3/14         19                      Wednesday                          
+2085/3/15         20                      Thursday                           
+2085/3/16         21                      Friday                             
+2085/3/17         22                      Saturday                           
+2085/3/18         23                      Sunday                             
+2085/3/19         24                      Monday                             
+2085/3/20         25                      Tuesday        Vernal Equinox      
+2085/3/21         26                      Wednesday                          
+2085/3/22         27                      Thursday                           
+2085/3/23         28                      Friday                             
+2085/3/24         29                      Saturday                           
+2085/3/25         30                      Sunday                             
+2085/3/26         3rd Lunar Month         Monday                             
+2085/3/27         2                       Tuesday                            
+2085/3/28         3                       Wednesday                          
+2085/3/29         4                       Thursday                           
+2085/3/30         5                       Friday                             
+2085/3/31         6                       Saturday                           
+2085/4/1          7                       Sunday                             
+2085/4/2          8                       Monday                             
+2085/4/3          9                       Tuesday                            
+2085/4/4          10                      Wednesday      Bright & Clear      
+2085/4/5          11                      Thursday                           
+2085/4/6          12                      Friday                             
+2085/4/7          13                      Saturday                           
+2085/4/8          14                      Sunday                             
+2085/4/9          15                      Monday                             
+2085/4/10         16                      Tuesday                            
+2085/4/11         17                      Wednesday                          
+2085/4/12         18                      Thursday                           
+2085/4/13         19                      Friday                             
+2085/4/14         20                      Saturday                           
+2085/4/15         21                      Sunday                             
+2085/4/16         22                      Monday                             
+2085/4/17         23                      Tuesday                            
+2085/4/18         24                      Wednesday                          
+2085/4/19         25                      Thursday       Corn Rain           
+2085/4/20         26                      Friday                             
+2085/4/21         27                      Saturday                           
+2085/4/22         28                      Sunday                             
+2085/4/23         29                      Monday                             
+2085/4/24         4th Lunar Month         Tuesday                            
+2085/4/25         2                       Wednesday                          
+2085/4/26         3                       Thursday                           
+2085/4/27         4                       Friday                             
+2085/4/28         5                       Saturday                           
+2085/4/29         6                       Sunday                             
+2085/4/30         7                       Monday                             
+2085/5/1          8                       Tuesday                            
+2085/5/2          9                       Wednesday                          
+2085/5/3          10                      Thursday                           
+2085/5/4          11                      Friday                             
+2085/5/5          12                      Saturday       Summer Commences    
+2085/5/6          13                      Sunday                             
+2085/5/7          14                      Monday                             
+2085/5/8          15                      Tuesday                            
+2085/5/9          16                      Wednesday                          
+2085/5/10         17                      Thursday                           
+2085/5/11         18                      Friday                             
+2085/5/12         19                      Saturday                           
+2085/5/13         20                      Sunday                             
+2085/5/14         21                      Monday                             
+2085/5/15         22                      Tuesday                            
+2085/5/16         23                      Wednesday                          
+2085/5/17         24                      Thursday                           
+2085/5/18         25                      Friday                             
+2085/5/19         26                      Saturday                           
+2085/5/20         27                      Sunday         Corn Forms          
+2085/5/21         28                      Monday                             
+2085/5/22         29                      Tuesday                            
+2085/5/23         5th Lunar Month         Wednesday                          
+2085/5/24         2                       Thursday                           
+2085/5/25         3                       Friday                             
+2085/5/26         4                       Saturday                           
+2085/5/27         5                       Sunday                             
+2085/5/28         6                       Monday                             
+2085/5/29         7                       Tuesday                            
+2085/5/30         8                       Wednesday                          
+2085/5/31         9                       Thursday                           
+2085/6/1          10                      Friday                             
+2085/6/2          11                      Saturday                           
+2085/6/3          12                      Sunday                             
+2085/6/4          13                      Monday                             
+2085/6/5          14                      Tuesday        Corn on Ear         
+2085/6/6          15                      Wednesday                          
+2085/6/7          16                      Thursday                           
+2085/6/8          17                      Friday                             
+2085/6/9          18                      Saturday                           
+2085/6/10         19                      Sunday                             
+2085/6/11         20                      Monday                             
+2085/6/12         21                      Tuesday                            
+2085/6/13         22                      Wednesday                          
+2085/6/14         23                      Thursday                           
+2085/6/15         24                      Friday                             
+2085/6/16         25                      Saturday                           
+2085/6/17         26                      Sunday                             
+2085/6/18         27                      Monday                             
+2085/6/19         28                      Tuesday                            
+2085/6/20         29                      Wednesday      Summer Solstice     
+2085/6/21         30                      Thursday                           
+2085/6/22         5th Lunar Month         Friday                             
+2085/6/23         2                       Saturday                           
+2085/6/24         3                       Sunday                             
+2085/6/25         4                       Monday                             
+2085/6/26         5                       Tuesday                            
+2085/6/27         6                       Wednesday                          
+2085/6/28         7                       Thursday                           
+2085/6/29         8                       Friday                             
+2085/6/30         9                       Saturday                           
+2085/7/1          10                      Sunday                             
+2085/7/2          11                      Monday                             
+2085/7/3          12                      Tuesday                            
+2085/7/4          13                      Wednesday                          
+2085/7/5          14                      Thursday                           
+2085/7/6          15                      Friday         Moderate Heat       
+2085/7/7          16                      Saturday                           
+2085/7/8          17                      Sunday                             
+2085/7/9          18                      Monday                             
+2085/7/10         19                      Tuesday                            
+2085/7/11         20                      Wednesday                          
+2085/7/12         21                      Thursday                           
+2085/7/13         22                      Friday                             
+2085/7/14         23                      Saturday                           
+2085/7/15         24                      Sunday                             
+2085/7/16         25                      Monday                             
+2085/7/17         26                      Tuesday                            
+2085/7/18         27                      Wednesday                          
+2085/7/19         28                      Thursday                           
+2085/7/20         29                      Friday                             
+2085/7/21         30                      Saturday                           
+2085/7/22         6th Lunar Month         Sunday         Great Heat          
+2085/7/23         2                       Monday                             
+2085/7/24         3                       Tuesday                            
+2085/7/25         4                       Wednesday                          
+2085/7/26         5                       Thursday                           
+2085/7/27         6                       Friday                             
+2085/7/28         7                       Saturday                           
+2085/7/29         8                       Sunday                             
+2085/7/30         9                       Monday                             
+2085/7/31         10                      Tuesday                            
+2085/8/1          11                      Wednesday                          
+2085/8/2          12                      Thursday                           
+2085/8/3          13                      Friday                             
+2085/8/4          14                      Saturday                           
+2085/8/5          15                      Sunday                             
+2085/8/6          16                      Monday                             
+2085/8/7          17                      Tuesday        Autumn Commences    
+2085/8/8          18                      Wednesday                          
+2085/8/9          19                      Thursday                           
+2085/8/10         20                      Friday                             
+2085/8/11         21                      Saturday                           
+2085/8/12         22                      Sunday                             
+2085/8/13         23                      Monday                             
+2085/8/14         24                      Tuesday                            
+2085/8/15         25                      Wednesday                          
+2085/8/16         26                      Thursday                           
+2085/8/17         27                      Friday                             
+2085/8/18         28                      Saturday                           
+2085/8/19         29                      Sunday                             
+2085/8/20         7th Lunar Month         Monday                             
+2085/8/21         2                       Tuesday                            
+2085/8/22         3                       Wednesday      End of Heat         
+2085/8/23         4                       Thursday                           
+2085/8/24         5                       Friday                             
+2085/8/25         6                       Saturday                           
+2085/8/26         7                       Sunday                             
+2085/8/27         8                       Monday                             
+2085/8/28         9                       Tuesday                            
+2085/8/29         10                      Wednesday                          
+2085/8/30         11                      Thursday                           
+2085/8/31         12                      Friday                             
+2085/9/1          13                      Saturday                           
+2085/9/2          14                      Sunday                             
+2085/9/3          15                      Monday                             
+2085/9/4          16                      Tuesday                            
+2085/9/5          17                      Wednesday                          
+2085/9/6          18                      Thursday                           
+2085/9/7          19                      Friday         White Dew           
+2085/9/8          20                      Saturday                           
+2085/9/9          21                      Sunday                             
+2085/9/10         22                      Monday                             
+2085/9/11         23                      Tuesday                            
+2085/9/12         24                      Wednesday                          
+2085/9/13         25                      Thursday                           
+2085/9/14         26                      Friday                             
+2085/9/15         27                      Saturday                           
+2085/9/16         28                      Sunday                             
+2085/9/17         29                      Monday                             
+2085/9/18         30                      Tuesday                            
+2085/9/19         8th Lunar Month         Wednesday                          
+2085/9/20         2                       Thursday                           
+2085/9/21         3                       Friday                             
+2085/9/22         4                       Saturday       Autumnal Equinox    
+2085/9/23         5                       Sunday                             
+2085/9/24         6                       Monday                             
+2085/9/25         7                       Tuesday                            
+2085/9/26         8                       Wednesday                          
+2085/9/27         9                       Thursday                           
+2085/9/28         10                      Friday                             
+2085/9/29         11                      Saturday                           
+2085/9/30         12                      Sunday                             
+2085/10/1         13                      Monday                             
+2085/10/2         14                      Tuesday                            
+2085/10/3         15                      Wednesday                          
+2085/10/4         16                      Thursday                           
+2085/10/5         17                      Friday                             
+2085/10/6         18                      Saturday                           
+2085/10/7         19                      Sunday         Cold Dew            
+2085/10/8         20                      Monday                             
+2085/10/9         21                      Tuesday                            
+2085/10/10        22                      Wednesday                          
+2085/10/11        23                      Thursday                           
+2085/10/12        24                      Friday                             
+2085/10/13        25                      Saturday                           
+2085/10/14        26                      Sunday                             
+2085/10/15        27                      Monday                             
+2085/10/16        28                      Tuesday                            
+2085/10/17        29                      Wednesday                          
+2085/10/18        30                      Thursday                           
+2085/10/19        9th Lunar Month         Friday                             
+2085/10/20        2                       Saturday                           
+2085/10/21        3                       Sunday                             
+2085/10/22        4                       Monday                             
+2085/10/23        5                       Tuesday        Frost               
+2085/10/24        6                       Wednesday                          
+2085/10/25        7                       Thursday                           
+2085/10/26        8                       Friday                             
+2085/10/27        9                       Saturday                           
+2085/10/28        10                      Sunday                             
+2085/10/29        11                      Monday                             
+2085/10/30        12                      Tuesday                            
+2085/10/31        13                      Wednesday                          
+2085/11/1         14                      Thursday                           
+2085/11/2         15                      Friday                             
+2085/11/3         16                      Saturday                           
+2085/11/4         17                      Sunday                             
+2085/11/5         18                      Monday                             
+2085/11/6         19                      Tuesday                            
+2085/11/7         20                      Wednesday      Winter Commences    
+2085/11/8         21                      Thursday                           
+2085/11/9         22                      Friday                             
+2085/11/10        23                      Saturday                           
+2085/11/11        24                      Sunday                             
+2085/11/12        25                      Monday                             
+2085/11/13        26                      Tuesday                            
+2085/11/14        27                      Wednesday                          
+2085/11/15        28                      Thursday                           
+2085/11/16        29                      Friday                             
+2085/11/17        10th Lunar Month        Saturday                           
+2085/11/18        2                       Sunday                             
+2085/11/19        3                       Monday                             
+2085/11/20        4                       Tuesday                            
+2085/11/21        5                       Wednesday      Light Snow          
+2085/11/22        6                       Thursday                           
+2085/11/23        7                       Friday                             
+2085/11/24        8                       Saturday                           
+2085/11/25        9                       Sunday                             
+2085/11/26        10                      Monday                             
+2085/11/27        11                      Tuesday                            
+2085/11/28        12                      Wednesday                          
+2085/11/29        13                      Thursday                           
+2085/11/30        14                      Friday                             
+2085/12/1         15                      Saturday                           
+2085/12/2         16                      Sunday                             
+2085/12/3         17                      Monday                             
+2085/12/4         18                      Tuesday                            
+2085/12/5         19                      Wednesday                          
+2085/12/6         20                      Thursday       Heavy Snow          
+2085/12/7         21                      Friday                             
+2085/12/8         22                      Saturday                           
+2085/12/9         23                      Sunday                             
+2085/12/10        24                      Monday                             
+2085/12/11        25                      Tuesday                            
+2085/12/12        26                      Wednesday                          
+2085/12/13        27                      Thursday                           
+2085/12/14        28                      Friday                             
+2085/12/15        29                      Saturday                           
+2085/12/16        30                      Sunday                             
+2085/12/17        11th Lunar Month        Monday                             
+2085/12/18        2                       Tuesday                            
+2085/12/19        3                       Wednesday                          
+2085/12/20        4                       Thursday                           
+2085/12/21        5                       Friday         Winter Solstice     
+2085/12/22        6                       Saturday                           
+2085/12/23        7                       Sunday                             
+2085/12/24        8                       Monday                             
+2085/12/25        9                       Tuesday                            
+2085/12/26        10                      Wednesday                          
+2085/12/27        11                      Thursday                           
+2085/12/28        12                      Friday                             
+2085/12/29        13                      Saturday                           
+2085/12/30        14                      Sunday                             
+2085/12/31        15                      Monday                             

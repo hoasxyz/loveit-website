@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1950 (Geng-yin ¡V year of the Tiger)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1950/01/01     13                  Sunday                             
+1950/01/02     14                  Monday                             
+1950/01/03     15                  Tuesday                            
+1950/01/04     16                  Wednesday                          
+1950/01/05     17                  Thursday                           
+1950/01/06     18                  Friday         Moderate Cold       
+1950/01/07     19                  Saturday                           
+1950/01/08     20                  Sunday                             
+1950/01/09     21                  Monday                             
+1950/01/10     22                  Tuesday                            
+1950/01/11     23                  Wednesday                          
+1950/01/12     24                  Thursday                           
+1950/01/13     25                  Friday                             
+1950/01/14     26                  Saturday                           
+1950/01/15     27                  Sunday                             
+1950/01/16     28                  Monday                             
+1950/01/17     29                  Tuesday                            
+1950/01/18     12th Lunar month    Wednesday                          
+1950/01/19     2                   Thursday                           
+1950/01/20     3                   Friday         Severe Cold         
+1950/01/21     4                   Saturday                           
+1950/01/22     5                   Sunday                             
+1950/01/23     6                   Monday                             
+1950/01/24     7                   Tuesday                            
+1950/01/25     8                   Wednesday                          
+1950/01/26     9                   Thursday                           
+1950/01/27     10                  Friday                             
+1950/01/28     11                  Saturday                           
+1950/01/29     12                  Sunday                             
+1950/01/30     13                  Monday                             
+1950/01/31     14                  Tuesday                            
+1950/02/01     15                  Wednesday                          
+1950/02/02     16                  Thursday                           
+1950/02/03     17                  Friday                             
+1950/02/04     18                  Saturday       Spring Commences    
+1950/02/05     19                  Sunday                             
+1950/02/06     20                  Monday                             
+1950/02/07     21                  Tuesday                            
+1950/02/08     22                  Wednesday                          
+1950/02/09     23                  Thursday                           
+1950/02/10     24                  Friday                             
+1950/02/11     25                  Saturday                           
+1950/02/12     26                  Sunday                             
+1950/02/13     27                  Monday                             
+1950/02/14     28                  Tuesday                            
+1950/02/15     29                  Wednesday                          
+1950/02/16     30                  Thursday                           
+1950/02/17     1st Lunar month     Friday                             
+1950/02/18     2                   Saturday                           
+1950/02/19     3                   Sunday         Spring Showers      
+1950/02/20     4                   Monday                             
+1950/02/21     5                   Tuesday                            
+1950/02/22     6                   Wednesday                          
+1950/02/23     7                   Thursday                           
+1950/02/24     8                   Friday                             
+1950/02/25     9                   Saturday                           
+1950/02/26     10                  Sunday                             
+1950/02/27     11                  Monday                             
+1950/02/28     12                  Tuesday                            
+1950/03/01     13                  Wednesday                          
+1950/03/02     14                  Thursday                           
+1950/03/03     15                  Friday                             
+1950/03/04     16                  Saturday                           
+1950/03/05     17                  Sunday                             
+1950/03/06     18                  Monday         Insects Waken       
+1950/03/07     19                  Tuesday                            
+1950/03/08     20                  Wednesday                          
+1950/03/09     21                  Thursday                           
+1950/03/10     22                  Friday                             
+1950/03/11     23                  Saturday                           
+1950/03/12     24                  Sunday                             
+1950/03/13     25                  Monday                             
+1950/03/14     26                  Tuesday                            
+1950/03/15     27                  Wednesday                          
+1950/03/16     28                  Thursday                           
+1950/03/17     29                  Friday                             
+1950/03/18     2nd Lunar month     Saturday                           
+1950/03/19     2                   Sunday                             
+1950/03/20     3                   Monday                             
+1950/03/21     4                   Tuesday        Vernal Equinox      
+1950/03/22     5                   Wednesday                          
+1950/03/23     6                   Thursday                           
+1950/03/24     7                   Friday                             
+1950/03/25     8                   Saturday                           
+1950/03/26     9                   Sunday                             
+1950/03/27     10                  Monday                             
+1950/03/28     11                  Tuesday                            
+1950/03/29     12                  Wednesday                          
+1950/03/30     13                  Thursday                           
+1950/03/31     14                  Friday                             
+1950/04/01     15                  Saturday                           
+1950/04/02     16                  Sunday                             
+1950/04/03     17                  Monday                             
+1950/04/04     18                  Tuesday                            
+1950/04/05     19                  Wednesday      Bright & Clear      
+1950/04/06     20                  Thursday                           
+1950/04/07     21                  Friday                             
+1950/04/08     22                  Saturday                           
+1950/04/09     23                  Sunday                             
+1950/04/10     24                  Monday                             
+1950/04/11     25                  Tuesday                            
+1950/04/12     26                  Wednesday                          
+1950/04/13     27                  Thursday                           
+1950/04/14     28                  Friday                             
+1950/04/15     29                  Saturday                           
+1950/04/16     30                  Sunday                             
+1950/04/17     3rd Lunar month     Monday                             
+1950/04/18     2                   Tuesday                            
+1950/04/19     3                   Wednesday                          
+1950/04/20     4                   Thursday       Corn Rain           
+1950/04/21     5                   Friday                             
+1950/04/22     6                   Saturday                           
+1950/04/23     7                   Sunday                             
+1950/04/24     8                   Monday                             
+1950/04/25     9                   Tuesday                            
+1950/04/26     10                  Wednesday                          
+1950/04/27     11                  Thursday                           
+1950/04/28     12                  Friday                             
+1950/04/29     13                  Saturday                           
+1950/04/30     14                  Sunday                             
+1950/05/01     15                  Monday                             
+1950/05/02     16                  Tuesday                            
+1950/05/03     17                  Wednesday                          
+1950/05/04     18                  Thursday                           
+1950/05/05     19                  Friday                             
+1950/05/06     20                  Saturday       Summer Commences    
+1950/05/07     21                  Sunday                             
+1950/05/08     22                  Monday                             
+1950/05/09     23                  Tuesday                            
+1950/05/10     24                  Wednesday                          
+1950/05/11     25                  Thursday                           
+1950/05/12     26                  Friday                             
+1950/05/13     27                  Saturday                           
+1950/05/14     28                  Sunday                             
+1950/05/15     29                  Monday                             
+1950/05/16     30                  Tuesday                            
+1950/05/17     4th Lunar month     Wednesday                          
+1950/05/18     2                   Thursday                           
+1950/05/19     3                   Friday                             
+1950/05/20     4                   Saturday                           
+1950/05/21     5                   Sunday         Corn Forms          
+1950/05/22     6                   Monday                             
+1950/05/23     7                   Tuesday                            
+1950/05/24     8                   Wednesday                          
+1950/05/25     9                   Thursday                           
+1950/05/26     10                  Friday                             
+1950/05/27     11                  Saturday                           
+1950/05/28     12                  Sunday                             
+1950/05/29     13                  Monday                             
+1950/05/30     14                  Tuesday                            
+1950/05/31     15                  Wednesday                          
+1950/06/01     16                  Thursday                           
+1950/06/02     17                  Friday                             
+1950/06/03     18                  Saturday                           
+1950/06/04     19                  Sunday                             
+1950/06/05     20                  Monday                             
+1950/06/06     21                  Tuesday        Corn on Ear         
+1950/06/07     22                  Wednesday                          
+1950/06/08     23                  Thursday                           
+1950/06/09     24                  Friday                             
+1950/06/10     25                  Saturday                           
+1950/06/11     26                  Sunday                             
+1950/06/12     27                  Monday                             
+1950/06/13     28                  Tuesday                            
+1950/06/14     29                  Wednesday                          
+1950/06/15     5th Lunar month     Thursday                           
+1950/06/16     2                   Friday                             
+1950/06/17     3                   Saturday                           
+1950/06/18     4                   Sunday                             
+1950/06/19     5                   Monday                             
+1950/06/20     6                   Tuesday                            
+1950/06/21     7                   Wednesday                          
+1950/06/22     8                   Thursday       Summer Solstice     
+1950/06/23     9                   Friday                             
+1950/06/24     10                  Saturday                           
+1950/06/25     11                  Sunday                             
+1950/06/26     12                  Monday                             
+1950/06/27     13                  Tuesday                            
+1950/06/28     14                  Wednesday                          
+1950/06/29     15                  Thursday                           
+1950/06/30     16                  Friday                             
+1950/07/01     17                  Saturday                           
+1950/07/02     18                  Sunday                             
+1950/07/03     19                  Monday                             
+1950/07/04     20                  Tuesday                            
+1950/07/05     21                  Wednesday                          
+1950/07/06     22                  Thursday                           
+1950/07/07     23                  Friday                             
+1950/07/08     24                  Saturday       Moderate Heat       
+1950/07/09     25                  Sunday                             
+1950/07/10     26                  Monday                             
+1950/07/11     27                  Tuesday                            
+1950/07/12     28                  Wednesday                          
+1950/07/13     29                  Thursday                           
+1950/07/14     30                  Friday                             
+1950/07/15     6th Lunar month     Saturday                           
+1950/07/16     2                   Sunday                             
+1950/07/17     3                   Monday                             
+1950/07/18     4                   Tuesday                            
+1950/07/19     5                   Wednesday                          
+1950/07/20     6                   Thursday                           
+1950/07/21     7                   Friday                             
+1950/07/22     8                   Saturday                           
+1950/07/23     9                   Sunday         Great Heat          
+1950/07/24     10                  Monday                             
+1950/07/25     11                  Tuesday                            
+1950/07/26     12                  Wednesday                          
+1950/07/27     13                  Thursday                           
+1950/07/28     14                  Friday                             
+1950/07/29     15                  Saturday                           
+1950/07/30     16                  Sunday                             
+1950/07/31     17                  Monday                             
+1950/08/01     18                  Tuesday                            
+1950/08/02     19                  Wednesday                          
+1950/08/03     20                  Thursday                           
+1950/08/04     21                  Friday                             
+1950/08/05     22                  Saturday                           
+1950/08/06     23                  Sunday                             
+1950/08/07     24                  Monday                             
+1950/08/08     25                  Tuesday        Autumn Commences    
+1950/08/09     26                  Wednesday                          
+1950/08/10     27                  Thursday                           
+1950/08/11     28                  Friday                             
+1950/08/12     29                  Saturday                           
+1950/08/13     30                  Sunday                             
+1950/08/14     7th Lunar month     Monday                             
+1950/08/15     2                   Tuesday                            
+1950/08/16     3                   Wednesday                          
+1950/08/17     4                   Thursday                           
+1950/08/18     5                   Friday                             
+1950/08/19     6                   Saturday                           
+1950/08/20     7                   Sunday                             
+1950/08/21     8                   Monday                             
+1950/08/22     9                   Tuesday                            
+1950/08/23     10                  Wednesday                          
+1950/08/24     11                  Thursday       End of Heat         
+1950/08/25     12                  Friday                             
+1950/08/26     13                  Saturday                           
+1950/08/27     14                  Sunday                             
+1950/08/28     15                  Monday                             
+1950/08/29     16                  Tuesday                            
+1950/08/30     17                  Wednesday                          
+1950/08/31     18                  Thursday                           
+1950/09/01     19                  Friday                             
+1950/09/02     20                  Saturday                           
+1950/09/03     21                  Sunday                             
+1950/09/04     22                  Monday                             
+1950/09/05     23                  Tuesday                            
+1950/09/06     24                  Wednesday                          
+1950/09/07     25                  Thursday                           
+1950/09/08     26                  Friday         White Dew           
+1950/09/09     27                  Saturday                           
+1950/09/10     28                  Sunday                             
+1950/09/11     29                  Monday                             
+1950/09/12     8th Lunar month     Tuesday                            
+1950/09/13     2                   Wednesday                          
+1950/09/14     3                   Thursday                           
+1950/09/15     4                   Friday                             
+1950/09/16     5                   Saturday                           
+1950/09/17     6                   Sunday                             
+1950/09/18     7                   Monday                             
+1950/09/19     8                   Tuesday                            
+1950/09/20     9                   Wednesday                          
+1950/09/21     10                  Thursday                           
+1950/09/22     11                  Friday                             
+1950/09/23     12                  Saturday       Autumnal Equinox    
+1950/09/24     13                  Sunday                             
+1950/09/25     14                  Monday                             
+1950/09/26     15                  Tuesday                            
+1950/09/27     16                  Wednesday                          
+1950/09/28     17                  Thursday                           
+1950/09/29     18                  Friday                             
+1950/09/30     19                  Saturday                           
+1950/10/01     20                  Sunday                             
+1950/10/02     21                  Monday                             
+1950/10/03     22                  Tuesday                            
+1950/10/04     23                  Wednesday                          
+1950/10/05     24                  Thursday                           
+1950/10/06     25                  Friday                             
+1950/10/07     26                  Saturday                           
+1950/10/08     27                  Sunday                             
+1950/10/09     28                  Monday         Cold Dew            
+1950/10/10     29                  Tuesday                            
+1950/10/11     9th Lunar month     Wednesday                          
+1950/10/12     2                   Thursday                           
+1950/10/13     3                   Friday                             
+1950/10/14     4                   Saturday                           
+1950/10/15     5                   Sunday                             
+1950/10/16     6                   Monday                             
+1950/10/17     7                   Tuesday                            
+1950/10/18     8                   Wednesday                          
+1950/10/19     9                   Thursday                           
+1950/10/20     10                  Friday                             
+1950/10/21     11                  Saturday                           
+1950/10/22     12                  Sunday                             
+1950/10/23     13                  Monday                             
+1950/10/24     14                  Tuesday        Frost               
+1950/10/25     15                  Wednesday                          
+1950/10/26     16                  Thursday                           
+1950/10/27     17                  Friday                             
+1950/10/28     18                  Saturday                           
+1950/10/29     19                  Sunday                             
+1950/10/30     20                  Monday                             
+1950/10/31     21                  Tuesday                            
+1950/11/01     22                  Wednesday                          
+1950/11/02     23                  Thursday                           
+1950/11/03     24                  Friday                             
+1950/11/04     25                  Saturday                           
+1950/11/05     26                  Sunday                             
+1950/11/06     27                  Monday                             
+1950/11/07     28                  Tuesday                            
+1950/11/08     29                  Wednesday      Winter Commences    
+1950/11/09     30                  Thursday                           
+1950/11/10     10th Lunar month    Friday                             
+1950/11/11     2                   Saturday                           
+1950/11/12     3                   Sunday                             
+1950/11/13     4                   Monday                             
+1950/11/14     5                   Tuesday                            
+1950/11/15     6                   Wednesday                          
+1950/11/16     7                   Thursday                           
+1950/11/17     8                   Friday                             
+1950/11/18     9                   Saturday                           
+1950/11/19     10                  Sunday                             
+1950/11/20     11                  Monday                             
+1950/11/21     12                  Tuesday                            
+1950/11/22     13                  Wednesday                          
+1950/11/23     14                  Thursday       Light Snow          
+1950/11/24     15                  Friday                             
+1950/11/25     16                  Saturday                           
+1950/11/26     17                  Sunday                             
+1950/11/27     18                  Monday                             
+1950/11/28     19                  Tuesday                            
+1950/11/29     20                  Wednesday                          
+1950/11/30     21                  Thursday                           
+1950/12/01     22                  Friday                             
+1950/12/02     23                  Saturday                           
+1950/12/03     24                  Sunday                             
+1950/12/04     25                  Monday                             
+1950/12/05     26                  Tuesday                            
+1950/12/06     27                  Wednesday                          
+1950/12/07     28                  Thursday                           
+1950/12/08     29                  Friday         Heavy Snow          
+1950/12/09     11th Lunar month    Saturday                           
+1950/12/10     2                   Sunday                             
+1950/12/11     3                   Monday                             
+1950/12/12     4                   Tuesday                            
+1950/12/13     5                   Wednesday                          
+1950/12/14     6                   Thursday                           
+1950/12/15     7                   Friday                             
+1950/12/16     8                   Saturday                           
+1950/12/17     9                   Sunday                             
+1950/12/18     10                  Monday                             
+1950/12/19     11                  Tuesday                            
+1950/12/20     12                  Wednesday                          
+1950/12/21     13                  Thursday                           
+1950/12/22     14                  Friday         Winter Solstice     
+1950/12/23     15                  Saturday                           
+1950/12/24     16                  Sunday                             
+1950/12/25     17                  Monday                             
+1950/12/26     18                  Tuesday                            
+1950/12/27     19                  Wednesday                          
+1950/12/28     20                  Thursday                           
+1950/12/29     21                  Friday                             
+1950/12/30     22                  Saturday                           
+1950/12/31     23                  Sunday                             
+
+In 1950, summer time was enforced during 2 April to 29 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

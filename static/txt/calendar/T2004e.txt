@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2004 (Jia-shen ¡V year of the Monkey)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2004/01/01     10                  Thursday                           
+2004/01/02     11                  Friday                             
+2004/01/03     12                  Saturday                           
+2004/01/04     13                  Sunday                             
+2004/01/05     14                  Monday                             
+2004/01/06     15                  Tuesday        Moderate Cold       
+2004/01/07     16                  Wednesday                          
+2004/01/08     17                  Thursday                           
+2004/01/09     18                  Friday                             
+2004/01/10     19                  Saturday                           
+2004/01/11     20                  Sunday                             
+2004/01/12     21                  Monday                             
+2004/01/13     22                  Tuesday                            
+2004/01/14     23                  Wednesday                          
+2004/01/15     24                  Thursday                           
+2004/01/16     25                  Friday                             
+2004/01/17     26                  Saturday                           
+2004/01/18     27                  Sunday                             
+2004/01/19     28                  Monday                             
+2004/01/20     29                  Tuesday                            
+2004/01/21     30                  Wednesday      Severe Cold         
+2004/01/22     1st Lunar month     Thursday                           
+2004/01/23     2                   Friday                             
+2004/01/24     3                   Saturday                           
+2004/01/25     4                   Sunday                             
+2004/01/26     5                   Monday                             
+2004/01/27     6                   Tuesday                            
+2004/01/28     7                   Wednesday                          
+2004/01/29     8                   Thursday                           
+2004/01/30     9                   Friday                             
+2004/01/31     10                  Saturday                           
+2004/02/01     11                  Sunday                             
+2004/02/02     12                  Monday                             
+2004/02/03     13                  Tuesday                            
+2004/02/04     14                  Wednesday      Spring Commences    
+2004/02/05     15                  Thursday                           
+2004/02/06     16                  Friday                             
+2004/02/07     17                  Saturday                           
+2004/02/08     18                  Sunday                             
+2004/02/09     19                  Monday                             
+2004/02/10     20                  Tuesday                            
+2004/02/11     21                  Wednesday                          
+2004/02/12     22                  Thursday                           
+2004/02/13     23                  Friday                             
+2004/02/14     24                  Saturday                           
+2004/02/15     25                  Sunday                             
+2004/02/16     26                  Monday                             
+2004/02/17     27                  Tuesday                            
+2004/02/18     28                  Wednesday                          
+2004/02/19     29                  Thursday       Spring Showers      
+2004/02/20     2nd Lunar month     Friday                             
+2004/02/21     2                   Saturday                           
+2004/02/22     3                   Sunday                             
+2004/02/23     4                   Monday                             
+2004/02/24     5                   Tuesday                            
+2004/02/25     6                   Wednesday                          
+2004/02/26     7                   Thursday                           
+2004/02/27     8                   Friday                             
+2004/02/28     9                   Saturday                           
+2004/02/29     10                  Sunday                             
+2004/03/01     11                  Monday                             
+2004/03/02     12                  Tuesday                            
+2004/03/03     13                  Wednesday                          
+2004/03/04     14                  Thursday                           
+2004/03/05     15                  Friday         Insects Waken       
+2004/03/06     16                  Saturday                           
+2004/03/07     17                  Sunday                             
+2004/03/08     18                  Monday                             
+2004/03/09     19                  Tuesday                            
+2004/03/10     20                  Wednesday                          
+2004/03/11     21                  Thursday                           
+2004/03/12     22                  Friday                             
+2004/03/13     23                  Saturday                           
+2004/03/14     24                  Sunday                             
+2004/03/15     25                  Monday                             
+2004/03/16     26                  Tuesday                            
+2004/03/17     27                  Wednesday                          
+2004/03/18     28                  Thursday                           
+2004/03/19     29                  Friday                             
+2004/03/20     30                  Saturday       Vernal Equinox      
+2004/03/21     2nd Lunar month     Sunday                             
+2004/03/22     2                   Monday                             
+2004/03/23     3                   Tuesday                            
+2004/03/24     4                   Wednesday                          
+2004/03/25     5                   Thursday                           
+2004/03/26     6                   Friday                             
+2004/03/27     7                   Saturday                           
+2004/03/28     8                   Sunday                             
+2004/03/29     9                   Monday                             
+2004/03/30     10                  Tuesday                            
+2004/03/31     11                  Wednesday                          
+2004/04/01     12                  Thursday                           
+2004/04/02     13                  Friday                             
+2004/04/03     14                  Saturday                           
+2004/04/04     15                  Sunday         Bright & Clear      
+2004/04/05     16                  Monday                             
+2004/04/06     17                  Tuesday                            
+2004/04/07     18                  Wednesday                          
+2004/04/08     19                  Thursday                           
+2004/04/09     20                  Friday                             
+2004/04/10     21                  Saturday                           
+2004/04/11     22                  Sunday                             
+2004/04/12     23                  Monday                             
+2004/04/13     24                  Tuesday                            
+2004/04/14     25                  Wednesday                          
+2004/04/15     26                  Thursday                           
+2004/04/16     27                  Friday                             
+2004/04/17     28                  Saturday                           
+2004/04/18     29                  Sunday                             
+2004/04/19     3rd Lunar month     Monday                             
+2004/04/20     2                   Tuesday        Corn Rain           
+2004/04/21     3                   Wednesday                          
+2004/04/22     4                   Thursday                           
+2004/04/23     5                   Friday                             
+2004/04/24     6                   Saturday                           
+2004/04/25     7                   Sunday                             
+2004/04/26     8                   Monday                             
+2004/04/27     9                   Tuesday                            
+2004/04/28     10                  Wednesday                          
+2004/04/29     11                  Thursday                           
+2004/04/30     12                  Friday                             
+2004/05/01     13                  Saturday                           
+2004/05/02     14                  Sunday                             
+2004/05/03     15                  Monday                             
+2004/05/04     16                  Tuesday                            
+2004/05/05     17                  Wednesday      Summer Commences    
+2004/05/06     18                  Thursday                           
+2004/05/07     19                  Friday                             
+2004/05/08     20                  Saturday                           
+2004/05/09     21                  Sunday                             
+2004/05/10     22                  Monday                             
+2004/05/11     23                  Tuesday                            
+2004/05/12     24                  Wednesday                          
+2004/05/13     25                  Thursday                           
+2004/05/14     26                  Friday                             
+2004/05/15     27                  Saturday                           
+2004/05/16     28                  Sunday                             
+2004/05/17     29                  Monday                             
+2004/05/18     30                  Tuesday                            
+2004/05/19     4th Lunar month     Wednesday                          
+2004/05/20     2                   Thursday                           
+2004/05/21     3                   Friday         Corn Forms          
+2004/05/22     4                   Saturday                           
+2004/05/23     5                   Sunday                             
+2004/05/24     6                   Monday                             
+2004/05/25     7                   Tuesday                            
+2004/05/26     8                   Wednesday                          
+2004/05/27     9                   Thursday                           
+2004/05/28     10                  Friday                             
+2004/05/29     11                  Saturday                           
+2004/05/30     12                  Sunday                             
+2004/05/31     13                  Monday                             
+2004/06/01     14                  Tuesday                            
+2004/06/02     15                  Wednesday                          
+2004/06/03     16                  Thursday                           
+2004/06/04     17                  Friday                             
+2004/06/05     18                  Saturday       Corn on Ear         
+2004/06/06     19                  Sunday                             
+2004/06/07     20                  Monday                             
+2004/06/08     21                  Tuesday                            
+2004/06/09     22                  Wednesday                          
+2004/06/10     23                  Thursday                           
+2004/06/11     24                  Friday                             
+2004/06/12     25                  Saturday                           
+2004/06/13     26                  Sunday                             
+2004/06/14     27                  Monday                             
+2004/06/15     28                  Tuesday                            
+2004/06/16     29                  Wednesday                          
+2004/06/17     30                  Thursday                           
+2004/06/18     5th Lunar month     Friday                             
+2004/06/19     2                   Saturday                           
+2004/06/20     3                   Sunday                             
+2004/06/21     4                   Monday         Summer Solstice     
+2004/06/22     5                   Tuesday                            
+2004/06/23     6                   Wednesday                          
+2004/06/24     7                   Thursday                           
+2004/06/25     8                   Friday                             
+2004/06/26     9                   Saturday                           
+2004/06/27     10                  Sunday                             
+2004/06/28     11                  Monday                             
+2004/06/29     12                  Tuesday                            
+2004/06/30     13                  Wednesday                          
+2004/07/01     14                  Thursday                           
+2004/07/02     15                  Friday                             
+2004/07/03     16                  Saturday                           
+2004/07/04     17                  Sunday                             
+2004/07/05     18                  Monday                             
+2004/07/06     19                  Tuesday                            
+2004/07/07     20                  Wednesday      Moderate Heat       
+2004/07/08     21                  Thursday                           
+2004/07/09     22                  Friday                             
+2004/07/10     23                  Saturday                           
+2004/07/11     24                  Sunday                             
+2004/07/12     25                  Monday                             
+2004/07/13     26                  Tuesday                            
+2004/07/14     27                  Wednesday                          
+2004/07/15     28                  Thursday                           
+2004/07/16     29                  Friday                             
+2004/07/17     6th Lunar month     Saturday                           
+2004/07/18     2                   Sunday                             
+2004/07/19     3                   Monday                             
+2004/07/20     4                   Tuesday                            
+2004/07/21     5                   Wednesday                          
+2004/07/22     6                   Thursday       Great Heat          
+2004/07/23     7                   Friday                             
+2004/07/24     8                   Saturday                           
+2004/07/25     9                   Sunday                             
+2004/07/26     10                  Monday                             
+2004/07/27     11                  Tuesday                            
+2004/07/28     12                  Wednesday                          
+2004/07/29     13                  Thursday                           
+2004/07/30     14                  Friday                             
+2004/07/31     15                  Saturday                           
+2004/08/01     16                  Sunday                             
+2004/08/02     17                  Monday                             
+2004/08/03     18                  Tuesday                            
+2004/08/04     19                  Wednesday                          
+2004/08/05     20                  Thursday                           
+2004/08/06     21                  Friday                             
+2004/08/07     22                  Saturday       Autumn Commences    
+2004/08/08     23                  Sunday                             
+2004/08/09     24                  Monday                             
+2004/08/10     25                  Tuesday                            
+2004/08/11     26                  Wednesday                          
+2004/08/12     27                  Thursday                           
+2004/08/13     28                  Friday                             
+2004/08/14     29                  Saturday                           
+2004/08/15     30                  Sunday                             
+2004/08/16     7th Lunar month     Monday                             
+2004/08/17     2                   Tuesday                            
+2004/08/18     3                   Wednesday                          
+2004/08/19     4                   Thursday                           
+2004/08/20     5                   Friday                             
+2004/08/21     6                   Saturday                           
+2004/08/22     7                   Sunday                             
+2004/08/23     8                   Monday         End of Heat         
+2004/08/24     9                   Tuesday                            
+2004/08/25     10                  Wednesday                          
+2004/08/26     11                  Thursday                           
+2004/08/27     12                  Friday                             
+2004/08/28     13                  Saturday                           
+2004/08/29     14                  Sunday                             
+2004/08/30     15                  Monday                             
+2004/08/31     16                  Tuesday                            
+2004/09/01     17                  Wednesday                          
+2004/09/02     18                  Thursday                           
+2004/09/03     19                  Friday                             
+2004/09/04     20                  Saturday                           
+2004/09/05     21                  Sunday                             
+2004/09/06     22                  Monday                             
+2004/09/07     23                  Tuesday        White Dew           
+2004/09/08     24                  Wednesday                          
+2004/09/09     25                  Thursday                           
+2004/09/10     26                  Friday                             
+2004/09/11     27                  Saturday                           
+2004/09/12     28                  Sunday                             
+2004/09/13     29                  Monday                             
+2004/09/14     8th Lunar month     Tuesday                            
+2004/09/15     2                   Wednesday                          
+2004/09/16     3                   Thursday                           
+2004/09/17     4                   Friday                             
+2004/09/18     5                   Saturday                           
+2004/09/19     6                   Sunday                             
+2004/09/20     7                   Monday                             
+2004/09/21     8                   Tuesday                            
+2004/09/22     9                   Wednesday                          
+2004/09/23     10                  Thursday       Autumnal Equinox    
+2004/09/24     11                  Friday                             
+2004/09/25     12                  Saturday                           
+2004/09/26     13                  Sunday                             
+2004/09/27     14                  Monday                             
+2004/09/28     15                  Tuesday                            
+2004/09/29     16                  Wednesday                          
+2004/09/30     17                  Thursday                           
+2004/10/01     18                  Friday                             
+2004/10/02     19                  Saturday                           
+2004/10/03     20                  Sunday                             
+2004/10/04     21                  Monday                             
+2004/10/05     22                  Tuesday                            
+2004/10/06     23                  Wednesday                          
+2004/10/07     24                  Thursday                           
+2004/10/08     25                  Friday         Cold Dew            
+2004/10/09     26                  Saturday                           
+2004/10/10     27                  Sunday                             
+2004/10/11     28                  Monday                             
+2004/10/12     29                  Tuesday                            
+2004/10/13     30                  Wednesday                          
+2004/10/14     9th Lunar month     Thursday                           
+2004/10/15     2                   Friday                             
+2004/10/16     3                   Saturday                           
+2004/10/17     4                   Sunday                             
+2004/10/18     5                   Monday                             
+2004/10/19     6                   Tuesday                            
+2004/10/20     7                   Wednesday                          
+2004/10/21     8                   Thursday                           
+2004/10/22     9                   Friday                             
+2004/10/23     10                  Saturday       Frost               
+2004/10/24     11                  Sunday                             
+2004/10/25     12                  Monday                             
+2004/10/26     13                  Tuesday                            
+2004/10/27     14                  Wednesday                          
+2004/10/28     15                  Thursday                           
+2004/10/29     16                  Friday                             
+2004/10/30     17                  Saturday                           
+2004/10/31     18                  Sunday                             
+2004/11/01     19                  Monday                             
+2004/11/02     20                  Tuesday                            
+2004/11/03     21                  Wednesday                          
+2004/11/04     22                  Thursday                           
+2004/11/05     23                  Friday                             
+2004/11/06     24                  Saturday                           
+2004/11/07     25                  Sunday         Winter Commences    
+2004/11/08     26                  Monday                             
+2004/11/09     27                  Tuesday                            
+2004/11/10     28                  Wednesday                          
+2004/11/11     29                  Thursday                           
+2004/11/12     10th Lunar month    Friday                             
+2004/11/13     2                   Saturday                           
+2004/11/14     3                   Sunday                             
+2004/11/15     4                   Monday                             
+2004/11/16     5                   Tuesday                            
+2004/11/17     6                   Wednesday                          
+2004/11/18     7                   Thursday                           
+2004/11/19     8                   Friday                             
+2004/11/20     9                   Saturday                           
+2004/11/21     10                  Sunday                             
+2004/11/22     11                  Monday         Light Snow          
+2004/11/23     12                  Tuesday                            
+2004/11/24     13                  Wednesday                          
+2004/11/25     14                  Thursday                           
+2004/11/26     15                  Friday                             
+2004/11/27     16                  Saturday                           
+2004/11/28     17                  Sunday                             
+2004/11/29     18                  Monday                             
+2004/11/30     19                  Tuesday                            
+2004/12/01     20                  Wednesday                          
+2004/12/02     21                  Thursday                           
+2004/12/03     22                  Friday                             
+2004/12/04     23                  Saturday                           
+2004/12/05     24                  Sunday                             
+2004/12/06     25                  Monday                             
+2004/12/07     26                  Tuesday        Heavy Snow          
+2004/12/08     27                  Wednesday                          
+2004/12/09     28                  Thursday                           
+2004/12/10     29                  Friday                             
+2004/12/11     30                  Saturday                           
+2004/12/12     11th Lunar month    Sunday                             
+2004/12/13     2                   Monday                             
+2004/12/14     3                   Tuesday                            
+2004/12/15     4                   Wednesday                          
+2004/12/16     5                   Thursday                           
+2004/12/17     6                   Friday                             
+2004/12/18     7                   Saturday                           
+2004/12/19     8                   Sunday                             
+2004/12/20     9                   Monday                             
+2004/12/21     10                  Tuesday        Winter Solstice     
+2004/12/22     11                  Wednesday                          
+2004/12/23     12                  Thursday                           
+2004/12/24     13                  Friday                             
+2004/12/25     14                  Saturday                           
+2004/12/26     15                  Sunday                             
+2004/12/27     16                  Monday                             
+2004/12/28     17                  Tuesday                            
+2004/12/29     18                  Wednesday                          
+2004/12/30     19                  Thursday                           
+2004/12/31     20                  Friday                             

@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1952 (Ren-chen ¡V year of the Dragon)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1952/01/01     5                   Tuesday                            
+1952/01/02     6                   Wednesday                          
+1952/01/03     7                   Thursday                           
+1952/01/04     8                   Friday                             
+1952/01/05     9                   Saturday                           
+1952/01/06     10                  Sunday         Moderate Cold       
+1952/01/07     11                  Monday                             
+1952/01/08     12                  Tuesday                            
+1952/01/09     13                  Wednesday                          
+1952/01/10     14                  Thursday                           
+1952/01/11     15                  Friday                             
+1952/01/12     16                  Saturday                           
+1952/01/13     17                  Sunday                             
+1952/01/14     18                  Monday                             
+1952/01/15     19                  Tuesday                            
+1952/01/16     20                  Wednesday                          
+1952/01/17     21                  Thursday                           
+1952/01/18     22                  Friday                             
+1952/01/19     23                  Saturday                           
+1952/01/20     24                  Sunday                             
+1952/01/21     25                  Monday         Severe Cold         
+1952/01/22     26                  Tuesday                            
+1952/01/23     27                  Wednesday                          
+1952/01/24     28                  Thursday                           
+1952/01/25     29                  Friday                             
+1952/01/26     30                  Saturday                           
+1952/01/27     1st Lunar month     Sunday                             
+1952/01/28     2                   Monday                             
+1952/01/29     3                   Tuesday                            
+1952/01/30     4                   Wednesday                          
+1952/01/31     5                   Thursday                           
+1952/02/01     6                   Friday                             
+1952/02/02     7                   Saturday                           
+1952/02/03     8                   Sunday                             
+1952/02/04     9                   Monday                             
+1952/02/05     10                  Tuesday        Spring Commences    
+1952/02/06     11                  Wednesday                          
+1952/02/07     12                  Thursday                           
+1952/02/08     13                  Friday                             
+1952/02/09     14                  Saturday                           
+1952/02/10     15                  Sunday                             
+1952/02/11     16                  Monday                             
+1952/02/12     17                  Tuesday                            
+1952/02/13     18                  Wednesday                          
+1952/02/14     19                  Thursday                           
+1952/02/15     20                  Friday                             
+1952/02/16     21                  Saturday                           
+1952/02/17     22                  Sunday                             
+1952/02/18     23                  Monday                             
+1952/02/19     24                  Tuesday                            
+1952/02/20     25                  Wednesday      Spring Showers      
+1952/02/21     26                  Thursday                           
+1952/02/22     27                  Friday                             
+1952/02/23     28                  Saturday                           
+1952/02/24     29                  Sunday                             
+1952/02/25     2nd Lunar month     Monday                             
+1952/02/26     2                   Tuesday                            
+1952/02/27     3                   Wednesday                          
+1952/02/28     4                   Thursday                           
+1952/02/29     5                   Friday                             
+1952/03/01     6                   Saturday                           
+1952/03/02     7                   Sunday                             
+1952/03/03     8                   Monday                             
+1952/03/04     9                   Tuesday                            
+1952/03/05     10                  Wednesday      Insects Waken       
+1952/03/06     11                  Thursday                           
+1952/03/07     12                  Friday                             
+1952/03/08     13                  Saturday                           
+1952/03/09     14                  Sunday                             
+1952/03/10     15                  Monday                             
+1952/03/11     16                  Tuesday                            
+1952/03/12     17                  Wednesday                          
+1952/03/13     18                  Thursday                           
+1952/03/14     19                  Friday                             
+1952/03/15     20                  Saturday                           
+1952/03/16     21                  Sunday                             
+1952/03/17     22                  Monday                             
+1952/03/18     23                  Tuesday                            
+1952/03/19     24                  Wednesday                          
+1952/03/20     25                  Thursday                           
+1952/03/21     26                  Friday         Vernal Equinox      
+1952/03/22     27                  Saturday                           
+1952/03/23     28                  Sunday                             
+1952/03/24     29                  Monday                             
+1952/03/25     30                  Tuesday                            
+1952/03/26     3rd Lunar month     Wednesday                          
+1952/03/27     2                   Thursday                           
+1952/03/28     3                   Friday                             
+1952/03/29     4                   Saturday                           
+1952/03/30     5                   Sunday                             
+1952/03/31     6                   Monday                             
+1952/04/01     7                   Tuesday                            
+1952/04/02     8                   Wednesday                          
+1952/04/03     9                   Thursday                           
+1952/04/04     10                  Friday                             
+1952/04/05     11                  Saturday       Bright & Clear      
+1952/04/06     12                  Sunday                             
+1952/04/07     13                  Monday                             
+1952/04/08     14                  Tuesday                            
+1952/04/09     15                  Wednesday                          
+1952/04/10     16                  Thursday                           
+1952/04/11     17                  Friday                             
+1952/04/12     18                  Saturday                           
+1952/04/13     19                  Sunday                             
+1952/04/14     20                  Monday                             
+1952/04/15     21                  Tuesday                            
+1952/04/16     22                  Wednesday                          
+1952/04/17     23                  Thursday                           
+1952/04/18     24                  Friday                             
+1952/04/19     25                  Saturday                           
+1952/04/20     26                  Sunday         Corn Rain           
+1952/04/21     27                  Monday                             
+1952/04/22     28                  Tuesday                            
+1952/04/23     29                  Wednesday                          
+1952/04/24     4th Lunar month     Thursday                           
+1952/04/25     2                   Friday                             
+1952/04/26     3                   Saturday                           
+1952/04/27     4                   Sunday                             
+1952/04/28     5                   Monday                             
+1952/04/29     6                   Tuesday                            
+1952/04/30     7                   Wednesday                          
+1952/05/01     8                   Thursday                           
+1952/05/02     9                   Friday                             
+1952/05/03     10                  Saturday                           
+1952/05/04     11                  Sunday                             
+1952/05/05     12                  Monday         Summer Commences    
+1952/05/06     13                  Tuesday                            
+1952/05/07     14                  Wednesday                          
+1952/05/08     15                  Thursday                           
+1952/05/09     16                  Friday                             
+1952/05/10     17                  Saturday                           
+1952/05/11     18                  Sunday                             
+1952/05/12     19                  Monday                             
+1952/05/13     20                  Tuesday                            
+1952/05/14     21                  Wednesday                          
+1952/05/15     22                  Thursday                           
+1952/05/16     23                  Friday                             
+1952/05/17     24                  Saturday                           
+1952/05/18     25                  Sunday                             
+1952/05/19     26                  Monday                             
+1952/05/20     27                  Tuesday                            
+1952/05/21     28                  Wednesday      Corn Forms          
+1952/05/22     29                  Thursday                           
+1952/05/23     30                  Friday                             
+1952/05/24     5th Lunar month     Saturday                           
+1952/05/25     2                   Sunday                             
+1952/05/26     3                   Monday                             
+1952/05/27     4                   Tuesday                            
+1952/05/28     5                   Wednesday                          
+1952/05/29     6                   Thursday                           
+1952/05/30     7                   Friday                             
+1952/05/31     8                   Saturday                           
+1952/06/01     9                   Sunday                             
+1952/06/02     10                  Monday                             
+1952/06/03     11                  Tuesday                            
+1952/06/04     12                  Wednesday                          
+1952/06/05     13                  Thursday                           
+1952/06/06     14                  Friday         Corn on Ear         
+1952/06/07     15                  Saturday                           
+1952/06/08     16                  Sunday                             
+1952/06/09     17                  Monday                             
+1952/06/10     18                  Tuesday                            
+1952/06/11     19                  Wednesday                          
+1952/06/12     20                  Thursday                           
+1952/06/13     21                  Friday                             
+1952/06/14     22                  Saturday                           
+1952/06/15     23                  Sunday                             
+1952/06/16     24                  Monday                             
+1952/06/17     25                  Tuesday                            
+1952/06/18     26                  Wednesday                          
+1952/06/19     27                  Thursday                           
+1952/06/20     28                  Friday                             
+1952/06/21     29                  Saturday       Summer Solstice     
+1952/06/22     5th Lunar month     Sunday                             
+1952/06/23     2                   Monday                             
+1952/06/24     3                   Tuesday                            
+1952/06/25     4                   Wednesday                          
+1952/06/26     5                   Thursday                           
+1952/06/27     6                   Friday                             
+1952/06/28     7                   Saturday                           
+1952/06/29     8                   Sunday                             
+1952/06/30     9                   Monday                             
+1952/07/01     10                  Tuesday                            
+1952/07/02     11                  Wednesday                          
+1952/07/03     12                  Thursday                           
+1952/07/04     13                  Friday                             
+1952/07/05     14                  Saturday                           
+1952/07/06     15                  Sunday                             
+1952/07/07     16                  Monday         Moderate Heat       
+1952/07/08     17                  Tuesday                            
+1952/07/09     18                  Wednesday                          
+1952/07/10     19                  Thursday                           
+1952/07/11     20                  Friday                             
+1952/07/12     21                  Saturday                           
+1952/07/13     22                  Sunday                             
+1952/07/14     23                  Monday                             
+1952/07/15     24                  Tuesday                            
+1952/07/16     25                  Wednesday                          
+1952/07/17     26                  Thursday                           
+1952/07/18     27                  Friday                             
+1952/07/19     28                  Saturday                           
+1952/07/20     29                  Sunday                             
+1952/07/21     30                  Monday                             
+1952/07/22     6th Lunar month     Tuesday                            
+1952/07/23     2                   Wednesday      Great Heat          
+1952/07/24     3                   Thursday                           
+1952/07/25     4                   Friday                             
+1952/07/26     5                   Saturday                           
+1952/07/27     6                   Sunday                             
+1952/07/28     7                   Monday                             
+1952/07/29     8                   Tuesday                            
+1952/07/30     9                   Wednesday                          
+1952/07/31     10                  Thursday                           
+1952/08/01     11                  Friday                             
+1952/08/02     12                  Saturday                           
+1952/08/03     13                  Sunday                             
+1952/08/04     14                  Monday                             
+1952/08/05     15                  Tuesday                            
+1952/08/06     16                  Wednesday                          
+1952/08/07     17                  Thursday       Autumn Commences    
+1952/08/08     18                  Friday                             
+1952/08/09     19                  Saturday                           
+1952/08/10     20                  Sunday                             
+1952/08/11     21                  Monday                             
+1952/08/12     22                  Tuesday                            
+1952/08/13     23                  Wednesday                          
+1952/08/14     24                  Thursday                           
+1952/08/15     25                  Friday                             
+1952/08/16     26                  Saturday                           
+1952/08/17     27                  Sunday                             
+1952/08/18     28                  Monday                             
+1952/08/19     29                  Tuesday                            
+1952/08/20     7th Lunar month     Wednesday                          
+1952/08/21     2                   Thursday                           
+1952/08/22     3                   Friday                             
+1952/08/23     4                   Saturday       End of Heat         
+1952/08/24     5                   Sunday                             
+1952/08/25     6                   Monday                             
+1952/08/26     7                   Tuesday                            
+1952/08/27     8                   Wednesday                          
+1952/08/28     9                   Thursday                           
+1952/08/29     10                  Friday                             
+1952/08/30     11                  Saturday                           
+1952/08/31     12                  Sunday                             
+1952/09/01     13                  Monday                             
+1952/09/02     14                  Tuesday                            
+1952/09/03     15                  Wednesday                          
+1952/09/04     16                  Thursday                           
+1952/09/05     17                  Friday                             
+1952/09/06     18                  Saturday                           
+1952/09/07     19                  Sunday                             
+1952/09/08     20                  Monday         White Dew           
+1952/09/09     21                  Tuesday                            
+1952/09/10     22                  Wednesday                          
+1952/09/11     23                  Thursday                           
+1952/09/12     24                  Friday                             
+1952/09/13     25                  Saturday                           
+1952/09/14     26                  Sunday                             
+1952/09/15     27                  Monday                             
+1952/09/16     28                  Tuesday                            
+1952/09/17     29                  Wednesday                          
+1952/09/18     30                  Thursday                           
+1952/09/19     8th Lunar month     Friday                             
+1952/09/20     2                   Saturday                           
+1952/09/21     3                   Sunday                             
+1952/09/22     4                   Monday                             
+1952/09/23     5                   Tuesday        Autumnal Equinox    
+1952/09/24     6                   Wednesday                          
+1952/09/25     7                   Thursday                           
+1952/09/26     8                   Friday                             
+1952/09/27     9                   Saturday                           
+1952/09/28     10                  Sunday                             
+1952/09/29     11                  Monday                             
+1952/09/30     12                  Tuesday                            
+1952/10/01     13                  Wednesday                          
+1952/10/02     14                  Thursday                           
+1952/10/03     15                  Friday                             
+1952/10/04     16                  Saturday                           
+1952/10/05     17                  Sunday                             
+1952/10/06     18                  Monday                             
+1952/10/07     19                  Tuesday                            
+1952/10/08     20                  Wednesday      Cold Dew            
+1952/10/09     21                  Thursday                           
+1952/10/10     22                  Friday                             
+1952/10/11     23                  Saturday                           
+1952/10/12     24                  Sunday                             
+1952/10/13     25                  Monday                             
+1952/10/14     26                  Tuesday                            
+1952/10/15     27                  Wednesday                          
+1952/10/16     28                  Thursday                           
+1952/10/17     29                  Friday                             
+1952/10/18     30                  Saturday                           
+1952/10/19     9th Lunar month     Sunday                             
+1952/10/20     2                   Monday                             
+1952/10/21     3                   Tuesday                            
+1952/10/22     4                   Wednesday                          
+1952/10/23     5                   Thursday       Frost               
+1952/10/24     6                   Friday                             
+1952/10/25     7                   Saturday                           
+1952/10/26     8                   Sunday                             
+1952/10/27     9                   Monday                             
+1952/10/28     10                  Tuesday                            
+1952/10/29     11                  Wednesday                          
+1952/10/30     12                  Thursday                           
+1952/10/31     13                  Friday                             
+1952/11/01     14                  Saturday                           
+1952/11/02     15                  Sunday                             
+1952/11/03     16                  Monday                             
+1952/11/04     17                  Tuesday                            
+1952/11/05     18                  Wednesday                          
+1952/11/06     19                  Thursday                           
+1952/11/07     20                  Friday         Winter Commences    
+1952/11/08     21                  Saturday                           
+1952/11/09     22                  Sunday                             
+1952/11/10     23                  Monday                             
+1952/11/11     24                  Tuesday                            
+1952/11/12     25                  Wednesday                          
+1952/11/13     26                  Thursday                           
+1952/11/14     27                  Friday                             
+1952/11/15     28                  Saturday                           
+1952/11/16     29                  Sunday                             
+1952/11/17     10th Lunar month    Monday                             
+1952/11/18     2                   Tuesday                            
+1952/11/19     3                   Wednesday                          
+1952/11/20     4                   Thursday                           
+1952/11/21     5                   Friday                             
+1952/11/22     6                   Saturday       Light Snow          
+1952/11/23     7                   Sunday                             
+1952/11/24     8                   Monday                             
+1952/11/25     9                   Tuesday                            
+1952/11/26     10                  Wednesday                          
+1952/11/27     11                  Thursday                           
+1952/11/28     12                  Friday                             
+1952/11/29     13                  Saturday                           
+1952/11/30     14                  Sunday                             
+1952/12/01     15                  Monday                             
+1952/12/02     16                  Tuesday                            
+1952/12/03     17                  Wednesday                          
+1952/12/04     18                  Thursday                           
+1952/12/05     19                  Friday                             
+1952/12/06     20                  Saturday                           
+1952/12/07     21                  Sunday         Heavy Snow          
+1952/12/08     22                  Monday                             
+1952/12/09     23                  Tuesday                            
+1952/12/10     24                  Wednesday                          
+1952/12/11     25                  Thursday                           
+1952/12/12     26                  Friday                             
+1952/12/13     27                  Saturday                           
+1952/12/14     28                  Sunday                             
+1952/12/15     29                  Monday                             
+1952/12/16     30                  Tuesday                            
+1952/12/17     11th Lunar month    Wednesday                          
+1952/12/18     2                   Thursday                           
+1952/12/19     3                   Friday                             
+1952/12/20     4                   Saturday                           
+1952/12/21     5                   Sunday                             
+1952/12/22     6                   Monday         Winter Solstice     
+1952/12/23     7                   Tuesday                            
+1952/12/24     8                   Wednesday                          
+1952/12/25     9                   Thursday                           
+1952/12/26     10                  Friday                             
+1952/12/27     11                  Saturday                           
+1952/12/28     12                  Sunday                             
+1952/12/29     13                  Monday                             
+1952/12/30     14                  Tuesday                            
+1952/12/31     15                  Wednesday                          
+
+In 1952, summer time was enforced during 6 April to 2 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

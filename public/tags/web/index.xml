@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on hoas&#39; blog | One Stupid Boy</title>
+    <link>/tags/web/</link>
+    <description>Recent content in web on hoas&#39; blog | One Stupid Boy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internet</title>
+      <link>/2019/09/2019-09-27-internet/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/2019-09-27-internet/</guid>
+      <description>&lt;p&gt;冷战期间，美苏两大超级大国的各种科技和军备竞赛，导致各大核武库均具有毁灭地球多次的可怕能力，同时也快速推动着科技的发展，特别是计算机及相关技术的极速发展，互联网的雏形在美国出现了。但是互联网如果需要继续发展，那么第一个根本要点就是如何解决不同的电脑接入同一个系统的问题。为了解决这个问题，1972 年国际互联网工作组（INWG）开始组织起草了 TELNET 协议，并于 1973 年和 1974 年分别制定了 FTP 文件传输协议和 TCP 传输控制协议。有了这三个基本的接入标准，就为日后互联网的爆发奠定了基础，因为所有的电脑都可以按照统一的标准接入互联网。&lt;/p&gt;
+
+&lt;p&gt;但是大量接入的电脑互相之间该如何通讯呢？这就需要给每台接入的电脑设置一个门牌号，大家都互有门牌号，你只要知道对方的门牌号，然后将信息按照统一的格式打包成数据包，并按照统一的交换标准进行数据传输。这个门牌号，我们叫 IP 地址&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，这是在 1983 年确立的 TCP/IP 协议，有了这个协议标准终于引爆了现代互联网时代。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://073bddbe7aa062defd37fde3-cwzdvdpfea.netdna-ssl.com/wp-content/uploads/2017/05/cloud-computing-logistics-2017-1000x640.jpg&#34; alt=&#34;networks&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

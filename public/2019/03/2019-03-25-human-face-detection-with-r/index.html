@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>R语言人脸识别 | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noodp" />
+<meta name="Description" content="R语言人脸识别">
+<link rel="prev" href="/2019/03/2019-03-23-using-r-in-cs/" />
+<link rel="next" href="/2019/03/2019-03-28-read-access-and-mssql-in-r/" />
+<link rel="canonical" href="/2019/03/2019-03-25-human-face-detection-with-r/" />
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="R语言人脸识别"/>
+<meta name="twitter:description" content="R语言人脸识别"/>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "R语言人脸识别",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "\/2019\/03\/2019-03-25-human-face-detection-with-r\/"
+    },
+    
+        "image": {
+            "@type": "ImageObject",
+            "url": "\/cover.png",
+            "width":  800 ,
+            "height":  600 
+        },
+    
+    "genre": "posts",
+    
+        "keywords": "R",
+    
+    "wordcount":  228 ,
+    "url": "\/2019\/03\/2019-03-25-human-face-detection-with-r\/",
+    
+        "datePublished": "2019-03-25T00:00:00\x2b00:00",
+    
+    
+        "dateModified": "2019-03-25T19:41:32\x2b08:00",
+    
+    
+        "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    
+    
+        "publisher": {
+            "@type": "Organization",
+            "name": "XXXX",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "\/logo.png",
+            "width":  127 ,
+            "height":  40 
+            }
+        },
+    
+    
+    "description": "R语言人脸识别"
+    }
+    </script>
+<link rel="stylesheet" href="/css/style.min.css">
+<link rel="stylesheet" href="/css/lib/fontawesome-free/all.min.min.css">
+
+<link rel="stylesheet" href="/css/lib/animate/animate.min.min.css">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    </head>
+    <body>
+        <script>
+            window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            window.isDark && document.body.classList.add('dark-theme');
+        </script>
+        <div class="wrapper">
+            <nav class="navbar">
+    <div class="navbar-container">
+        <div class="navbar-header">
+            <a href="/">hoas&#39; blog | One Stupid Boy</a>
+        </div>
+        <div class="navbar-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+            <a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a>
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile">
+     <div class="navbar-container">
+        <div class="navbar-header">
+            <div><a href="javascript:void(0);" class="theme-switch"><i class="fas fa-adjust fa-rotate-180 fa-fw"></i></a><a href="/">hoas&#39; blog | One Stupid Boy</a></div>
+            <div class="menu-toggle" id="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="navbar-menu" id="mobile-menu">
+            
+            
+                <a class="menu-item" href="/posts/" title="">文章</a>
+            
+                <a class="menu-item" href="/tags/" title="">标签</a>
+            
+                <a class="menu-item" href="/categories/" title="">目录</a>
+            
+                <a class="menu-item" href="/about/" title="">关于</a>
+            
+        </div>
+    </div>
+</nav><main class="main">
+                <div class="container">
+                    
+    
+    
+    
+       
+    
+
+    <article class="post-warp">
+        <h1 class="post-title animated flipInX">R语言人脸识别</h1>
+
+        <div class="post-meta">
+            <div class="post-meta-main">
+                <a class="author" href="/" rel="author"><i class="fas fa-user-circle fa-fw"></i>hoas&nbsp;</a>
+                <span class="post-category">
+                        收录于
+                        <i class="far fa-folder fa-fw"></i><a href="/categories/brilliant/">brilliant</a>
+                            
+                    </span>
+            </div>
+            <div class="post-meta-other">
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-03-25>2019-03-25</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 228 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 1 分钟&nbsp;</div>
+        </div>
+
+        
+
+        <div class="post-toc" id="post-toc">
+                <h2 class="post-toc-title">目录</h2>
+                <div class="post-toc-content always-active">
+                    
+                </div>
+            </div>
+            <div class="post-toc-mobile" id="post-toc-mobile">
+                <details>
+                    <summary><div class="post-toc-title"><span>目录</span><span><i class="details icon fas fa-angle-down"></i></span></div></summary>
+                    <div class="post-toc-content">
+                        
+                        
+                        
+                    </div>
+                </details>
+            </div>
+
+        <div class="post-content">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>无意中在<a href="https://www.r-bloggers.com/">R-bloggers</a>上看到了一篇<del>终于可以自己操作的</del><a href="https://www.r-bloggers.com/human-face-detection-with-r/">关于人脸识别的文章</a>！自己也来试了试，嘿嘿，这小猪脸也被识别成人脸了，猪年就是不一样呀！</p>
+
+<p><figure><img src=/images/loading.svg data-sizes=auto data-src=https://github.com/hoasxyz/mdphotos/raw/master/Terry%20Lin/%E6%8A%93%E7%8C%AA%E7%82%AB.jpeg alt=抓猪炫 class=lazyload><figcaption class=image-caption>抓猪炫</figcaption></figure></p>
+
+<p>安装的两个包都挺大的，感觉这个<a href="https://github.com/bnosac/image">项目</a>不只有人脸识别。</p>
+
+<p>以下的代码还得学习呀！</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="cp"># install.packages(&#34;magick&#34;)
+</span><span class="cp"># install.packages(&#34;image.libfacedetection&#34;, repos = &#34;https:</span><span class="c1">//bnosac.github.io/drat&#34;)
+</span><span class="c1"></span><span class="n">library</span><span class="p">(</span><span class="n">magick</span><span class="p">)</span>
+<span class="n">library</span><span class="p">(</span><span class="n">image</span><span class="p">.</span><span class="n">libfacedetection</span><span class="p">)</span>
+<span class="n">image</span> <span class="o">&lt;-</span> <span class="n">image_read</span><span class="p">(</span><span class="s">&#34;https://github.com/hoasxyz/mdphotos/raw/master/Terry%20Lin/%E6%8A%93%E7%8C%AA%E7%82%AB.jpg&#34;</span><span class="p">)</span>
+<span class="n">faces</span> <span class="o">&lt;-</span> <span class="n">image_detect_faces</span><span class="p">(</span><span class="n">image</span><span class="p">)</span>
+<span class="n">faces</span>
+<span class="n">plot</span><span class="p">(</span><span class="n">faces</span><span class="p">,</span> <span class="n">image</span><span class="p">,</span> <span class="n">border</span> <span class="o">=</span> <span class="s">&#34;red&#34;</span><span class="p">,</span> <span class="n">lwd</span> <span class="o">=</span> <span class="mi">7</span><span class="p">,</span> <span class="n">col</span> <span class="o">=</span> <span class="s">&#34;white&#34;</span><span class="p">)</span>
+
+<span class="n">allfaces</span> <span class="o">&lt;-</span> <span class="n">Map</span><span class="p">(</span>
+  <span class="n">x</span>      <span class="o">=</span> <span class="n">faces</span><span class="err">$</span><span class="n">detections</span><span class="err">$</span><span class="n">x</span><span class="p">,</span>
+  <span class="n">y</span>      <span class="o">=</span> <span class="n">faces</span><span class="err">$</span><span class="n">detections</span><span class="err">$</span><span class="n">y</span><span class="p">,</span>
+  <span class="n">width</span>  <span class="o">=</span> <span class="n">faces</span><span class="err">$</span><span class="n">detections</span><span class="err">$</span><span class="n">width</span><span class="p">,</span>
+  <span class="n">height</span> <span class="o">=</span> <span class="n">faces</span><span class="err">$</span><span class="n">detections</span><span class="err">$</span><span class="n">height</span><span class="p">,</span>
+  <span class="n">f</span> <span class="o">=</span> <span class="n">function</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">width</span><span class="p">,</span> <span class="n">height</span><span class="p">){</span>
+    <span class="n">image_crop</span><span class="p">(</span><span class="n">image</span><span class="p">,</span> <span class="n">geometry_area</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span> <span class="n">width</span> <span class="o">=</span> <span class="n">width</span><span class="p">,</span> <span class="n">height</span> <span class="o">=</span> <span class="n">height</span><span class="p">))</span>
+  <span class="p">})</span>
+<span class="n">allfaces</span> <span class="o">&lt;-</span> <span class="k">do</span><span class="p">.</span><span class="n">call</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">allfaces</span><span class="p">)</span>
+<span class="n">allfaces</span></code></pre></td></tr></table>
+</div>
+</div>
+<p><code>allfaces</code>是出了一个动态图，具体的操作都很简单，这里就不贴了。</p>
+        </div>
+
+        <div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>本文于 2019-03-25 更新</span>
+            </div>
+            <div class="post-info-license">
+                
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                
+                    
+                        <span><a class="link-to-markdown" href="/2019/03/2019-03-25-human-face-detection-with-r/index.md" target="_blank">阅读原始文档</a></span>
+                    
+                
+            </div>
+            <div class="post-info-share">
+                
+                    <span></span>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section>
+            
+                
+                    <span class="tag">
+                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                    </span>
+                
+            
+        </section>
+        <section>
+            <span><a href="javascript:window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+        
+            <a href="/2019/03/2019-03-23-using-r-in-cs/" class="prev" rel="prev" title="C#调用R"><i class="fas fa-angle-left fa-fw"></i>C#调用R</a>
+        
+        
+            <a href="/2019/03/2019-03-28-read-access-and-mssql-in-r/" class="next" rel="next" title="R语言读取Access和MS SQL">R语言读取Access和MS SQL<i class="fas fa-angle-right fa-fw"></i></a>
+        
+    </div>
+</div>
+
+        <div class="post-comment">
+            
+            
+
+            
+        </div>
+    </article></div>
+            </main>
+            <footer class="footer">
+    <div class="copyright">
+        <div class="copyright-line">
+            由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> 强力驱动&nbsp;|&nbsp;主题 - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer">LoveIt<i class="far fa-heart fa-fw"></i></a>
+        </div>
+        <div class="copyright-line">
+            <i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2018 - 2019</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/">hoas</a></span><span class="license">&nbsp;|&nbsp;<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+    </div>
+    <script>
+        (function(u, c) {
+         var d = document, t = 'script', o = d.createElement(t),
+              s = d.getElementsByTagName(t)[0];
+         o.src = u;
+         if (c) { o.addEventListener('load', function(e) { c(e); }); }
+         s.parentNode.insertBefore(o, s);
+        })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+            pangu.spacingPage();
+            
+        });
+    </script>
+</footer>
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+    
+    
+
+
+<script src="/js/lib/jquery/jquery.slim.min.min.js"></script>
+<script src="/js/lib/lazysizes/lazysizes.min.min.js"></script>
+<script src="/js/lib/smooth-scroll/smooth-scroll.polyfills.min.min.js"></script><script>window.scroll = new SmoothScroll('[data-scroll]', {speed: 300, speedAsDuration: true});</script>
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+<script src="/js/blog.min.js"></script>
+
+
+    
+</div>
+        <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+    </body>
+</html>

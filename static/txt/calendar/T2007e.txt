@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2007 (Ding-hai ¡V year of the Pig)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2007/01/01     13                  Monday                             
+2007/01/02     14                  Tuesday                            
+2007/01/03     15                  Wednesday                          
+2007/01/04     16                  Thursday                           
+2007/01/05     17                  Friday                             
+2007/01/06     18                  Saturday       Moderate Cold       
+2007/01/07     19                  Sunday                             
+2007/01/08     20                  Monday                             
+2007/01/09     21                  Tuesday                            
+2007/01/10     22                  Wednesday                          
+2007/01/11     23                  Thursday                           
+2007/01/12     24                  Friday                             
+2007/01/13     25                  Saturday                           
+2007/01/14     26                  Sunday                             
+2007/01/15     27                  Monday                             
+2007/01/16     28                  Tuesday                            
+2007/01/17     29                  Wednesday                          
+2007/01/18     30                  Thursday                           
+2007/01/19     12th Lunar month    Friday                             
+2007/01/20     2                   Saturday       Severe Cold         
+2007/01/21     3                   Sunday                             
+2007/01/22     4                   Monday                             
+2007/01/23     5                   Tuesday                            
+2007/01/24     6                   Wednesday                          
+2007/01/25     7                   Thursday                           
+2007/01/26     8                   Friday                             
+2007/01/27     9                   Saturday                           
+2007/01/28     10                  Sunday                             
+2007/01/29     11                  Monday                             
+2007/01/30     12                  Tuesday                            
+2007/01/31     13                  Wednesday                          
+2007/02/01     14                  Thursday                           
+2007/02/02     15                  Friday                             
+2007/02/03     16                  Saturday                           
+2007/02/04     17                  Sunday         Spring Commences    
+2007/02/05     18                  Monday                             
+2007/02/06     19                  Tuesday                            
+2007/02/07     20                  Wednesday                          
+2007/02/08     21                  Thursday                           
+2007/02/09     22                  Friday                             
+2007/02/10     23                  Saturday                           
+2007/02/11     24                  Sunday                             
+2007/02/12     25                  Monday                             
+2007/02/13     26                  Tuesday                            
+2007/02/14     27                  Wednesday                          
+2007/02/15     28                  Thursday                           
+2007/02/16     29                  Friday                             
+2007/02/17     30                  Saturday                           
+2007/02/18     1st Lunar month     Sunday                             
+2007/02/19     2                   Monday         Spring Showers      
+2007/02/20     3                   Tuesday                            
+2007/02/21     4                   Wednesday                          
+2007/02/22     5                   Thursday                           
+2007/02/23     6                   Friday                             
+2007/02/24     7                   Saturday                           
+2007/02/25     8                   Sunday                             
+2007/02/26     9                   Monday                             
+2007/02/27     10                  Tuesday                            
+2007/02/28     11                  Wednesday                          
+2007/03/01     12                  Thursday                           
+2007/03/02     13                  Friday                             
+2007/03/03     14                  Saturday                           
+2007/03/04     15                  Sunday                             
+2007/03/05     16                  Monday                             
+2007/03/06     17                  Tuesday        Insects Waken       
+2007/03/07     18                  Wednesday                          
+2007/03/08     19                  Thursday                           
+2007/03/09     20                  Friday                             
+2007/03/10     21                  Saturday                           
+2007/03/11     22                  Sunday                             
+2007/03/12     23                  Monday                             
+2007/03/13     24                  Tuesday                            
+2007/03/14     25                  Wednesday                          
+2007/03/15     26                  Thursday                           
+2007/03/16     27                  Friday                             
+2007/03/17     28                  Saturday                           
+2007/03/18     29                  Sunday                             
+2007/03/19     2nd Lunar month     Monday                             
+2007/03/20     2                   Tuesday                            
+2007/03/21     3                   Wednesday      Vernal Equinox      
+2007/03/22     4                   Thursday                           
+2007/03/23     5                   Friday                             
+2007/03/24     6                   Saturday                           
+2007/03/25     7                   Sunday                             
+2007/03/26     8                   Monday                             
+2007/03/27     9                   Tuesday                            
+2007/03/28     10                  Wednesday                          
+2007/03/29     11                  Thursday                           
+2007/03/30     12                  Friday                             
+2007/03/31     13                  Saturday                           
+2007/04/01     14                  Sunday                             
+2007/04/02     15                  Monday                             
+2007/04/03     16                  Tuesday                            
+2007/04/04     17                  Wednesday                          
+2007/04/05     18                  Thursday       Bright & Clear      
+2007/04/06     19                  Friday                             
+2007/04/07     20                  Saturday                           
+2007/04/08     21                  Sunday                             
+2007/04/09     22                  Monday                             
+2007/04/10     23                  Tuesday                            
+2007/04/11     24                  Wednesday                          
+2007/04/12     25                  Thursday                           
+2007/04/13     26                  Friday                             
+2007/04/14     27                  Saturday                           
+2007/04/15     28                  Sunday                             
+2007/04/16     29                  Monday                             
+2007/04/17     3rd Lunar month     Tuesday                            
+2007/04/18     2                   Wednesday                          
+2007/04/19     3                   Thursday                           
+2007/04/20     4                   Friday         Corn Rain           
+2007/04/21     5                   Saturday                           
+2007/04/22     6                   Sunday                             
+2007/04/23     7                   Monday                             
+2007/04/24     8                   Tuesday                            
+2007/04/25     9                   Wednesday                          
+2007/04/26     10                  Thursday                           
+2007/04/27     11                  Friday                             
+2007/04/28     12                  Saturday                           
+2007/04/29     13                  Sunday                             
+2007/04/30     14                  Monday                             
+2007/05/01     15                  Tuesday                            
+2007/05/02     16                  Wednesday                          
+2007/05/03     17                  Thursday                           
+2007/05/04     18                  Friday                             
+2007/05/05     19                  Saturday                           
+2007/05/06     20                  Sunday         Summer Commences    
+2007/05/07     21                  Monday                             
+2007/05/08     22                  Tuesday                            
+2007/05/09     23                  Wednesday                          
+2007/05/10     24                  Thursday                           
+2007/05/11     25                  Friday                             
+2007/05/12     26                  Saturday                           
+2007/05/13     27                  Sunday                             
+2007/05/14     28                  Monday                             
+2007/05/15     29                  Tuesday                            
+2007/05/16     30                  Wednesday                          
+2007/05/17     4th Lunar month     Thursday                           
+2007/05/18     2                   Friday                             
+2007/05/19     3                   Saturday                           
+2007/05/20     4                   Sunday                             
+2007/05/21     5                   Monday         Corn Forms          
+2007/05/22     6                   Tuesday                            
+2007/05/23     7                   Wednesday                          
+2007/05/24     8                   Thursday                           
+2007/05/25     9                   Friday                             
+2007/05/26     10                  Saturday                           
+2007/05/27     11                  Sunday                             
+2007/05/28     12                  Monday                             
+2007/05/29     13                  Tuesday                            
+2007/05/30     14                  Wednesday                          
+2007/05/31     15                  Thursday                           
+2007/06/01     16                  Friday                             
+2007/06/02     17                  Saturday                           
+2007/06/03     18                  Sunday                             
+2007/06/04     19                  Monday                             
+2007/06/05     20                  Tuesday                            
+2007/06/06     21                  Wednesday      Corn on Ear         
+2007/06/07     22                  Thursday                           
+2007/06/08     23                  Friday                             
+2007/06/09     24                  Saturday                           
+2007/06/10     25                  Sunday                             
+2007/06/11     26                  Monday                             
+2007/06/12     27                  Tuesday                            
+2007/06/13     28                  Wednesday                          
+2007/06/14     29                  Thursday                           
+2007/06/15     5th Lunar month     Friday                             
+2007/06/16     2                   Saturday                           
+2007/06/17     3                   Sunday                             
+2007/06/18     4                   Monday                             
+2007/06/19     5                   Tuesday                            
+2007/06/20     6                   Wednesday                          
+2007/06/21     7                   Thursday                           
+2007/06/22     8                   Friday         Summer Solstice     
+2007/06/23     9                   Saturday                           
+2007/06/24     10                  Sunday                             
+2007/06/25     11                  Monday                             
+2007/06/26     12                  Tuesday                            
+2007/06/27     13                  Wednesday                          
+2007/06/28     14                  Thursday                           
+2007/06/29     15                  Friday                             
+2007/06/30     16                  Saturday                           
+2007/07/01     17                  Sunday                             
+2007/07/02     18                  Monday                             
+2007/07/03     19                  Tuesday                            
+2007/07/04     20                  Wednesday                          
+2007/07/05     21                  Thursday                           
+2007/07/06     22                  Friday                             
+2007/07/07     23                  Saturday       Moderate Heat       
+2007/07/08     24                  Sunday                             
+2007/07/09     25                  Monday                             
+2007/07/10     26                  Tuesday                            
+2007/07/11     27                  Wednesday                          
+2007/07/12     28                  Thursday                           
+2007/07/13     29                  Friday                             
+2007/07/14     6th Lunar month     Saturday                           
+2007/07/15     2                   Sunday                             
+2007/07/16     3                   Monday                             
+2007/07/17     4                   Tuesday                            
+2007/07/18     5                   Wednesday                          
+2007/07/19     6                   Thursday                           
+2007/07/20     7                   Friday                             
+2007/07/21     8                   Saturday                           
+2007/07/22     9                   Sunday                             
+2007/07/23     10                  Monday         Great Heat          
+2007/07/24     11                  Tuesday                            
+2007/07/25     12                  Wednesday                          
+2007/07/26     13                  Thursday                           
+2007/07/27     14                  Friday                             
+2007/07/28     15                  Saturday                           
+2007/07/29     16                  Sunday                             
+2007/07/30     17                  Monday                             
+2007/07/31     18                  Tuesday                            
+2007/08/01     19                  Wednesday                          
+2007/08/02     20                  Thursday                           
+2007/08/03     21                  Friday                             
+2007/08/04     22                  Saturday                           
+2007/08/05     23                  Sunday                             
+2007/08/06     24                  Monday                             
+2007/08/07     25                  Tuesday                            
+2007/08/08     26                  Wednesday      Autumn Commences    
+2007/08/09     27                  Thursday                           
+2007/08/10     28                  Friday                             
+2007/08/11     29                  Saturday                           
+2007/08/12     30                  Sunday                             
+2007/08/13     7th Lunar month     Monday                             
+2007/08/14     2                   Tuesday                            
+2007/08/15     3                   Wednesday                          
+2007/08/16     4                   Thursday                           
+2007/08/17     5                   Friday                             
+2007/08/18     6                   Saturday                           
+2007/08/19     7                   Sunday                             
+2007/08/20     8                   Monday                             
+2007/08/21     9                   Tuesday                            
+2007/08/22     10                  Wednesday                          
+2007/08/23     11                  Thursday       End of Heat         
+2007/08/24     12                  Friday                             
+2007/08/25     13                  Saturday                           
+2007/08/26     14                  Sunday                             
+2007/08/27     15                  Monday                             
+2007/08/28     16                  Tuesday                            
+2007/08/29     17                  Wednesday                          
+2007/08/30     18                  Thursday                           
+2007/08/31     19                  Friday                             
+2007/09/01     20                  Saturday                           
+2007/09/02     21                  Sunday                             
+2007/09/03     22                  Monday                             
+2007/09/04     23                  Tuesday                            
+2007/09/05     24                  Wednesday                          
+2007/09/06     25                  Thursday                           
+2007/09/07     26                  Friday                             
+2007/09/08     27                  Saturday       White Dew           
+2007/09/09     28                  Sunday                             
+2007/09/10     29                  Monday                             
+2007/09/11     8th Lunar month     Tuesday                            
+2007/09/12     2                   Wednesday                          
+2007/09/13     3                   Thursday                           
+2007/09/14     4                   Friday                             
+2007/09/15     5                   Saturday                           
+2007/09/16     6                   Sunday                             
+2007/09/17     7                   Monday                             
+2007/09/18     8                   Tuesday                            
+2007/09/19     9                   Wednesday                          
+2007/09/20     10                  Thursday                           
+2007/09/21     11                  Friday                             
+2007/09/22     12                  Saturday                           
+2007/09/23     13                  Sunday         Autumnal Equinox    
+2007/09/24     14                  Monday                             
+2007/09/25     15                  Tuesday                            
+2007/09/26     16                  Wednesday                          
+2007/09/27     17                  Thursday                           
+2007/09/28     18                  Friday                             
+2007/09/29     19                  Saturday                           
+2007/09/30     20                  Sunday                             
+2007/10/01     21                  Monday                             
+2007/10/02     22                  Tuesday                            
+2007/10/03     23                  Wednesday                          
+2007/10/04     24                  Thursday                           
+2007/10/05     25                  Friday                             
+2007/10/06     26                  Saturday                           
+2007/10/07     27                  Sunday                             
+2007/10/08     28                  Monday                             
+2007/10/09     29                  Tuesday        Cold Dew            
+2007/10/10     30                  Wednesday                          
+2007/10/11     9th Lunar month     Thursday                           
+2007/10/12     2                   Friday                             
+2007/10/13     3                   Saturday                           
+2007/10/14     4                   Sunday                             
+2007/10/15     5                   Monday                             
+2007/10/16     6                   Tuesday                            
+2007/10/17     7                   Wednesday                          
+2007/10/18     8                   Thursday                           
+2007/10/19     9                   Friday                             
+2007/10/20     10                  Saturday                           
+2007/10/21     11                  Sunday                             
+2007/10/22     12                  Monday                             
+2007/10/23     13                  Tuesday                            
+2007/10/24     14                  Wednesday      Frost               
+2007/10/25     15                  Thursday                           
+2007/10/26     16                  Friday                             
+2007/10/27     17                  Saturday                           
+2007/10/28     18                  Sunday                             
+2007/10/29     19                  Monday                             
+2007/10/30     20                  Tuesday                            
+2007/10/31     21                  Wednesday                          
+2007/11/01     22                  Thursday                           
+2007/11/02     23                  Friday                             
+2007/11/03     24                  Saturday                           
+2007/11/04     25                  Sunday                             
+2007/11/05     26                  Monday                             
+2007/11/06     27                  Tuesday                            
+2007/11/07     28                  Wednesday                          
+2007/11/08     29                  Thursday       Winter Commences    
+2007/11/09     30                  Friday                             
+2007/11/10     10th Lunar month    Saturday                           
+2007/11/11     2                   Sunday                             
+2007/11/12     3                   Monday                             
+2007/11/13     4                   Tuesday                            
+2007/11/14     5                   Wednesday                          
+2007/11/15     6                   Thursday                           
+2007/11/16     7                   Friday                             
+2007/11/17     8                   Saturday                           
+2007/11/18     9                   Sunday                             
+2007/11/19     10                  Monday                             
+2007/11/20     11                  Tuesday                            
+2007/11/21     12                  Wednesday                          
+2007/11/22     13                  Thursday                           
+2007/11/23     14                  Friday         Light Snow          
+2007/11/24     15                  Saturday                           
+2007/11/25     16                  Sunday                             
+2007/11/26     17                  Monday                             
+2007/11/27     18                  Tuesday                            
+2007/11/28     19                  Wednesday                          
+2007/11/29     20                  Thursday                           
+2007/11/30     21                  Friday                             
+2007/12/01     22                  Saturday                           
+2007/12/02     23                  Sunday                             
+2007/12/03     24                  Monday                             
+2007/12/04     25                  Tuesday                            
+2007/12/05     26                  Wednesday                          
+2007/12/06     27                  Thursday                           
+2007/12/07     28                  Friday         Heavy Snow          
+2007/12/08     29                  Saturday                           
+2007/12/09     30                  Sunday                             
+2007/12/10     11th Lunar month    Monday                             
+2007/12/11     2                   Tuesday                            
+2007/12/12     3                   Wednesday                          
+2007/12/13     4                   Thursday                           
+2007/12/14     5                   Friday                             
+2007/12/15     6                   Saturday                           
+2007/12/16     7                   Sunday                             
+2007/12/17     8                   Monday                             
+2007/12/18     9                   Tuesday                            
+2007/12/19     10                  Wednesday                          
+2007/12/20     11                  Thursday                           
+2007/12/21     12                  Friday                             
+2007/12/22     13                  Saturday       Winter Solstice     
+2007/12/23     14                  Sunday                             
+2007/12/24     15                  Monday                             
+2007/12/25     16                  Tuesday                            
+2007/12/26     17                  Wednesday                          
+2007/12/27     18                  Thursday                           
+2007/12/28     19                  Friday                             
+2007/12/29     20                  Saturday                           
+2007/12/30     21                  Sunday                             
+2007/12/31     22                  Monday                             

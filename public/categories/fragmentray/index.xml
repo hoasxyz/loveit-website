@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fragmentray on hoas&#39; blog | One Stupid Boy</title>
+    <link>/categories/fragmentray/</link>
+    <description>Recent content in fragmentray on hoas&#39; blog | One Stupid Boy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/fragmentray/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tables in Website</title>
+      <link>/2019/02/2019-02-12-tables-in-website/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/2019-02-12-tables-in-website/</guid>
+      <description>yesMany ways of building tables in website based on different packages.
+kableExtraSave Tables and Use them as Images
+Using kableExtra in Radix
+options(kableExtra.html.bsTable = T) knitr::kable(head(mtcars),&amp;quot;html&amp;quot;)mpgcyldisphpdratwtqsecvsamgearcarbMazda RX421.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1956 (Bing-shen ¡V year of the Monkey)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1956/01/01     19                  Sunday                             
+1956/01/02     20                  Monday                             
+1956/01/03     21                  Tuesday                            
+1956/01/04     22                  Wednesday                          
+1956/01/05     23                  Thursday                           
+1956/01/06     24                  Friday         Moderate Cold       
+1956/01/07     25                  Saturday                           
+1956/01/08     26                  Sunday                             
+1956/01/09     27                  Monday                             
+1956/01/10     28                  Tuesday                            
+1956/01/11     29                  Wednesday                          
+1956/01/12     30                  Thursday                           
+1956/01/13     12th Lunar month    Friday                             
+1956/01/14     2                   Saturday                           
+1956/01/15     3                   Sunday                             
+1956/01/16     4                   Monday                             
+1956/01/17     5                   Tuesday                            
+1956/01/18     6                   Wednesday                          
+1956/01/19     7                   Thursday                           
+1956/01/20     8                   Friday                             
+1956/01/21     9                   Saturday       Severe Cold         
+1956/01/22     10                  Sunday                             
+1956/01/23     11                  Monday                             
+1956/01/24     12                  Tuesday                            
+1956/01/25     13                  Wednesday                          
+1956/01/26     14                  Thursday                           
+1956/01/27     15                  Friday                             
+1956/01/28     16                  Saturday                           
+1956/01/29     17                  Sunday                             
+1956/01/30     18                  Monday                             
+1956/01/31     19                  Tuesday                            
+1956/02/01     20                  Wednesday                          
+1956/02/02     21                  Thursday                           
+1956/02/03     22                  Friday                             
+1956/02/04     23                  Saturday                           
+1956/02/05     24                  Sunday         Spring Commences    
+1956/02/06     25                  Monday                             
+1956/02/07     26                  Tuesday                            
+1956/02/08     27                  Wednesday                          
+1956/02/09     28                  Thursday                           
+1956/02/10     29                  Friday                             
+1956/02/11     30                  Saturday                           
+1956/02/12     1st Lunar month     Sunday                             
+1956/02/13     2                   Monday                             
+1956/02/14     3                   Tuesday                            
+1956/02/15     4                   Wednesday                          
+1956/02/16     5                   Thursday                           
+1956/02/17     6                   Friday                             
+1956/02/18     7                   Saturday                           
+1956/02/19     8                   Sunday                             
+1956/02/20     9                   Monday         Spring Showers      
+1956/02/21     10                  Tuesday                            
+1956/02/22     11                  Wednesday                          
+1956/02/23     12                  Thursday                           
+1956/02/24     13                  Friday                             
+1956/02/25     14                  Saturday                           
+1956/02/26     15                  Sunday                             
+1956/02/27     16                  Monday                             
+1956/02/28     17                  Tuesday                            
+1956/02/29     18                  Wednesday                          
+1956/03/01     19                  Thursday                           
+1956/03/02     20                  Friday                             
+1956/03/03     21                  Saturday                           
+1956/03/04     22                  Sunday                             
+1956/03/05     23                  Monday         Insects Waken       
+1956/03/06     24                  Tuesday                            
+1956/03/07     25                  Wednesday                          
+1956/03/08     26                  Thursday                           
+1956/03/09     27                  Friday                             
+1956/03/10     28                  Saturday                           
+1956/03/11     29                  Sunday                             
+1956/03/12     2nd Lunar month     Monday                             
+1956/03/13     2                   Tuesday                            
+1956/03/14     3                   Wednesday                          
+1956/03/15     4                   Thursday                           
+1956/03/16     5                   Friday                             
+1956/03/17     6                   Saturday                           
+1956/03/18     7                   Sunday                             
+1956/03/19     8                   Monday                             
+1956/03/20     9                   Tuesday        Vernal Equinox      
+1956/03/21     10                  Wednesday                          
+1956/03/22     11                  Thursday                           
+1956/03/23     12                  Friday                             
+1956/03/24     13                  Saturday                           
+1956/03/25     14                  Sunday                             
+1956/03/26     15                  Monday                             
+1956/03/27     16                  Tuesday                            
+1956/03/28     17                  Wednesday                          
+1956/03/29     18                  Thursday                           
+1956/03/30     19                  Friday                             
+1956/03/31     20                  Saturday                           
+1956/04/01     21                  Sunday                             
+1956/04/02     22                  Monday                             
+1956/04/03     23                  Tuesday                            
+1956/04/04     24                  Wednesday                          
+1956/04/05     25                  Thursday       Bright & Clear      
+1956/04/06     26                  Friday                             
+1956/04/07     27                  Saturday                           
+1956/04/08     28                  Sunday                             
+1956/04/09     29                  Monday                             
+1956/04/10     30                  Tuesday                            
+1956/04/11     3rd Lunar month     Wednesday                          
+1956/04/12     2                   Thursday                           
+1956/04/13     3                   Friday                             
+1956/04/14     4                   Saturday                           
+1956/04/15     5                   Sunday                             
+1956/04/16     6                   Monday                             
+1956/04/17     7                   Tuesday                            
+1956/04/18     8                   Wednesday                          
+1956/04/19     9                   Thursday                           
+1956/04/20     10                  Friday         Corn Rain           
+1956/04/21     11                  Saturday                           
+1956/04/22     12                  Sunday                             
+1956/04/23     13                  Monday                             
+1956/04/24     14                  Tuesday                            
+1956/04/25     15                  Wednesday                          
+1956/04/26     16                  Thursday                           
+1956/04/27     17                  Friday                             
+1956/04/28     18                  Saturday                           
+1956/04/29     19                  Sunday                             
+1956/04/30     20                  Monday                             
+1956/05/01     21                  Tuesday                            
+1956/05/02     22                  Wednesday                          
+1956/05/03     23                  Thursday                           
+1956/05/04     24                  Friday                             
+1956/05/05     25                  Saturday       Summer Commences    
+1956/05/06     26                  Sunday                             
+1956/05/07     27                  Monday                             
+1956/05/08     28                  Tuesday                            
+1956/05/09     29                  Wednesday                          
+1956/05/10     4th Lunar month     Thursday                           
+1956/05/11     2                   Friday                             
+1956/05/12     3                   Saturday                           
+1956/05/13     4                   Sunday                             
+1956/05/14     5                   Monday                             
+1956/05/15     6                   Tuesday                            
+1956/05/16     7                   Wednesday                          
+1956/05/17     8                   Thursday                           
+1956/05/18     9                   Friday                             
+1956/05/19     10                  Saturday                           
+1956/05/20     11                  Sunday                             
+1956/05/21     12                  Monday         Corn Forms          
+1956/05/22     13                  Tuesday                            
+1956/05/23     14                  Wednesday                          
+1956/05/24     15                  Thursday                           
+1956/05/25     16                  Friday                             
+1956/05/26     17                  Saturday                           
+1956/05/27     18                  Sunday                             
+1956/05/28     19                  Monday                             
+1956/05/29     20                  Tuesday                            
+1956/05/30     21                  Wednesday                          
+1956/05/31     22                  Thursday                           
+1956/06/01     23                  Friday                             
+1956/06/02     24                  Saturday                           
+1956/06/03     25                  Sunday                             
+1956/06/04     26                  Monday                             
+1956/06/05     27                  Tuesday                            
+1956/06/06     28                  Wednesday      Corn on Ear         
+1956/06/07     29                  Thursday                           
+1956/06/08     30                  Friday                             
+1956/06/09     5th Lunar month     Saturday                           
+1956/06/10     2                   Sunday                             
+1956/06/11     3                   Monday                             
+1956/06/12     4                   Tuesday                            
+1956/06/13     5                   Wednesday                          
+1956/06/14     6                   Thursday                           
+1956/06/15     7                   Friday                             
+1956/06/16     8                   Saturday                           
+1956/06/17     9                   Sunday                             
+1956/06/18     10                  Monday                             
+1956/06/19     11                  Tuesday                            
+1956/06/20     12                  Wednesday                          
+1956/06/21     13                  Thursday       Summer Solstice     
+1956/06/22     14                  Friday                             
+1956/06/23     15                  Saturday                           
+1956/06/24     16                  Sunday                             
+1956/06/25     17                  Monday                             
+1956/06/26     18                  Tuesday                            
+1956/06/27     19                  Wednesday                          
+1956/06/28     20                  Thursday                           
+1956/06/29     21                  Friday                             
+1956/06/30     22                  Saturday                           
+1956/07/01     23                  Sunday                             
+1956/07/02     24                  Monday                             
+1956/07/03     25                  Tuesday                            
+1956/07/04     26                  Wednesday                          
+1956/07/05     27                  Thursday                           
+1956/07/06     28                  Friday                             
+1956/07/07     29                  Saturday       Moderate Heat       
+1956/07/08     6th Lunar month     Sunday                             
+1956/07/09     2                   Monday                             
+1956/07/10     3                   Tuesday                            
+1956/07/11     4                   Wednesday                          
+1956/07/12     5                   Thursday                           
+1956/07/13     6                   Friday                             
+1956/07/14     7                   Saturday                           
+1956/07/15     8                   Sunday                             
+1956/07/16     9                   Monday                             
+1956/07/17     10                  Tuesday                            
+1956/07/18     11                  Wednesday                          
+1956/07/19     12                  Thursday                           
+1956/07/20     13                  Friday                             
+1956/07/21     14                  Saturday                           
+1956/07/22     15                  Sunday                             
+1956/07/23     16                  Monday         Great Heat          
+1956/07/24     17                  Tuesday                            
+1956/07/25     18                  Wednesday                          
+1956/07/26     19                  Thursday                           
+1956/07/27     20                  Friday                             
+1956/07/28     21                  Saturday                           
+1956/07/29     22                  Sunday                             
+1956/07/30     23                  Monday                             
+1956/07/31     24                  Tuesday                            
+1956/08/01     25                  Wednesday                          
+1956/08/02     26                  Thursday                           
+1956/08/03     27                  Friday                             
+1956/08/04     28                  Saturday                           
+1956/08/05     29                  Sunday                             
+1956/08/06     7th Lunar month     Monday                             
+1956/08/07     2                   Tuesday        Autumn Commences    
+1956/08/08     3                   Wednesday                          
+1956/08/09     4                   Thursday                           
+1956/08/10     5                   Friday                             
+1956/08/11     6                   Saturday                           
+1956/08/12     7                   Sunday                             
+1956/08/13     8                   Monday                             
+1956/08/14     9                   Tuesday                            
+1956/08/15     10                  Wednesday                          
+1956/08/16     11                  Thursday                           
+1956/08/17     12                  Friday                             
+1956/08/18     13                  Saturday                           
+1956/08/19     14                  Sunday                             
+1956/08/20     15                  Monday                             
+1956/08/21     16                  Tuesday                            
+1956/08/22     17                  Wednesday                          
+1956/08/23     18                  Thursday       End of Heat         
+1956/08/24     19                  Friday                             
+1956/08/25     20                  Saturday                           
+1956/08/26     21                  Sunday                             
+1956/08/27     22                  Monday                             
+1956/08/28     23                  Tuesday                            
+1956/08/29     24                  Wednesday                          
+1956/08/30     25                  Thursday                           
+1956/08/31     26                  Friday                             
+1956/09/01     27                  Saturday                           
+1956/09/02     28                  Sunday                             
+1956/09/03     29                  Monday                             
+1956/09/04     30                  Tuesday                            
+1956/09/05     8th Lunar month     Wednesday                          
+1956/09/06     2                   Thursday                           
+1956/09/07     3                   Friday                             
+1956/09/08     4                   Saturday       White Dew           
+1956/09/09     5                   Sunday                             
+1956/09/10     6                   Monday                             
+1956/09/11     7                   Tuesday                            
+1956/09/12     8                   Wednesday                          
+1956/09/13     9                   Thursday                           
+1956/09/14     10                  Friday                             
+1956/09/15     11                  Saturday                           
+1956/09/16     12                  Sunday                             
+1956/09/17     13                  Monday                             
+1956/09/18     14                  Tuesday                            
+1956/09/19     15                  Wednesday                          
+1956/09/20     16                  Thursday                           
+1956/09/21     17                  Friday                             
+1956/09/22     18                  Saturday                           
+1956/09/23     19                  Sunday         Autumnal Equinox    
+1956/09/24     20                  Monday                             
+1956/09/25     21                  Tuesday                            
+1956/09/26     22                  Wednesday                          
+1956/09/27     23                  Thursday                           
+1956/09/28     24                  Friday                             
+1956/09/29     25                  Saturday                           
+1956/09/30     26                  Sunday                             
+1956/10/01     27                  Monday                             
+1956/10/02     28                  Tuesday                            
+1956/10/03     29                  Wednesday                          
+1956/10/04     9th Lunar month     Thursday                           
+1956/10/05     2                   Friday                             
+1956/10/06     3                   Saturday                           
+1956/10/07     4                   Sunday                             
+1956/10/08     5                   Monday         Cold Dew            
+1956/10/09     6                   Tuesday                            
+1956/10/10     7                   Wednesday                          
+1956/10/11     8                   Thursday                           
+1956/10/12     9                   Friday                             
+1956/10/13     10                  Saturday                           
+1956/10/14     11                  Sunday                             
+1956/10/15     12                  Monday                             
+1956/10/16     13                  Tuesday                            
+1956/10/17     14                  Wednesday                          
+1956/10/18     15                  Thursday                           
+1956/10/19     16                  Friday                             
+1956/10/20     17                  Saturday                           
+1956/10/21     18                  Sunday                             
+1956/10/22     19                  Monday                             
+1956/10/23     20                  Tuesday        Frost               
+1956/10/24     21                  Wednesday                          
+1956/10/25     22                  Thursday                           
+1956/10/26     23                  Friday                             
+1956/10/27     24                  Saturday                           
+1956/10/28     25                  Sunday                             
+1956/10/29     26                  Monday                             
+1956/10/30     27                  Tuesday                            
+1956/10/31     28                  Wednesday                          
+1956/11/01     29                  Thursday                           
+1956/11/02     30                  Friday                             
+1956/11/03     10th Lunar month    Saturday                           
+1956/11/04     2                   Sunday                             
+1956/11/05     3                   Monday                             
+1956/11/06     4                   Tuesday                            
+1956/11/07     5                   Wednesday      Winter Commences    
+1956/11/08     6                   Thursday                           
+1956/11/09     7                   Friday                             
+1956/11/10     8                   Saturday                           
+1956/11/11     9                   Sunday                             
+1956/11/12     10                  Monday                             
+1956/11/13     11                  Tuesday                            
+1956/11/14     12                  Wednesday                          
+1956/11/15     13                  Thursday                           
+1956/11/16     14                  Friday                             
+1956/11/17     15                  Saturday                           
+1956/11/18     16                  Sunday                             
+1956/11/19     17                  Monday                             
+1956/11/20     18                  Tuesday                            
+1956/11/21     19                  Wednesday                          
+1956/11/22     20                  Thursday       Light Snow          
+1956/11/23     21                  Friday                             
+1956/11/24     22                  Saturday                           
+1956/11/25     23                  Sunday                             
+1956/11/26     24                  Monday                             
+1956/11/27     25                  Tuesday                            
+1956/11/28     26                  Wednesday                          
+1956/11/29     27                  Thursday                           
+1956/11/30     28                  Friday                             
+1956/12/01     29                  Saturday                           
+1956/12/02     11th Lunar month    Sunday                             
+1956/12/03     2                   Monday                             
+1956/12/04     3                   Tuesday                            
+1956/12/05     4                   Wednesday                          
+1956/12/06     5                   Thursday                           
+1956/12/07     6                   Friday         Heavy Snow          
+1956/12/08     7                   Saturday                           
+1956/12/09     8                   Sunday                             
+1956/12/10     9                   Monday                             
+1956/12/11     10                  Tuesday                            
+1956/12/12     11                  Wednesday                          
+1956/12/13     12                  Thursday                           
+1956/12/14     13                  Friday                             
+1956/12/15     14                  Saturday                           
+1956/12/16     15                  Sunday                             
+1956/12/17     16                  Monday                             
+1956/12/18     17                  Tuesday                            
+1956/12/19     18                  Wednesday                          
+1956/12/20     19                  Thursday                           
+1956/12/21     20                  Friday                             
+1956/12/22     21                  Saturday       Winter Solstice     
+1956/12/23     22                  Sunday                             
+1956/12/24     23                  Monday                             
+1956/12/25     24                  Tuesday                            
+1956/12/26     25                  Wednesday                          
+1956/12/27     26                  Thursday                           
+1956/12/28     27                  Friday                             
+1956/12/29     28                  Saturday                           
+1956/12/30     29                  Sunday                             
+1956/12/31     30                  Monday                             
+
+In 1956, summer time was enforced during 18 March to 4 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

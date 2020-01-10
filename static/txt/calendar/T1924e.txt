@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1924 (Jia-zi ¡V year of the Mouse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1924/01/01     25                  Tuesday                            
+1924/01/02     26                  Wednesday                          
+1924/01/03     27                  Thursday                           
+1924/01/04     28                  Friday                             
+1924/01/05     29                  Saturday                           
+1924/01/06     12th Lunar month    Sunday         Moderate Cold       
+1924/01/07     2                   Monday                             
+1924/01/08     3                   Tuesday                            
+1924/01/09     4                   Wednesday                          
+1924/01/10     5                   Thursday                           
+1924/01/11     6                   Friday                             
+1924/01/12     7                   Saturday                           
+1924/01/13     8                   Sunday                             
+1924/01/14     9                   Monday                             
+1924/01/15     10                  Tuesday                            
+1924/01/16     11                  Wednesday                          
+1924/01/17     12                  Thursday                           
+1924/01/18     13                  Friday                             
+1924/01/19     14                  Saturday                           
+1924/01/20     15                  Sunday                             
+1924/01/21     16                  Monday         Severe Cold         
+1924/01/22     17                  Tuesday                            
+1924/01/23     18                  Wednesday                          
+1924/01/24     19                  Thursday                           
+1924/01/25     20                  Friday                             
+1924/01/26     21                  Saturday                           
+1924/01/27     22                  Sunday                             
+1924/01/28     23                  Monday                             
+1924/01/29     24                  Tuesday                            
+1924/01/30     25                  Wednesday                          
+1924/01/31     26                  Thursday                           
+1924/02/01     27                  Friday                             
+1924/02/02     28                  Saturday                           
+1924/02/03     29                  Sunday                             
+1924/02/04     30                  Monday                             
+1924/02/05     1st Lunar month     Tuesday        Spring Commences    
+1924/02/06     2                   Wednesday                          
+1924/02/07     3                   Thursday                           
+1924/02/08     4                   Friday                             
+1924/02/09     5                   Saturday                           
+1924/02/10     6                   Sunday                             
+1924/02/11     7                   Monday                             
+1924/02/12     8                   Tuesday                            
+1924/02/13     9                   Wednesday                          
+1924/02/14     10                  Thursday                           
+1924/02/15     11                  Friday                             
+1924/02/16     12                  Saturday                           
+1924/02/17     13                  Sunday                             
+1924/02/18     14                  Monday                             
+1924/02/19     15                  Tuesday                            
+1924/02/20     16                  Wednesday      Spring Showers      
+1924/02/21     17                  Thursday                           
+1924/02/22     18                  Friday                             
+1924/02/23     19                  Saturday                           
+1924/02/24     20                  Sunday                             
+1924/02/25     21                  Monday                             
+1924/02/26     22                  Tuesday                            
+1924/02/27     23                  Wednesday                          
+1924/02/28     24                  Thursday                           
+1924/02/29     25                  Friday                             
+1924/03/01     26                  Saturday                           
+1924/03/02     27                  Sunday                             
+1924/03/03     28                  Monday                             
+1924/03/04     29                  Tuesday                            
+1924/03/05     2nd Lunar month     Wednesday                          
+1924/03/06     2                   Thursday       Insects Waken       
+1924/03/07     3                   Friday                             
+1924/03/08     4                   Saturday                           
+1924/03/09     5                   Sunday                             
+1924/03/10     6                   Monday                             
+1924/03/11     7                   Tuesday                            
+1924/03/12     8                   Wednesday                          
+1924/03/13     9                   Thursday                           
+1924/03/14     10                  Friday                             
+1924/03/15     11                  Saturday                           
+1924/03/16     12                  Sunday                             
+1924/03/17     13                  Monday                             
+1924/03/18     14                  Tuesday                            
+1924/03/19     15                  Wednesday                          
+1924/03/20     16                  Thursday                           
+1924/03/21     17                  Friday         Vernal Equinox      
+1924/03/22     18                  Saturday                           
+1924/03/23     19                  Sunday                             
+1924/03/24     20                  Monday                             
+1924/03/25     21                  Tuesday                            
+1924/03/26     22                  Wednesday                          
+1924/03/27     23                  Thursday                           
+1924/03/28     24                  Friday                             
+1924/03/29     25                  Saturday                           
+1924/03/30     26                  Sunday                             
+1924/03/31     27                  Monday                             
+1924/04/01     28                  Tuesday                            
+1924/04/02     29                  Wednesday                          
+1924/04/03     30                  Thursday                           
+1924/04/04     3rd Lunar month     Friday                             
+1924/04/05     2                   Saturday       Bright & Clear      
+1924/04/06     3                   Sunday                             
+1924/04/07     4                   Monday                             
+1924/04/08     5                   Tuesday                            
+1924/04/09     6                   Wednesday                          
+1924/04/10     7                   Thursday                           
+1924/04/11     8                   Friday                             
+1924/04/12     9                   Saturday                           
+1924/04/13     10                  Sunday                             
+1924/04/14     11                  Monday                             
+1924/04/15     12                  Tuesday                            
+1924/04/16     13                  Wednesday                          
+1924/04/17     14                  Thursday                           
+1924/04/18     15                  Friday                             
+1924/04/19     16                  Saturday                           
+1924/04/20     17                  Sunday         Corn Rain           
+1924/04/21     18                  Monday                             
+1924/04/22     19                  Tuesday                            
+1924/04/23     20                  Wednesday                          
+1924/04/24     21                  Thursday                           
+1924/04/25     22                  Friday                             
+1924/04/26     23                  Saturday                           
+1924/04/27     24                  Sunday                             
+1924/04/28     25                  Monday                             
+1924/04/29     26                  Tuesday                            
+1924/04/30     27                  Wednesday                          
+1924/05/01     28                  Thursday                           
+1924/05/02     29                  Friday                             
+1924/05/03     30                  Saturday                           
+1924/05/04     4th Lunar month     Sunday                             
+1924/05/05     2                   Monday                             
+1924/05/06     3                   Tuesday        Summer Commences    
+1924/05/07     4                   Wednesday                          
+1924/05/08     5                   Thursday                           
+1924/05/09     6                   Friday                             
+1924/05/10     7                   Saturday                           
+1924/05/11     8                   Sunday                             
+1924/05/12     9                   Monday                             
+1924/05/13     10                  Tuesday                            
+1924/05/14     11                  Wednesday                          
+1924/05/15     12                  Thursday                           
+1924/05/16     13                  Friday                             
+1924/05/17     14                  Saturday                           
+1924/05/18     15                  Sunday                             
+1924/05/19     16                  Monday                             
+1924/05/20     17                  Tuesday                            
+1924/05/21     18                  Wednesday      Corn Forms          
+1924/05/22     19                  Thursday                           
+1924/05/23     20                  Friday                             
+1924/05/24     21                  Saturday                           
+1924/05/25     22                  Sunday                             
+1924/05/26     23                  Monday                             
+1924/05/27     24                  Tuesday                            
+1924/05/28     25                  Wednesday                          
+1924/05/29     26                  Thursday                           
+1924/05/30     27                  Friday                             
+1924/05/31     28                  Saturday                           
+1924/06/01     29                  Sunday                             
+1924/06/02     5th Lunar month     Monday                             
+1924/06/03     2                   Tuesday                            
+1924/06/04     3                   Wednesday                          
+1924/06/05     4                   Thursday                           
+1924/06/06     5                   Friday         Corn on Ear         
+1924/06/07     6                   Saturday                           
+1924/06/08     7                   Sunday                             
+1924/06/09     8                   Monday                             
+1924/06/10     9                   Tuesday                            
+1924/06/11     10                  Wednesday                          
+1924/06/12     11                  Thursday                           
+1924/06/13     12                  Friday                             
+1924/06/14     13                  Saturday                           
+1924/06/15     14                  Sunday                             
+1924/06/16     15                  Monday                             
+1924/06/17     16                  Tuesday                            
+1924/06/18     17                  Wednesday                          
+1924/06/19     18                  Thursday                           
+1924/06/20     19                  Friday                             
+1924/06/21     20                  Saturday                           
+1924/06/22     21                  Sunday         Summer Solstice     
+1924/06/23     22                  Monday                             
+1924/06/24     23                  Tuesday                            
+1924/06/25     24                  Wednesday                          
+1924/06/26     25                  Thursday                           
+1924/06/27     26                  Friday                             
+1924/06/28     27                  Saturday                           
+1924/06/29     28                  Sunday                             
+1924/06/30     29                  Monday                             
+1924/07/01     30                  Tuesday                            
+1924/07/02     6th Lunar month     Wednesday                          
+1924/07/03     2                   Thursday                           
+1924/07/04     3                   Friday                             
+1924/07/05     4                   Saturday                           
+1924/07/06     5                   Sunday                             
+1924/07/07     6                   Monday         Moderate Heat       
+1924/07/08     7                   Tuesday                            
+1924/07/09     8                   Wednesday                          
+1924/07/10     9                   Thursday                           
+1924/07/11     10                  Friday                             
+1924/07/12     11                  Saturday                           
+1924/07/13     12                  Sunday                             
+1924/07/14     13                  Monday                             
+1924/07/15     14                  Tuesday                            
+1924/07/16     15                  Wednesday                          
+1924/07/17     16                  Thursday                           
+1924/07/18     17                  Friday                             
+1924/07/19     18                  Saturday                           
+1924/07/20     19                  Sunday                             
+1924/07/21     20                  Monday                             
+1924/07/22     21                  Tuesday                            
+1924/07/23     22                  Wednesday      Great Heat          
+1924/07/24     23                  Thursday                           
+1924/07/25     24                  Friday                             
+1924/07/26     25                  Saturday                           
+1924/07/27     26                  Sunday                             
+1924/07/28     27                  Monday                             
+1924/07/29     28                  Tuesday                            
+1924/07/30     29                  Wednesday                          
+1924/07/31     30                  Thursday                           
+1924/08/01     7th Lunar month     Friday                             
+1924/08/02     2                   Saturday                           
+1924/08/03     3                   Sunday                             
+1924/08/04     4                   Monday                             
+1924/08/05     5                   Tuesday                            
+1924/08/06     6                   Wednesday                          
+1924/08/07     7                   Thursday                           
+1924/08/08     8                   Friday         Autumn Commences    
+1924/08/09     9                   Saturday                           
+1924/08/10     10                  Sunday                             
+1924/08/11     11                  Monday                             
+1924/08/12     12                  Tuesday                            
+1924/08/13     13                  Wednesday                          
+1924/08/14     14                  Thursday                           
+1924/08/15     15                  Friday                             
+1924/08/16     16                  Saturday                           
+1924/08/17     17                  Sunday                             
+1924/08/18     18                  Monday                             
+1924/08/19     19                  Tuesday                            
+1924/08/20     20                  Wednesday                          
+1924/08/21     21                  Thursday                           
+1924/08/22     22                  Friday                             
+1924/08/23     23                  Saturday       End of Heat         
+1924/08/24     24                  Sunday                             
+1924/08/25     25                  Monday                             
+1924/08/26     26                  Tuesday                            
+1924/08/27     27                  Wednesday                          
+1924/08/28     28                  Thursday                           
+1924/08/29     29                  Friday                             
+1924/08/30     8th Lunar month     Saturday                           
+1924/08/31     2                   Sunday                             
+1924/09/01     3                   Monday                             
+1924/09/02     4                   Tuesday                            
+1924/09/03     5                   Wednesday                          
+1924/09/04     6                   Thursday                           
+1924/09/05     7                   Friday                             
+1924/09/06     8                   Saturday                           
+1924/09/07     9                   Sunday                             
+1924/09/08     10                  Monday         White Dew           
+1924/09/09     11                  Tuesday                            
+1924/09/10     12                  Wednesday                          
+1924/09/11     13                  Thursday                           
+1924/09/12     14                  Friday                             
+1924/09/13     15                  Saturday                           
+1924/09/14     16                  Sunday                             
+1924/09/15     17                  Monday                             
+1924/09/16     18                  Tuesday                            
+1924/09/17     19                  Wednesday                          
+1924/09/18     20                  Thursday                           
+1924/09/19     21                  Friday                             
+1924/09/20     22                  Saturday                           
+1924/09/21     23                  Sunday                             
+1924/09/22     24                  Monday                             
+1924/09/23     25                  Tuesday        Autumnal Equinox    
+1924/09/24     26                  Wednesday                          
+1924/09/25     27                  Thursday                           
+1924/09/26     28                  Friday                             
+1924/09/27     29                  Saturday                           
+1924/09/28     30                  Sunday                             
+1924/09/29     9th Lunar month     Monday                             
+1924/09/30     2                   Tuesday                            
+1924/10/01     3                   Wednesday                          
+1924/10/02     4                   Thursday                           
+1924/10/03     5                   Friday                             
+1924/10/04     6                   Saturday                           
+1924/10/05     7                   Sunday                             
+1924/10/06     8                   Monday                             
+1924/10/07     9                   Tuesday                            
+1924/10/08     10                  Wednesday      Cold Dew            
+1924/10/09     11                  Thursday                           
+1924/10/10     12                  Friday                             
+1924/10/11     13                  Saturday                           
+1924/10/12     14                  Sunday                             
+1924/10/13     15                  Monday                             
+1924/10/14     16                  Tuesday                            
+1924/10/15     17                  Wednesday                          
+1924/10/16     18                  Thursday                           
+1924/10/17     19                  Friday                             
+1924/10/18     20                  Saturday                           
+1924/10/19     21                  Sunday                             
+1924/10/20     22                  Monday                             
+1924/10/21     23                  Tuesday                            
+1924/10/22     24                  Wednesday                          
+1924/10/23     25                  Thursday                           
+1924/10/24     26                  Friday         Frost               
+1924/10/25     27                  Saturday                           
+1924/10/26     28                  Sunday                             
+1924/10/27     29                  Monday                             
+1924/10/28     10th Lunar month    Tuesday                            
+1924/10/29     2                   Wednesday                          
+1924/10/30     3                   Thursday                           
+1924/10/31     4                   Friday                             
+1924/11/01     5                   Saturday                           
+1924/11/02     6                   Sunday                             
+1924/11/03     7                   Monday                             
+1924/11/04     8                   Tuesday                            
+1924/11/05     9                   Wednesday                          
+1924/11/06     10                  Thursday                           
+1924/11/07     11                  Friday                             
+1924/11/08     12                  Saturday       Winter Commences    
+1924/11/09     13                  Sunday                             
+1924/11/10     14                  Monday                             
+1924/11/11     15                  Tuesday                            
+1924/11/12     16                  Wednesday                          
+1924/11/13     17                  Thursday                           
+1924/11/14     18                  Friday                             
+1924/11/15     19                  Saturday                           
+1924/11/16     20                  Sunday                             
+1924/11/17     21                  Monday                             
+1924/11/18     22                  Tuesday                            
+1924/11/19     23                  Wednesday                          
+1924/11/20     24                  Thursday                           
+1924/11/21     25                  Friday                             
+1924/11/22     26                  Saturday       Light Snow          
+1924/11/23     27                  Sunday                             
+1924/11/24     28                  Monday                             
+1924/11/25     29                  Tuesday                            
+1924/11/26     30                  Wednesday                          
+1924/11/27     11th Lunar month    Thursday                           
+1924/11/28     2                   Friday                             
+1924/11/29     3                   Saturday                           
+1924/11/30     4                   Sunday                             
+1924/12/01     5                   Monday                             
+1924/12/02     6                   Tuesday                            
+1924/12/03     7                   Wednesday                          
+1924/12/04     8                   Thursday                           
+1924/12/05     9                   Friday                             
+1924/12/06     10                  Saturday                           
+1924/12/07     11                  Sunday         Heavy Snow          
+1924/12/08     12                  Monday                             
+1924/12/09     13                  Tuesday                            
+1924/12/10     14                  Wednesday                          
+1924/12/11     15                  Thursday                           
+1924/12/12     16                  Friday                             
+1924/12/13     17                  Saturday                           
+1924/12/14     18                  Sunday                             
+1924/12/15     19                  Monday                             
+1924/12/16     20                  Tuesday                            
+1924/12/17     21                  Wednesday                          
+1924/12/18     22                  Thursday                           
+1924/12/19     23                  Friday                             
+1924/12/20     24                  Saturday                           
+1924/12/21     25                  Sunday                             
+1924/12/22     26                  Monday         Winter Solstice     
+1924/12/23     27                  Tuesday                            
+1924/12/24     28                  Wednesday                          
+1924/12/25     29                  Thursday                           
+1924/12/26     12th Lunar month    Friday                             
+1924/12/27     2                   Saturday                           
+1924/12/28     3                   Sunday                             
+1924/12/29     4                   Monday                             
+1924/12/30     5                   Tuesday                            
+1924/12/31     6                   Wednesday                          

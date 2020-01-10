@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1940 (Geng-chen ¡V year of the Dragon)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1940/01/01     22                  Monday                             
+1940/01/02     23                  Tuesday                            
+1940/01/03     24                  Wednesday                          
+1940/01/04     25                  Thursday                           
+1940/01/05     26                  Friday                             
+1940/01/06     27                  Saturday       Moderate Cold       
+1940/01/07     28                  Sunday                             
+1940/01/08     29                  Monday                             
+1940/01/09     12th Lunar month    Tuesday                            
+1940/01/10     2                   Wednesday                          
+1940/01/11     3                   Thursday                           
+1940/01/12     4                   Friday                             
+1940/01/13     5                   Saturday                           
+1940/01/14     6                   Sunday                             
+1940/01/15     7                   Monday                             
+1940/01/16     8                   Tuesday                            
+1940/01/17     9                   Wednesday                          
+1940/01/18     10                  Thursday                           
+1940/01/19     11                  Friday                             
+1940/01/20     12                  Saturday                           
+1940/01/21     13                  Sunday         Severe Cold         
+1940/01/22     14                  Monday                             
+1940/01/23     15                  Tuesday                            
+1940/01/24     16                  Wednesday                          
+1940/01/25     17                  Thursday                           
+1940/01/26     18                  Friday                             
+1940/01/27     19                  Saturday                           
+1940/01/28     20                  Sunday                             
+1940/01/29     21                  Monday                             
+1940/01/30     22                  Tuesday                            
+1940/01/31     23                  Wednesday                          
+1940/02/01     24                  Thursday                           
+1940/02/02     25                  Friday                             
+1940/02/03     26                  Saturday                           
+1940/02/04     27                  Sunday                             
+1940/02/05     28                  Monday         Spring Commences    
+1940/02/06     29                  Tuesday                            
+1940/02/07     30                  Wednesday                          
+1940/02/08     1st Lunar month     Thursday                           
+1940/02/09     2                   Friday                             
+1940/02/10     3                   Saturday                           
+1940/02/11     4                   Sunday                             
+1940/02/12     5                   Monday                             
+1940/02/13     6                   Tuesday                            
+1940/02/14     7                   Wednesday                          
+1940/02/15     8                   Thursday                           
+1940/02/16     9                   Friday                             
+1940/02/17     10                  Saturday                           
+1940/02/18     11                  Sunday                             
+1940/02/19     12                  Monday                             
+1940/02/20     13                  Tuesday        Spring Showers      
+1940/02/21     14                  Wednesday                          
+1940/02/22     15                  Thursday                           
+1940/02/23     16                  Friday                             
+1940/02/24     17                  Saturday                           
+1940/02/25     18                  Sunday                             
+1940/02/26     19                  Monday                             
+1940/02/27     20                  Tuesday                            
+1940/02/28     21                  Wednesday                          
+1940/02/29     22                  Thursday                           
+1940/03/01     23                  Friday                             
+1940/03/02     24                  Saturday                           
+1940/03/03     25                  Sunday                             
+1940/03/04     26                  Monday                             
+1940/03/05     27                  Tuesday                            
+1940/03/06     28                  Wednesday      Insects Waken       
+1940/03/07     29                  Thursday                           
+1940/03/08     30                  Friday                             
+1940/03/09     2nd Lunar month     Saturday                           
+1940/03/10     2                   Sunday                             
+1940/03/11     3                   Monday                             
+1940/03/12     4                   Tuesday                            
+1940/03/13     5                   Wednesday                          
+1940/03/14     6                   Thursday                           
+1940/03/15     7                   Friday                             
+1940/03/16     8                   Saturday                           
+1940/03/17     9                   Sunday                             
+1940/03/18     10                  Monday                             
+1940/03/19     11                  Tuesday                            
+1940/03/20     12                  Wednesday                          
+1940/03/21     13                  Thursday       Vernal Equinox      
+1940/03/22     14                  Friday                             
+1940/03/23     15                  Saturday                           
+1940/03/24     16                  Sunday                             
+1940/03/25     17                  Monday                             
+1940/03/26     18                  Tuesday                            
+1940/03/27     19                  Wednesday                          
+1940/03/28     20                  Thursday                           
+1940/03/29     21                  Friday                             
+1940/03/30     22                  Saturday                           
+1940/03/31     23                  Sunday                             
+1940/04/01     24                  Monday                             
+1940/04/02     25                  Tuesday                            
+1940/04/03     26                  Wednesday                          
+1940/04/04     27                  Thursday                           
+1940/04/05     28                  Friday         Bright & Clear      
+1940/04/06     29                  Saturday                           
+1940/04/07     30                  Sunday                             
+1940/04/08     3rd Lunar month     Monday                             
+1940/04/09     2                   Tuesday                            
+1940/04/10     3                   Wednesday                          
+1940/04/11     4                   Thursday                           
+1940/04/12     5                   Friday                             
+1940/04/13     6                   Saturday                           
+1940/04/14     7                   Sunday                             
+1940/04/15     8                   Monday                             
+1940/04/16     9                   Tuesday                            
+1940/04/17     10                  Wednesday                          
+1940/04/18     11                  Thursday                           
+1940/04/19     12                  Friday                             
+1940/04/20     13                  Saturday       Corn Rain           
+1940/04/21     14                  Sunday                             
+1940/04/22     15                  Monday                             
+1940/04/23     16                  Tuesday                            
+1940/04/24     17                  Wednesday                          
+1940/04/25     18                  Thursday                           
+1940/04/26     19                  Friday                             
+1940/04/27     20                  Saturday                           
+1940/04/28     21                  Sunday                             
+1940/04/29     22                  Monday                             
+1940/04/30     23                  Tuesday                            
+1940/05/01     24                  Wednesday                          
+1940/05/02     25                  Thursday                           
+1940/05/03     26                  Friday                             
+1940/05/04     27                  Saturday                           
+1940/05/05     28                  Sunday                             
+1940/05/06     29                  Monday         Summer Commences    
+1940/05/07     4th Lunar month     Tuesday                            
+1940/05/08     2                   Wednesday                          
+1940/05/09     3                   Thursday                           
+1940/05/10     4                   Friday                             
+1940/05/11     5                   Saturday                           
+1940/05/12     6                   Sunday                             
+1940/05/13     7                   Monday                             
+1940/05/14     8                   Tuesday                            
+1940/05/15     9                   Wednesday                          
+1940/05/16     10                  Thursday                           
+1940/05/17     11                  Friday                             
+1940/05/18     12                  Saturday                           
+1940/05/19     13                  Sunday                             
+1940/05/20     14                  Monday                             
+1940/05/21     15                  Tuesday        Corn Forms          
+1940/05/22     16                  Wednesday                          
+1940/05/23     17                  Thursday                           
+1940/05/24     18                  Friday                             
+1940/05/25     19                  Saturday                           
+1940/05/26     20                  Sunday                             
+1940/05/27     21                  Monday                             
+1940/05/28     22                  Tuesday                            
+1940/05/29     23                  Wednesday                          
+1940/05/30     24                  Thursday                           
+1940/05/31     25                  Friday                             
+1940/06/01     26                  Saturday                           
+1940/06/02     27                  Sunday                             
+1940/06/03     28                  Monday                             
+1940/06/04     29                  Tuesday                            
+1940/06/05     30                  Wednesday                          
+1940/06/06     5th Lunar month     Thursday       Corn on Ear         
+1940/06/07     2                   Friday                             
+1940/06/08     3                   Saturday                           
+1940/06/09     4                   Sunday                             
+1940/06/10     5                   Monday                             
+1940/06/11     6                   Tuesday                            
+1940/06/12     7                   Wednesday                          
+1940/06/13     8                   Thursday                           
+1940/06/14     9                   Friday                             
+1940/06/15     10                  Saturday                           
+1940/06/16     11                  Sunday                             
+1940/06/17     12                  Monday                             
+1940/06/18     13                  Tuesday                            
+1940/06/19     14                  Wednesday                          
+1940/06/20     15                  Thursday                           
+1940/06/21     16                  Friday         Summer Solstice     
+1940/06/22     17                  Saturday                           
+1940/06/23     18                  Sunday                             
+1940/06/24     19                  Monday                             
+1940/06/25     20                  Tuesday                            
+1940/06/26     21                  Wednesday                          
+1940/06/27     22                  Thursday                           
+1940/06/28     23                  Friday                             
+1940/06/29     24                  Saturday                           
+1940/06/30     25                  Sunday                             
+1940/07/01     26                  Monday                             
+1940/07/02     27                  Tuesday                            
+1940/07/03     28                  Wednesday                          
+1940/07/04     29                  Thursday                           
+1940/07/05     6th Lunar month     Friday                             
+1940/07/06     2                   Saturday                           
+1940/07/07     3                   Sunday         Moderate Heat       
+1940/07/08     4                   Monday                             
+1940/07/09     5                   Tuesday                            
+1940/07/10     6                   Wednesday                          
+1940/07/11     7                   Thursday                           
+1940/07/12     8                   Friday                             
+1940/07/13     9                   Saturday                           
+1940/07/14     10                  Sunday                             
+1940/07/15     11                  Monday                             
+1940/07/16     12                  Tuesday                            
+1940/07/17     13                  Wednesday                          
+1940/07/18     14                  Thursday                           
+1940/07/19     15                  Friday                             
+1940/07/20     16                  Saturday                           
+1940/07/21     17                  Sunday                             
+1940/07/22     18                  Monday                             
+1940/07/23     19                  Tuesday        Great Heat          
+1940/07/24     20                  Wednesday                          
+1940/07/25     21                  Thursday                           
+1940/07/26     22                  Friday                             
+1940/07/27     23                  Saturday                           
+1940/07/28     24                  Sunday                             
+1940/07/29     25                  Monday                             
+1940/07/30     26                  Tuesday                            
+1940/07/31     27                  Wednesday                          
+1940/08/01     28                  Thursday                           
+1940/08/02     29                  Friday                             
+1940/08/03     30                  Saturday                           
+1940/08/04     7th Lunar month     Sunday                             
+1940/08/05     2                   Monday                             
+1940/08/06     3                   Tuesday                            
+1940/08/07     4                   Wednesday                          
+1940/08/08     5                   Thursday       Autumn Commences    
+1940/08/09     6                   Friday                             
+1940/08/10     7                   Saturday                           
+1940/08/11     8                   Sunday                             
+1940/08/12     9                   Monday                             
+1940/08/13     10                  Tuesday                            
+1940/08/14     11                  Wednesday                          
+1940/08/15     12                  Thursday                           
+1940/08/16     13                  Friday                             
+1940/08/17     14                  Saturday                           
+1940/08/18     15                  Sunday                             
+1940/08/19     16                  Monday                             
+1940/08/20     17                  Tuesday                            
+1940/08/21     18                  Wednesday                          
+1940/08/22     19                  Thursday                           
+1940/08/23     20                  Friday         End of Heat         
+1940/08/24     21                  Saturday                           
+1940/08/25     22                  Sunday                             
+1940/08/26     23                  Monday                             
+1940/08/27     24                  Tuesday                            
+1940/08/28     25                  Wednesday                          
+1940/08/29     26                  Thursday                           
+1940/08/30     27                  Friday                             
+1940/08/31     28                  Saturday                           
+1940/09/01     29                  Sunday                             
+1940/09/02     8th Lunar month     Monday                             
+1940/09/03     2                   Tuesday                            
+1940/09/04     3                   Wednesday                          
+1940/09/05     4                   Thursday                           
+1940/09/06     5                   Friday                             
+1940/09/07     6                   Saturday                           
+1940/09/08     7                   Sunday         White Dew           
+1940/09/09     8                   Monday                             
+1940/09/10     9                   Tuesday                            
+1940/09/11     10                  Wednesday                          
+1940/09/12     11                  Thursday                           
+1940/09/13     12                  Friday                             
+1940/09/14     13                  Saturday                           
+1940/09/15     14                  Sunday                             
+1940/09/16     15                  Monday                             
+1940/09/17     16                  Tuesday                            
+1940/09/18     17                  Wednesday                          
+1940/09/19     18                  Thursday                           
+1940/09/20     19                  Friday                             
+1940/09/21     20                  Saturday                           
+1940/09/22     21                  Sunday                             
+1940/09/23     22                  Monday         Autumnal Equinox    
+1940/09/24     23                  Tuesday                            
+1940/09/25     24                  Wednesday                          
+1940/09/26     25                  Thursday                           
+1940/09/27     26                  Friday                             
+1940/09/28     27                  Saturday                           
+1940/09/29     28                  Sunday                             
+1940/09/30     29                  Monday                             
+1940/10/01     9th Lunar month     Tuesday                            
+1940/10/02     2                   Wednesday                          
+1940/10/03     3                   Thursday                           
+1940/10/04     4                   Friday                             
+1940/10/05     5                   Saturday                           
+1940/10/06     6                   Sunday                             
+1940/10/07     7                   Monday                             
+1940/10/08     8                   Tuesday        Cold Dew            
+1940/10/09     9                   Wednesday                          
+1940/10/10     10                  Thursday                           
+1940/10/11     11                  Friday                             
+1940/10/12     12                  Saturday                           
+1940/10/13     13                  Sunday                             
+1940/10/14     14                  Monday                             
+1940/10/15     15                  Tuesday                            
+1940/10/16     16                  Wednesday                          
+1940/10/17     17                  Thursday                           
+1940/10/18     18                  Friday                             
+1940/10/19     19                  Saturday                           
+1940/10/20     20                  Sunday                             
+1940/10/21     21                  Monday                             
+1940/10/22     22                  Tuesday                            
+1940/10/23     23                  Wednesday      Frost               
+1940/10/24     24                  Thursday                           
+1940/10/25     25                  Friday                             
+1940/10/26     26                  Saturday                           
+1940/10/27     27                  Sunday                             
+1940/10/28     28                  Monday                             
+1940/10/29     29                  Tuesday                            
+1940/10/30     30                  Wednesday                          
+1940/10/31     10th Lunar month    Thursday                           
+1940/11/01     2                   Friday                             
+1940/11/02     3                   Saturday                           
+1940/11/03     4                   Sunday                             
+1940/11/04     5                   Monday                             
+1940/11/05     6                   Tuesday                            
+1940/11/06     7                   Wednesday                          
+1940/11/07     8                   Thursday       Winter Commences    
+1940/11/08     9                   Friday                             
+1940/11/09     10                  Saturday                           
+1940/11/10     11                  Sunday                             
+1940/11/11     12                  Monday                             
+1940/11/12     13                  Tuesday                            
+1940/11/13     14                  Wednesday                          
+1940/11/14     15                  Thursday                           
+1940/11/15     16                  Friday                             
+1940/11/16     17                  Saturday                           
+1940/11/17     18                  Sunday                             
+1940/11/18     19                  Monday                             
+1940/11/19     20                  Tuesday                            
+1940/11/20     21                  Wednesday                          
+1940/11/21     22                  Thursday                           
+1940/11/22     23                  Friday         Light Snow          
+1940/11/23     24                  Saturday                           
+1940/11/24     25                  Sunday                             
+1940/11/25     26                  Monday                             
+1940/11/26     27                  Tuesday                            
+1940/11/27     28                  Wednesday                          
+1940/11/28     29                  Thursday                           
+1940/11/29     11th Lunar month    Friday                             
+1940/11/30     2                   Saturday                           
+1940/12/01     3                   Sunday                             
+1940/12/02     4                   Monday                             
+1940/12/03     5                   Tuesday                            
+1940/12/04     6                   Wednesday                          
+1940/12/05     7                   Thursday                           
+1940/12/06     8                   Friday                             
+1940/12/07     9                   Saturday       Heavy Snow          
+1940/12/08     10                  Sunday                             
+1940/12/09     11                  Monday                             
+1940/12/10     12                  Tuesday                            
+1940/12/11     13                  Wednesday                          
+1940/12/12     14                  Thursday                           
+1940/12/13     15                  Friday                             
+1940/12/14     16                  Saturday                           
+1940/12/15     17                  Sunday                             
+1940/12/16     18                  Monday                             
+1940/12/17     19                  Tuesday                            
+1940/12/18     20                  Wednesday                          
+1940/12/19     21                  Thursday                           
+1940/12/20     22                  Friday                             
+1940/12/21     23                  Saturday                           
+1940/12/22     24                  Sunday         Winter Solstice     
+1940/12/23     25                  Monday                             
+1940/12/24     26                  Tuesday                            
+1940/12/25     27                  Wednesday                          
+1940/12/26     28                  Thursday                           
+1940/12/27     29                  Friday                             
+1940/12/28     30                  Saturday                           
+1940/12/29     12th Lunar month    Sunday                             
+1940/12/30     2                   Monday                             
+1940/12/31     3                   Tuesday                            

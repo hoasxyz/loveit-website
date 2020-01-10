@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2081 (Xin-chou  -  year of the Ox)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2081/1/1          22                      Wednesday                          
+2081/1/2          23                      Thursday                           
+2081/1/3          24                      Friday                             
+2081/1/4          25                      Saturday                           
+2081/1/5          26                      Sunday         Moderate Cold       
+2081/1/6          27                      Monday                             
+2081/1/7          28                      Tuesday                            
+2081/1/8          29                      Wednesday                          
+2081/1/9          30                      Thursday                           
+2081/1/10         12th Lunar Month        Friday                             
+2081/1/11         2                       Saturday                           
+2081/1/12         3                       Sunday                             
+2081/1/13         4                       Monday                             
+2081/1/14         5                       Tuesday                            
+2081/1/15         6                       Wednesday                          
+2081/1/16         7                       Thursday                           
+2081/1/17         8                       Friday                             
+2081/1/18         9                       Saturday                           
+2081/1/19         10                      Sunday         Severe Cold         
+2081/1/20         11                      Monday                             
+2081/1/21         12                      Tuesday                            
+2081/1/22         13                      Wednesday                          
+2081/1/23         14                      Thursday                           
+2081/1/24         15                      Friday                             
+2081/1/25         16                      Saturday                           
+2081/1/26         17                      Sunday                             
+2081/1/27         18                      Monday                             
+2081/1/28         19                      Tuesday                            
+2081/1/29         20                      Wednesday                          
+2081/1/30         21                      Thursday                           
+2081/1/31         22                      Friday                             
+2081/2/1          23                      Saturday                           
+2081/2/2          24                      Sunday                             
+2081/2/3          25                      Monday         Spring Commences    
+2081/2/4          26                      Tuesday                            
+2081/2/5          27                      Wednesday                          
+2081/2/6          28                      Thursday                           
+2081/2/7          29                      Friday                             
+2081/2/8          30                      Saturday                           
+2081/2/9          1st Lunar Month         Sunday                             
+2081/2/10         2                       Monday                             
+2081/2/11         3                       Tuesday                            
+2081/2/12         4                       Wednesday                          
+2081/2/13         5                       Thursday                           
+2081/2/14         6                       Friday                             
+2081/2/15         7                       Saturday                           
+2081/2/16         8                       Sunday                             
+2081/2/17         9                       Monday                             
+2081/2/18         10                      Tuesday        Spring Showers      
+2081/2/19         11                      Wednesday                          
+2081/2/20         12                      Thursday                           
+2081/2/21         13                      Friday                             
+2081/2/22         14                      Saturday                           
+2081/2/23         15                      Sunday                             
+2081/2/24         16                      Monday                             
+2081/2/25         17                      Tuesday                            
+2081/2/26         18                      Wednesday                          
+2081/2/27         19                      Thursday                           
+2081/2/28         20                      Friday                             
+2081/3/1          21                      Saturday                           
+2081/3/2          22                      Sunday                             
+2081/3/3          23                      Monday                             
+2081/3/4          24                      Tuesday                            
+2081/3/5          25                      Wednesday      Insects Waken       
+2081/3/6          26                      Thursday                           
+2081/3/7          27                      Friday                             
+2081/3/8          28                      Saturday                           
+2081/3/9          29                      Sunday                             
+2081/3/10         2nd Lunar Month         Monday                             
+2081/3/11         2                       Tuesday                            
+2081/3/12         3                       Wednesday                          
+2081/3/13         4                       Thursday                           
+2081/3/14         5                       Friday                             
+2081/3/15         6                       Saturday                           
+2081/3/16         7                       Sunday                             
+2081/3/17         8                       Monday                             
+2081/3/18         9                       Tuesday                            
+2081/3/19         10                      Wednesday                          
+2081/3/20         11                      Thursday       Vernal Equinox      
+2081/3/21         12                      Friday                             
+2081/3/22         13                      Saturday                           
+2081/3/23         14                      Sunday                             
+2081/3/24         15                      Monday                             
+2081/3/25         16                      Tuesday                            
+2081/3/26         17                      Wednesday                          
+2081/3/27         18                      Thursday                           
+2081/3/28         19                      Friday                             
+2081/3/29         20                      Saturday                           
+2081/3/30         21                      Sunday                             
+2081/3/31         22                      Monday                             
+2081/4/1          23                      Tuesday                            
+2081/4/2          24                      Wednesday                          
+2081/4/3          25                      Thursday                           
+2081/4/4          26                      Friday         Bright & Clear      
+2081/4/5          27                      Saturday                           
+2081/4/6          28                      Sunday                             
+2081/4/7          29                      Monday                             
+2081/4/8          30                      Tuesday                            
+2081/4/9          3rd Lunar Month         Wednesday                          
+2081/4/10         2                       Thursday                           
+2081/4/11         3                       Friday                             
+2081/4/12         4                       Saturday                           
+2081/4/13         5                       Sunday                             
+2081/4/14         6                       Monday                             
+2081/4/15         7                       Tuesday                            
+2081/4/16         8                       Wednesday                          
+2081/4/17         9                       Thursday                           
+2081/4/18         10                      Friday                             
+2081/4/19         11                      Saturday       Corn Rain           
+2081/4/20         12                      Sunday                             
+2081/4/21         13                      Monday                             
+2081/4/22         14                      Tuesday                            
+2081/4/23         15                      Wednesday                          
+2081/4/24         16                      Thursday                           
+2081/4/25         17                      Friday                             
+2081/4/26         18                      Saturday                           
+2081/4/27         19                      Sunday                             
+2081/4/28         20                      Monday                             
+2081/4/29         21                      Tuesday                            
+2081/4/30         22                      Wednesday                          
+2081/5/1          23                      Thursday                           
+2081/5/2          24                      Friday                             
+2081/5/3          25                      Saturday                           
+2081/5/4          26                      Sunday                             
+2081/5/5          27                      Monday         Summer Commences    
+2081/5/6          28                      Tuesday                            
+2081/5/7          29                      Wednesday                          
+2081/5/8          30                      Thursday                           
+2081/5/9          4th Lunar Month         Friday                             
+2081/5/10         2                       Saturday                           
+2081/5/11         3                       Sunday                             
+2081/5/12         4                       Monday                             
+2081/5/13         5                       Tuesday                            
+2081/5/14         6                       Wednesday                          
+2081/5/15         7                       Thursday                           
+2081/5/16         8                       Friday                             
+2081/5/17         9                       Saturday                           
+2081/5/18         10                      Sunday                             
+2081/5/19         11                      Monday                             
+2081/5/20         12                      Tuesday        Corn Forms          
+2081/5/21         13                      Wednesday                          
+2081/5/22         14                      Thursday                           
+2081/5/23         15                      Friday                             
+2081/5/24         16                      Saturday                           
+2081/5/25         17                      Sunday                             
+2081/5/26         18                      Monday                             
+2081/5/27         19                      Tuesday                            
+2081/5/28         20                      Wednesday                          
+2081/5/29         21                      Thursday                           
+2081/5/30         22                      Friday                             
+2081/5/31         23                      Saturday                           
+2081/6/1          24                      Sunday                             
+2081/6/2          25                      Monday                             
+2081/6/3          26                      Tuesday                            
+2081/6/4          27                      Wednesday                          
+2081/6/5          28                      Thursday       Corn on Ear         
+2081/6/6          29                      Friday                             
+2081/6/7          5th Lunar Month         Saturday                           
+2081/6/8          2                       Sunday                             
+2081/6/9          3                       Monday                             
+2081/6/10         4                       Tuesday                            
+2081/6/11         5                       Wednesday                          
+2081/6/12         6                       Thursday                           
+2081/6/13         7                       Friday                             
+2081/6/14         8                       Saturday                           
+2081/6/15         9                       Sunday                             
+2081/6/16         10                      Monday                             
+2081/6/17         11                      Tuesday                            
+2081/6/18         12                      Wednesday                          
+2081/6/19         13                      Thursday                           
+2081/6/20         14                      Friday         Summer Solstice     
+2081/6/21         15                      Saturday                           
+2081/6/22         16                      Sunday                             
+2081/6/23         17                      Monday                             
+2081/6/24         18                      Tuesday                            
+2081/6/25         19                      Wednesday                          
+2081/6/26         20                      Thursday                           
+2081/6/27         21                      Friday                             
+2081/6/28         22                      Saturday                           
+2081/6/29         23                      Sunday                             
+2081/6/30         24                      Monday                             
+2081/7/1          25                      Tuesday                            
+2081/7/2          26                      Wednesday                          
+2081/7/3          27                      Thursday                           
+2081/7/4          28                      Friday                             
+2081/7/5          29                      Saturday                           
+2081/7/6          30                      Sunday         Moderate Heat       
+2081/7/7          6th Lunar Month         Monday                             
+2081/7/8          2                       Tuesday                            
+2081/7/9          3                       Wednesday                          
+2081/7/10         4                       Thursday                           
+2081/7/11         5                       Friday                             
+2081/7/12         6                       Saturday                           
+2081/7/13         7                       Sunday                             
+2081/7/14         8                       Monday                             
+2081/7/15         9                       Tuesday                            
+2081/7/16         10                      Wednesday                          
+2081/7/17         11                      Thursday                           
+2081/7/18         12                      Friday                             
+2081/7/19         13                      Saturday                           
+2081/7/20         14                      Sunday                             
+2081/7/21         15                      Monday                             
+2081/7/22         16                      Tuesday        Great Heat          
+2081/7/23         17                      Wednesday                          
+2081/7/24         18                      Thursday                           
+2081/7/25         19                      Friday                             
+2081/7/26         20                      Saturday                           
+2081/7/27         21                      Sunday                             
+2081/7/28         22                      Monday                             
+2081/7/29         23                      Tuesday                            
+2081/7/30         24                      Wednesday                          
+2081/7/31         25                      Thursday                           
+2081/8/1          26                      Friday                             
+2081/8/2          27                      Saturday                           
+2081/8/3          28                      Sunday                             
+2081/8/4          29                      Monday                             
+2081/8/5          7th Lunar Month         Tuesday                            
+2081/8/6          2                       Wednesday                          
+2081/8/7          3                       Thursday       Autumn Commences    
+2081/8/8          4                       Friday                             
+2081/8/9          5                       Saturday                           
+2081/8/10         6                       Sunday                             
+2081/8/11         7                       Monday                             
+2081/8/12         8                       Tuesday                            
+2081/8/13         9                       Wednesday                          
+2081/8/14         10                      Thursday                           
+2081/8/15         11                      Friday                             
+2081/8/16         12                      Saturday                           
+2081/8/17         13                      Sunday                             
+2081/8/18         14                      Monday                             
+2081/8/19         15                      Tuesday                            
+2081/8/20         16                      Wednesday                          
+2081/8/21         17                      Thursday                           
+2081/8/22         18                      Friday         End of Heat         
+2081/8/23         19                      Saturday                           
+2081/8/24         20                      Sunday                             
+2081/8/25         21                      Monday                             
+2081/8/26         22                      Tuesday                            
+2081/8/27         23                      Wednesday                          
+2081/8/28         24                      Thursday                           
+2081/8/29         25                      Friday                             
+2081/8/30         26                      Saturday                           
+2081/8/31         27                      Sunday                             
+2081/9/1          28                      Monday                             
+2081/9/2          29                      Tuesday                            
+2081/9/3          8th Lunar Month         Wednesday                          
+2081/9/4          2                       Thursday                           
+2081/9/5          3                       Friday                             
+2081/9/6          4                       Saturday                           
+2081/9/7          5                       Sunday         White Dew           
+2081/9/8          6                       Monday                             
+2081/9/9          7                       Tuesday                            
+2081/9/10         8                       Wednesday                          
+2081/9/11         9                       Thursday                           
+2081/9/12         10                      Friday                             
+2081/9/13         11                      Saturday                           
+2081/9/14         12                      Sunday                             
+2081/9/15         13                      Monday                             
+2081/9/16         14                      Tuesday                            
+2081/9/17         15                      Wednesday                          
+2081/9/18         16                      Thursday                           
+2081/9/19         17                      Friday                             
+2081/9/20         18                      Saturday                           
+2081/9/21         19                      Sunday                             
+2081/9/22         20                      Monday         Autumnal Equinox    
+2081/9/23         21                      Tuesday                            
+2081/9/24         22                      Wednesday                          
+2081/9/25         23                      Thursday                           
+2081/9/26         24                      Friday                             
+2081/9/27         25                      Saturday                           
+2081/9/28         26                      Sunday                             
+2081/9/29         27                      Monday                             
+2081/9/30         28                      Tuesday                            
+2081/10/1         29                      Wednesday                          
+2081/10/2         30                      Thursday                           
+2081/10/3         9th Lunar Month         Friday                             
+2081/10/4         2                       Saturday                           
+2081/10/5         3                       Sunday                             
+2081/10/6         4                       Monday                             
+2081/10/7         5                       Tuesday        Cold Dew            
+2081/10/8         6                       Wednesday                          
+2081/10/9         7                       Thursday                           
+2081/10/10        8                       Friday                             
+2081/10/11        9                       Saturday                           
+2081/10/12        10                      Sunday                             
+2081/10/13        11                      Monday                             
+2081/10/14        12                      Tuesday                            
+2081/10/15        13                      Wednesday                          
+2081/10/16        14                      Thursday                           
+2081/10/17        15                      Friday                             
+2081/10/18        16                      Saturday                           
+2081/10/19        17                      Sunday                             
+2081/10/20        18                      Monday                             
+2081/10/21        19                      Tuesday                            
+2081/10/22        20                      Wednesday                          
+2081/10/23        21                      Thursday       Frost               
+2081/10/24        22                      Friday                             
+2081/10/25        23                      Saturday                           
+2081/10/26        24                      Sunday                             
+2081/10/27        25                      Monday                             
+2081/10/28        26                      Tuesday                            
+2081/10/29        27                      Wednesday                          
+2081/10/30        28                      Thursday                           
+2081/10/31        29                      Friday                             
+2081/11/1         10th Lunar Month        Saturday                           
+2081/11/2         2                       Sunday                             
+2081/11/3         3                       Monday                             
+2081/11/4         4                       Tuesday                            
+2081/11/5         5                       Wednesday                          
+2081/11/6         6                       Thursday                           
+2081/11/7         7                       Friday         Winter Commences    
+2081/11/8         8                       Saturday                           
+2081/11/9         9                       Sunday                             
+2081/11/10        10                      Monday                             
+2081/11/11        11                      Tuesday                            
+2081/11/12        12                      Wednesday                          
+2081/11/13        13                      Thursday                           
+2081/11/14        14                      Friday                             
+2081/11/15        15                      Saturday                           
+2081/11/16        16                      Sunday                             
+2081/11/17        17                      Monday                             
+2081/11/18        18                      Tuesday                            
+2081/11/19        19                      Wednesday                          
+2081/11/20        20                      Thursday                           
+2081/11/21        21                      Friday         Light Snow          
+2081/11/22        22                      Saturday                           
+2081/11/23        23                      Sunday                             
+2081/11/24        24                      Monday                             
+2081/11/25        25                      Tuesday                            
+2081/11/26        26                      Wednesday                          
+2081/11/27        27                      Thursday                           
+2081/11/28        28                      Friday                             
+2081/11/29        29                      Saturday                           
+2081/11/30        11th Lunar Month        Sunday                             
+2081/12/1         2                       Monday                             
+2081/12/2         3                       Tuesday                            
+2081/12/3         4                       Wednesday                          
+2081/12/4         5                       Thursday                           
+2081/12/5         6                       Friday                             
+2081/12/6         7                       Saturday       Heavy Snow          
+2081/12/7         8                       Sunday                             
+2081/12/8         9                       Monday                             
+2081/12/9         10                      Tuesday                            
+2081/12/10        11                      Wednesday                          
+2081/12/11        12                      Thursday                           
+2081/12/12        13                      Friday                             
+2081/12/13        14                      Saturday                           
+2081/12/14        15                      Sunday                             
+2081/12/15        16                      Monday                             
+2081/12/16        17                      Tuesday                            
+2081/12/17        18                      Wednesday                          
+2081/12/18        19                      Thursday                           
+2081/12/19        20                      Friday                             
+2081/12/20        21                      Saturday                           
+2081/12/21        22                      Sunday         Winter Solstice     
+2081/12/22        23                      Monday                             
+2081/12/23        24                      Tuesday                            
+2081/12/24        25                      Wednesday                          
+2081/12/25        26                      Thursday                           
+2081/12/26        27                      Friday                             
+2081/12/27        28                      Saturday                           
+2081/12/28        29                      Sunday                             
+2081/12/29        30                      Monday                             
+2081/12/30        12th Lunar Month        Tuesday                            
+2081/12/31        2                       Wednesday                          

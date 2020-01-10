@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2089 (Ji-you  -  year of the Rooster)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2089/1/1          20                      Saturday                           
+2089/1/2          21                      Sunday                             
+2089/1/3          22                      Monday                             
+2089/1/4          23                      Tuesday        Moderate Cold       
+2089/1/5          24                      Wednesday                          
+2089/1/6          25                      Thursday                           
+2089/1/7          26                      Friday                             
+2089/1/8          27                      Saturday                           
+2089/1/9          28                      Sunday                             
+2089/1/10         29                      Monday                             
+2089/1/11         30                      Tuesday                            
+2089/1/12         12th Lunar Month        Wednesday                          
+2089/1/13         2                       Thursday                           
+2089/1/14         3                       Friday                             
+2089/1/15         4                       Saturday                           
+2089/1/16         5                       Sunday                             
+2089/1/17         6                       Monday                             
+2089/1/18         7                       Tuesday                            
+2089/1/19         8                       Wednesday      Severe Cold         
+2089/1/20         9                       Thursday                           
+2089/1/21         10                      Friday                             
+2089/1/22         11                      Saturday                           
+2089/1/23         12                      Sunday                             
+2089/1/24         13                      Monday                             
+2089/1/25         14                      Tuesday                            
+2089/1/26         15                      Wednesday                          
+2089/1/27         16                      Thursday                           
+2089/1/28         17                      Friday                             
+2089/1/29         18                      Saturday                           
+2089/1/30         19                      Sunday                             
+2089/1/31         20                      Monday                             
+2089/2/1          21                      Tuesday                            
+2089/2/2          22                      Wednesday                          
+2089/2/3          23                      Thursday       Spring Commences    
+2089/2/4          24                      Friday                             
+2089/2/5          25                      Saturday                           
+2089/2/6          26                      Sunday                             
+2089/2/7          27                      Monday                             
+2089/2/8          28                      Tuesday                            
+2089/2/9          29                      Wednesday                          
+2089/2/10         1st Lunar Month         Thursday                           
+2089/2/11         2                       Friday                             
+2089/2/12         3                       Saturday                           
+2089/2/13         4                       Sunday                             
+2089/2/14         5                       Monday                             
+2089/2/15         6                       Tuesday                            
+2089/2/16         7                       Wednesday                          
+2089/2/17         8                       Thursday                           
+2089/2/18         9                       Friday         Spring Showers      
+2089/2/19         10                      Saturday                           
+2089/2/20         11                      Sunday                             
+2089/2/21         12                      Monday                             
+2089/2/22         13                      Tuesday                            
+2089/2/23         14                      Wednesday                          
+2089/2/24         15                      Thursday                           
+2089/2/25         16                      Friday                             
+2089/2/26         17                      Saturday                           
+2089/2/27         18                      Sunday                             
+2089/2/28         19                      Monday                             
+2089/3/1          20                      Tuesday                            
+2089/3/2          21                      Wednesday                          
+2089/3/3          22                      Thursday                           
+2089/3/4          23                      Friday                             
+2089/3/5          24                      Saturday       Insects Waken       
+2089/3/6          25                      Sunday                             
+2089/3/7          26                      Monday                             
+2089/3/8          27                      Tuesday                            
+2089/3/9          28                      Wednesday                          
+2089/3/10         29                      Thursday                           
+2089/3/11         30                      Friday                             
+2089/3/12         2nd Lunar Month         Saturday                           
+2089/3/13         2                       Sunday                             
+2089/3/14         3                       Monday                             
+2089/3/15         4                       Tuesday                            
+2089/3/16         5                       Wednesday                          
+2089/3/17         6                       Thursday                           
+2089/3/18         7                       Friday                             
+2089/3/19         8                       Saturday                           
+2089/3/20         9                       Sunday         Vernal Equinox      
+2089/3/21         10                      Monday                             
+2089/3/22         11                      Tuesday                            
+2089/3/23         12                      Wednesday                          
+2089/3/24         13                      Thursday                           
+2089/3/25         14                      Friday                             
+2089/3/26         15                      Saturday                           
+2089/3/27         16                      Sunday                             
+2089/3/28         17                      Monday                             
+2089/3/29         18                      Tuesday                            
+2089/3/30         19                      Wednesday                          
+2089/3/31         20                      Thursday                           
+2089/4/1          21                      Friday                             
+2089/4/2          22                      Saturday                           
+2089/4/3          23                      Sunday                             
+2089/4/4          24                      Monday         Bright & Clear      
+2089/4/5          25                      Tuesday                            
+2089/4/6          26                      Wednesday                          
+2089/4/7          27                      Thursday                           
+2089/4/8          28                      Friday                             
+2089/4/9          29                      Saturday                           
+2089/4/10         30                      Sunday                             
+2089/4/11         3rd Lunar Month         Monday                             
+2089/4/12         2                       Tuesday                            
+2089/4/13         3                       Wednesday                          
+2089/4/14         4                       Thursday                           
+2089/4/15         5                       Friday                             
+2089/4/16         6                       Saturday                           
+2089/4/17         7                       Sunday                             
+2089/4/18         8                       Monday                             
+2089/4/19         9                       Tuesday        Corn Rain           
+2089/4/20         10                      Wednesday                          
+2089/4/21         11                      Thursday                           
+2089/4/22         12                      Friday                             
+2089/4/23         13                      Saturday                           
+2089/4/24         14                      Sunday                             
+2089/4/25         15                      Monday                             
+2089/4/26         16                      Tuesday                            
+2089/4/27         17                      Wednesday                          
+2089/4/28         18                      Thursday                           
+2089/4/29         19                      Friday                             
+2089/4/30         20                      Saturday                           
+2089/5/1          21                      Sunday                             
+2089/5/2          22                      Monday                             
+2089/5/3          23                      Tuesday                            
+2089/5/4          24                      Wednesday                          
+2089/5/5          25                      Thursday       Summer Commences    
+2089/5/6          26                      Friday                             
+2089/5/7          27                      Saturday                           
+2089/5/8          28                      Sunday                             
+2089/5/9          29                      Monday                             
+2089/5/10         4th Lunar Month         Tuesday                            
+2089/5/11         2                       Wednesday                          
+2089/5/12         3                       Thursday                           
+2089/5/13         4                       Friday                             
+2089/5/14         5                       Saturday                           
+2089/5/15         6                       Sunday                             
+2089/5/16         7                       Monday                             
+2089/5/17         8                       Tuesday                            
+2089/5/18         9                       Wednesday                          
+2089/5/19         10                      Thursday                           
+2089/5/20         11                      Friday         Corn Forms          
+2089/5/21         12                      Saturday                           
+2089/5/22         13                      Sunday                             
+2089/5/23         14                      Monday                             
+2089/5/24         15                      Tuesday                            
+2089/5/25         16                      Wednesday                          
+2089/5/26         17                      Thursday                           
+2089/5/27         18                      Friday                             
+2089/5/28         19                      Saturday                           
+2089/5/29         20                      Sunday                             
+2089/5/30         21                      Monday                             
+2089/5/31         22                      Tuesday                            
+2089/6/1          23                      Wednesday                          
+2089/6/2          24                      Thursday                           
+2089/6/3          25                      Friday                             
+2089/6/4          26                      Saturday                           
+2089/6/5          27                      Sunday         Corn on Ear         
+2089/6/6          28                      Monday                             
+2089/6/7          29                      Tuesday                            
+2089/6/8          30                      Wednesday                          
+2089/6/9          5th Lunar Month         Thursday                           
+2089/6/10         2                       Friday                             
+2089/6/11         3                       Saturday                           
+2089/6/12         4                       Sunday                             
+2089/6/13         5                       Monday                             
+2089/6/14         6                       Tuesday                            
+2089/6/15         7                       Wednesday                          
+2089/6/16         8                       Thursday                           
+2089/6/17         9                       Friday                             
+2089/6/18         10                      Saturday                           
+2089/6/19         11                      Sunday                             
+2089/6/20         12                      Monday         Summer Solstice     
+2089/6/21         13                      Tuesday                            
+2089/6/22         14                      Wednesday                          
+2089/6/23         15                      Thursday                           
+2089/6/24         16                      Friday                             
+2089/6/25         17                      Saturday                           
+2089/6/26         18                      Sunday                             
+2089/6/27         19                      Monday                             
+2089/6/28         20                      Tuesday                            
+2089/6/29         21                      Wednesday                          
+2089/6/30         22                      Thursday                           
+2089/7/1          23                      Friday                             
+2089/7/2          24                      Saturday                           
+2089/7/3          25                      Sunday                             
+2089/7/4          26                      Monday                             
+2089/7/5          27                      Tuesday                            
+2089/7/6          28                      Wednesday      Moderate Heat       
+2089/7/7          29                      Thursday                           
+2089/7/8          6th Lunar Month         Friday                             
+2089/7/9          2                       Saturday                           
+2089/7/10         3                       Sunday                             
+2089/7/11         4                       Monday                             
+2089/7/12         5                       Tuesday                            
+2089/7/13         6                       Wednesday                          
+2089/7/14         7                       Thursday                           
+2089/7/15         8                       Friday                             
+2089/7/16         9                       Saturday                           
+2089/7/17         10                      Sunday                             
+2089/7/18         11                      Monday                             
+2089/7/19         12                      Tuesday                            
+2089/7/20         13                      Wednesday                          
+2089/7/21         14                      Thursday                           
+2089/7/22         15                      Friday         Great Heat          
+2089/7/23         16                      Saturday                           
+2089/7/24         17                      Sunday                             
+2089/7/25         18                      Monday                             
+2089/7/26         19                      Tuesday                            
+2089/7/27         20                      Wednesday                          
+2089/7/28         21                      Thursday                           
+2089/7/29         22                      Friday                             
+2089/7/30         23                      Saturday                           
+2089/7/31         24                      Sunday                             
+2089/8/1          25                      Monday                             
+2089/8/2          26                      Tuesday                            
+2089/8/3          27                      Wednesday                          
+2089/8/4          28                      Thursday                           
+2089/8/5          29                      Friday                             
+2089/8/6          7th Lunar Month         Saturday                           
+2089/8/7          2                       Sunday         Autumn Commences    
+2089/8/8          3                       Monday                             
+2089/8/9          4                       Tuesday                            
+2089/8/10         5                       Wednesday                          
+2089/8/11         6                       Thursday                           
+2089/8/12         7                       Friday                             
+2089/8/13         8                       Saturday                           
+2089/8/14         9                       Sunday                             
+2089/8/15         10                      Monday                             
+2089/8/16         11                      Tuesday                            
+2089/8/17         12                      Wednesday                          
+2089/8/18         13                      Thursday                           
+2089/8/19         14                      Friday                             
+2089/8/20         15                      Saturday                           
+2089/8/21         16                      Sunday                             
+2089/8/22         17                      Monday         End of Heat         
+2089/8/23         18                      Tuesday                            
+2089/8/24         19                      Wednesday                          
+2089/8/25         20                      Thursday                           
+2089/8/26         21                      Friday                             
+2089/8/27         22                      Saturday                           
+2089/8/28         23                      Sunday                             
+2089/8/29         24                      Monday                             
+2089/8/30         25                      Tuesday                            
+2089/8/31         26                      Wednesday                          
+2089/9/1          27                      Thursday                           
+2089/9/2          28                      Friday                             
+2089/9/3          29                      Saturday                           
+2089/9/4          8th Lunar Month         Sunday                             
+2089/9/5          2                       Monday                             
+2089/9/6          3                       Tuesday                            
+2089/9/7          4                       Wednesday      White Dew           
+2089/9/8          5                       Thursday                           
+2089/9/9          6                       Friday                             
+2089/9/10         7                       Saturday                           
+2089/9/11         8                       Sunday                             
+2089/9/12         9                       Monday                             
+2089/9/13         10                      Tuesday                            
+2089/9/14         11                      Wednesday                          
+2089/9/15         12                      Thursday                           
+2089/9/16         13                      Friday                             
+2089/9/17         14                      Saturday                           
+2089/9/18         15                      Sunday                             
+2089/9/19         16                      Monday                             
+2089/9/20         17                      Tuesday                            
+2089/9/21         18                      Wednesday                          
+2089/9/22         19                      Thursday       Autumnal Equinox    
+2089/9/23         20                      Friday                             
+2089/9/24         21                      Saturday                           
+2089/9/25         22                      Sunday                             
+2089/9/26         23                      Monday                             
+2089/9/27         24                      Tuesday                            
+2089/9/28         25                      Wednesday                          
+2089/9/29         26                      Thursday                           
+2089/9/30         27                      Friday                             
+2089/10/1         28                      Saturday                           
+2089/10/2         29                      Sunday                             
+2089/10/3         30                      Monday                             
+2089/10/4         9th Lunar Month         Tuesday                            
+2089/10/5         2                       Wednesday                          
+2089/10/6         3                       Thursday                           
+2089/10/7         4                       Friday         Cold Dew            
+2089/10/8         5                       Saturday                           
+2089/10/9         6                       Sunday                             
+2089/10/10        7                       Monday                             
+2089/10/11        8                       Tuesday                            
+2089/10/12        9                       Wednesday                          
+2089/10/13        10                      Thursday                           
+2089/10/14        11                      Friday                             
+2089/10/15        12                      Saturday                           
+2089/10/16        13                      Sunday                             
+2089/10/17        14                      Monday                             
+2089/10/18        15                      Tuesday                            
+2089/10/19        16                      Wednesday                          
+2089/10/20        17                      Thursday                           
+2089/10/21        18                      Friday                             
+2089/10/22        19                      Saturday                           
+2089/10/23        20                      Sunday         Frost               
+2089/10/24        21                      Monday                             
+2089/10/25        22                      Tuesday                            
+2089/10/26        23                      Wednesday                          
+2089/10/27        24                      Thursday                           
+2089/10/28        25                      Friday                             
+2089/10/29        26                      Saturday                           
+2089/10/30        27                      Sunday                             
+2089/10/31        28                      Monday                             
+2089/11/1         29                      Tuesday                            
+2089/11/2         10th Lunar Month        Wednesday                          
+2089/11/3         2                       Thursday                           
+2089/11/4         3                       Friday                             
+2089/11/5         4                       Saturday                           
+2089/11/6         5                       Sunday                             
+2089/11/7         6                       Monday         Winter Commences    
+2089/11/8         7                       Tuesday                            
+2089/11/9         8                       Wednesday                          
+2089/11/10        9                       Thursday                           
+2089/11/11        10                      Friday                             
+2089/11/12        11                      Saturday                           
+2089/11/13        12                      Sunday                             
+2089/11/14        13                      Monday                             
+2089/11/15        14                      Tuesday                            
+2089/11/16        15                      Wednesday                          
+2089/11/17        16                      Thursday                           
+2089/11/18        17                      Friday                             
+2089/11/19        18                      Saturday                           
+2089/11/20        19                      Sunday                             
+2089/11/21        20                      Monday         Light Snow          
+2089/11/22        21                      Tuesday                            
+2089/11/23        22                      Wednesday                          
+2089/11/24        23                      Thursday                           
+2089/11/25        24                      Friday                             
+2089/11/26        25                      Saturday                           
+2089/11/27        26                      Sunday                             
+2089/11/28        27                      Monday                             
+2089/11/29        28                      Tuesday                            
+2089/11/30        29                      Wednesday                          
+2089/12/1         30                      Thursday                           
+2089/12/2         11th Lunar Month        Friday                             
+2089/12/3         2                       Saturday                           
+2089/12/4         3                       Sunday                             
+2089/12/5         4                       Monday                             
+2089/12/6         5                       Tuesday        Heavy Snow          
+2089/12/7         6                       Wednesday                          
+2089/12/8         7                       Thursday                           
+2089/12/9         8                       Friday                             
+2089/12/10        9                       Saturday                           
+2089/12/11        10                      Sunday                             
+2089/12/12        11                      Monday                             
+2089/12/13        12                      Tuesday                            
+2089/12/14        13                      Wednesday                          
+2089/12/15        14                      Thursday                           
+2089/12/16        15                      Friday                             
+2089/12/17        16                      Saturday                           
+2089/12/18        17                      Sunday                             
+2089/12/19        18                      Monday                             
+2089/12/20        19                      Tuesday                            
+2089/12/21        20                      Wednesday      Winter Solstice     
+2089/12/22        21                      Thursday                           
+2089/12/23        22                      Friday                             
+2089/12/24        23                      Saturday                           
+2089/12/25        24                      Sunday                             
+2089/12/26        25                      Monday                             
+2089/12/27        26                      Tuesday                            
+2089/12/28        27                      Wednesday                          
+2089/12/29        28                      Thursday                           
+2089/12/30        29                      Friday                             
+2089/12/31        30                      Saturday                           
