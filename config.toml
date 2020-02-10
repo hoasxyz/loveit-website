@@ -1,9 +1,9 @@
-baseURL = "https://hoas.xyz/"
+baseURL = "https://hoas.top/"
 languageCode = "zh"                                      # 网站语言标识
 defaultContentLanguage = "zh"                            # [en, zh, ...] 设定主题的国际化
 title = "hoas' blog | One Stupid Boy"                    # 网站标题
 theme = "LoveIt"                                         # 主题
-enableGitInfo = false                                    # 是否使用 git 信息来生成文章的上次修改时间
+enableGitInfo = true                                     # 是否使用 git 信息来生成文章的上次修改时间
 hasCJKLanguage = true                                    # 是否包括中日韩文字
 paginate = 3                                             # post 模式下，主页每页显示的文章数目
 enableEmoji = true                                       # 是否使用 emoji 代码
@@ -70,7 +70,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   keywords = ["hoas", "web", "personal website"]         # 网站关键词
 
                                                       #### 主页配置
-  home_mode = "post"                                    # [post, other] 主页模式
+  home_mode = "other"                                    # [post, other] 主页模式
   avatar = "images/hoas.png"                             # 主页显示的头像路径（在public中！）
   subtitle = "Just because my path is different doesn't mean I'm lost."            # 主页显示的网站副标题
 

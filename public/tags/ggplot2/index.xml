@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ggplot2 on hoas&#39; blog | One Stupid Boy</title>
-    <link>https://hoas.xyz/tags/ggplot2/</link>
+    <link>/tags/ggplot2/</link>
     <description>Recent content in ggplot2 on hoas&#39; blog | One Stupid Boy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hoas.xyz/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>水文水利计算课设总结</title>
-      <link>https://hoas.xyz/2019/04/2019-04-18-summary-of-course-design/</link>
+      <link>/2019/04/2019-04-18-summary-of-course-design/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hoas.xyz/2019/04/2019-04-18-summary-of-course-design/</guid>
+      <guid>/2019/04/2019-04-18-summary-of-course-design/</guid>
       <description>&lt;p&gt;两周多的水文水利计算课设我差不多已经做完了，我要对这10天来的迷茫、喜悦和成果做一个总结。Hadley说他每天写作时间为一个小时至一个半小时左右，我现在已经很赞同这个方式了——当然是基于我有了自己的网站哈哈。&lt;/p&gt;
 &lt;p&gt;这次课设我编了1500多行代码，还记得佘老师说本科教学阶段就是这个数，那我可以证明我已经达到了。其实也很正常，因为除非万不得已我都没有用Excel。&lt;/p&gt;
 &lt;p&gt;向Hadley致敬！&lt;/p&gt;
