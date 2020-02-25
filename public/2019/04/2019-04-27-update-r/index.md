@@ -6,7 +6,7 @@
 
 <!--more-->
 
-# 三行代码
+## 三行代码
 
 所谓的三行代码更新指的是：
 
@@ -18,11 +18,11 @@ installr::updateR()
 
 但是默认给的镜像似乎不快，所以我一般[手动](https://cran.r-project.org/)下载（记得是win！）。
 
-# Rprofile.site
+## Rprofile.site
 
 每次更新后都要重新配置这个文件，其中包含后面提到的`.libPath()`。
 
-# `.libPath()`
+## `.libPath()`
 
 包的存储路径，R更新后`.libPath()`会只有当前版本R下的library路径：
 
@@ -45,7 +45,7 @@ installr::updateR()
 install.packages("scales", lib = .libPaths()[1])
 ```
 
-# 其它
+## 其它
 
 - 如果包有加载的话，更新包会失败，如果实在不确定最好更新包的时候把Rprofile.site文件中的函数删掉。
 

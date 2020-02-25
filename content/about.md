@@ -12,6 +12,6 @@ draft: false
 
 - :(fab fa-r-project): [R语言](https://www.r-project.org/)小白一只。
 
-- :(fas fa-music): [林志炫](https://hoas.xyz/post/terrylin/)热忱知音。
+- :(fas fa-music): [林志炫](https://hoas.netlify.com/post/terrylin/)热忱知音。
 
 - :(fas fa-gamepad): 人懒，贪玩，嗜睡，好吃。

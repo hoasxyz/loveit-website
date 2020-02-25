@@ -47,7 +47,7 @@
         "datePublished": "2019-04-27T00:00:00\x2b00:00",
     
     
-        "dateModified": "2020-01-10T21:18:09\x2b08:00",
+        "dateModified": "2020-02-10T14:35:31\x2b08:00",
     
     
         "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
@@ -154,7 +154,14 @@
         <div class="post-toc" id="post-toc">
                 <h2 class="post-toc-title">目录</h2>
                 <div class="post-toc-content always-active">
-                    <nav id="TableOfContents"></nav>
+                    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#三行代码">三行代码</a></li>
+    <li><a href="#rprofilesite">Rprofile.site</a></li>
+    <li><a href="#libpath">.libPath()</a></li>
+    <li><a href="#其它">其它</a></li>
+  </ul>
+</nav>
                 </div>
             </div>
             <div class="post-toc-mobile" id="post-toc-mobile">
@@ -163,7 +170,14 @@
                     <div class="post-toc-content">
                         
                         
-                        <nav id="TableOfContentsMobile"></nav>
+                        <nav id="TableOfContentsMobile">
+  <ul>
+    <li><a href="#三行代码">三行代码</a></li>
+    <li><a href="#rprofilesite">Rprofile.site</a></li>
+    <li><a href="#libpath">.libPath()</a></li>
+    <li><a href="#其它">其它</a></li>
+  </ul>
+</nav>
                     </div>
                 </details>
             </div>
@@ -195,7 +209,7 @@
             
             
             <p>统计学家们的工作节奏这么快的吗？现在R的更新频率越来越大，想想还是写下来吧，每一次更新带来更好体验的同时少不了一定程度的折腾。哎，R啥时候能把自动更新问题解决掉？</p>
-<a class="post-dummy-target" id="三行代码"></a><h1>三行代码</h1>
+<a class="post-dummy-target" id="三行代码"></a><h2>三行代码</h2>
 <p>所谓的三行代码更新指的是：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -210,9 +224,9 @@
 </code></pre></td></tr></table>
 </div>
 </div><p>但是默认给的镜像似乎不快，所以我一般<a href="https://cran.r-project.org/">手动</a>下载（记得是win！）。</p>
-<a class="post-dummy-target" id="rprofilesite"></a><h1>Rprofile.site</h1>
+<a class="post-dummy-target" id="rprofilesite"></a><h2>Rprofile.site</h2>
 <p>每次更新后都要重新配置这个文件，其中包含后面提到的<code>.libPath()</code>。</p>
-<a class="post-dummy-target" id="libpath"></a><h1><code>.libPath()</code></h1>
+<a class="post-dummy-target" id="libpath"></a><h2><code>.libPath()</code></h2>
 <p>包的存储路径，R更新后<code>.libPath()</code>会只有当前版本R下的library路径：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -246,7 +260,7 @@
 <pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">install.packages</span><span class="p">(</span><span class="s">&#34;</span><span class="s">scales&#34;</span><span class="p">,</span> <span class="n">lib</span> <span class="o">=</span> <span class="nf">.libPaths</span><span class="p">(</span><span class="p">)</span><span class="n">[1</span><span class="n">]</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
-</div><a class="post-dummy-target" id="其它"></a><h1>其它</h1>
+</div><a class="post-dummy-target" id="其它"></a><h2>其它</h2>
 <ul>
 <li>
 <p>如果包有加载的话，更新包会失败，如果实在不确定最好更新包的时候把Rprofile.site文件中的函数删掉。</p>
@@ -261,7 +275,7 @@
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>本文于 2020-01-10 更新</span>
+                <span>本文于 2020-02-10 更新</span>
             </div>
             <div class="post-info-license">
                 

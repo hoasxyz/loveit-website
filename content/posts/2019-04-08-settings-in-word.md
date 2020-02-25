@@ -156,3 +156,16 @@ R的两本书：
 中均未得到一个让我比较满意的结果。但并不是没有结果，可以用来保存少量高质量的PDF或者是PNG图像，不过操作略微繁琐，不适合大批量图像的使用。
 
 在RStudio中，将图像以metafile的形式导出至剪贴板，然后放置到word中进行裁剪。将word文件导出为PDF格式的文件不能通过Adobe acrobat和内置的导出为PDF，而是需要在打印中选择Microsoft Print to PDF打印机去打印。这个可以正常显示DIN字体。
+
+## 文档样式的更改
+
+在word的`设计`中，新样式集的保存路径为：`C:\Users\Administrator\AppData\Roaming\Microsoft\QuickStyles`，虽然本来用得好好的，但是**可能因为**我无意中在`管理样式`里点击了`基于该模板的新文档`，因此在该模板即`Normal.dotm`中的新文档里，只要点击两次不同的样式，那一次保存在`Normal.dotm`中的样式都全部出现了，而且还删不掉。为了解决这个问题，目前有两个思路：
+
+### Microsoft Word 模板 (.dotx)
+
+具体设置参考[这里](https://www.sohu.com/a/313786523_825825)，亲测有效。简单来讲就是打开一个空白文档，在所有的样式都设置完毕之后，另存为`Microsoft Word 模板 (.dotx)`格式，下次如果需要套用这个模板，就在`模板和加载项`中选用该模板即可。该模板的默认保存路径就是`C:\Users\Administrator\AppData\Roaming\Microsoft\QuickStyles`。
+
+### Microsoft Word 启用宏的模板 (.dotm)
+
+这个模板就是上面提到的坏得不明不白的模板，现在仍然没找到解决方法，所以我把常用的格式命名为`Normal.dotm`，把最初的格式命名为`Initial.dotm`，如果想用毕设模板，那么还是得换`Microsoft Word 模板 (.dotx)`格式。
+
