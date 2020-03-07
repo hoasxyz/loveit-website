@@ -5,7 +5,7 @@ comment: false
 date: "2019-08-04T22:49:56+08:00"
 description: This is a test page.
 dev: true
-draft: true
+draft: false
 featured_image: ""
 featured_image_preview: ""
 lastmod: "2019-08-17T22:41:56+08:00"

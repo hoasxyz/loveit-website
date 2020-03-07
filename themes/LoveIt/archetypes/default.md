@@ -14,10 +14,10 @@ categories: []
 featured_image: ''
 featured_image_preview: ''
 
-comment: true
-toc: false
+comment: false
+toc: true
 autoCollapseToc: true
-math: false
+math: true
 ---
 
 <!--more-->
