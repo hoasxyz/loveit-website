@@ -277,6 +277,10 @@ int a = 1;
 
 **Test Text**
 
+{{% align-right %}}
+**Test Text**
+{{% /align-right %}}
+
 ## Test Katex
 
 $$ c = \pm\sqrt{a^2 + b^2} $$

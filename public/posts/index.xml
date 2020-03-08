@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>杂交字体</title>
+      <link>/2020/03/2020-03-07-hybrid-fonts/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/2020-03-07-hybrid-fonts/</guid>
+      <description>&lt;p&gt;杂交字体在坊间由来已久，随着当今码农审美水平的提高，他们对编程的外部环境需求越来越大，其中字体就是重点之一。&lt;/p&gt;
+&lt;p&gt;中日韩字体（统汉码）都包含太多字符，但是又包括英文字符。欧美的拉丁字符又不包括统汉码，但是其对拉丁文字的设计更加独具匠心，因此统汉码的主要用户对设计优美的英文字体和自己的母语字体的合成字体的追求也日益强烈。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>毕业论文大纲</title>
+      <link>/2020/02/2020-02-26-graduation-thesis-outline/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/2020-02-26-graduation-thesis-outline/</guid>
+      <description>&lt;h2 id=&#34;毕业论文思路与问题&#34;&gt;毕业论文思路与问题&lt;/h2&gt;
+&lt;p&gt;毕设课题《考虑生态流量的清江梯级水库优化调度研究》下的思路：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;根据两水库（水布垭、隔河岩）长系列逐旬实测流量数据选择丰、平、枯三种典型年；&lt;/li&gt;
+&lt;li&gt;根据Tennant法、Dc法和Qp法综合确定一个生态流量；&lt;/li&gt;
+&lt;li&gt;水库调度方式分两类，即分析比较考虑和不考虑生态流量约束条件下的梯级水库电站发电量等；&lt;/li&gt;
+&lt;li&gt;算法考虑POA和QPSO，分别作为动态规划方法和启发式算法的代表。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前发现的问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;老师上次回复的附件中并没有将高坝洲水库作为计算断面，是不是将隔河岩和高坝洲（隔河岩的反调节水库）一起考虑了？&lt;/li&gt;
+&lt;li&gt;如果想要做生态流量的对比分析，那么Tennant法是按流量百分比确定生态流量，而Qp法和Dc法是按流量的频率值确定的生态流量，这需要如何衡量？&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>水电站水库运行与调度课设总结</title>
@@ -19,6 +50,16 @@
       
       <guid>/2019/12/2019-12-24-summary-of-course-design-of-reservoir-dispatch/</guid>
       <description>&lt;p&gt;这应该是最后一次课设了，把一些用R编程需要的总结贴在这里，不要老是再犯错！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Page</title>
+      <link>/2019/08/test/</link>
+      <pubDate>Sun, 04 Aug 2019 22:49:56 +0800</pubDate>
+      
+      <guid>/2019/08/test/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-test-page&#34;&gt;This is a test page&lt;/h2&gt;
+&lt;p&gt;Test all features in development&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>

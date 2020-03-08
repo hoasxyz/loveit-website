@@ -3,12 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>更新R | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>毕业论文大纲 | hoas&#39; blog | One Stupid Boy</title><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noodp" />
-<meta name="Description" content="更新R">
-<link rel="prev" href="/2019/04/2019-04-18-summary-of-course-design/" />
-<link rel="next" href="/2019/08/test/" />
-<link rel="canonical" href="/2019/04/2019-04-27-update-r/" />
+<meta name="Description" content="Website of hoas">
+<link rel="prev" href="/2019/12/2019-12-24-summary-of-course-design-of-reservoir-dispatch/" />
+<link rel="next" href="/2020/03/2020-03-07-hybrid-fonts/" />
+<link rel="canonical" href="/2020/02/2020-02-26-graduation-thesis-outline/" />
 <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -18,16 +18,28 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="更新R"/>
-<meta name="twitter:description" content="更新R"/>
+<meta name="twitter:title" content="毕业论文大纲"/>
+<meta name="twitter:description" content="毕业论文思路与问题
+毕设课题《考虑生态流量的清江梯级水库优化调度研究》下的思路：
+
+根据两水库（水布垭、隔河岩）长系列逐旬实测流量数据选择丰、平、枯三种典型年；
+根据Tennant法、Dc法和Qp法综合确定一个生态流量；
+水库调度方式分两类，即分析比较考虑和不考虑生态流量约束条件下的梯级水库电站发电量等；
+算法考虑POA和QPSO，分别作为动态规划方法和启发式算法的代表。
+
+目前发现的问题：
+
+老师上次回复的附件中并没有将高坝洲水库作为计算断面，是不是将隔河岩和高坝洲（隔河岩的反调节水库）一起考虑了？
+如果想要做生态流量的对比分析，那么Tennant法是按流量百分比确定生态流量，而Qp法和Dc法是按流量的频率值确定的生态流量，这需要如何衡量？
+"/>
 <script type="application/ld+json">
     {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
-    "headline": "更新R",
+    "headline": "毕业论文大纲",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "\/2019\/04\/2019-04-27-update-r\/"
+        "@id": "\/2020\/02\/2020-02-26-graduation-thesis-outline\/"
     },
     
         "image": {
@@ -39,15 +51,15 @@
     
     "genre": "posts",
     
-        "keywords": "R",
+        "keywords": "thesis",
     
-    "wordcount":  345 ,
-    "url": "\/2019\/04\/2019-04-27-update-r\/",
+    "wordcount":  427 ,
+    "url": "\/2020\/02\/2020-02-26-graduation-thesis-outline\/",
     
-        "datePublished": "2019-04-27T00:00:00\x2b00:00",
+        "datePublished": "2020-02-26T00:00:00\x2b00:00",
     
     
-        "dateModified": "2020-02-10T14:35:31\x2b08:00",
+        "dateModified": "2020-03-07T14:58:36\x2b08:00",
     
     
         "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
@@ -65,7 +77,7 @@
         },
     
     
-    "description": "更新R"
+    "description": ""
     }
     </script>
 <link rel="stylesheet" href="/css/style.min.css">
@@ -132,7 +144,7 @@
     
 
     <article class="post-warp">
-        <h1 class="post-title animated flipInX">更新R</h1>
+        <h1 class="post-title animated flipInX">毕业论文大纲</h1>
 
         <div class="post-meta">
             <div class="post-meta-main">
@@ -144,8 +156,8 @@
                     </span>
             </div>
             <div class="post-meta-other">
-                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-04-27>2019-04-27</time>&nbsp;
-                <i class="fas fa-pencil-alt fa-fw"></i>约 345 字&nbsp;
+                <i class="far fa-calendar-alt fa-fw"></i><time datetime=2020-02-26>2020-02-26</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 427 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>预计阅读 1 分钟&nbsp;</div>
         </div>
 
@@ -153,13 +165,15 @@
 
         <div class="post-toc" id="post-toc">
                 <h2 class="post-toc-title">目录</h2>
-                <div class="post-toc-content always-active">
+                <div class="post-toc-content">
                     <nav id="TableOfContents">
   <ul>
-    <li><a href="#三行代码">三行代码</a></li>
-    <li><a href="#rprofilesite">Rprofile.site</a></li>
-    <li><a href="#libpath">.libPath()</a></li>
-    <li><a href="#其它">其它</a></li>
+    <li><a href="#毕业论文思路与问题">毕业论文思路与问题</a></li>
+    <li><a href="#毕业论文大纲">毕业论文大纲</a>
+      <ul>
+        <li><a href="#长系列逐旬实测流量数据">长系列逐旬实测流量数据</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
                 </div>
@@ -172,10 +186,12 @@
                         
                         <nav id="TableOfContentsMobile">
   <ul>
-    <li><a href="#三行代码">三行代码</a></li>
-    <li><a href="#rprofilesite">Rprofile.site</a></li>
-    <li><a href="#libpath">.libPath()</a></li>
-    <li><a href="#其它">其它</a></li>
+    <li><a href="#毕业论文思路与问题">毕业论文思路与问题</a></li>
+    <li><a href="#毕业论文大纲">毕业论文大纲</a>
+      <ul>
+        <li><a href="#长系列逐旬实测流量数据">长系列逐旬实测流量数据</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
                     </div>
@@ -208,74 +224,29 @@
             
             
             
-            <p>统计学家们的工作节奏这么快的吗？现在R的更新频率越来越大，想想还是写下来吧，每一次更新带来更好体验的同时少不了一定程度的折腾。哎，R啥时候能把自动更新问题解决掉？</p>
-<a class="post-dummy-target" id="三行代码"></a><h2>三行代码</h2>
-<p>所谓的三行代码更新指的是：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">install.packages</span><span class="p">(</span><span class="s">&#34;</span><span class="s">installr&#34;</span><span class="p">)</span>
-<span class="nf">library</span><span class="p">(</span><span class="n">installr</span><span class="p">)</span>
-<span class="n">installr</span><span class="o">::</span><span class="nf">updateR</span><span class="p">(</span><span class="p">)</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>但是默认给的镜像似乎不快，所以我一般<a href="https://cran.r-project.org/">手动</a>下载（记得是win！）。</p>
-<a class="post-dummy-target" id="rprofilesite"></a><h2>Rprofile.site</h2>
-<p>每次更新后都要重新配置这个文件，其中包含后面提到的<code>.libPath()</code>。</p>
-<a class="post-dummy-target" id="libpath"></a><h2><code>.libPath()</code></h2>
-<p>包的存储路径，R更新后<code>.libPath()</code>会只有当前版本R下的library路径：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-r" data-lang="r"><span class="o">&gt;</span> <span class="nf">.libPaths</span><span class="p">(</span><span class="p">)</span>
-<span class="n">[1</span><span class="n">]</span> <span class="s">&#34;</span><span class="s">E:/R-3.6.0/library&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>因此需要修改：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-r" data-lang="r"><span class="o">&gt;</span> <span class="nf">.libPaths</span><span class="p">(</span><span class="s">&#34;</span><span class="s">E:/R library&#34;</span><span class="p">)</span>
-<span class="o">&gt;</span> <span class="nf">.libPaths</span><span class="p">(</span><span class="p">)</span>
-<span class="n">[1</span><span class="n">]</span> <span class="s">&#34;</span><span class="s">E:/R library&#34;</span>       <span class="s">&#34;</span><span class="s">E:/R-3.6.0/library&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>如果想下载：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">install.packages</span><span class="p">(</span><span class="s">&#34;</span><span class="s">scales&#34;</span><span class="p">,</span> <span class="n">lib</span> <span class="o">=</span> <span class="nf">.libPaths</span><span class="p">(</span><span class="p">)</span><span class="n">[1</span><span class="n">]</span><span class="p">)</span>
-</code></pre></td></tr></table>
-</div>
-</div><a class="post-dummy-target" id="其它"></a><h2>其它</h2>
+            <a class="post-dummy-target" id="毕业论文思路与问题"></a><h2>毕业论文思路与问题</h2>
+<p>毕设课题《考虑生态流量的清江梯级水库优化调度研究》下的思路：</p>
 <ul>
-<li>
-<p>如果包有加载的话，更新包会失败，如果实在不确定最好更新包的时候把Rprofile.site文件中的函数删掉。</p>
-</li>
-<li>
-<p>用了大半年才知道这么多，这就是没有领进门的师傅再加上个人修行能力差的下场呀！</p>
-</li>
+<li>根据两水库（水布垭、隔河岩）长系列逐旬实测流量数据选择丰、平、枯三种典型年；</li>
+<li>根据Tennant法、Dc法和Qp法综合确定一个生态流量；</li>
+<li>水库调度方式分两类，即分析比较考虑和不考虑生态流量约束条件下的梯级水库电站发电量等；</li>
+<li>算法考虑POA和QPSO，分别作为动态规划方法和启发式算法的代表。</li>
 </ul>
+<p>目前发现的问题：</p>
+<ul>
+<li>老师上次回复的附件中并没有将高坝洲水库作为计算断面，是不是将隔河岩和高坝洲（隔河岩的反调节水库）一起考虑了？</li>
+<li>如果想要做生态流量的对比分析，那么Tennant法是按流量百分比确定生态流量，而Qp法和Dc法是按流量的频率值确定的生态流量，这需要如何衡量？</li>
+</ul>
+<a class="post-dummy-target" id="毕业论文大纲"></a><h2>毕业论文大纲</h2>
+<a class="post-dummy-target" id="长系列逐旬实测流量数据"></a><h3>长系列逐旬实测流量数据</h3>
+<p>在《水电站水库运行与调度》课程设计中，直接塞进完整长系列而没有划分丰平枯。毕设前期查看有关参考文献后了解到有的学者按照丰、平、枯典型年来进行比较，如果也想如此实行那么参考《水文水利计算课设1》</p>
         </div>
 
         <div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>本文于 2020-02-10 更新</span>
+                <span>本文于 2020-03-07 更新</span>
             </div>
             <div class="post-info-license">
                 
@@ -285,7 +256,7 @@
             <div class="post-info-md">
                 
                     
-                        <span><a class="link-to-markdown" href="/2019/04/2019-04-27-update-r/index.md" target="_blank">阅读原始文档</a></span>
+                        <span><a class="link-to-markdown" href="/2020/02/2020-02-26-graduation-thesis-outline/index.md" target="_blank">阅读原始文档</a></span>
                     
                 
             </div>
@@ -302,7 +273,7 @@
             
                 
                     <span class="tag">
-                        <a href="/tags/r/"><i class="fas fa-tag fa-fw"></i>R</a>
+                        <a href="/tags/thesis/"><i class="fas fa-tag fa-fw"></i>thesis</a>
                     </span>
                 
             
@@ -314,18 +285,15 @@
 
     <div class="post-nav">
         
-            <a href="/2019/04/2019-04-18-summary-of-course-design/" class="prev" rel="prev" title="水文水利计算课设总结"><i class="fas fa-angle-left fa-fw"></i>水文水利计算课设总结</a>
+            <a href="/2019/12/2019-12-24-summary-of-course-design-of-reservoir-dispatch/" class="prev" rel="prev" title="水电站水库运行与调度课设总结"><i class="fas fa-angle-left fa-fw"></i>水电站水库运行与调度课设总结</a>
         
         
-            <a href="/2019/08/test/" class="next" rel="next" title="Test Page">Test Page<i class="fas fa-angle-right fa-fw"></i></a>
+            <a href="/2020/03/2020-03-07-hybrid-fonts/" class="next" rel="next" title="杂交字体">杂交字体<i class="fas fa-angle-right fa-fw"></i></a>
         
     </div>
 </div>
 
         <div class="post-comment">
-            
-            
-
             
         </div>
     </article></div>
@@ -451,6 +419,8 @@
 
     
 
+    
+        <link rel="stylesheet" href="/css/lib/katex/katex.min.min.css"><script src="/js/lib/katex/katex.min.min.js"></script><script defer src="/js/lib/katex/auto-render.min.min.js" onload="renderMathInElement(document.body);"></script>
     
 
     

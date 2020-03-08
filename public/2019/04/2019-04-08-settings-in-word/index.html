@@ -41,13 +41,13 @@
     
         "keywords": "Word",
     
-    "wordcount":  2145 ,
+    "wordcount":  2663 ,
     "url": "\/2019\/04\/2019-04-08-settings-in-word\/",
     
         "datePublished": "2019-04-08T00:00:00\x2b00:00",
     
     
-        "dateModified": "2020-02-10T14:35:31\x2b08:00",
+        "dateModified": "2020-02-25T12:49:19\x2b08:00",
     
     
         "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
@@ -145,8 +145,8 @@
             </div>
             <div class="post-meta-other">
                 <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-04-08>2019-04-08</time>&nbsp;
-                <i class="fas fa-pencil-alt fa-fw"></i>约 2145 字&nbsp;
-                <i class="far fa-clock fa-fw"></i>预计阅读 5 分钟&nbsp;</div>
+                <i class="fas fa-pencil-alt fa-fw"></i>约 2663 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>预计阅读 6 分钟&nbsp;</div>
         </div>
 
         
@@ -175,6 +175,12 @@
     <li><a href="#文字样式">文字样式</a></li>
     <li><a href="#normaldotm">normal.dotm</a></li>
     <li><a href="#r语言高清图插入">R语言高清图插入</a></li>
+    <li><a href="#文档样式的更改">文档样式的更改</a>
+      <ul>
+        <li><a href="#microsoft-word-模板-dotx">Microsoft Word 模板 (.dotx)</a></li>
+        <li><a href="#microsoft-word-启用宏的模板-dotm">Microsoft Word 启用宏的模板 (.dotm)</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
                 </div>
@@ -206,6 +212,12 @@
     <li><a href="#文字样式">文字样式</a></li>
     <li><a href="#normaldotm">normal.dotm</a></li>
     <li><a href="#r语言高清图插入">R语言高清图插入</a></li>
+    <li><a href="#文档样式的更改">文档样式的更改</a>
+      <ul>
+        <li><a href="#microsoft-word-模板-dotx">Microsoft Word 模板 (.dotx)</a></li>
+        <li><a href="#microsoft-word-启用宏的模板-dotm">Microsoft Word 启用宏的模板 (.dotm)</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
                     </div>
@@ -348,13 +360,19 @@ C<span class="p">:</span><span class="nl">\WINDOWS\system32</span><span class="c
 </ol>
 <p>中均未得到一个让我比较满意的结果。但并不是没有结果，可以用来保存少量高质量的PDF或者是PNG图像，不过操作略微繁琐，不适合大批量图像的使用。</p>
 <p>在RStudio中，将图像以metafile的形式导出至剪贴板，然后放置到word中进行裁剪。将word文件导出为PDF格式的文件不能通过Adobe acrobat和内置的导出为PDF，而是需要在打印中选择Microsoft Print to PDF打印机去打印。这个可以正常显示DIN字体。</p>
+<a class="post-dummy-target" id="文档样式的更改"></a><h2>文档样式的更改</h2>
+<p>在word的<code>设计</code>中，新样式集的保存路径为：<code>C:\Users\Administrator\AppData\Roaming\Microsoft\QuickStyles</code>，虽然本来用得好好的，但是<strong>可能因为</strong>我无意中在<code>管理样式</code>里点击了<code>基于该模板的新文档</code>，因此在该模板即<code>Normal.dotm</code>中的新文档里，只要点击两次不同的样式，那一次保存在<code>Normal.dotm</code>中的样式都全部出现了，而且还删不掉。为了解决这个问题，目前有两个思路：</p>
+<a class="post-dummy-target" id="microsoft-word-模板-dotx"></a><h3>Microsoft Word 模板 (.dotx)</h3>
+<p>具体设置参考<a href="https://www.sohu.com/a/313786523_825825">这里</a>，亲测有效。简单来讲就是打开一个空白文档，在所有的样式都设置完毕之后，另存为<code>Microsoft Word 模板 (.dotx)</code>格式，下次如果需要套用这个模板，就在<code>模板和加载项</code>中选用该模板即可。该模板的默认保存路径就是<code>C:\Users\Administrator\AppData\Roaming\Microsoft\QuickStyles</code>。</p>
+<a class="post-dummy-target" id="microsoft-word-启用宏的模板-dotm"></a><h3>Microsoft Word 启用宏的模板 (.dotm)</h3>
+<p>这个模板就是上面提到的坏得不明不白的模板，现在仍然没找到解决方法，所以我把常用的格式命名为<code>Normal.dotm</code>，把最初的格式命名为<code>Initial.dotm</code>，如果想用毕设模板，那么还是得换<code>Microsoft Word 模板 (.dotx)</code>格式。</p>
         </div>
 
         <div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>本文于 2020-02-10 更新</span>
+                <span>本文于 2020-02-25 更新</span>
             </div>
             <div class="post-info-license">
                 
@@ -429,6 +447,11 @@ C<span class="p">:</span><span class="nl">\WINDOWS\system32</span><span class="c
             
         });
     </script>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
 </footer>
 
 

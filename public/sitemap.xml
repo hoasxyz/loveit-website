@@ -3,7 +3,119 @@
         <url>
             <loc>/categories/</loc>
             
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/fonts/</loc>
+            
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/categories/notes/</loc>
+            
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/posts/</loc>
+            
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/</loc>
+            
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/2020/03/2020-03-07-hybrid-fonts/</loc>
+            
+                <lastmod>2020-03-07T15:07:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/tags/thesis/</loc>
+            
+                <lastmod>2020-03-07T14:58:36+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>/2020/02/2020-02-26-graduation-thesis-outline/</loc>
+            
+                <lastmod>2020-03-07T14:58:36+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -29,49 +141,7 @@
         </url>
     
         <url>
-            <loc>/</loc>
-            
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>/posts/</loc>
-            
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
             <loc>/tags/r/</loc>
-            
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>/tags/</loc>
             
                 <lastmod>2020-02-10T14:35:31+08:00</lastmod>
             
@@ -99,9 +169,9 @@
         </url>
     
         <url>
-            <loc>/about/</loc>
+            <loc>/2019/08/test/</loc>
             
-                <lastmod>2020-01-10T21:18:09+08:00</lastmod>
+                <lastmod>2019-08-17T22:41:56+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -113,9 +183,9 @@
         </url>
     
         <url>
-            <loc>/categories/notes/</loc>
+            <loc>/about/</loc>
             
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
+                <lastmod>2020-02-25T12:49:19+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -171,7 +241,7 @@
         <url>
             <loc>/tags/word/</loc>
             
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
+                <lastmod>2020-02-25T12:49:19+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
@@ -185,7 +255,7 @@
         <url>
             <loc>/2019/04/2019-04-08-settings-in-word/</loc>
             
-                <lastmod>2020-02-10T14:35:31+08:00</lastmod>
+                <lastmod>2020-02-25T12:49:19+08:00</lastmod>
             
             
                 <changefreq>weekly</changefreq>
