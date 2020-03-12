@@ -8,6 +8,7 @@ categories:
 tags:
   - thesis
 lastmod: '2020-02-26T13:32:39+08:00'
+draft: true
 description: ''
 show_in_homepage: yes
 show_description: no

@@ -334,3 +334,19 @@ T =
 
 <!--more-->
 
+## 代码规范格式
+
+### R
+
+在R中这个功能早已被**styler**很方便快捷地实现。
+
+### MATLAB
+
+而在MATLAB中该功能虽然[已经被提出](https://github.com/davidvarga/MBeautifier)但是并没有被官方整合。以`R2019a`为例，在工具条的`主页-收藏夹`中新建收藏项，然后编辑收藏命令，即可完成`Alt+数字`形式的代码规范格式调整：
+
+```matlab
+addpath("C:\Program Files\Polyspace\R2019a\bin\MBeautifier-1.3.2");
+run("C:\Program Files\Polyspace\R2019a\bin\MBeautifier-1.3.2\MBeautify.m");
+MBeautify.formatCurrentEditorPage();
+```
+
