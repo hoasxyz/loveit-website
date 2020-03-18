@@ -7,6 +7,7 @@ categories:
   - essay
 tags:
   - COVID-19
+draft: true
 lastmod: '2020-03-14T20:47:46+08:00'
 description: ''
 show_in_homepage: yes
