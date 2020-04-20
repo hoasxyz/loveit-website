@@ -16,7 +16,7 @@ license: ''
 featured_image: ''
 featured_image_preview: ''
 comment: no
-toc: yes
+toc: no
 autoCollapseToc: yes
 math: yes
 ---

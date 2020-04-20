@@ -24,5 +24,14 @@
 &lt;p&gt;&lt;img src=&#34;https://rawcdn.githack.com/hoasxyz/mdphotos/c4d2e1f98761ad97aa876f1537f5c681086d4468/other/Hadley.png&#34; alt=&#34;hadley&#34;&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>ggplot2</title>
+      <link>/2019/01/2019-01-05-ggplot2/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/2019-01-05-ggplot2/</guid>
+      <description>There are brief notes about the usage of ggplot2. expression/annotate/Greek letters/title 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 t &amp;lt;- seq(1,4,0.1) qmp &amp;lt;- function(t) { 0.278*(98.92/t^0.65-2)*78 } q &amp;lt;- seq(500,2000,75) tao &amp;lt;- function(q) { 0.278*14.6/0.96/0.296/q^0.25 } library(cowplot) ggplot()+ geom_smooth(mapping = aes(x = t, y = qmp(t)),color = &amp;#34;red&amp;#34;)+ geom_smooth(mapping = aes(x = tao(q), y = q),color = &amp;#39;blue&amp;#39;,linetype</description>
+    </item>
+    
   </channel>
 </rss>

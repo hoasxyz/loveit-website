@@ -41,13 +41,13 @@
     
         "keywords": "Word",
     
-    "wordcount":  2663 ,
+    "wordcount":  2975 ,
     "url": "\/2019\/04\/2019-04-08-settings-in-word\/",
     
         "datePublished": "2019-04-08T00:00:00\x2b00:00",
     
     
-        "dateModified": "2020-02-25T12:49:19\x2b08:00",
+        "dateModified": "2020-04-12T19:37:30\x2b08:00",
     
     
         "license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
@@ -145,7 +145,7 @@
             </div>
             <div class="post-meta-other">
                 <i class="far fa-calendar-alt fa-fw"></i><time datetime=2019-04-08>2019-04-08</time>&nbsp;
-                <i class="fas fa-pencil-alt fa-fw"></i>约 2663 字&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>约 2975 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>预计阅读 6 分钟&nbsp;</div>
         </div>
 
@@ -162,9 +162,7 @@
     <li><a href="#目录设置">目录设置</a></li>
     <li><a href="#错误未定义书签">错误！未定义书签</a></li>
     <li><a href="#代码段">代码段</a></li>
-  </ul>
-
-  <ul>
+    <li><a href="#pdfmofficeaddindll">PDFMOfficeAddin.dll</a></li>
     <li><a href="#三线表样式设置">三线表样式设置</a></li>
     <li><a href="#mathtype">Mathtype</a>
       <ul>
@@ -181,6 +179,9 @@
         <li><a href="#microsoft-word-启用宏的模板-dotm">Microsoft Word 启用宏的模板 (.dotm)</a></li>
       </ul>
     </li>
+    <li><a href="#表格自动拉长超过页边距的约束">表格自动拉长超过页边距的约束</a></li>
+    <li><a href="#页边距相关">页边距相关</a></li>
+    <li><a href="#正文款项层次">正文款项层次</a></li>
   </ul>
 </nav>
                 </div>
@@ -199,9 +200,7 @@
     <li><a href="#目录设置">目录设置</a></li>
     <li><a href="#错误未定义书签">错误！未定义书签</a></li>
     <li><a href="#代码段">代码段</a></li>
-  </ul>
-
-  <ul>
+    <li><a href="#pdfmofficeaddindll">PDFMOfficeAddin.dll</a></li>
     <li><a href="#三线表样式设置">三线表样式设置</a></li>
     <li><a href="#mathtype">Mathtype</a>
       <ul>
@@ -218,6 +217,9 @@
         <li><a href="#microsoft-word-启用宏的模板-dotm">Microsoft Word 启用宏的模板 (.dotm)</a></li>
       </ul>
     </li>
+    <li><a href="#表格自动拉长超过页边距的约束">表格自动拉长超过页边距的约束</a></li>
+    <li><a href="#页边距相关">页边距相关</a></li>
+    <li><a href="#正文款项层次">正文款项层次</a></li>
   </ul>
 </nav>
                     </div>
@@ -259,7 +261,7 @@
 <li>别忘了每个分节后调整页脚底端距离！</li>
 </ol>
 <a class="post-dummy-target" id="插入奇偶互异的页眉"></a><h2>插入奇偶互异的页眉</h2>
-<p>设置奇偶页不同，在正文第一页的页眉上左对齐点击<code>域</code>，选择<code>Styleref</code>然后点击查看域代码。若不改动那么就是标题文字了，如果这样设置<code>STYLEREF  &quot;标题 1,章&quot; \r</code>就可以提取标题前的编号。</p>
+<p>设置奇偶页不同，在正文第一页的页眉上左对齐点击<code>域</code>（如果没有可以按<code>Ctrl+F9</code>），选择<code>Styleref</code>然后点击查看域代码。若不改动那么就是标题文字了，如果这样设置<code>STYLEREF  &quot;标题 1,章&quot; \r</code>就可以提取标题前的编号。</p>
 <p>如果想只是在页眉上加一个横线，只需选中页眉文字，在开始&ndash;段落&ndash;边框。</p>
 <p>注意：</p>
 <ol>
@@ -288,7 +290,7 @@
 <a class="post-dummy-target" id="代码段"></a><h2>代码段</h2>
 <p>代码段的行距固定为15磅才能显示下划线。</p>
 <p>其实这和字体有关，不过小于12磅后行间距会让人太压抑，字体是<code>Consolas</code>。</p>
-<a class="post-dummy-target" id="pdfmofficeaddindll"></a><h1><code>PDFMOfficeAddin.dll</code></h1>
+<a class="post-dummy-target" id="pdfmofficeaddindll"></a><h2><code>PDFMOfficeAddin.dll</code></h2>
 <p>这个是比较坑的一个地方。word自带的PDF导出（即另存为）和文件中的打印设置不能完全还原成你想要的文档样式，目前已经发现了两点：</p>
 <ol>
 <li>分页符后面空了一页，现在发现是为了保证<strong>每节一定是偶数页</strong>，我就奇了怪了之前怎么没发现；</li>
@@ -366,13 +368,54 @@ C<span class="p">:</span><span class="nl">\WINDOWS\system32</span><span class="c
 <p>具体设置参考<a href="https://www.sohu.com/a/313786523_825825">这里</a>，亲测有效。简单来讲就是打开一个空白文档，在所有的样式都设置完毕之后，另存为<code>Microsoft Word 模板 (.dotx)</code>格式，下次如果需要套用这个模板，就在<code>模板和加载项</code>中选用该模板即可。该模板的默认保存路径就是<code>C:\Users\Administrator\AppData\Roaming\Microsoft\QuickStyles</code>。</p>
 <a class="post-dummy-target" id="microsoft-word-启用宏的模板-dotm"></a><h3>Microsoft Word 启用宏的模板 (.dotm)</h3>
 <p>这个模板就是上面提到的坏得不明不白的模板，现在仍然没找到解决方法，所以我把常用的格式命名为<code>Normal.dotm</code>，把最初的格式命名为<code>Initial.dotm</code>，如果想用毕设模板，那么还是得换<code>Microsoft Word 模板 (.dotx)</code>格式。</p>
+<a class="post-dummy-target" id="表格自动拉长超过页边距的约束"></a><h2>表格自动拉长超过页边距的约束</h2>
+<p>目前没有找到完全的方案。对某些可以进行这项操作的表格，直接先按照内容再按照窗口自动调整，然后再对整个表格用鼠标手动拉长。例子有《课设2电子版》表2-1。</p>
+<p>不过就算不能如此调整，对于符合这种情况的表格，可以在<code>视图-标尺</code>打开的情况下对标尺进行调整！</p>
+<a class="post-dummy-target" id="页边距相关"></a><h2>页边距相关</h2>
+<p>《武汉大学本科生毕业论文书写印制规范》之页边距标准：</p>
+<ul>
+<li>上边距为25mm；</li>
+<li>下边距为20mm；</li>
+<li>左边距为30mm；</li>
+<li>右边距为30mm。</li>
+</ul>
+<p>可以在<code>设计-页边距-自定义页边距</code>中进行默认设置。</p>
+<ul>
+<li>页眉顶端距离：1.5厘米；</li>
+<li>页脚底端距离：1厘米（插入页码后为1.5厘米）。</li>
+</ul>
+<a class="post-dummy-target" id="正文款项层次"></a><h2>正文款项层次</h2>
+<p>其中前三项纳为目录。</p>
+<ul>
+<li>1	章
+<ul>
+<li>1.1	节
+<ul>
+<li>1.1.1	条
+<ul>
+<li>1.1.1.1
+<ul>
+<li>（1）	（中文括号）
+<ul>
+<li>①</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
         </div>
 
         <div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>本文于 2020-02-25 更新</span>
+                <span>本文于 2020-04-12 更新</span>
             </div>
             <div class="post-info-license">
                 
