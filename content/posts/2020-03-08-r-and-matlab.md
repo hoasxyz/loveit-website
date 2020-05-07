@@ -57,7 +57,6 @@ c <- c(TRUE, TRUE, TRUE, FALSE, TRUE, FALSE)
 [1] 2
 > a[c(3,4)]
 [1] 5 3
-
 ```
 
 #### MATLAB
