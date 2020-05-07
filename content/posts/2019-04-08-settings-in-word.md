@@ -2,7 +2,7 @@
 title: Word设置汇总
 author: hoas
 date: '2019-04-08'
-slug: word设置汇总
+slug: settings-in-word
 categories:
   - notes
 tags:
