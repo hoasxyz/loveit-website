@@ -361,7 +361,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
           paginate = 6
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "https://github.com/hoasxyz"
+        GitHub = "hoasxyz"
         Linkedin = ""
         Twitter = ""
         Instagram = ""
@@ -405,7 +405,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         Skype = ""
         Whatsapp = ""
         Zhihu = ""
-        Douban = "https://www.douban.com/people/168585963/"
+        Douban = "168585963"
         Angellist = ""
         Slidershare = ""
         Jsfiddle = ""
@@ -422,7 +422,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         Gitea = ""
         XMPP = ""
         Matrix = ""
-        Bilibili = "https://space.bilibili.com/313529825"
+        Bilibili = "313529825"
         Email = "yuzuoxie@outlook.com"
         RSS = true
 
