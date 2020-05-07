@@ -147,7 +147,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
           # title shown in home page
           title = ""
           # subtitle shown in home page
-          subtitle = "Just because my path is different doesn't mean I'm lost."
+          subtitle = "Just because my path is different doesn't means I'm lost."
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -347,7 +347,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
           # 主页显示的网站标题
           title = ""
           # 主页显示的网站副标题
-          subtitle = "Just because my path is different doesn't mean I'm lost."
+          subtitle = "Just because my path is different doesn't means I'm lost."
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
