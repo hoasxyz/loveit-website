@@ -34,11 +34,12 @@ license: CC BY-NC 4.0
 .Rhistory
 .RData
 .Ruserdata
-public/
 draft/
 Excel/
+public/
 *.R
 *.xlsx
+themes/theme-LoveIt/
 ```
 
 其语法规范如下：
