@@ -356,7 +356,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
           disclaimer = ""
         # 主页文章列表
         [languages.zh-cn.params.home.posts]
-          enable = false
+          enable = true
           # 主页每页显示文章数量
           paginate = 6
       # 主页的社交信息设置

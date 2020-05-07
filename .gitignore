@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+draft/
+Excel/
+*.R
+*.xlsx
+themes/theme-LoveIt/
