@@ -1,59 +1,70 @@
-<article class="post" itemscope itemtype="http://schema.org/Article">
-    {{ $publish_date := .PublishDate.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-    {{ $author := .Site.Author.name }}
-    {{ if isset .Params "author" }}
-       {{ $author = .Site.Author.name }}
-    {{ end }}
-
-    <!--featured_image-->
-    {{ with .Params.featured_image }}
-        {{ $image := $.Params.featured_image_preview | default . }}
-        <div class="post-featured-image-preview">
-            <img src=/images/loading.svg data-sizes=auto data-src={{ $image }} alt="featured image" class="lazyload">
+{{- $params := .Params | merge .Site.Params.page -}}
+<article class="single summary" itemscope itemtype="http://schema.org/Article">
+    {{- /* Featured image */ -}}
+    {{- with $params.featuredimage -}}
+        <div class="featured-image-preview">
+            <a href="{{ $.RelPermalink }}">
+                {{- $image := $params.featuredimagepreview | default . -}}
+                {{- dict "src" $image "alt" $.Description "large" true | partial "plugin/image.html" -}}
+            </a>
         </div>
-    {{ end }}
-    <!-- end featured_image-->
-    <h1 class="post-title post-list-title" itemprop="name headline">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{- end -}}
+
+    {{- /* Title */ -}}
+    <h1 class="single-title" itemprop="name headline">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h1>
 
+    {{- /* Meta */ -}}
     <div class="post-meta">
-        <a class="author" href="{{.Site.BaseURL }}" rel="author"><i class="fas fa-user-circle fa-fw"></i>{{ $author }}&nbsp;</a>
-        {{ T "publish" }}&nbsp;<time datetime={{ $publish_date }}>{{ $publish_date }}</time>&nbsp;
-        {{ with .Params.categories -}}
+        {{- $author := $params.author | default .Site.Author.name | default (T "author") -}}
+        {{- $authorLink := $params.authorlink | default .Site.Author.link | default .Site.Home.RelPermalink -}}
+        <span class="post-author">
+            {{- $options := dict "class" "author" "href" $authorLink "title" "Author" "rel" "author" "icon" (dict "class" "fas fa-user-circle fa-fw") "content" $author -}}
+            {{- partial "plugin/link.html" $options -}}
+        </span>
+
+        {{- $publish_date := .PublishDate.Format (.Site.Params.dateFormat | default "2006-01-02") -}}
+        &nbsp;<span class="post-publish">
+            {{ T "publish" }}&nbsp;<time datetime={{ $publish_date }}>{{ $publish_date }}</time>
+        </span>
+
+        {{- with .Params.categories -}}
+            &nbsp;
             <span class="post-category">
-                {{ T "included" }}
-                {{ range . }}
-                    {{- $name := . -}}
-                    {{- with $.Site.GetPage "taxonomy" (printf "categories/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "categories/%s" ($name | urlize))) -}}
-                        <i class="far fa-folder fa-fw"></i> <a href="{{ .Permalink }}">{{ $name }}</a>
-                    {{ end -}}
-                {{ end }}
+                {{- T "included" -}}
+                {{- range $index, $value := . -}}
+                    {{- if gt $index 0 }}&nbsp;{{ end -}}
+                    {{- $category := $value | anchorize | printf "/categories/%s" | $.Site.GetPage -}}
+                    <a href="{{ $category.RelPermalink }}">
+                        <i class="far fa-folder fa-fw"></i>{{ $category.Title }}
+                    </a>
+                {{- end -}}
             </span>
-        {{- end }}
+        {{- end -}}
     </div>
-    <div class="post-content">
-        {{ if .Params.show_description }}
-            <p>{{ .Params.description }}</p>
-        {{ else }}
-            {{ $summary := .Summary }}
-            {{ $REin := `:\(([\w- ]+?)\):` }}
-            {{ $REout := `<i class="$1 fa-fw"></i>` }}
-            {{ $summary  = replaceRE $REin $REout $summary  }}
-            {{ $REin = `\[(.+?)\]\^\((.+?)\)` }}
-            {{ $REout = `<strong><ruby>$1<rt>$2</rt></ruby></strong>` }}
-            {{ $summary  = replaceRE $REin $REout $summary  }}
-            {{ $summary  | safeHTML }}
-        {{ end }}
+
+    {{- /* Summary content */ -}}
+    <div class="content">
+        {{- with .Summary -}}
+            {{- dict "content" . "ruby" $params.ruby "fraction" $params.fraction "fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+        {{- else -}}
+            {{- .Description | safeHTML -}}
+        {{- end -}}
     </div>
+
+    {{- /* Footer */ -}}
     <div class="post-footer">
-        <a href="{{ .Permalink }}">{{ T "readmore" }}</a>
-        {{ with .Params.tags }}
+        <a href="{{ .RelPermalink }}">{{ T "readMore" }}</a>
+        {{- with .Params.tags -}}
             <div class="post-tags">
-                {{ range . }}
-                    &nbsp;&nbsp;<span class="tag"><a href="{{ "tags/" | absURL }}{{ . | urlize }}/"><i class="fas fa-tag fa-fw"></i>{{ . }}</a></span>
-                {{ end }}
+                <i class="fas fa-tags fa-fw"></i>&nbsp;
+                {{- range $index, $value := . -}}
+                    {{- if gt $index 0 }},&nbsp;{{ end -}}
+                    {{- $tag := $value | anchorize | printf "/tags/%s" | $.Site.GetPage -}}
+                    <a href="{{ $tag.RelPermalink }}">{{ $tag.Title }}</a>
+                {{- end -}}
             </div>
-        {{ end }}
+        {{- end -}}
     </div>
 </article>

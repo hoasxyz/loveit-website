@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2060 (Geng-chen  -  year of the Dragon)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2060/1/1          28                      Thursday                           
+2060/1/2          29                      Friday                             
+2060/1/3          30                      Saturday                           
+2060/1/4          12th Lunar Month        Sunday                             
+2060/1/5          2                       Monday         Moderate Cold       
+2060/1/6          3                       Tuesday                            
+2060/1/7          4                       Wednesday                          
+2060/1/8          5                       Thursday                           
+2060/1/9          6                       Friday                             
+2060/1/10         7                       Saturday                           
+2060/1/11         8                       Sunday                             
+2060/1/12         9                       Monday                             
+2060/1/13         10                      Tuesday                            
+2060/1/14         11                      Wednesday                          
+2060/1/15         12                      Thursday                           
+2060/1/16         13                      Friday                             
+2060/1/17         14                      Saturday                           
+2060/1/18         15                      Sunday                             
+2060/1/19         16                      Monday                             
+2060/1/20         17                      Tuesday        Severe Cold         
+2060/1/21         18                      Wednesday                          
+2060/1/22         19                      Thursday                           
+2060/1/23         20                      Friday                             
+2060/1/24         21                      Saturday                           
+2060/1/25         22                      Sunday                             
+2060/1/26         23                      Monday                             
+2060/1/27         24                      Tuesday                            
+2060/1/28         25                      Wednesday                          
+2060/1/29         26                      Thursday                           
+2060/1/30         27                      Friday                             
+2060/1/31         28                      Saturday                           
+2060/2/1          29                      Sunday                             
+2060/2/2          1st Lunar Month         Monday                             
+2060/2/3          2                       Tuesday                            
+2060/2/4          3                       Wednesday      Spring Commences    
+2060/2/5          4                       Thursday                           
+2060/2/6          5                       Friday                             
+2060/2/7          6                       Saturday                           
+2060/2/8          7                       Sunday                             
+2060/2/9          8                       Monday                             
+2060/2/10         9                       Tuesday                            
+2060/2/11         10                      Wednesday                          
+2060/2/12         11                      Thursday                           
+2060/2/13         12                      Friday                             
+2060/2/14         13                      Saturday                           
+2060/2/15         14                      Sunday                             
+2060/2/16         15                      Monday                             
+2060/2/17         16                      Tuesday                            
+2060/2/18         17                      Wednesday                          
+2060/2/19         18                      Thursday       Spring Showers      
+2060/2/20         19                      Friday                             
+2060/2/21         20                      Saturday                           
+2060/2/22         21                      Sunday                             
+2060/2/23         22                      Monday                             
+2060/2/24         23                      Tuesday                            
+2060/2/25         24                      Wednesday                          
+2060/2/26         25                      Thursday                           
+2060/2/27         26                      Friday                             
+2060/2/28         27                      Saturday                           
+2060/2/29         28                      Sunday                             
+2060/3/1          29                      Monday                             
+2060/3/2          30                      Tuesday                            
+2060/3/3          2nd Lunar Month         Wednesday                          
+2060/3/4          2                       Thursday                           
+2060/3/5          3                       Friday         Insects Waken       
+2060/3/6          4                       Saturday                           
+2060/3/7          5                       Sunday                             
+2060/3/8          6                       Monday                             
+2060/3/9          7                       Tuesday                            
+2060/3/10         8                       Wednesday                          
+2060/3/11         9                       Thursday                           
+2060/3/12         10                      Friday                             
+2060/3/13         11                      Saturday                           
+2060/3/14         12                      Sunday                             
+2060/3/15         13                      Monday                             
+2060/3/16         14                      Tuesday                            
+2060/3/17         15                      Wednesday                          
+2060/3/18         16                      Thursday                           
+2060/3/19         17                      Friday                             
+2060/3/20         18                      Saturday       Vernal Equinox      
+2060/3/21         19                      Sunday                             
+2060/3/22         20                      Monday                             
+2060/3/23         21                      Tuesday                            
+2060/3/24         22                      Wednesday                          
+2060/3/25         23                      Thursday                           
+2060/3/26         24                      Friday                             
+2060/3/27         25                      Saturday                           
+2060/3/28         26                      Sunday                             
+2060/3/29         27                      Monday                             
+2060/3/30         28                      Tuesday                            
+2060/3/31         29                      Wednesday                          
+2060/4/1          3rd Lunar Month         Thursday                           
+2060/4/2          2                       Friday                             
+2060/4/3          3                       Saturday                           
+2060/4/4          4                       Sunday         Bright & Clear      
+2060/4/5          5                       Monday                             
+2060/4/6          6                       Tuesday                            
+2060/4/7          7                       Wednesday                          
+2060/4/8          8                       Thursday                           
+2060/4/9          9                       Friday                             
+2060/4/10         10                      Saturday                           
+2060/4/11         11                      Sunday                             
+2060/4/12         12                      Monday                             
+2060/4/13         13                      Tuesday                            
+2060/4/14         14                      Wednesday                          
+2060/4/15         15                      Thursday                           
+2060/4/16         16                      Friday                             
+2060/4/17         17                      Saturday                           
+2060/4/18         18                      Sunday                             
+2060/4/19         19                      Monday         Corn Rain           
+2060/4/20         20                      Tuesday                            
+2060/4/21         21                      Wednesday                          
+2060/4/22         22                      Thursday                           
+2060/4/23         23                      Friday                             
+2060/4/24         24                      Saturday                           
+2060/4/25         25                      Sunday                             
+2060/4/26         26                      Monday                             
+2060/4/27         27                      Tuesday                            
+2060/4/28         28                      Wednesday                          
+2060/4/29         29                      Thursday                           
+2060/4/30         4th Lunar Month         Friday                             
+2060/5/1          2                       Saturday                           
+2060/5/2          3                       Sunday                             
+2060/5/3          4                       Monday                             
+2060/5/4          5                       Tuesday                            
+2060/5/5          6                       Wednesday      Summer Commences    
+2060/5/6          7                       Thursday                           
+2060/5/7          8                       Friday                             
+2060/5/8          9                       Saturday                           
+2060/5/9          10                      Sunday                             
+2060/5/10         11                      Monday                             
+2060/5/11         12                      Tuesday                            
+2060/5/12         13                      Wednesday                          
+2060/5/13         14                      Thursday                           
+2060/5/14         15                      Friday                             
+2060/5/15         16                      Saturday                           
+2060/5/16         17                      Sunday                             
+2060/5/17         18                      Monday                             
+2060/5/18         19                      Tuesday                            
+2060/5/19         20                      Wednesday                          
+2060/5/20         21                      Thursday       Corn Forms          
+2060/5/21         22                      Friday                             
+2060/5/22         23                      Saturday                           
+2060/5/23         24                      Sunday                             
+2060/5/24         25                      Monday                             
+2060/5/25         26                      Tuesday                            
+2060/5/26         27                      Wednesday                          
+2060/5/27         28                      Thursday                           
+2060/5/28         29                      Friday                             
+2060/5/29         30                      Saturday                           
+2060/5/30         5th Lunar Month         Sunday                             
+2060/5/31         2                       Monday                             
+2060/6/1          3                       Tuesday                            
+2060/6/2          4                       Wednesday                          
+2060/6/3          5                       Thursday                           
+2060/6/4          6                       Friday                             
+2060/6/5          7                       Saturday       Corn on Ear         
+2060/6/6          8                       Sunday                             
+2060/6/7          9                       Monday                             
+2060/6/8          10                      Tuesday                            
+2060/6/9          11                      Wednesday                          
+2060/6/10         12                      Thursday                           
+2060/6/11         13                      Friday                             
+2060/6/12         14                      Saturday                           
+2060/6/13         15                      Sunday                             
+2060/6/14         16                      Monday                             
+2060/6/15         17                      Tuesday                            
+2060/6/16         18                      Wednesday                          
+2060/6/17         19                      Thursday                           
+2060/6/18         20                      Friday                             
+2060/6/19         21                      Saturday                           
+2060/6/20         22                      Sunday         Summer Solstice     
+2060/6/21         23                      Monday                             
+2060/6/22         24                      Tuesday                            
+2060/6/23         25                      Wednesday                          
+2060/6/24         26                      Thursday                           
+2060/6/25         27                      Friday                             
+2060/6/26         28                      Saturday                           
+2060/6/27         29                      Sunday                             
+2060/6/28         6th Lunar Month         Monday                             
+2060/6/29         2                       Tuesday                            
+2060/6/30         3                       Wednesday                          
+2060/7/1          4                       Thursday                           
+2060/7/2          5                       Friday                             
+2060/7/3          6                       Saturday                           
+2060/7/4          7                       Sunday                             
+2060/7/5          8                       Monday                             
+2060/7/6          9                       Tuesday        Moderate Heat       
+2060/7/7          10                      Wednesday                          
+2060/7/8          11                      Thursday                           
+2060/7/9          12                      Friday                             
+2060/7/10         13                      Saturday                           
+2060/7/11         14                      Sunday                             
+2060/7/12         15                      Monday                             
+2060/7/13         16                      Tuesday                            
+2060/7/14         17                      Wednesday                          
+2060/7/15         18                      Thursday                           
+2060/7/16         19                      Friday                             
+2060/7/17         20                      Saturday                           
+2060/7/18         21                      Sunday                             
+2060/7/19         22                      Monday                             
+2060/7/20         23                      Tuesday                            
+2060/7/21         24                      Wednesday                          
+2060/7/22         25                      Thursday       Great Heat          
+2060/7/23         26                      Friday                             
+2060/7/24         27                      Saturday                           
+2060/7/25         28                      Sunday                             
+2060/7/26         29                      Monday                             
+2060/7/27         7th Lunar Month         Tuesday                            
+2060/7/28         2                       Wednesday                          
+2060/7/29         3                       Thursday                           
+2060/7/30         4                       Friday                             
+2060/7/31         5                       Saturday                           
+2060/8/1          6                       Sunday                             
+2060/8/2          7                       Monday                             
+2060/8/3          8                       Tuesday                            
+2060/8/4          9                       Wednesday                          
+2060/8/5          10                      Thursday                           
+2060/8/6          11                      Friday                             
+2060/8/7          12                      Saturday       Autumn Commences    
+2060/8/8          13                      Sunday                             
+2060/8/9          14                      Monday                             
+2060/8/10         15                      Tuesday                            
+2060/8/11         16                      Wednesday                          
+2060/8/12         17                      Thursday                           
+2060/8/13         18                      Friday                             
+2060/8/14         19                      Saturday                           
+2060/8/15         20                      Sunday                             
+2060/8/16         21                      Monday                             
+2060/8/17         22                      Tuesday                            
+2060/8/18         23                      Wednesday                          
+2060/8/19         24                      Thursday                           
+2060/8/20         25                      Friday                             
+2060/8/21         26                      Saturday                           
+2060/8/22         27                      Sunday         End of Heat         
+2060/8/23         28                      Monday                             
+2060/8/24         29                      Tuesday                            
+2060/8/25         30                      Wednesday                          
+2060/8/26         8th Lunar Month         Thursday                           
+2060/8/27         2                       Friday                             
+2060/8/28         3                       Saturday                           
+2060/8/29         4                       Sunday                             
+2060/8/30         5                       Monday                             
+2060/8/31         6                       Tuesday                            
+2060/9/1          7                       Wednesday                          
+2060/9/2          8                       Thursday                           
+2060/9/3          9                       Friday                             
+2060/9/4          10                      Saturday                           
+2060/9/5          11                      Sunday                             
+2060/9/6          12                      Monday                             
+2060/9/7          13                      Tuesday        White Dew           
+2060/9/8          14                      Wednesday                          
+2060/9/9          15                      Thursday                           
+2060/9/10         16                      Friday                             
+2060/9/11         17                      Saturday                           
+2060/9/12         18                      Sunday                             
+2060/9/13         19                      Monday                             
+2060/9/14         20                      Tuesday                            
+2060/9/15         21                      Wednesday                          
+2060/9/16         22                      Thursday                           
+2060/9/17         23                      Friday                             
+2060/9/18         24                      Saturday                           
+2060/9/19         25                      Sunday                             
+2060/9/20         26                      Monday                             
+2060/9/21         27                      Tuesday                            
+2060/9/22         28                      Wednesday      Autumnal Equinox    
+2060/9/23         29                      Thursday                           
+2060/9/24         9th Lunar Month         Friday                             
+2060/9/25         2                       Saturday                           
+2060/9/26         3                       Sunday                             
+2060/9/27         4                       Monday                             
+2060/9/28         5                       Tuesday                            
+2060/9/29         6                       Wednesday                          
+2060/9/30         7                       Thursday                           
+2060/10/1         8                       Friday                             
+2060/10/2         9                       Saturday                           
+2060/10/3         10                      Sunday                             
+2060/10/4         11                      Monday                             
+2060/10/5         12                      Tuesday                            
+2060/10/6         13                      Wednesday                          
+2060/10/7         14                      Thursday       Cold Dew            
+2060/10/8         15                      Friday                             
+2060/10/9         16                      Saturday                           
+2060/10/10        17                      Sunday                             
+2060/10/11        18                      Monday                             
+2060/10/12        19                      Tuesday                            
+2060/10/13        20                      Wednesday                          
+2060/10/14        21                      Thursday                           
+2060/10/15        22                      Friday                             
+2060/10/16        23                      Saturday                           
+2060/10/17        24                      Sunday                             
+2060/10/18        25                      Monday                             
+2060/10/19        26                      Tuesday                            
+2060/10/20        27                      Wednesday                          
+2060/10/21        28                      Thursday                           
+2060/10/22        29                      Friday         Frost               
+2060/10/23        30                      Saturday                           
+2060/10/24        10th Lunar Month        Sunday                             
+2060/10/25        2                       Monday                             
+2060/10/26        3                       Tuesday                            
+2060/10/27        4                       Wednesday                          
+2060/10/28        5                       Thursday                           
+2060/10/29        6                       Friday                             
+2060/10/30        7                       Saturday                           
+2060/10/31        8                       Sunday                             
+2060/11/1         9                       Monday                             
+2060/11/2         10                      Tuesday                            
+2060/11/3         11                      Wednesday                          
+2060/11/4         12                      Thursday                           
+2060/11/5         13                      Friday                             
+2060/11/6         14                      Saturday       Winter Commences    
+2060/11/7         15                      Sunday                             
+2060/11/8         16                      Monday                             
+2060/11/9         17                      Tuesday                            
+2060/11/10        18                      Wednesday                          
+2060/11/11        19                      Thursday                           
+2060/11/12        20                      Friday                             
+2060/11/13        21                      Saturday                           
+2060/11/14        22                      Sunday                             
+2060/11/15        23                      Monday                             
+2060/11/16        24                      Tuesday                            
+2060/11/17        25                      Wednesday                          
+2060/11/18        26                      Thursday                           
+2060/11/19        27                      Friday                             
+2060/11/20        28                      Saturday                           
+2060/11/21        29                      Sunday         Light Snow          
+2060/11/22        30                      Monday                             
+2060/11/23        11th Lunar Month        Tuesday                            
+2060/11/24        2                       Wednesday                          
+2060/11/25        3                       Thursday                           
+2060/11/26        4                       Friday                             
+2060/11/27        5                       Saturday                           
+2060/11/28        6                       Sunday                             
+2060/11/29        7                       Monday                             
+2060/11/30        8                       Tuesday                            
+2060/12/1         9                       Wednesday                          
+2060/12/2         10                      Thursday                           
+2060/12/3         11                      Friday                             
+2060/12/4         12                      Saturday                           
+2060/12/5         13                      Sunday                             
+2060/12/6         14                      Monday         Heavy Snow          
+2060/12/7         15                      Tuesday                            
+2060/12/8         16                      Wednesday                          
+2060/12/9         17                      Thursday                           
+2060/12/10        18                      Friday                             
+2060/12/11        19                      Saturday                           
+2060/12/12        20                      Sunday                             
+2060/12/13        21                      Monday                             
+2060/12/14        22                      Tuesday                            
+2060/12/15        23                      Wednesday                          
+2060/12/16        24                      Thursday                           
+2060/12/17        25                      Friday                             
+2060/12/18        26                      Saturday                           
+2060/12/19        27                      Sunday                             
+2060/12/20        28                      Monday                             
+2060/12/21        29                      Tuesday        Winter Solstice     
+2060/12/22        30                      Wednesday                          
+2060/12/23        12th Lunar Month        Thursday                           
+2060/12/24        2                       Friday                             
+2060/12/25        3                       Saturday                           
+2060/12/26        4                       Sunday                             
+2060/12/27        5                       Monday                             
+2060/12/28        6                       Tuesday                            
+2060/12/29        7                       Wednesday                          
+2060/12/30        8                       Thursday                           
+2060/12/31        9                       Friday                             

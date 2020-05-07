@@ -1,37 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ggplot2 on hoas&#39; blog | One Stupid Boy</title>
-    <link>/tags/ggplot2/</link>
-    <description>Recent content in ggplot2 on hoas&#39; blog | One Stupid Boy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>水文水利计算课设总结</title>
-      <link>/2019/04/2019-04-18-summary-of-course-design/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/04/2019-04-18-summary-of-course-design/</guid>
-      <description>&lt;p&gt;两周多的水文水利计算课设我差不多已经做完了，我要对这10天来的迷茫、喜悦和成果做一个总结。Hadley说他每天写作时间为一个小时至一个半小时左右，我现在已经很赞同这个方式了——当然是基于我有了自己的网站哈哈。&lt;/p&gt;
-&lt;p&gt;这次课设我编了1500多行代码，还记得佘老师说本科教学阶段就是这个数，那我可以证明我已经达到了。其实也很正常，因为除非万不得已我都没有用Excel。&lt;/p&gt;
-&lt;p&gt;向Hadley致敬！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://rawcdn.githack.com/hoasxyz/mdphotos/c4d2e1f98761ad97aa876f1537f5c681086d4468/other/Hadley.png&#34; alt=&#34;hadley&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>ggplot2</title>
-      <link>/2019/01/2019-01-05-ggplot2/</link>
-      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/2019-01-05-ggplot2/</guid>
-      <description>There are brief notes about the usage of ggplot2. expression/annotate/Greek letters/title 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 t &amp;lt;- seq(1,4,0.1) qmp &amp;lt;- function(t) { 0.278*(98.92/t^0.65-2)*78 } q &amp;lt;- seq(500,2000,75) tao &amp;lt;- function(q) { 0.278*14.6/0.96/0.296/q^0.25 } library(cowplot) ggplot()+ geom_smooth(mapping = aes(x = t, y = qmp(t)),color = &amp;#34;red&amp;#34;)+ geom_smooth(mapping = aes(x = tao(q), y = q),color = &amp;#39;blue&amp;#39;,linetype</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ggplot2 - 标签 - hoas&#39; blog | One Stupid Boy</title>
+        <link>/tags/ggplot2/</link>
+        <description>ggplot2 - 标签 - hoas&#39; blog | One Stupid Boy</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 05 Jan 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/ggplot2/" rel="self" type="application/rss+xml" /><item>
+    <title>ggplot2</title>
+    <link>/2019-01-05-ggplot2/</link>
+    <pubDate>Sat, 05 Jan 2019 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2019-01-05-ggplot2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://r-statistics.co/screenshots/ggplot_tut_9.png" referrerpolicy="no-referrer">
+            </div>There are brief notes about the usage of ggplot2. expression/annotate/Greek letters/title 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 t &lt;- seq(1,4,0.1) qmp &lt;- function(t) { 0.278*(98.92/t^0.65-2)*78 } q &lt;- seq(500,2000,75) tao &lt;- function(q) { 0.278*14.6/0.96/0.296/q^0.25 } library(cowplot) ggplot()+ geom_smooth(mapping = aes(x = t, y = qmp(t)),color = &#34;red&#34;)+ geom_smooth(mapping = aes(x = tao(q), y = q),color = &#39;blue&#39;,linetype]]></description>
+</item></channel>
 </rss>

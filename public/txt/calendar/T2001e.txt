@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2001 (Xin-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2001/01/01     7                   Monday                             
+2001/01/02     8                   Tuesday                            
+2001/01/03     9                   Wednesday                          
+2001/01/04     10                  Thursday                           
+2001/01/05     11                  Friday         Moderate Cold       
+2001/01/06     12                  Saturday                           
+2001/01/07     13                  Sunday                             
+2001/01/08     14                  Monday                             
+2001/01/09     15                  Tuesday                            
+2001/01/10     16                  Wednesday                          
+2001/01/11     17                  Thursday                           
+2001/01/12     18                  Friday                             
+2001/01/13     19                  Saturday                           
+2001/01/14     20                  Sunday                             
+2001/01/15     21                  Monday                             
+2001/01/16     22                  Tuesday                            
+2001/01/17     23                  Wednesday                          
+2001/01/18     24                  Thursday                           
+2001/01/19     25                  Friday                             
+2001/01/20     26                  Saturday       Severe Cold         
+2001/01/21     27                  Sunday                             
+2001/01/22     28                  Monday                             
+2001/01/23     29                  Tuesday                            
+2001/01/24     1st Lunar month     Wednesday                          
+2001/01/25     2                   Thursday                           
+2001/01/26     3                   Friday                             
+2001/01/27     4                   Saturday                           
+2001/01/28     5                   Sunday                             
+2001/01/29     6                   Monday                             
+2001/01/30     7                   Tuesday                            
+2001/01/31     8                   Wednesday                          
+2001/02/01     9                   Thursday                           
+2001/02/02     10                  Friday                             
+2001/02/03     11                  Saturday                           
+2001/02/04     12                  Sunday         Spring Commences    
+2001/02/05     13                  Monday                             
+2001/02/06     14                  Tuesday                            
+2001/02/07     15                  Wednesday                          
+2001/02/08     16                  Thursday                           
+2001/02/09     17                  Friday                             
+2001/02/10     18                  Saturday                           
+2001/02/11     19                  Sunday                             
+2001/02/12     20                  Monday                             
+2001/02/13     21                  Tuesday                            
+2001/02/14     22                  Wednesday                          
+2001/02/15     23                  Thursday                           
+2001/02/16     24                  Friday                             
+2001/02/17     25                  Saturday                           
+2001/02/18     26                  Sunday         Spring Showers      
+2001/02/19     27                  Monday                             
+2001/02/20     28                  Tuesday                            
+2001/02/21     29                  Wednesday                          
+2001/02/22     30                  Thursday                           
+2001/02/23     2nd Lunar month     Friday                             
+2001/02/24     2                   Saturday                           
+2001/02/25     3                   Sunday                             
+2001/02/26     4                   Monday                             
+2001/02/27     5                   Tuesday                            
+2001/02/28     6                   Wednesday                          
+2001/03/01     7                   Thursday                           
+2001/03/02     8                   Friday                             
+2001/03/03     9                   Saturday                           
+2001/03/04     10                  Sunday                             
+2001/03/05     11                  Monday         Insects Waken       
+2001/03/06     12                  Tuesday                            
+2001/03/07     13                  Wednesday                          
+2001/03/08     14                  Thursday                           
+2001/03/09     15                  Friday                             
+2001/03/10     16                  Saturday                           
+2001/03/11     17                  Sunday                             
+2001/03/12     18                  Monday                             
+2001/03/13     19                  Tuesday                            
+2001/03/14     20                  Wednesday                          
+2001/03/15     21                  Thursday                           
+2001/03/16     22                  Friday                             
+2001/03/17     23                  Saturday                           
+2001/03/18     24                  Sunday                             
+2001/03/19     25                  Monday                             
+2001/03/20     26                  Tuesday        Vernal Equinox      
+2001/03/21     27                  Wednesday                          
+2001/03/22     28                  Thursday                           
+2001/03/23     29                  Friday                             
+2001/03/24     30                  Saturday                           
+2001/03/25     3rd Lunar month     Sunday                             
+2001/03/26     2                   Monday                             
+2001/03/27     3                   Tuesday                            
+2001/03/28     4                   Wednesday                          
+2001/03/29     5                   Thursday                           
+2001/03/30     6                   Friday                             
+2001/03/31     7                   Saturday                           
+2001/04/01     8                   Sunday                             
+2001/04/02     9                   Monday                             
+2001/04/03     10                  Tuesday                            
+2001/04/04     11                  Wednesday                          
+2001/04/05     12                  Thursday       Bright & Clear      
+2001/04/06     13                  Friday                             
+2001/04/07     14                  Saturday                           
+2001/04/08     15                  Sunday                             
+2001/04/09     16                  Monday                             
+2001/04/10     17                  Tuesday                            
+2001/04/11     18                  Wednesday                          
+2001/04/12     19                  Thursday                           
+2001/04/13     20                  Friday                             
+2001/04/14     21                  Saturday                           
+2001/04/15     22                  Sunday                             
+2001/04/16     23                  Monday                             
+2001/04/17     24                  Tuesday                            
+2001/04/18     25                  Wednesday                          
+2001/04/19     26                  Thursday                           
+2001/04/20     27                  Friday         Corn Rain           
+2001/04/21     28                  Saturday                           
+2001/04/22     29                  Sunday                             
+2001/04/23     4th Lunar month     Monday                             
+2001/04/24     2                   Tuesday                            
+2001/04/25     3                   Wednesday                          
+2001/04/26     4                   Thursday                           
+2001/04/27     5                   Friday                             
+2001/04/28     6                   Saturday                           
+2001/04/29     7                   Sunday                             
+2001/04/30     8                   Monday                             
+2001/05/01     9                   Tuesday                            
+2001/05/02     10                  Wednesday                          
+2001/05/03     11                  Thursday                           
+2001/05/04     12                  Friday                             
+2001/05/05     13                  Saturday       Summer Commences    
+2001/05/06     14                  Sunday                             
+2001/05/07     15                  Monday                             
+2001/05/08     16                  Tuesday                            
+2001/05/09     17                  Wednesday                          
+2001/05/10     18                  Thursday                           
+2001/05/11     19                  Friday                             
+2001/05/12     20                  Saturday                           
+2001/05/13     21                  Sunday                             
+2001/05/14     22                  Monday                             
+2001/05/15     23                  Tuesday                            
+2001/05/16     24                  Wednesday                          
+2001/05/17     25                  Thursday                           
+2001/05/18     26                  Friday                             
+2001/05/19     27                  Saturday                           
+2001/05/20     28                  Sunday                             
+2001/05/21     29                  Monday         Corn Forms          
+2001/05/22     30                  Tuesday                            
+2001/05/23     4th Lunar month     Wednesday                          
+2001/05/24     2                   Thursday                           
+2001/05/25     3                   Friday                             
+2001/05/26     4                   Saturday                           
+2001/05/27     5                   Sunday                             
+2001/05/28     6                   Monday                             
+2001/05/29     7                   Tuesday                            
+2001/05/30     8                   Wednesday                          
+2001/05/31     9                   Thursday                           
+2001/06/01     10                  Friday                             
+2001/06/02     11                  Saturday                           
+2001/06/03     12                  Sunday                             
+2001/06/04     13                  Monday                             
+2001/06/05     14                  Tuesday        Corn on Ear         
+2001/06/06     15                  Wednesday                          
+2001/06/07     16                  Thursday                           
+2001/06/08     17                  Friday                             
+2001/06/09     18                  Saturday                           
+2001/06/10     19                  Sunday                             
+2001/06/11     20                  Monday                             
+2001/06/12     21                  Tuesday                            
+2001/06/13     22                  Wednesday                          
+2001/06/14     23                  Thursday                           
+2001/06/15     24                  Friday                             
+2001/06/16     25                  Saturday                           
+2001/06/17     26                  Sunday                             
+2001/06/18     27                  Monday                             
+2001/06/19     28                  Tuesday                            
+2001/06/20     29                  Wednesday                          
+2001/06/21     5th Lunar month     Thursday       Summer Solstice     
+2001/06/22     2                   Friday                             
+2001/06/23     3                   Saturday                           
+2001/06/24     4                   Sunday                             
+2001/06/25     5                   Monday                             
+2001/06/26     6                   Tuesday                            
+2001/06/27     7                   Wednesday                          
+2001/06/28     8                   Thursday                           
+2001/06/29     9                   Friday                             
+2001/06/30     10                  Saturday                           
+2001/07/01     11                  Sunday                             
+2001/07/02     12                  Monday                             
+2001/07/03     13                  Tuesday                            
+2001/07/04     14                  Wednesday                          
+2001/07/05     15                  Thursday                           
+2001/07/06     16                  Friday                             
+2001/07/07     17                  Saturday       Moderate Heat       
+2001/07/08     18                  Sunday                             
+2001/07/09     19                  Monday                             
+2001/07/10     20                  Tuesday                            
+2001/07/11     21                  Wednesday                          
+2001/07/12     22                  Thursday                           
+2001/07/13     23                  Friday                             
+2001/07/14     24                  Saturday                           
+2001/07/15     25                  Sunday                             
+2001/07/16     26                  Monday                             
+2001/07/17     27                  Tuesday                            
+2001/07/18     28                  Wednesday                          
+2001/07/19     29                  Thursday                           
+2001/07/20     30                  Friday                             
+2001/07/21     6th Lunar month     Saturday                           
+2001/07/22     2                   Sunday                             
+2001/07/23     3                   Monday         Great Heat          
+2001/07/24     4                   Tuesday                            
+2001/07/25     5                   Wednesday                          
+2001/07/26     6                   Thursday                           
+2001/07/27     7                   Friday                             
+2001/07/28     8                   Saturday                           
+2001/07/29     9                   Sunday                             
+2001/07/30     10                  Monday                             
+2001/07/31     11                  Tuesday                            
+2001/08/01     12                  Wednesday                          
+2001/08/02     13                  Thursday                           
+2001/08/03     14                  Friday                             
+2001/08/04     15                  Saturday                           
+2001/08/05     16                  Sunday                             
+2001/08/06     17                  Monday                             
+2001/08/07     18                  Tuesday        Autumn Commences    
+2001/08/08     19                  Wednesday                          
+2001/08/09     20                  Thursday                           
+2001/08/10     21                  Friday                             
+2001/08/11     22                  Saturday                           
+2001/08/12     23                  Sunday                             
+2001/08/13     24                  Monday                             
+2001/08/14     25                  Tuesday                            
+2001/08/15     26                  Wednesday                          
+2001/08/16     27                  Thursday                           
+2001/08/17     28                  Friday                             
+2001/08/18     29                  Saturday                           
+2001/08/19     7th Lunar month     Sunday                             
+2001/08/20     2                   Monday                             
+2001/08/21     3                   Tuesday                            
+2001/08/22     4                   Wednesday                          
+2001/08/23     5                   Thursday       End of Heat         
+2001/08/24     6                   Friday                             
+2001/08/25     7                   Saturday                           
+2001/08/26     8                   Sunday                             
+2001/08/27     9                   Monday                             
+2001/08/28     10                  Tuesday                            
+2001/08/29     11                  Wednesday                          
+2001/08/30     12                  Thursday                           
+2001/08/31     13                  Friday                             
+2001/09/01     14                  Saturday                           
+2001/09/02     15                  Sunday                             
+2001/09/03     16                  Monday                             
+2001/09/04     17                  Tuesday                            
+2001/09/05     18                  Wednesday                          
+2001/09/06     19                  Thursday                           
+2001/09/07     20                  Friday         White Dew           
+2001/09/08     21                  Saturday                           
+2001/09/09     22                  Sunday                             
+2001/09/10     23                  Monday                             
+2001/09/11     24                  Tuesday                            
+2001/09/12     25                  Wednesday                          
+2001/09/13     26                  Thursday                           
+2001/09/14     27                  Friday                             
+2001/09/15     28                  Saturday                           
+2001/09/16     29                  Sunday                             
+2001/09/17     8th Lunar month     Monday                             
+2001/09/18     2                   Tuesday                            
+2001/09/19     3                   Wednesday                          
+2001/09/20     4                   Thursday                           
+2001/09/21     5                   Friday                             
+2001/09/22     6                   Saturday                           
+2001/09/23     7                   Sunday         Autumnal Equinox    
+2001/09/24     8                   Monday                             
+2001/09/25     9                   Tuesday                            
+2001/09/26     10                  Wednesday                          
+2001/09/27     11                  Thursday                           
+2001/09/28     12                  Friday                             
+2001/09/29     13                  Saturday                           
+2001/09/30     14                  Sunday                             
+2001/10/01     15                  Monday                             
+2001/10/02     16                  Tuesday                            
+2001/10/03     17                  Wednesday                          
+2001/10/04     18                  Thursday                           
+2001/10/05     19                  Friday                             
+2001/10/06     20                  Saturday                           
+2001/10/07     21                  Sunday                             
+2001/10/08     22                  Monday         Cold Dew            
+2001/10/09     23                  Tuesday                            
+2001/10/10     24                  Wednesday                          
+2001/10/11     25                  Thursday                           
+2001/10/12     26                  Friday                             
+2001/10/13     27                  Saturday                           
+2001/10/14     28                  Sunday                             
+2001/10/15     29                  Monday                             
+2001/10/16     30                  Tuesday                            
+2001/10/17     9th Lunar month     Wednesday                          
+2001/10/18     2                   Thursday                           
+2001/10/19     3                   Friday                             
+2001/10/20     4                   Saturday                           
+2001/10/21     5                   Sunday                             
+2001/10/22     6                   Monday                             
+2001/10/23     7                   Tuesday        Frost               
+2001/10/24     8                   Wednesday                          
+2001/10/25     9                   Thursday                           
+2001/10/26     10                  Friday                             
+2001/10/27     11                  Saturday                           
+2001/10/28     12                  Sunday                             
+2001/10/29     13                  Monday                             
+2001/10/30     14                  Tuesday                            
+2001/10/31     15                  Wednesday                          
+2001/11/01     16                  Thursday                           
+2001/11/02     17                  Friday                             
+2001/11/03     18                  Saturday                           
+2001/11/04     19                  Sunday                             
+2001/11/05     20                  Monday                             
+2001/11/06     21                  Tuesday                            
+2001/11/07     22                  Wednesday      Winter Commences    
+2001/11/08     23                  Thursday                           
+2001/11/09     24                  Friday                             
+2001/11/10     25                  Saturday                           
+2001/11/11     26                  Sunday                             
+2001/11/12     27                  Monday                             
+2001/11/13     28                  Tuesday                            
+2001/11/14     29                  Wednesday                          
+2001/11/15     10th Lunar month    Thursday                           
+2001/11/16     2                   Friday                             
+2001/11/17     3                   Saturday                           
+2001/11/18     4                   Sunday                             
+2001/11/19     5                   Monday                             
+2001/11/20     6                   Tuesday                            
+2001/11/21     7                   Wednesday                          
+2001/11/22     8                   Thursday       Light Snow          
+2001/11/23     9                   Friday                             
+2001/11/24     10                  Saturday                           
+2001/11/25     11                  Sunday                             
+2001/11/26     12                  Monday                             
+2001/11/27     13                  Tuesday                            
+2001/11/28     14                  Wednesday                          
+2001/11/29     15                  Thursday                           
+2001/11/30     16                  Friday                             
+2001/12/01     17                  Saturday                           
+2001/12/02     18                  Sunday                             
+2001/12/03     19                  Monday                             
+2001/12/04     20                  Tuesday                            
+2001/12/05     21                  Wednesday                          
+2001/12/06     22                  Thursday                           
+2001/12/07     23                  Friday         Heavy Snow          
+2001/12/08     24                  Saturday                           
+2001/12/09     25                  Sunday                             
+2001/12/10     26                  Monday                             
+2001/12/11     27                  Tuesday                            
+2001/12/12     28                  Wednesday                          
+2001/12/13     29                  Thursday                           
+2001/12/14     30                  Friday                             
+2001/12/15     11th Lunar month    Saturday                           
+2001/12/16     2                   Sunday                             
+2001/12/17     3                   Monday                             
+2001/12/18     4                   Tuesday                            
+2001/12/19     5                   Wednesday                          
+2001/12/20     6                   Thursday                           
+2001/12/21     7                   Friday                             
+2001/12/22     8                   Saturday       Winter Solstice     
+2001/12/23     9                   Sunday                             
+2001/12/24     10                  Monday                             
+2001/12/25     11                  Tuesday                            
+2001/12/26     12                  Wednesday                          
+2001/12/27     13                  Thursday                           
+2001/12/28     14                  Friday                             
+2001/12/29     15                  Saturday                           
+2001/12/30     16                  Sunday                             
+2001/12/31     17                  Monday                             

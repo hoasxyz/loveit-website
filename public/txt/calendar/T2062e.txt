@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2062 (Ren-wu  -  year of the Horse)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2062/1/1          21                      Sunday                             
+2062/1/2          22                      Monday                             
+2062/1/3          23                      Tuesday                            
+2062/1/4          24                      Wednesday                          
+2062/1/5          25                      Thursday       Moderate Cold       
+2062/1/6          26                      Friday                             
+2062/1/7          27                      Saturday                           
+2062/1/8          28                      Sunday                             
+2062/1/9          29                      Monday                             
+2062/1/10         30                      Tuesday                            
+2062/1/11         12th Lunar Month        Wednesday                          
+2062/1/12         2                       Thursday                           
+2062/1/13         3                       Friday                             
+2062/1/14         4                       Saturday                           
+2062/1/15         5                       Sunday                             
+2062/1/16         6                       Monday                             
+2062/1/17         7                       Tuesday                            
+2062/1/18         8                       Wednesday                          
+2062/1/19         9                       Thursday                           
+2062/1/20         10                      Friday         Severe Cold         
+2062/1/21         11                      Saturday                           
+2062/1/22         12                      Sunday                             
+2062/1/23         13                      Monday                             
+2062/1/24         14                      Tuesday                            
+2062/1/25         15                      Wednesday                          
+2062/1/26         16                      Thursday                           
+2062/1/27         17                      Friday                             
+2062/1/28         18                      Saturday                           
+2062/1/29         19                      Sunday                             
+2062/1/30         20                      Monday                             
+2062/1/31         21                      Tuesday                            
+2062/2/1          22                      Wednesday                          
+2062/2/2          23                      Thursday                           
+2062/2/3          24                      Friday         Spring Commences    
+2062/2/4          25                      Saturday                           
+2062/2/5          26                      Sunday                             
+2062/2/6          27                      Monday                             
+2062/2/7          28                      Tuesday                            
+2062/2/8          29                      Wednesday                          
+2062/2/9          1st Lunar Month         Thursday                           
+2062/2/10         2                       Friday                             
+2062/2/11         3                       Saturday                           
+2062/2/12         4                       Sunday                             
+2062/2/13         5                       Monday                             
+2062/2/14         6                       Tuesday                            
+2062/2/15         7                       Wednesday                          
+2062/2/16         8                       Thursday                           
+2062/2/17         9                       Friday                             
+2062/2/18         10                      Saturday       Spring Showers      
+2062/2/19         11                      Sunday                             
+2062/2/20         12                      Monday                             
+2062/2/21         13                      Tuesday                            
+2062/2/22         14                      Wednesday                          
+2062/2/23         15                      Thursday                           
+2062/2/24         16                      Friday                             
+2062/2/25         17                      Saturday                           
+2062/2/26         18                      Sunday                             
+2062/2/27         19                      Monday                             
+2062/2/28         20                      Tuesday                            
+2062/3/1          21                      Wednesday                          
+2062/3/2          22                      Thursday                           
+2062/3/3          23                      Friday                             
+2062/3/4          24                      Saturday                           
+2062/3/5          25                      Sunday         Insects Waken       
+2062/3/6          26                      Monday                             
+2062/3/7          27                      Tuesday                            
+2062/3/8          28                      Wednesday                          
+2062/3/9          29                      Thursday                           
+2062/3/10         30                      Friday                             
+2062/3/11         2nd Lunar Month         Saturday                           
+2062/3/12         2                       Sunday                             
+2062/3/13         3                       Monday                             
+2062/3/14         4                       Tuesday                            
+2062/3/15         5                       Wednesday                          
+2062/3/16         6                       Thursday                           
+2062/3/17         7                       Friday                             
+2062/3/18         8                       Saturday                           
+2062/3/19         9                       Sunday                             
+2062/3/20         10                      Monday         Vernal Equinox      
+2062/3/21         11                      Tuesday                            
+2062/3/22         12                      Wednesday                          
+2062/3/23         13                      Thursday                           
+2062/3/24         14                      Friday                             
+2062/3/25         15                      Saturday                           
+2062/3/26         16                      Sunday                             
+2062/3/27         17                      Monday                             
+2062/3/28         18                      Tuesday                            
+2062/3/29         19                      Wednesday                          
+2062/3/30         20                      Thursday                           
+2062/3/31         21                      Friday                             
+2062/4/1          22                      Saturday                           
+2062/4/2          23                      Sunday                             
+2062/4/3          24                      Monday                             
+2062/4/4          25                      Tuesday        Bright & Clear      
+2062/4/5          26                      Wednesday                          
+2062/4/6          27                      Thursday                           
+2062/4/7          28                      Friday                             
+2062/4/8          29                      Saturday                           
+2062/4/9          30                      Sunday                             
+2062/4/10         3rd Lunar Month         Monday                             
+2062/4/11         2                       Tuesday                            
+2062/4/12         3                       Wednesday                          
+2062/4/13         4                       Thursday                           
+2062/4/14         5                       Friday                             
+2062/4/15         6                       Saturday                           
+2062/4/16         7                       Sunday                             
+2062/4/17         8                       Monday                             
+2062/4/18         9                       Tuesday                            
+2062/4/19         10                      Wednesday                          
+2062/4/20         11                      Thursday       Corn Rain           
+2062/4/21         12                      Friday                             
+2062/4/22         13                      Saturday                           
+2062/4/23         14                      Sunday                             
+2062/4/24         15                      Monday                             
+2062/4/25         16                      Tuesday                            
+2062/4/26         17                      Wednesday                          
+2062/4/27         18                      Thursday                           
+2062/4/28         19                      Friday                             
+2062/4/29         20                      Saturday                           
+2062/4/30         21                      Sunday                             
+2062/5/1          22                      Monday                             
+2062/5/2          23                      Tuesday                            
+2062/5/3          24                      Wednesday                          
+2062/5/4          25                      Thursday                           
+2062/5/5          26                      Friday         Summer Commences    
+2062/5/6          27                      Saturday                           
+2062/5/7          28                      Sunday                             
+2062/5/8          29                      Monday                             
+2062/5/9          4th Lunar Month         Tuesday                            
+2062/5/10         2                       Wednesday                          
+2062/5/11         3                       Thursday                           
+2062/5/12         4                       Friday                             
+2062/5/13         5                       Saturday                           
+2062/5/14         6                       Sunday                             
+2062/5/15         7                       Monday                             
+2062/5/16         8                       Tuesday                            
+2062/5/17         9                       Wednesday                          
+2062/5/18         10                      Thursday                           
+2062/5/19         11                      Friday                             
+2062/5/20         12                      Saturday                           
+2062/5/21         13                      Sunday         Corn Forms          
+2062/5/22         14                      Monday                             
+2062/5/23         15                      Tuesday                            
+2062/5/24         16                      Wednesday                          
+2062/5/25         17                      Thursday                           
+2062/5/26         18                      Friday                             
+2062/5/27         19                      Saturday                           
+2062/5/28         20                      Sunday                             
+2062/5/29         21                      Monday                             
+2062/5/30         22                      Tuesday                            
+2062/5/31         23                      Wednesday                          
+2062/6/1          24                      Thursday                           
+2062/6/2          25                      Friday                             
+2062/6/3          26                      Saturday                           
+2062/6/4          27                      Sunday                             
+2062/6/5          28                      Monday         Corn on Ear         
+2062/6/6          29                      Tuesday                            
+2062/6/7          5th Lunar Month         Wednesday                          
+2062/6/8          2                       Thursday                           
+2062/6/9          3                       Friday                             
+2062/6/10         4                       Saturday                           
+2062/6/11         5                       Sunday                             
+2062/6/12         6                       Monday                             
+2062/6/13         7                       Tuesday                            
+2062/6/14         8                       Wednesday                          
+2062/6/15         9                       Thursday                           
+2062/6/16         10                      Friday                             
+2062/6/17         11                      Saturday                           
+2062/6/18         12                      Sunday                             
+2062/6/19         13                      Monday                             
+2062/6/20         14                      Tuesday                            
+2062/6/21         15                      Wednesday      Summer Solstice     
+2062/6/22         16                      Thursday                           
+2062/6/23         17                      Friday                             
+2062/6/24         18                      Saturday                           
+2062/6/25         19                      Sunday                             
+2062/6/26         20                      Monday                             
+2062/6/27         21                      Tuesday                            
+2062/6/28         22                      Wednesday                          
+2062/6/29         23                      Thursday                           
+2062/6/30         24                      Friday                             
+2062/7/1          25                      Saturday                           
+2062/7/2          26                      Sunday                             
+2062/7/3          27                      Monday                             
+2062/7/4          28                      Tuesday                            
+2062/7/5          29                      Wednesday                          
+2062/7/6          30                      Thursday                           
+2062/7/7          6th Lunar Month         Friday         Moderate Heat       
+2062/7/8          2                       Saturday                           
+2062/7/9          3                       Sunday                             
+2062/7/10         4                       Monday                             
+2062/7/11         5                       Tuesday                            
+2062/7/12         6                       Wednesday                          
+2062/7/13         7                       Thursday                           
+2062/7/14         8                       Friday                             
+2062/7/15         9                       Saturday                           
+2062/7/16         10                      Sunday                             
+2062/7/17         11                      Monday                             
+2062/7/18         12                      Tuesday                            
+2062/7/19         13                      Wednesday                          
+2062/7/20         14                      Thursday                           
+2062/7/21         15                      Friday                             
+2062/7/22         16                      Saturday       Great Heat          
+2062/7/23         17                      Sunday                             
+2062/7/24         18                      Monday                             
+2062/7/25         19                      Tuesday                            
+2062/7/26         20                      Wednesday                          
+2062/7/27         21                      Thursday                           
+2062/7/28         22                      Friday                             
+2062/7/29         23                      Saturday                           
+2062/7/30         24                      Sunday                             
+2062/7/31         25                      Monday                             
+2062/8/1          26                      Tuesday                            
+2062/8/2          27                      Wednesday                          
+2062/8/3          28                      Thursday                           
+2062/8/4          29                      Friday                             
+2062/8/5          7th Lunar Month         Saturday                           
+2062/8/6          2                       Sunday                             
+2062/8/7          3                       Monday         Autumn Commences    
+2062/8/8          4                       Tuesday                            
+2062/8/9          5                       Wednesday                          
+2062/8/10         6                       Thursday                           
+2062/8/11         7                       Friday                             
+2062/8/12         8                       Saturday                           
+2062/8/13         9                       Sunday                             
+2062/8/14         10                      Monday                             
+2062/8/15         11                      Tuesday                            
+2062/8/16         12                      Wednesday                          
+2062/8/17         13                      Thursday                           
+2062/8/18         14                      Friday                             
+2062/8/19         15                      Saturday                           
+2062/8/20         16                      Sunday                             
+2062/8/21         17                      Monday                             
+2062/8/22         18                      Tuesday                            
+2062/8/23         19                      Wednesday      End of Heat         
+2062/8/24         20                      Thursday                           
+2062/8/25         21                      Friday                             
+2062/8/26         22                      Saturday                           
+2062/8/27         23                      Sunday                             
+2062/8/28         24                      Monday                             
+2062/8/29         25                      Tuesday                            
+2062/8/30         26                      Wednesday                          
+2062/8/31         27                      Thursday                           
+2062/9/1          28                      Friday                             
+2062/9/2          29                      Saturday                           
+2062/9/3          8th Lunar Month         Sunday                             
+2062/9/4          2                       Monday                             
+2062/9/5          3                       Tuesday                            
+2062/9/6          4                       Wednesday                          
+2062/9/7          5                       Thursday       White Dew           
+2062/9/8          6                       Friday                             
+2062/9/9          7                       Saturday                           
+2062/9/10         8                       Sunday                             
+2062/9/11         9                       Monday                             
+2062/9/12         10                      Tuesday                            
+2062/9/13         11                      Wednesday                          
+2062/9/14         12                      Thursday                           
+2062/9/15         13                      Friday                             
+2062/9/16         14                      Saturday                           
+2062/9/17         15                      Sunday                             
+2062/9/18         16                      Monday                             
+2062/9/19         17                      Tuesday                            
+2062/9/20         18                      Wednesday                          
+2062/9/21         19                      Thursday                           
+2062/9/22         20                      Friday                             
+2062/9/23         21                      Saturday       Autumnal Equinox    
+2062/9/24         22                      Sunday                             
+2062/9/25         23                      Monday                             
+2062/9/26         24                      Tuesday                            
+2062/9/27         25                      Wednesday                          
+2062/9/28         26                      Thursday                           
+2062/9/29         27                      Friday                             
+2062/9/30         28                      Saturday                           
+2062/10/1         29                      Sunday                             
+2062/10/2         30                      Monday                             
+2062/10/3         9th Lunar Month         Tuesday                            
+2062/10/4         2                       Wednesday                          
+2062/10/5         3                       Thursday                           
+2062/10/6         4                       Friday                             
+2062/10/7         5                       Saturday                           
+2062/10/8         6                       Sunday         Cold Dew            
+2062/10/9         7                       Monday                             
+2062/10/10        8                       Tuesday                            
+2062/10/11        9                       Wednesday                          
+2062/10/12        10                      Thursday                           
+2062/10/13        11                      Friday                             
+2062/10/14        12                      Saturday                           
+2062/10/15        13                      Sunday                             
+2062/10/16        14                      Monday                             
+2062/10/17        15                      Tuesday                            
+2062/10/18        16                      Wednesday                          
+2062/10/19        17                      Thursday                           
+2062/10/20        18                      Friday                             
+2062/10/21        19                      Saturday                           
+2062/10/22        20                      Sunday                             
+2062/10/23        21                      Monday         Frost               
+2062/10/24        22                      Tuesday                            
+2062/10/25        23                      Wednesday                          
+2062/10/26        24                      Thursday                           
+2062/10/27        25                      Friday                             
+2062/10/28        26                      Saturday                           
+2062/10/29        27                      Sunday                             
+2062/10/30        28                      Monday                             
+2062/10/31        29                      Tuesday                            
+2062/11/1         10th Lunar Month        Wednesday                          
+2062/11/2         2                       Thursday                           
+2062/11/3         3                       Friday                             
+2062/11/4         4                       Saturday                           
+2062/11/5         5                       Sunday                             
+2062/11/6         6                       Monday                             
+2062/11/7         7                       Tuesday        Winter Commences    
+2062/11/8         8                       Wednesday                          
+2062/11/9         9                       Thursday                           
+2062/11/10        10                      Friday                             
+2062/11/11        11                      Saturday                           
+2062/11/12        12                      Sunday                             
+2062/11/13        13                      Monday                             
+2062/11/14        14                      Tuesday                            
+2062/11/15        15                      Wednesday                          
+2062/11/16        16                      Thursday                           
+2062/11/17        17                      Friday                             
+2062/11/18        18                      Saturday                           
+2062/11/19        19                      Sunday                             
+2062/11/20        20                      Monday                             
+2062/11/21        21                      Tuesday                            
+2062/11/22        22                      Wednesday      Light Snow          
+2062/11/23        23                      Thursday                           
+2062/11/24        24                      Friday                             
+2062/11/25        25                      Saturday                           
+2062/11/26        26                      Sunday                             
+2062/11/27        27                      Monday                             
+2062/11/28        28                      Tuesday                            
+2062/11/29        29                      Wednesday                          
+2062/11/30        30                      Thursday                           
+2062/12/1         11th Lunar Month        Friday                             
+2062/12/2         2                       Saturday                           
+2062/12/3         3                       Sunday                             
+2062/12/4         4                       Monday                             
+2062/12/5         5                       Tuesday                            
+2062/12/6         6                       Wednesday                          
+2062/12/7         7                       Thursday       Heavy Snow          
+2062/12/8         8                       Friday                             
+2062/12/9         9                       Saturday                           
+2062/12/10        10                      Sunday                             
+2062/12/11        11                      Monday                             
+2062/12/12        12                      Tuesday                            
+2062/12/13        13                      Wednesday                          
+2062/12/14        14                      Thursday                           
+2062/12/15        15                      Friday                             
+2062/12/16        16                      Saturday                           
+2062/12/17        17                      Sunday                             
+2062/12/18        18                      Monday                             
+2062/12/19        19                      Tuesday                            
+2062/12/20        20                      Wednesday                          
+2062/12/21        21                      Thursday       Winter Solstice     
+2062/12/22        22                      Friday                             
+2062/12/23        23                      Saturday                           
+2062/12/24        24                      Sunday                             
+2062/12/25        25                      Monday                             
+2062/12/26        26                      Tuesday                            
+2062/12/27        27                      Wednesday                          
+2062/12/28        28                      Thursday                           
+2062/12/29        29                      Friday                             
+2062/12/30        30                      Saturday                           
+2062/12/31        12th Lunar Month        Sunday                             

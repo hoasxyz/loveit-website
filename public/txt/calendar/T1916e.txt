@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1916 (Bing-chen - year of the Dragon)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1916/01/01     26                  Saturday                           
+1916/01/02     27                  Sunday                             
+1916/01/03     28                  Monday                             
+1916/01/04     29                  Tuesday                            
+1916/01/05     12th Lunar month    Wednesday                          
+1916/01/06     2                   Thursday       Moderate Cold       
+1916/01/07     3                   Friday                             
+1916/01/08     4                   Saturday                           
+1916/01/09     5                   Sunday                             
+1916/01/10     6                   Monday                             
+1916/01/11     7                   Tuesday                            
+1916/01/12     8                   Wednesday                          
+1916/01/13     9                   Thursday                           
+1916/01/14     10                  Friday                             
+1916/01/15     11                  Saturday                           
+1916/01/16     12                  Sunday                             
+1916/01/17     13                  Monday                             
+1916/01/18     14                  Tuesday                            
+1916/01/19     15                  Wednesday                          
+1916/01/20     16                  Thursday                           
+1916/01/21     17                  Friday         Severe Cold         
+1916/01/22     18                  Saturday                           
+1916/01/23     19                  Sunday                             
+1916/01/24     20                  Monday                             
+1916/01/25     21                  Tuesday                            
+1916/01/26     22                  Wednesday                          
+1916/01/27     23                  Thursday                           
+1916/01/28     24                  Friday                             
+1916/01/29     25                  Saturday                           
+1916/01/30     26                  Sunday                             
+1916/01/31     27                  Monday                             
+1916/02/01     28                  Tuesday                            
+1916/02/02     29                  Wednesday                          
+1916/02/03     1st Lunar month     Thursday                           
+1916/02/04     2                   Friday                             
+1916/02/05     3                   Saturday       Spring Commences    
+1916/02/06     4                   Sunday                             
+1916/02/07     5                   Monday                             
+1916/02/08     6                   Tuesday                            
+1916/02/09     7                   Wednesday                          
+1916/02/10     8                   Thursday                           
+1916/02/11     9                   Friday                             
+1916/02/12     10                  Saturday                           
+1916/02/13     11                  Sunday                             
+1916/02/14     12                  Monday                             
+1916/02/15     13                  Tuesday                            
+1916/02/16     14                  Wednesday                          
+1916/02/17     15                  Thursday                           
+1916/02/18     16                  Friday                             
+1916/02/19     17                  Saturday                           
+1916/02/20     18                  Sunday         Spring Showers      
+1916/02/21     19                  Monday                             
+1916/02/22     20                  Tuesday                            
+1916/02/23     21                  Wednesday                          
+1916/02/24     22                  Thursday                           
+1916/02/25     23                  Friday                             
+1916/02/26     24                  Saturday                           
+1916/02/27     25                  Sunday                             
+1916/02/28     26                  Monday                             
+1916/02/29     27                  Tuesday                            
+1916/03/01     28                  Wednesday                          
+1916/03/02     29                  Thursday                           
+1916/03/03     30                  Friday                             
+1916/03/04     2nd Lunar month     Saturday                           
+1916/03/05     2                   Sunday                             
+1916/03/06     3                   Monday         Insects Waken       
+1916/03/07     4                   Tuesday                            
+1916/03/08     5                   Wednesday                          
+1916/03/09     6                   Thursday                           
+1916/03/10     7                   Friday                             
+1916/03/11     8                   Saturday                           
+1916/03/12     9                   Sunday                             
+1916/03/13     10                  Monday                             
+1916/03/14     11                  Tuesday                            
+1916/03/15     12                  Wednesday                          
+1916/03/16     13                  Thursday                           
+1916/03/17     14                  Friday                             
+1916/03/18     15                  Saturday                           
+1916/03/19     16                  Sunday                             
+1916/03/20     17                  Monday                             
+1916/03/21     18                  Tuesday        Vernal Equinox      
+1916/03/22     19                  Wednesday                          
+1916/03/23     20                  Thursday                           
+1916/03/24     21                  Friday                             
+1916/03/25     22                  Saturday                           
+1916/03/26     23                  Sunday                             
+1916/03/27     24                  Monday                             
+1916/03/28     25                  Tuesday                            
+1916/03/29     26                  Wednesday                          
+1916/03/30     27                  Thursday                           
+1916/03/31     28                  Friday                             
+1916/04/01     29                  Saturday                           
+1916/04/02     30                  Sunday                             
+1916/04/03     3rd Lunar month     Monday                             
+1916/04/04     2                   Tuesday                            
+1916/04/05     3                   Wednesday      Bright & Clear      
+1916/04/06     4                   Thursday                           
+1916/04/07     5                   Friday                             
+1916/04/08     6                   Saturday                           
+1916/04/09     7                   Sunday                             
+1916/04/10     8                   Monday                             
+1916/04/11     9                   Tuesday                            
+1916/04/12     10                  Wednesday                          
+1916/04/13     11                  Thursday                           
+1916/04/14     12                  Friday                             
+1916/04/15     13                  Saturday                           
+1916/04/16     14                  Sunday                             
+1916/04/17     15                  Monday                             
+1916/04/18     16                  Tuesday                            
+1916/04/19     17                  Wednesday                          
+1916/04/20     18                  Thursday       Corn Rain           
+1916/04/21     19                  Friday                             
+1916/04/22     20                  Saturday                           
+1916/04/23     21                  Sunday                             
+1916/04/24     22                  Monday                             
+1916/04/25     23                  Tuesday                            
+1916/04/26     24                  Wednesday                          
+1916/04/27     25                  Thursday                           
+1916/04/28     26                  Friday                             
+1916/04/29     27                  Saturday                           
+1916/04/30     28                  Sunday                             
+1916/05/01     29                  Monday                             
+1916/05/02     4th Lunar month     Tuesday                            
+1916/05/03     2                   Wednesday                          
+1916/05/04     3                   Thursday                           
+1916/05/05     4                   Friday                             
+1916/05/06     5                   Saturday       Summer Commences    
+1916/05/07     6                   Sunday                             
+1916/05/08     7                   Monday                             
+1916/05/09     8                   Tuesday                            
+1916/05/10     9                   Wednesday                          
+1916/05/11     10                  Thursday                           
+1916/05/12     11                  Friday                             
+1916/05/13     12                  Saturday                           
+1916/05/14     13                  Sunday                             
+1916/05/15     14                  Monday                             
+1916/05/16     15                  Tuesday                            
+1916/05/17     16                  Wednesday                          
+1916/05/18     17                  Thursday                           
+1916/05/19     18                  Friday                             
+1916/05/20     19                  Saturday                           
+1916/05/21     20                  Sunday         Corn Forms          
+1916/05/22     21                  Monday                             
+1916/05/23     22                  Tuesday                            
+1916/05/24     23                  Wednesday                          
+1916/05/25     24                  Thursday                           
+1916/05/26     25                  Friday                             
+1916/05/27     26                  Saturday                           
+1916/05/28     27                  Sunday                             
+1916/05/29     28                  Monday                             
+1916/05/30     29                  Tuesday                            
+1916/05/31     30                  Wednesday                          
+1916/06/01     5th Lunar month     Thursday                           
+1916/06/02     2                   Friday                             
+1916/06/03     3                   Saturday                           
+1916/06/04     4                   Sunday                             
+1916/06/05     5                   Monday                             
+1916/06/06     6                   Tuesday        Corn on Ear         
+1916/06/07     7                   Wednesday                          
+1916/06/08     8                   Thursday                           
+1916/06/09     9                   Friday                             
+1916/06/10     10                  Saturday                           
+1916/06/11     11                  Sunday                             
+1916/06/12     12                  Monday                             
+1916/06/13     13                  Tuesday                            
+1916/06/14     14                  Wednesday                          
+1916/06/15     15                  Thursday                           
+1916/06/16     16                  Friday                             
+1916/06/17     17                  Saturday                           
+1916/06/18     18                  Sunday                             
+1916/06/19     19                  Monday                             
+1916/06/20     20                  Tuesday                            
+1916/06/21     21                  Wednesday                          
+1916/06/22     22                  Thursday       Summer Solstice     
+1916/06/23     23                  Friday                             
+1916/06/24     24                  Saturday                           
+1916/06/25     25                  Sunday                             
+1916/06/26     26                  Monday                             
+1916/06/27     27                  Tuesday                            
+1916/06/28     28                  Wednesday                          
+1916/06/29     29                  Thursday                           
+1916/06/30     6th Lunar month     Friday                             
+1916/07/01     2                   Saturday                           
+1916/07/02     3                   Sunday                             
+1916/07/03     4                   Monday                             
+1916/07/04     5                   Tuesday                            
+1916/07/05     6                   Wednesday                          
+1916/07/06     7                   Thursday                           
+1916/07/07     8                   Friday         Moderate Heat       
+1916/07/08     9                   Saturday                           
+1916/07/09     10                  Sunday                             
+1916/07/10     11                  Monday                             
+1916/07/11     12                  Tuesday                            
+1916/07/12     13                  Wednesday                          
+1916/07/13     14                  Thursday                           
+1916/07/14     15                  Friday                             
+1916/07/15     16                  Saturday                           
+1916/07/16     17                  Sunday                             
+1916/07/17     18                  Monday                             
+1916/07/18     19                  Tuesday                            
+1916/07/19     20                  Wednesday                          
+1916/07/20     21                  Thursday                           
+1916/07/21     22                  Friday                             
+1916/07/22     23                  Saturday                           
+1916/07/23     24                  Sunday         Great Heat          
+1916/07/24     25                  Monday                             
+1916/07/25     26                  Tuesday                            
+1916/07/26     27                  Wednesday                          
+1916/07/27     28                  Thursday                           
+1916/07/28     29                  Friday                             
+1916/07/29     30                  Saturday                           
+1916/07/30     7th Lunar month     Sunday                             
+1916/07/31     2                   Monday                             
+1916/08/01     3                   Tuesday                            
+1916/08/02     4                   Wednesday                          
+1916/08/03     5                   Thursday                           
+1916/08/04     6                   Friday                             
+1916/08/05     7                   Saturday                           
+1916/08/06     8                   Sunday                             
+1916/08/07     9                   Monday                             
+1916/08/08     10                  Tuesday        Autumn Commences    
+1916/08/09     11                  Wednesday                          
+1916/08/10     12                  Thursday                           
+1916/08/11     13                  Friday                             
+1916/08/12     14                  Saturday                           
+1916/08/13     15                  Sunday                             
+1916/08/14     16                  Monday                             
+1916/08/15     17                  Tuesday                            
+1916/08/16     18                  Wednesday                          
+1916/08/17     19                  Thursday                           
+1916/08/18     20                  Friday                             
+1916/08/19     21                  Saturday                           
+1916/08/20     22                  Sunday                             
+1916/08/21     23                  Monday                             
+1916/08/22     24                  Tuesday                            
+1916/08/23     25                  Wednesday      End of Heat         
+1916/08/24     26                  Thursday                           
+1916/08/25     27                  Friday                             
+1916/08/26     28                  Saturday                           
+1916/08/27     29                  Sunday                             
+1916/08/28     30                  Monday                             
+1916/08/29     8th Lunar month     Tuesday                            
+1916/08/30     2                   Wednesday                          
+1916/08/31     3                   Thursday                           
+1916/09/01     4                   Friday                             
+1916/09/02     5                   Saturday                           
+1916/09/03     6                   Sunday                             
+1916/09/04     7                   Monday                             
+1916/09/05     8                   Tuesday                            
+1916/09/06     9                   Wednesday                          
+1916/09/07     10                  Thursday                           
+1916/09/08     11                  Friday         White Dew           
+1916/09/09     12                  Saturday                           
+1916/09/10     13                  Sunday                             
+1916/09/11     14                  Monday                             
+1916/09/12     15                  Tuesday                            
+1916/09/13     16                  Wednesday                          
+1916/09/14     17                  Thursday                           
+1916/09/15     18                  Friday                             
+1916/09/16     19                  Saturday                           
+1916/09/17     20                  Sunday                             
+1916/09/18     21                  Monday                             
+1916/09/19     22                  Tuesday                            
+1916/09/20     23                  Wednesday                          
+1916/09/21     24                  Thursday                           
+1916/09/22     25                  Friday                             
+1916/09/23     26                  Saturday       Autumnal Equinox    
+1916/09/24     27                  Sunday                             
+1916/09/25     28                  Monday                             
+1916/09/26     29                  Tuesday                            
+1916/09/27     9th Lunar month     Wednesday                          
+1916/09/28     2                   Thursday                           
+1916/09/29     3                   Friday                             
+1916/09/30     4                   Saturday                           
+1916/10/01     5                   Sunday                             
+1916/10/02     6                   Monday                             
+1916/10/03     7                   Tuesday                            
+1916/10/04     8                   Wednesday                          
+1916/10/05     9                   Thursday                           
+1916/10/06     10                  Friday                             
+1916/10/07     11                  Saturday                           
+1916/10/08     12                  Sunday         Cold Dew            
+1916/10/09     13                  Monday                             
+1916/10/10     14                  Tuesday                            
+1916/10/11     15                  Wednesday                          
+1916/10/12     16                  Thursday                           
+1916/10/13     17                  Friday                             
+1916/10/14     18                  Saturday                           
+1916/10/15     19                  Sunday                             
+1916/10/16     20                  Monday                             
+1916/10/17     21                  Tuesday                            
+1916/10/18     22                  Wednesday                          
+1916/10/19     23                  Thursday                           
+1916/10/20     24                  Friday                             
+1916/10/21     25                  Saturday                           
+1916/10/22     26                  Sunday                             
+1916/10/23     27                  Monday                             
+1916/10/24     28                  Tuesday        Frost               
+1916/10/25     29                  Wednesday                          
+1916/10/26     30                  Thursday                           
+1916/10/27     10th Lunar month    Friday                             
+1916/10/28     2                   Saturday                           
+1916/10/29     3                   Sunday                             
+1916/10/30     4                   Monday                             
+1916/10/31     5                   Tuesday                            
+1916/11/01     6                   Wednesday                          
+1916/11/02     7                   Thursday                           
+1916/11/03     8                   Friday                             
+1916/11/04     9                   Saturday                           
+1916/11/05     10                  Sunday                             
+1916/11/06     11                  Monday                             
+1916/11/07     12                  Tuesday                            
+1916/11/08     13                  Wednesday      Winter Commences    
+1916/11/09     14                  Thursday                           
+1916/11/10     15                  Friday                             
+1916/11/11     16                  Saturday                           
+1916/11/12     17                  Sunday                             
+1916/11/13     18                  Monday                             
+1916/11/14     19                  Tuesday                            
+1916/11/15     20                  Wednesday                          
+1916/11/16     21                  Thursday                           
+1916/11/17     22                  Friday                             
+1916/11/18     23                  Saturday                           
+1916/11/19     24                  Sunday                             
+1916/11/20     25                  Monday                             
+1916/11/21     26                  Tuesday                            
+1916/11/22     27                  Wednesday      Light Snow          
+1916/11/23     28                  Thursday                           
+1916/11/24     29                  Friday                             
+1916/11/25     11th Lunar month    Saturday                           
+1916/11/26     2                   Sunday                             
+1916/11/27     3                   Monday                             
+1916/11/28     4                   Tuesday                            
+1916/11/29     5                   Wednesday                          
+1916/11/30     6                   Thursday                           
+1916/12/01     7                   Friday                             
+1916/12/02     8                   Saturday                           
+1916/12/03     9                   Sunday                             
+1916/12/04     10                  Monday                             
+1916/12/05     11                  Tuesday                            
+1916/12/06     12                  Wednesday                          
+1916/12/07     13                  Thursday       Heavy Snow          
+1916/12/08     14                  Friday                             
+1916/12/09     15                  Saturday                           
+1916/12/10     16                  Sunday                             
+1916/12/11     17                  Monday                             
+1916/12/12     18                  Tuesday                            
+1916/12/13     19                  Wednesday                          
+1916/12/14     20                  Thursday                           
+1916/12/15     21                  Friday                             
+1916/12/16     22                  Saturday                           
+1916/12/17     23                  Sunday                             
+1916/12/18     24                  Monday                             
+1916/12/19     25                  Tuesday                            
+1916/12/20     26                  Wednesday                          
+1916/12/21     27                  Thursday                           
+1916/12/22     28                  Friday         Winter Solstice     
+1916/12/23     29                  Saturday                           
+1916/12/24     30                  Sunday                             
+1916/12/25     12th Lunar month    Monday                             
+1916/12/26     2                   Tuesday                            
+1916/12/27     3                   Wednesday                          
+1916/12/28     4                   Thursday                           
+1916/12/29     5                   Friday                             
+1916/12/30     6                   Saturday                           
+1916/12/31     7                   Sunday                             

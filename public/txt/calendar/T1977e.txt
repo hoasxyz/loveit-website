@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1977 (Ding-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1977/01/01     12                  Saturday                           
+1977/01/02     13                  Sunday                             
+1977/01/03     14                  Monday                             
+1977/01/04     15                  Tuesday                            
+1977/01/05     16                  Wednesday      Moderate Cold       
+1977/01/06     17                  Thursday                           
+1977/01/07     18                  Friday                             
+1977/01/08     19                  Saturday                           
+1977/01/09     20                  Sunday                             
+1977/01/10     21                  Monday                             
+1977/01/11     22                  Tuesday                            
+1977/01/12     23                  Wednesday                          
+1977/01/13     24                  Thursday                           
+1977/01/14     25                  Friday                             
+1977/01/15     26                  Saturday                           
+1977/01/16     27                  Sunday                             
+1977/01/17     28                  Monday                             
+1977/01/18     29                  Tuesday                            
+1977/01/19     12th Lunar month    Wednesday                          
+1977/01/20     2                   Thursday       Severe Cold         
+1977/01/21     3                   Friday                             
+1977/01/22     4                   Saturday                           
+1977/01/23     5                   Sunday                             
+1977/01/24     6                   Monday                             
+1977/01/25     7                   Tuesday                            
+1977/01/26     8                   Wednesday                          
+1977/01/27     9                   Thursday                           
+1977/01/28     10                  Friday                             
+1977/01/29     11                  Saturday                           
+1977/01/30     12                  Sunday                             
+1977/01/31     13                  Monday                             
+1977/02/01     14                  Tuesday                            
+1977/02/02     15                  Wednesday                          
+1977/02/03     16                  Thursday                           
+1977/02/04     17                  Friday         Spring Commences    
+1977/02/05     18                  Saturday                           
+1977/02/06     19                  Sunday                             
+1977/02/07     20                  Monday                             
+1977/02/08     21                  Tuesday                            
+1977/02/09     22                  Wednesday                          
+1977/02/10     23                  Thursday                           
+1977/02/11     24                  Friday                             
+1977/02/12     25                  Saturday                           
+1977/02/13     26                  Sunday                             
+1977/02/14     27                  Monday                             
+1977/02/15     28                  Tuesday                            
+1977/02/16     29                  Wednesday                          
+1977/02/17     30                  Thursday                           
+1977/02/18     1st Lunar month     Friday                             
+1977/02/19     2                   Saturday       Spring Showers      
+1977/02/20     3                   Sunday                             
+1977/02/21     4                   Monday                             
+1977/02/22     5                   Tuesday                            
+1977/02/23     6                   Wednesday                     
+1977/02/24     7                   Thursday                           
+1977/02/25     8                   Friday                             
+1977/02/26     9                   Saturday                           
+1977/02/27     10                  Sunday                             
+1977/02/28     11                  Monday                             
+1977/03/01     12                  Tuesday                            
+1977/03/02     13                  Wednesday                          
+1977/03/03     14                  Thursday                           
+1977/03/04     15                  Friday                             
+1977/03/05     16                  Saturday                           
+1977/03/06     17                  Sunday         Insects Waken       
+1977/03/07     18                  Monday                             
+1977/03/08     19                  Tuesday                            
+1977/03/09     20                  Wednesday                          
+1977/03/10     21                  Thursday                           
+1977/03/11     22                  Friday                             
+1977/03/12     23                  Saturday                           
+1977/03/13     24                  Sunday                             
+1977/03/14     25                  Monday                             
+1977/03/15     26                  Tuesday                            
+1977/03/16     27                  Wednesday                          
+1977/03/17     28                  Thursday                           
+1977/03/18     29                  Friday                             
+1977/03/19     30                  Saturday                           
+1977/03/20     2nd Lunar month     Sunday                             
+1977/03/21     2                   Monday         Vernal Equinox      
+1977/03/22     3                   Tuesday                            
+1977/03/23     4                   Wednesday                          
+1977/03/24     5                   Thursday                           
+1977/03/25     6                   Friday                             
+1977/03/26     7                   Saturday                           
+1977/03/27     8                   Sunday                             
+1977/03/28     9                   Monday                             
+1977/03/29     10                  Tuesday                            
+1977/03/30     11                  Wednesday                          
+1977/03/31     12                  Thursday                           
+1977/04/01     13                  Friday                             
+1977/04/02     14                  Saturday                           
+1977/04/03     15                  Sunday                             
+1977/04/04     16                  Monday                             
+1977/04/05     17                  Tuesday        Bright & Clear      
+1977/04/06     18                  Wednesday                          
+1977/04/07     19                  Thursday                           
+1977/04/08     20                  Friday                             
+1977/04/09     21                  Saturday                           
+1977/04/10     22                  Sunday                             
+1977/04/11     23                  Monday                             
+1977/04/12     24                  Tuesday                            
+1977/04/13     25                  Wednesday                          
+1977/04/14     26                  Thursday                           
+1977/04/15     27                  Friday                             
+1977/04/16     28                  Saturday                           
+1977/04/17     29                  Sunday                             
+1977/04/18     3rd Lunar month     Monday                             
+1977/04/19     2                   Tuesday                            
+1977/04/20     3                   Wednesday      Corn Rain           
+1977/04/21     4                   Thursday                           
+1977/04/22     5                   Friday                             
+1977/04/23     6                   Saturday                           
+1977/04/24     7                   Sunday                             
+1977/04/25     8                   Monday                             
+1977/04/26     9                   Tuesday                            
+1977/04/27     10                  Wednesday                          
+1977/04/28     11                  Thursday                           
+1977/04/29     12                  Friday                             
+1977/04/30     13                  Saturday                           
+1977/05/01     14                  Sunday                             
+1977/05/02     15                  Monday                             
+1977/05/03     16                  Tuesday                            
+1977/05/04     17                  Wednesday                          
+1977/05/05     18                  Thursday       Summer Commences    
+1977/05/06     19                  Friday                             
+1977/05/07     20                  Saturday                           
+1977/05/08     21                  Sunday                             
+1977/05/09     22                  Monday                             
+1977/05/10     23                  Tuesday                            
+1977/05/11     24                  Wednesday                          
+1977/05/12     25                  Thursday                           
+1977/05/13     26                  Friday                             
+1977/05/14     27                  Saturday                           
+1977/05/15     28                  Sunday                             
+1977/05/16     29                  Monday                             
+1977/05/17     30                  Tuesday                            
+1977/05/18     4th Lunar month     Wednesday                          
+1977/05/19     2                   Thursday                           
+1977/05/20     3                   Friday                             
+1977/05/21     4                   Saturday       Corn Forms          
+1977/05/22     5                   Sunday                             
+1977/05/23     6                   Monday                             
+1977/05/24     7                   Tuesday                            
+1977/05/25     8                   Wednesday                          
+1977/05/26     9                   Thursday                           
+1977/05/27     10                  Friday                             
+1977/05/28     11                  Saturday                           
+1977/05/29     12                  Sunday                             
+1977/05/30     13                  Monday                             
+1977/05/31     14                  Tuesday                            
+1977/06/01     15                  Wednesday                          
+1977/06/02     16                  Thursday                           
+1977/06/03     17                  Friday                             
+1977/06/04     18                  Saturday                           
+1977/06/05     19                  Sunday                             
+1977/06/06     20                  Monday         Corn on Ear         
+1977/06/07     21                  Tuesday                            
+1977/06/08     22                  Wednesday                          
+1977/06/09     23                  Thursday                           
+1977/06/10     24                  Friday                             
+1977/06/11     25                  Saturday                           
+1977/06/12     26                  Sunday                             
+1977/06/13     27                  Monday                             
+1977/06/14     28                  Tuesday                            
+1977/06/15     29                  Wednesday                          
+1977/06/16     30                  Thursday                           
+1977/06/17     5th Lunar month     Friday                             
+1977/06/18     2                   Saturday                           
+1977/06/19     3                   Sunday                             
+1977/06/20     4                   Monday                             
+1977/06/21     5                   Tuesday        Summer Solstice     
+1977/06/22     6                   Wednesday                          
+1977/06/23     7                   Thursday                           
+1977/06/24     8                   Friday                             
+1977/06/25     9                   Saturday                           
+1977/06/26     10                  Sunday                             
+1977/06/27     11                  Monday                             
+1977/06/28     12                  Tuesday                            
+1977/06/29     13                  Wednesday                          
+1977/06/30     14                  Thursday                           
+1977/07/01     15                  Friday                             
+1977/07/02     16                  Saturday                           
+1977/07/03     17                  Sunday                             
+1977/07/04     18                  Monday                             
+1977/07/05     19                  Tuesday                            
+1977/07/06     20                  Wednesday                          
+1977/07/07     21                  Thursday       Moderate Heat       
+1977/07/08     22                  Friday                             
+1977/07/09     23                  Saturday                           
+1977/07/10     24                  Sunday                             
+1977/07/11     25                  Monday                             
+1977/07/12     26                  Tuesday                            
+1977/07/13     27                  Wednesday                          
+1977/07/14     28                  Thursday                           
+1977/07/15     29                  Friday                             
+1977/07/16     6th Lunar month     Saturday                           
+1977/07/17     2                   Sunday                             
+1977/07/18     3                   Monday                             
+1977/07/19     4                   Tuesday                            
+1977/07/20     5                   Wednesday                          
+1977/07/21     6                   Thursday                           
+1977/07/22     7                   Friday                             
+1977/07/23     8                   Saturday       Great Heat          
+1977/07/24     9                   Sunday                             
+1977/07/25     10                  Monday                             
+1977/07/26     11                  Tuesday                            
+1977/07/27     12                  Wednesday                          
+1977/07/28     13                  Thursday                           
+1977/07/29     14                  Friday                             
+1977/07/30     15                  Saturday                           
+1977/07/31     16                  Sunday                             
+1977/08/01     17                  Monday                             
+1977/08/02     18                  Tuesday                            
+1977/08/03     19                  Wednesday                          
+1977/08/04     20                  Thursday                           
+1977/08/05     21                  Friday                             
+1977/08/06     22                  Saturday                           
+1977/08/07     23                  Sunday         Autumn Commences    
+1977/08/08     24                  Monday                             
+1977/08/09     25                  Tuesday                            
+1977/08/10     26                  Wednesday                          
+1977/08/11     27                  Thursday                           
+1977/08/12     28                  Friday                             
+1977/08/13     29                  Saturday                           
+1977/08/14     30                  Sunday                             
+1977/08/15     7th Lunar month     Monday                             
+1977/08/16     2                   Tuesday                            
+1977/08/17     3                   Wednesday                          
+1977/08/18     4                   Thursday                           
+1977/08/19     5                   Friday                             
+1977/08/20     6                   Saturday                           
+1977/08/21     7                   Sunday                             
+1977/08/22     8                   Monday                             
+1977/08/23     9                   Tuesday        End of Heat         
+1977/08/24     10                  Wednesday                          
+1977/08/25     11                  Thursday                           
+1977/08/26     12                  Friday                             
+1977/08/27     13                  Saturday                           
+1977/08/28     14                  Sunday                             
+1977/08/29     15                  Monday                             
+1977/08/30     16                  Tuesday                            
+1977/08/31     17                  Wednesday                          
+1977/09/01     18                  Thursday                           
+1977/09/02     19                  Friday                             
+1977/09/03     20                  Saturday                           
+1977/09/04     21                  Sunday                             
+1977/09/05     22                  Monday                             
+1977/09/06     23                  Tuesday                            
+1977/09/07     24                  Wednesday                          
+1977/09/08     25                  Thursday       White Dew           
+1977/09/09     26                  Friday                             
+1977/09/10     27                  Saturday                           
+1977/09/11     28                  Sunday                             
+1977/09/12     29                  Monday                             
+1977/09/13     8th Lunar month     Tuesday                            
+1977/09/14     2                   Wednesday                          
+1977/09/15     3                   Thursday                           
+1977/09/16     4                   Friday                             
+1977/09/17     5                   Saturday                           
+1977/09/18     6                   Sunday                             
+1977/09/19     7                   Monday                             
+1977/09/20     8                   Tuesday                            
+1977/09/21     9                   Wednesday                          
+1977/09/22     10                  Thursday                           
+1977/09/23     11                  Friday         Autumnal Equinox    
+1977/09/24     12                  Saturday                           
+1977/09/25     13                  Sunday                             
+1977/09/26     14                  Monday                             
+1977/09/27     15                  Tuesday                            
+1977/09/28     16                  Wednesday                          
+1977/09/29     17                  Thursday                           
+1977/09/30     18                  Friday                             
+1977/10/01     19                  Saturday                           
+1977/10/02     20                  Sunday                             
+1977/10/03     21                  Monday                             
+1977/10/04     22                  Tuesday                            
+1977/10/05     23                  Wednesday                          
+1977/10/06     24                  Thursday                           
+1977/10/07     25                  Friday                             
+1977/10/08     26                  Saturday       Cold Dew            
+1977/10/09     27                  Sunday                             
+1977/10/10     28                  Monday                             
+1977/10/11     29                  Tuesday                            
+1977/10/12     30                  Wednesday                          
+1977/10/13     9th Lunar month     Thursday                           
+1977/10/14     2                   Friday                             
+1977/10/15     3                   Saturday                           
+1977/10/16     4                   Sunday                             
+1977/10/17     5                   Monday                             
+1977/10/18     6                   Tuesday                            
+1977/10/19     7                   Wednesday                          
+1977/10/20     8                   Thursday                           
+1977/10/21     9                   Friday                             
+1977/10/22     10                  Saturday                           
+1977/10/23     11                  Sunday         Frost               
+1977/10/24     12                  Monday                             
+1977/10/25     13                  Tuesday                            
+1977/10/26     14                  Wednesday                          
+1977/10/27     15                  Thursday                           
+1977/10/28     16                  Friday                             
+1977/10/29     17                  Saturday                           
+1977/10/30     18                  Sunday                             
+1977/10/31     19                  Monday                             
+1977/11/01     20                  Tuesday                            
+1977/11/02     21                  Wednesday                          
+1977/11/03     22                  Thursday                           
+1977/11/04     23                  Friday                             
+1977/11/05     24                  Saturday                           
+1977/11/06     25                  Sunday                             
+1977/11/07     26                  Monday         Winter Commences    
+1977/11/08     27                  Tuesday                            
+1977/11/09     28                  Wednesday                          
+1977/11/10     29                  Thursday                           
+1977/11/11     10th Lunar month    Friday                             
+1977/11/12     2                   Saturday                           
+1977/11/13     3                   Sunday                             
+1977/11/14     4                   Monday                             
+1977/11/15     5                   Tuesday                            
+1977/11/16     6                   Wednesday                          
+1977/11/17     7                   Thursday                           
+1977/11/18     8                   Friday                             
+1977/11/19     9                   Saturday                           
+1977/11/20     10                  Sunday                             
+1977/11/21     11                  Monday                             
+1977/11/22     12                  Tuesday        Light Snow          
+1977/11/23     13                  Wednesday                          
+1977/11/24     14                  Thursday                           
+1977/11/25     15                  Friday                             
+1977/11/26     16                  Saturday                           
+1977/11/27     17                  Sunday                             
+1977/11/28     18                  Monday                             
+1977/11/29     19                  Tuesday                            
+1977/11/30     20                  Wednesday                          
+1977/12/01     21                  Thursday                           
+1977/12/02     22                  Friday                             
+1977/12/03     23                  Saturday                           
+1977/12/04     24                  Sunday                             
+1977/12/05     25                  Monday                             
+1977/12/06     26                  Tuesday                            
+1977/12/07     27                  Wednesday      Heavy Snow          
+1977/12/08     28                  Thursday                           
+1977/12/09     29                  Friday                             
+1977/12/10     30                  Saturday                           
+1977/12/11     11th Lunar month    Sunday                             
+1977/12/12     2                   Monday                             
+1977/12/13     3                   Tuesday                            
+1977/12/14     4                   Wednesday                          
+1977/12/15     5                   Thursday                           
+1977/12/16     6                   Friday                             
+1977/12/17     7                   Saturday                           
+1977/12/18     8                   Sunday                             
+1977/12/19     9                   Monday                             
+1977/12/20     10                  Tuesday                            
+1977/12/21     11                  Wednesday                          
+1977/12/22     12                  Thursday       Winter Solstice     
+1977/12/23     13                  Friday                             
+1977/12/24     14                  Saturday                           
+1977/12/25     15                  Sunday                             
+1977/12/26     16                  Monday                             
+1977/12/27     17                  Tuesday                            
+1977/12/28     18                  Wednesday                          
+1977/12/29     19                  Thursday                           
+1977/12/30     20                  Friday                             
+1977/12/31     21                  Saturday                           

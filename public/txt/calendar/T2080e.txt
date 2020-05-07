@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2080 (Geng-zi  -  year of the Mouse)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2080/1/1          10                      Monday                             
+2080/1/2          11                      Tuesday                            
+2080/1/3          12                      Wednesday                          
+2080/1/4          13                      Thursday                           
+2080/1/5          14                      Friday         Moderate Cold       
+2080/1/6          15                      Saturday                           
+2080/1/7          16                      Sunday                             
+2080/1/8          17                      Monday                             
+2080/1/9          18                      Tuesday                            
+2080/1/10         19                      Wednesday                          
+2080/1/11         20                      Thursday                           
+2080/1/12         21                      Friday                             
+2080/1/13         22                      Saturday                           
+2080/1/14         23                      Sunday                             
+2080/1/15         24                      Monday                             
+2080/1/16         25                      Tuesday                            
+2080/1/17         26                      Wednesday                          
+2080/1/18         27                      Thursday                           
+2080/1/19         28                      Friday                             
+2080/1/20         29                      Saturday       Severe Cold         
+2080/1/21         30                      Sunday                             
+2080/1/22         1st Lunar Month         Monday                             
+2080/1/23         2                       Tuesday                            
+2080/1/24         3                       Wednesday                          
+2080/1/25         4                       Thursday                           
+2080/1/26         5                       Friday                             
+2080/1/27         6                       Saturday                           
+2080/1/28         7                       Sunday                             
+2080/1/29         8                       Monday                             
+2080/1/30         9                       Tuesday                            
+2080/1/31         10                      Wednesday                          
+2080/2/1          11                      Thursday                           
+2080/2/2          12                      Friday                             
+2080/2/3          13                      Saturday                           
+2080/2/4          14                      Sunday         Spring Commences    
+2080/2/5          15                      Monday                             
+2080/2/6          16                      Tuesday                            
+2080/2/7          17                      Wednesday                          
+2080/2/8          18                      Thursday                           
+2080/2/9          19                      Friday                             
+2080/2/10         20                      Saturday                           
+2080/2/11         21                      Sunday                             
+2080/2/12         22                      Monday                             
+2080/2/13         23                      Tuesday                            
+2080/2/14         24                      Wednesday                          
+2080/2/15         25                      Thursday                           
+2080/2/16         26                      Friday                             
+2080/2/17         27                      Saturday                           
+2080/2/18         28                      Sunday                             
+2080/2/19         29                      Monday         Spring Showers      
+2080/2/20         30                      Tuesday                            
+2080/2/21         2nd Lunar Month         Wednesday                          
+2080/2/22         2                       Thursday                           
+2080/2/23         3                       Friday                             
+2080/2/24         4                       Saturday                           
+2080/2/25         5                       Sunday                             
+2080/2/26         6                       Monday                             
+2080/2/27         7                       Tuesday                            
+2080/2/28         8                       Wednesday                          
+2080/2/29         9                       Thursday                           
+2080/3/1          10                      Friday                             
+2080/3/2          11                      Saturday                           
+2080/3/3          12                      Sunday                             
+2080/3/4          13                      Monday                             
+2080/3/5          14                      Tuesday        Insects Waken       
+2080/3/6          15                      Wednesday                          
+2080/3/7          16                      Thursday                           
+2080/3/8          17                      Friday                             
+2080/3/9          18                      Saturday                           
+2080/3/10         19                      Sunday                             
+2080/3/11         20                      Monday                             
+2080/3/12         21                      Tuesday                            
+2080/3/13         22                      Wednesday                          
+2080/3/14         23                      Thursday                           
+2080/3/15         24                      Friday                             
+2080/3/16         25                      Saturday                           
+2080/3/17         26                      Sunday                             
+2080/3/18         27                      Monday                             
+2080/3/19         28                      Tuesday                            
+2080/3/20         29                      Wednesday      Vernal Equinox      
+2080/3/21         3rd Lunar Month         Thursday                           
+2080/3/22         2                       Friday                             
+2080/3/23         3                       Saturday                           
+2080/3/24         4                       Sunday                             
+2080/3/25         5                       Monday                             
+2080/3/26         6                       Tuesday                            
+2080/3/27         7                       Wednesday                          
+2080/3/28         8                       Thursday                           
+2080/3/29         9                       Friday                             
+2080/3/30         10                      Saturday                           
+2080/3/31         11                      Sunday                             
+2080/4/1          12                      Monday                             
+2080/4/2          13                      Tuesday                            
+2080/4/3          14                      Wednesday                          
+2080/4/4          15                      Thursday       Bright & Clear      
+2080/4/5          16                      Friday                             
+2080/4/6          17                      Saturday                           
+2080/4/7          18                      Sunday                             
+2080/4/8          19                      Monday                             
+2080/4/9          20                      Tuesday                            
+2080/4/10         21                      Wednesday                          
+2080/4/11         22                      Thursday                           
+2080/4/12         23                      Friday                             
+2080/4/13         24                      Saturday                           
+2080/4/14         25                      Sunday                             
+2080/4/15         26                      Monday                             
+2080/4/16         27                      Tuesday                            
+2080/4/17         28                      Wednesday                          
+2080/4/18         29                      Thursday                           
+2080/4/19         30                      Friday         Corn Rain           
+2080/4/20         3rd Lunar Month         Saturday                           
+2080/4/21         2                       Sunday                             
+2080/4/22         3                       Monday                             
+2080/4/23         4                       Tuesday                            
+2080/4/24         5                       Wednesday                          
+2080/4/25         6                       Thursday                           
+2080/4/26         7                       Friday                             
+2080/4/27         8                       Saturday                           
+2080/4/28         9                       Sunday                             
+2080/4/29         10                      Monday                             
+2080/4/30         11                      Tuesday                            
+2080/5/1          12                      Wednesday                          
+2080/5/2          13                      Thursday                           
+2080/5/3          14                      Friday                             
+2080/5/4          15                      Saturday       Summer Commences    
+2080/5/5          16                      Sunday                             
+2080/5/6          17                      Monday                             
+2080/5/7          18                      Tuesday                            
+2080/5/8          19                      Wednesday                          
+2080/5/9          20                      Thursday                           
+2080/5/10         21                      Friday                             
+2080/5/11         22                      Saturday                           
+2080/5/12         23                      Sunday                             
+2080/5/13         24                      Monday                             
+2080/5/14         25                      Tuesday                            
+2080/5/15         26                      Wednesday                          
+2080/5/16         27                      Thursday                           
+2080/5/17         28                      Friday                             
+2080/5/18         29                      Saturday                           
+2080/5/19         4th Lunar Month         Sunday                             
+2080/5/20         2                       Monday         Corn Forms          
+2080/5/21         3                       Tuesday                            
+2080/5/22         4                       Wednesday                          
+2080/5/23         5                       Thursday                           
+2080/5/24         6                       Friday                             
+2080/5/25         7                       Saturday                           
+2080/5/26         8                       Sunday                             
+2080/5/27         9                       Monday                             
+2080/5/28         10                      Tuesday                            
+2080/5/29         11                      Wednesday                          
+2080/5/30         12                      Thursday                           
+2080/5/31         13                      Friday                             
+2080/6/1          14                      Saturday                           
+2080/6/2          15                      Sunday                             
+2080/6/3          16                      Monday                             
+2080/6/4          17                      Tuesday                            
+2080/6/5          18                      Wednesday      Corn on Ear         
+2080/6/6          19                      Thursday                           
+2080/6/7          20                      Friday                             
+2080/6/8          21                      Saturday                           
+2080/6/9          22                      Sunday                             
+2080/6/10         23                      Monday                             
+2080/6/11         24                      Tuesday                            
+2080/6/12         25                      Wednesday                          
+2080/6/13         26                      Thursday                           
+2080/6/14         27                      Friday                             
+2080/6/15         28                      Saturday                           
+2080/6/16         29                      Sunday                             
+2080/6/17         30                      Monday                             
+2080/6/18         5th Lunar Month         Tuesday                            
+2080/6/19         2                       Wednesday                          
+2080/6/20         3                       Thursday       Summer Solstice     
+2080/6/21         4                       Friday                             
+2080/6/22         5                       Saturday                           
+2080/6/23         6                       Sunday                             
+2080/6/24         7                       Monday                             
+2080/6/25         8                       Tuesday                            
+2080/6/26         9                       Wednesday                          
+2080/6/27         10                      Thursday                           
+2080/6/28         11                      Friday                             
+2080/6/29         12                      Saturday                           
+2080/6/30         13                      Sunday                             
+2080/7/1          14                      Monday                             
+2080/7/2          15                      Tuesday                            
+2080/7/3          16                      Wednesday                          
+2080/7/4          17                      Thursday                           
+2080/7/5          18                      Friday                             
+2080/7/6          19                      Saturday       Moderate Heat       
+2080/7/7          20                      Sunday                             
+2080/7/8          21                      Monday                             
+2080/7/9          22                      Tuesday                            
+2080/7/10         23                      Wednesday                          
+2080/7/11         24                      Thursday                           
+2080/7/12         25                      Friday                             
+2080/7/13         26                      Saturday                           
+2080/7/14         27                      Sunday                             
+2080/7/15         28                      Monday                             
+2080/7/16         29                      Tuesday                            
+2080/7/17         6th Lunar Month         Wednesday                          
+2080/7/18         2                       Thursday                           
+2080/7/19         3                       Friday                             
+2080/7/20         4                       Saturday                           
+2080/7/21         5                       Sunday                             
+2080/7/22         6                       Monday         Great Heat          
+2080/7/23         7                       Tuesday                            
+2080/7/24         8                       Wednesday                          
+2080/7/25         9                       Thursday                           
+2080/7/26         10                      Friday                             
+2080/7/27         11                      Saturday                           
+2080/7/28         12                      Sunday                             
+2080/7/29         13                      Monday                             
+2080/7/30         14                      Tuesday                            
+2080/7/31         15                      Wednesday                          
+2080/8/1          16                      Thursday                           
+2080/8/2          17                      Friday                             
+2080/8/3          18                      Saturday                           
+2080/8/4          19                      Sunday                             
+2080/8/5          20                      Monday                             
+2080/8/6          21                      Tuesday        Autumn Commences    
+2080/8/7          22                      Wednesday                          
+2080/8/8          23                      Thursday                           
+2080/8/9          24                      Friday                             
+2080/8/10         25                      Saturday                           
+2080/8/11         26                      Sunday                             
+2080/8/12         27                      Monday                             
+2080/8/13         28                      Tuesday                            
+2080/8/14         29                      Wednesday                          
+2080/8/15         7th Lunar Month         Thursday                           
+2080/8/16         2                       Friday                             
+2080/8/17         3                       Saturday                           
+2080/8/18         4                       Sunday                             
+2080/8/19         5                       Monday                             
+2080/8/20         6                       Tuesday                            
+2080/8/21         7                       Wednesday                          
+2080/8/22         8                       Thursday       End of Heat         
+2080/8/23         9                       Friday                             
+2080/8/24         10                      Saturday                           
+2080/8/25         11                      Sunday                             
+2080/8/26         12                      Monday                             
+2080/8/27         13                      Tuesday                            
+2080/8/28         14                      Wednesday                          
+2080/8/29         15                      Thursday                           
+2080/8/30         16                      Friday                             
+2080/8/31         17                      Saturday                           
+2080/9/1          18                      Sunday                             
+2080/9/2          19                      Monday                             
+2080/9/3          20                      Tuesday                            
+2080/9/4          21                      Wednesday                          
+2080/9/5          22                      Thursday                           
+2080/9/6          23                      Friday                             
+2080/9/7          24                      Saturday       White Dew           
+2080/9/8          25                      Sunday                             
+2080/9/9          26                      Monday                             
+2080/9/10         27                      Tuesday                            
+2080/9/11         28                      Wednesday                          
+2080/9/12         29                      Thursday                           
+2080/9/13         30                      Friday                             
+2080/9/14         8th Lunar Month         Saturday                           
+2080/9/15         2                       Sunday                             
+2080/9/16         3                       Monday                             
+2080/9/17         4                       Tuesday                            
+2080/9/18         5                       Wednesday                          
+2080/9/19         6                       Thursday                           
+2080/9/20         7                       Friday                             
+2080/9/21         8                       Saturday                           
+2080/9/22         9                       Sunday         Autumnal Equinox    
+2080/9/23         10                      Monday                             
+2080/9/24         11                      Tuesday                            
+2080/9/25         12                      Wednesday                          
+2080/9/26         13                      Thursday                           
+2080/9/27         14                      Friday                             
+2080/9/28         15                      Saturday                           
+2080/9/29         16                      Sunday                             
+2080/9/30         17                      Monday                             
+2080/10/1         18                      Tuesday                            
+2080/10/2         19                      Wednesday                          
+2080/10/3         20                      Thursday                           
+2080/10/4         21                      Friday                             
+2080/10/5         22                      Saturday                           
+2080/10/6         23                      Sunday                             
+2080/10/7         24                      Monday         Cold Dew            
+2080/10/8         25                      Tuesday                            
+2080/10/9         26                      Wednesday                          
+2080/10/10        27                      Thursday                           
+2080/10/11        28                      Friday                             
+2080/10/12        29                      Saturday                           
+2080/10/13        9th Lunar Month         Sunday                             
+2080/10/14        2                       Monday                             
+2080/10/15        3                       Tuesday                            
+2080/10/16        4                       Wednesday                          
+2080/10/17        5                       Thursday                           
+2080/10/18        6                       Friday                             
+2080/10/19        7                       Saturday                           
+2080/10/20        8                       Sunday                             
+2080/10/21        9                       Monday                             
+2080/10/22        10                      Tuesday        Frost               
+2080/10/23        11                      Wednesday                          
+2080/10/24        12                      Thursday                           
+2080/10/25        13                      Friday                             
+2080/10/26        14                      Saturday                           
+2080/10/27        15                      Sunday                             
+2080/10/28        16                      Monday                             
+2080/10/29        17                      Tuesday                            
+2080/10/30        18                      Wednesday                          
+2080/10/31        19                      Thursday                           
+2080/11/1         20                      Friday                             
+2080/11/2         21                      Saturday                           
+2080/11/3         22                      Sunday                             
+2080/11/4         23                      Monday                             
+2080/11/5         24                      Tuesday                            
+2080/11/6         25                      Wednesday      Winter Commences    
+2080/11/7         26                      Thursday                           
+2080/11/8         27                      Friday                             
+2080/11/9         28                      Saturday                           
+2080/11/10        29                      Sunday                             
+2080/11/11        10th Lunar Month        Monday                             
+2080/11/12        2                       Tuesday                            
+2080/11/13        3                       Wednesday                          
+2080/11/14        4                       Thursday                           
+2080/11/15        5                       Friday                             
+2080/11/16        6                       Saturday                           
+2080/11/17        7                       Sunday                             
+2080/11/18        8                       Monday                             
+2080/11/19        9                       Tuesday                            
+2080/11/20        10                      Wednesday                          
+2080/11/21        11                      Thursday       Light Snow          
+2080/11/22        12                      Friday                             
+2080/11/23        13                      Saturday                           
+2080/11/24        14                      Sunday                             
+2080/11/25        15                      Monday                             
+2080/11/26        16                      Tuesday                            
+2080/11/27        17                      Wednesday                          
+2080/11/28        18                      Thursday                           
+2080/11/29        19                      Friday                             
+2080/11/30        20                      Saturday                           
+2080/12/1         21                      Sunday                             
+2080/12/2         22                      Monday                             
+2080/12/3         23                      Tuesday                            
+2080/12/4         24                      Wednesday                          
+2080/12/5         25                      Thursday                           
+2080/12/6         26                      Friday         Heavy Snow          
+2080/12/7         27                      Saturday                           
+2080/12/8         28                      Sunday                             
+2080/12/9         29                      Monday                             
+2080/12/10        30                      Tuesday                            
+2080/12/11        11th Lunar Month        Wednesday                          
+2080/12/12        2                       Thursday                           
+2080/12/13        3                       Friday                             
+2080/12/14        4                       Saturday                           
+2080/12/15        5                       Sunday                             
+2080/12/16        6                       Monday                             
+2080/12/17        7                       Tuesday                            
+2080/12/18        8                       Wednesday                          
+2080/12/19        9                       Thursday                           
+2080/12/20        10                      Friday                             
+2080/12/21        11                      Saturday       Winter Solstice     
+2080/12/22        12                      Sunday                             
+2080/12/23        13                      Monday                             
+2080/12/24        14                      Tuesday                            
+2080/12/25        15                      Wednesday                          
+2080/12/26        16                      Thursday                           
+2080/12/27        17                      Friday                             
+2080/12/28        18                      Saturday                           
+2080/12/29        19                      Sunday                             
+2080/12/30        20                      Monday                             
+2080/12/31        21                      Tuesday                            

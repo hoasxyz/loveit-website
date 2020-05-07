@@ -1,17 +1,26 @@
 ---
 title: ggplot2
-author: Hoas
+author: hoas
 date: '2019-01-05'
 slug: ggplot2
 description: "ggplot的一些笔记整理"
 categories:
-  - fragmentray
+  - notes
 tags:
   - R
   - ggplot2
 lastmod: '2019-01-05T13:04:48+08:00'
-toc: yes
-keywords: [ggplot2，笔记]
+authorLink: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+featuredImage: 'https://r-statistics.co/screenshots/ggplot_tut_9.png'
+featuredImagePreview: ''
+toc:
+  enable: yes
+math:
+  enable: no
+lightgallery: no
+license: CC BY-NC 4.0
 ---
 
   There are brief notes about the usage of **ggplot2**.

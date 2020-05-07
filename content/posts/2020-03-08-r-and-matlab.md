@@ -8,17 +8,20 @@ categories:
 tags:
   - R
   - MATLAB
-lastmod: '2020-03-08T12:40:12+08:00'
+subtitle: ''
+lastmod: '2020-05-07T11:02:24+08:00'
+authorLink: ''
 description: ''
-show_in_homepage: yes
-show_description: no
-license: ''
-featured_image: ''
-featured_image_preview: ''
-comment: no
-toc: yes
-autoCollapseToc: no
-math: yes
+hiddenFromHomePage: no
+hiddenFromSearch: no
+featuredImage: ''
+featuredImagePreview: ''
+toc:
+  enable: yes
+math:
+  enable: no
+lightgallery: no
+license: CC BY-NC 4.0
 ---
 
 作为R & MATLAB的迁移笔记，主要目的是将R的结构迁移至对应的MATLAB结构。
@@ -34,6 +37,8 @@ R语言属于**函数式编程**，所有的格式都要用函数表示；MATLAB
 R中的所有类型（数值型、字符型、逻辑型）向量虽然也是一维数组，但是默认为行向量。
 
 R中的Boolean值必须是首字母大写或者是全字母大写。R索引的时候用方括号，并且引子也要遵从函数式编程。R中单双引号完全等价（需要匹配）。
+
+<!--more-->
 
 ```r
 a <- c(1, 2, 5, 3, 6, -2, 4)
@@ -52,6 +57,7 @@ c <- c(TRUE, TRUE, TRUE, FALSE, TRUE, FALSE)
 [1] 2
 > a[c(3,4)]
 [1] 5 3
+
 ```
 
 #### MATLAB
@@ -349,4 +355,5 @@ addpath("C:\Program Files\Polyspace\R2019a\bin\MBeautifier-1.3.2");
 run("C:\Program Files\Polyspace\R2019a\bin\MBeautifier-1.3.2\MBeautify.m");
 MBeautify.formatCurrentEditorPage();
 ```
+
 

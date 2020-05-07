@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1938 (Wu-yin ¡V year of the Tiger)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1938/01/01     30                  Saturday                           
+1938/01/02     12th Lunar month    Sunday                             
+1938/01/03     2                   Monday                             
+1938/01/04     3                   Tuesday                            
+1938/01/05     4                   Wednesday                          
+1938/01/06     5                   Thursday       Moderate Cold       
+1938/01/07     6                   Friday                             
+1938/01/08     7                   Saturday                           
+1938/01/09     8                   Sunday                             
+1938/01/10     9                   Monday                             
+1938/01/11     10                  Tuesday                            
+1938/01/12     11                  Wednesday                          
+1938/01/13     12                  Thursday                           
+1938/01/14     13                  Friday                             
+1938/01/15     14                  Saturday                           
+1938/01/16     15                  Sunday                             
+1938/01/17     16                  Monday                             
+1938/01/18     17                  Tuesday                            
+1938/01/19     18                  Wednesday                          
+1938/01/20     19                  Thursday                           
+1938/01/21     20                  Friday         Severe Cold         
+1938/01/22     21                  Saturday                           
+1938/01/23     22                  Sunday                             
+1938/01/24     23                  Monday                             
+1938/01/25     24                  Tuesday                            
+1938/01/26     25                  Wednesday                          
+1938/01/27     26                  Thursday                           
+1938/01/28     27                  Friday                             
+1938/01/29     28                  Saturday                           
+1938/01/30     29                  Sunday                             
+1938/01/31     1st Lunar month     Monday                             
+1938/02/01     2                   Tuesday                            
+1938/02/02     3                   Wednesday                          
+1938/02/03     4                   Thursday                           
+1938/02/04     5                   Friday         Spring Commences    
+1938/02/05     6                   Saturday                           
+1938/02/06     7                   Sunday                             
+1938/02/07     8                   Monday                             
+1938/02/08     9                   Tuesday                            
+1938/02/09     10                  Wednesday                          
+1938/02/10     11                  Thursday                           
+1938/02/11     12                  Friday                             
+1938/02/12     13                  Saturday                           
+1938/02/13     14                  Sunday                             
+1938/02/14     15                  Monday                             
+1938/02/15     16                  Tuesday                            
+1938/02/16     17                  Wednesday                          
+1938/02/17     18                  Thursday                           
+1938/02/18     19                  Friday                             
+1938/02/19     20                  Saturday       Spring Showers      
+1938/02/20     21                  Sunday                             
+1938/02/21     22                  Monday                             
+1938/02/22     23                  Tuesday                            
+1938/02/23     24                  Wednesday                          
+1938/02/24     25                  Thursday                           
+1938/02/25     26                  Friday                             
+1938/02/26     27                  Saturday                           
+1938/02/27     28                  Sunday                             
+1938/02/28     29                  Monday                             
+1938/03/01     30                  Tuesday                            
+1938/03/02     2nd Lunar month     Wednesday                          
+1938/03/03     2                   Thursday                           
+1938/03/04     3                   Friday                             
+1938/03/05     4                   Saturday                           
+1938/03/06     5                   Sunday         Insects Waken       
+1938/03/07     6                   Monday                             
+1938/03/08     7                   Tuesday                            
+1938/03/09     8                   Wednesday                          
+1938/03/10     9                   Thursday                           
+1938/03/11     10                  Friday                             
+1938/03/12     11                  Saturday                           
+1938/03/13     12                  Sunday                             
+1938/03/14     13                  Monday                             
+1938/03/15     14                  Tuesday                            
+1938/03/16     15                  Wednesday                          
+1938/03/17     16                  Thursday                           
+1938/03/18     17                  Friday                             
+1938/03/19     18                  Saturday                           
+1938/03/20     19                  Sunday                             
+1938/03/21     20                  Monday         Vernal Equinox      
+1938/03/22     21                  Tuesday                            
+1938/03/23     22                  Wednesday                          
+1938/03/24     23                  Thursday                           
+1938/03/25     24                  Friday                             
+1938/03/26     25                  Saturday                           
+1938/03/27     26                  Sunday                             
+1938/03/28     27                  Monday                             
+1938/03/29     28                  Tuesday                            
+1938/03/30     29                  Wednesday                          
+1938/03/31     30                  Thursday                           
+1938/04/01     3rd Lunar month     Friday                             
+1938/04/02     2                   Saturday                           
+1938/04/03     3                   Sunday                             
+1938/04/04     4                   Monday                             
+1938/04/05     5                   Tuesday        Bright & Clear      
+1938/04/06     6                   Wednesday                          
+1938/04/07     7                   Thursday                           
+1938/04/08     8                   Friday                             
+1938/04/09     9                   Saturday                           
+1938/04/10     10                  Sunday                             
+1938/04/11     11                  Monday                             
+1938/04/12     12                  Tuesday                            
+1938/04/13     13                  Wednesday                          
+1938/04/14     14                  Thursday                           
+1938/04/15     15                  Friday                             
+1938/04/16     16                  Saturday                           
+1938/04/17     17                  Sunday                             
+1938/04/18     18                  Monday                             
+1938/04/19     19                  Tuesday                            
+1938/04/20     20                  Wednesday                          
+1938/04/21     21                  Thursday       Corn Rain           
+1938/04/22     22                  Friday                             
+1938/04/23     23                  Saturday                           
+1938/04/24     24                  Sunday                             
+1938/04/25     25                  Monday                             
+1938/04/26     26                  Tuesday                            
+1938/04/27     27                  Wednesday                          
+1938/04/28     28                  Thursday                           
+1938/04/29     29                  Friday                             
+1938/04/30     4th Lunar month     Saturday                           
+1938/05/01     2                   Sunday                             
+1938/05/02     3                   Monday                             
+1938/05/03     4                   Tuesday                            
+1938/05/04     5                   Wednesday                          
+1938/05/05     6                   Thursday                           
+1938/05/06     7                   Friday         Summer Commences    
+1938/05/07     8                   Saturday                           
+1938/05/08     9                   Sunday                             
+1938/05/09     10                  Monday                             
+1938/05/10     11                  Tuesday                            
+1938/05/11     12                  Wednesday                          
+1938/05/12     13                  Thursday                           
+1938/05/13     14                  Friday                             
+1938/05/14     15                  Saturday                           
+1938/05/15     16                  Sunday                             
+1938/05/16     17                  Monday                             
+1938/05/17     18                  Tuesday                            
+1938/05/18     19                  Wednesday                          
+1938/05/19     20                  Thursday                           
+1938/05/20     21                  Friday                             
+1938/05/21     22                  Saturday                           
+1938/05/22     23                  Sunday         Corn Forms          
+1938/05/23     24                  Monday                             
+1938/05/24     25                  Tuesday                            
+1938/05/25     26                  Wednesday                          
+1938/05/26     27                  Thursday                           
+1938/05/27     28                  Friday                             
+1938/05/28     29                  Saturday                           
+1938/05/29     5th Lunar month     Sunday                             
+1938/05/30     2                   Monday                             
+1938/05/31     3                   Tuesday                            
+1938/06/01     4                   Wednesday                          
+1938/06/02     5                   Thursday                           
+1938/06/03     6                   Friday                             
+1938/06/04     7                   Saturday                           
+1938/06/05     8                   Sunday                             
+1938/06/06     9                   Monday         Corn on Ear         
+1938/06/07     10                  Tuesday                            
+1938/06/08     11                  Wednesday                          
+1938/06/09     12                  Thursday                           
+1938/06/10     13                  Friday                             
+1938/06/11     14                  Saturday                           
+1938/06/12     15                  Sunday                             
+1938/06/13     16                  Monday                             
+1938/06/14     17                  Tuesday                            
+1938/06/15     18                  Wednesday                          
+1938/06/16     19                  Thursday                           
+1938/06/17     20                  Friday                             
+1938/06/18     21                  Saturday                           
+1938/06/19     22                  Sunday                             
+1938/06/20     23                  Monday                             
+1938/06/21     24                  Tuesday                            
+1938/06/22     25                  Wednesday      Summer Solstice     
+1938/06/23     26                  Thursday                           
+1938/06/24     27                  Friday                             
+1938/06/25     28                  Saturday                           
+1938/06/26     29                  Sunday                             
+1938/06/27     30                  Monday                             
+1938/06/28     6th Lunar month     Tuesday                            
+1938/06/29     2                   Wednesday                          
+1938/06/30     3                   Thursday                           
+1938/07/01     4                   Friday                             
+1938/07/02     5                   Saturday                           
+1938/07/03     6                   Sunday                             
+1938/07/04     7                   Monday                             
+1938/07/05     8                   Tuesday                            
+1938/07/06     9                   Wednesday                          
+1938/07/07     10                  Thursday                           
+1938/07/08     11                  Friday         Moderate Heat       
+1938/07/09     12                  Saturday                           
+1938/07/10     13                  Sunday                             
+1938/07/11     14                  Monday                             
+1938/07/12     15                  Tuesday                            
+1938/07/13     16                  Wednesday                          
+1938/07/14     17                  Thursday                           
+1938/07/15     18                  Friday                             
+1938/07/16     19                  Saturday                           
+1938/07/17     20                  Sunday                             
+1938/07/18     21                  Monday                             
+1938/07/19     22                  Tuesday                            
+1938/07/20     23                  Wednesday                          
+1938/07/21     24                  Thursday                           
+1938/07/22     25                  Friday                             
+1938/07/23     26                  Saturday       Great Heat          
+1938/07/24     27                  Sunday                             
+1938/07/25     28                  Monday                             
+1938/07/26     29                  Tuesday                            
+1938/07/27     7th Lunar month     Wednesday                          
+1938/07/28     2                   Thursday                           
+1938/07/29     3                   Friday                             
+1938/07/30     4                   Saturday                           
+1938/07/31     5                   Sunday                             
+1938/08/01     6                   Monday                             
+1938/08/02     7                   Tuesday                            
+1938/08/03     8                   Wednesday                          
+1938/08/04     9                   Thursday                           
+1938/08/05     10                  Friday                             
+1938/08/06     11                  Saturday                           
+1938/08/07     12                  Sunday                             
+1938/08/08     13                  Monday         Autumn Commences    
+1938/08/09     14                  Tuesday                            
+1938/08/10     15                  Wednesday                          
+1938/08/11     16                  Thursday                           
+1938/08/12     17                  Friday                             
+1938/08/13     18                  Saturday                           
+1938/08/14     19                  Sunday                             
+1938/08/15     20                  Monday                             
+1938/08/16     21                  Tuesday                            
+1938/08/17     22                  Wednesday                          
+1938/08/18     23                  Thursday                           
+1938/08/19     24                  Friday                             
+1938/08/20     25                  Saturday                           
+1938/08/21     26                  Sunday                             
+1938/08/22     27                  Monday                             
+1938/08/23     28                  Tuesday                            
+1938/08/24     29                  Wednesday      End of Heat         
+1938/08/25     7th Lunar month     Thursday                           
+1938/08/26     2                   Friday                             
+1938/08/27     3                   Saturday                           
+1938/08/28     4                   Sunday                             
+1938/08/29     5                   Monday                             
+1938/08/30     6                   Tuesday                            
+1938/08/31     7                   Wednesday                          
+1938/09/01     8                   Thursday                           
+1938/09/02     9                   Friday                             
+1938/09/03     10                  Saturday                           
+1938/09/04     11                  Sunday                             
+1938/09/05     12                  Monday                             
+1938/09/06     13                  Tuesday                            
+1938/09/07     14                  Wednesday                          
+1938/09/08     15                  Thursday       White Dew           
+1938/09/09     16                  Friday                             
+1938/09/10     17                  Saturday                           
+1938/09/11     18                  Sunday                             
+1938/09/12     19                  Monday                             
+1938/09/13     20                  Tuesday                            
+1938/09/14     21                  Wednesday                          
+1938/09/15     22                  Thursday                           
+1938/09/16     23                  Friday                             
+1938/09/17     24                  Saturday                           
+1938/09/18     25                  Sunday                             
+1938/09/19     26                  Monday                             
+1938/09/20     27                  Tuesday                            
+1938/09/21     28                  Wednesday                          
+1938/09/22     29                  Thursday                           
+1938/09/23     30                  Friday                             
+1938/09/24     8th Lunar month     Saturday       Autumnal Equinox    
+1938/09/25     2                   Sunday                             
+1938/09/26     3                   Monday                             
+1938/09/27     4                   Tuesday                            
+1938/09/28     5                   Wednesday                          
+1938/09/29     6                   Thursday                           
+1938/09/30     7                   Friday                             
+1938/10/01     8                   Saturday                           
+1938/10/02     9                   Sunday                             
+1938/10/03     10                  Monday                             
+1938/10/04     11                  Tuesday                            
+1938/10/05     12                  Wednesday                          
+1938/10/06     13                  Thursday                           
+1938/10/07     14                  Friday                             
+1938/10/08     15                  Saturday                           
+1938/10/09     16                  Sunday         Cold Dew            
+1938/10/10     17                  Monday                             
+1938/10/11     18                  Tuesday                            
+1938/10/12     19                  Wednesday                          
+1938/10/13     20                  Thursday                           
+1938/10/14     21                  Friday                             
+1938/10/15     22                  Saturday                           
+1938/10/16     23                  Sunday                             
+1938/10/17     24                  Monday                             
+1938/10/18     25                  Tuesday                            
+1938/10/19     26                  Wednesday                          
+1938/10/20     27                  Thursday                           
+1938/10/21     28                  Friday                             
+1938/10/22     29                  Saturday                           
+1938/10/23     9th Lunar month     Sunday                             
+1938/10/24     2                   Monday         Frost               
+1938/10/25     3                   Tuesday                            
+1938/10/26     4                   Wednesday                          
+1938/10/27     5                   Thursday                           
+1938/10/28     6                   Friday                             
+1938/10/29     7                   Saturday                           
+1938/10/30     8                   Sunday                             
+1938/10/31     9                   Monday                             
+1938/11/01     10                  Tuesday                            
+1938/11/02     11                  Wednesday                          
+1938/11/03     12                  Thursday                           
+1938/11/04     13                  Friday                             
+1938/11/05     14                  Saturday                           
+1938/11/06     15                  Sunday                             
+1938/11/07     16                  Monday                             
+1938/11/08     17                  Tuesday        Winter Commences    
+1938/11/09     18                  Wednesday                          
+1938/11/10     19                  Thursday                           
+1938/11/11     20                  Friday                             
+1938/11/12     21                  Saturday                           
+1938/11/13     22                  Sunday                             
+1938/11/14     23                  Monday                             
+1938/11/15     24                  Tuesday                            
+1938/11/16     25                  Wednesday                          
+1938/11/17     26                  Thursday                           
+1938/11/18     27                  Friday                             
+1938/11/19     28                  Saturday                           
+1938/11/20     29                  Sunday                             
+1938/11/21     30                  Monday                             
+1938/11/22     10th Lunar month    Tuesday                            
+1938/11/23     2                   Wednesday      Light Snow          
+1938/11/24     3                   Thursday                           
+1938/11/25     4                   Friday                             
+1938/11/26     5                   Saturday                           
+1938/11/27     6                   Sunday                             
+1938/11/28     7                   Monday                             
+1938/11/29     8                   Tuesday                            
+1938/11/30     9                   Wednesday                          
+1938/12/01     10                  Thursday                           
+1938/12/02     11                  Friday                             
+1938/12/03     12                  Saturday                           
+1938/12/04     13                  Sunday                             
+1938/12/05     14                  Monday                             
+1938/12/06     15                  Tuesday                            
+1938/12/07     16                  Wednesday                          
+1938/12/08     17                  Thursday       Heavy Snow          
+1938/12/09     18                  Friday                             
+1938/12/10     19                  Saturday                           
+1938/12/11     20                  Sunday                             
+1938/12/12     21                  Monday                             
+1938/12/13     22                  Tuesday                            
+1938/12/14     23                  Wednesday                          
+1938/12/15     24                  Thursday                           
+1938/12/16     25                  Friday                             
+1938/12/17     26                  Saturday                           
+1938/12/18     27                  Sunday                             
+1938/12/19     28                  Monday                             
+1938/12/20     29                  Tuesday                            
+1938/12/21     30                  Wednesday                          
+1938/12/22     11th Lunar month    Thursday       Winter Solstice     
+1938/12/23     2                   Friday                             
+1938/12/24     3                   Saturday                           
+1938/12/25     4                   Sunday                             
+1938/12/26     5                   Monday                             
+1938/12/27     6                   Tuesday                            
+1938/12/28     7                   Wednesday                          
+1938/12/29     8                   Thursday                           
+1938/12/30     9                   Friday                             
+1938/12/31     10                  Saturday                           

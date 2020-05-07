@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2094 (Jia-yin  -  year of the Tiger)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2094/1/1          15                      Friday                             
+2094/1/2          16                      Saturday                           
+2094/1/3          17                      Sunday                             
+2094/1/4          18                      Monday                             
+2094/1/5          19                      Tuesday        Moderate Cold       
+2094/1/6          20                      Wednesday                          
+2094/1/7          21                      Thursday                           
+2094/1/8          22                      Friday                             
+2094/1/9          23                      Saturday                           
+2094/1/10         24                      Sunday                             
+2094/1/11         25                      Monday                             
+2094/1/12         26                      Tuesday                            
+2094/1/13         27                      Wednesday                          
+2094/1/14         28                      Thursday                           
+2094/1/15         29                      Friday                             
+2094/1/16         30                      Saturday                           
+2094/1/17         12th Lunar Month        Sunday                             
+2094/1/18         2                       Monday                             
+2094/1/19         3                       Tuesday        Severe Cold         
+2094/1/20         4                       Wednesday                          
+2094/1/21         5                       Thursday                           
+2094/1/22         6                       Friday                             
+2094/1/23         7                       Saturday                           
+2094/1/24         8                       Sunday                             
+2094/1/25         9                       Monday                             
+2094/1/26         10                      Tuesday                            
+2094/1/27         11                      Wednesday                          
+2094/1/28         12                      Thursday                           
+2094/1/29         13                      Friday                             
+2094/1/30         14                      Saturday                           
+2094/1/31         15                      Sunday                             
+2094/2/1          16                      Monday                             
+2094/2/2          17                      Tuesday                            
+2094/2/3          18                      Wednesday      Spring Commences    
+2094/2/4          19                      Thursday                           
+2094/2/5          20                      Friday                             
+2094/2/6          21                      Saturday                           
+2094/2/7          22                      Sunday                             
+2094/2/8          23                      Monday                             
+2094/2/9          24                      Tuesday                            
+2094/2/10         25                      Wednesday                          
+2094/2/11         26                      Thursday                           
+2094/2/12         27                      Friday                             
+2094/2/13         28                      Saturday                           
+2094/2/14         29                      Sunday                             
+2094/2/15         1st Lunar Month         Monday                             
+2094/2/16         2                       Tuesday                            
+2094/2/17         3                       Wednesday                          
+2094/2/18         4                       Thursday       Spring Showers      
+2094/2/19         5                       Friday                             
+2094/2/20         6                       Saturday                           
+2094/2/21         7                       Sunday                             
+2094/2/22         8                       Monday                             
+2094/2/23         9                       Tuesday                            
+2094/2/24         10                      Wednesday                          
+2094/2/25         11                      Thursday                           
+2094/2/26         12                      Friday                             
+2094/2/27         13                      Saturday                           
+2094/2/28         14                      Sunday                             
+2094/3/1          15                      Monday                             
+2094/3/2          16                      Tuesday                            
+2094/3/3          17                      Wednesday                          
+2094/3/4          18                      Thursday                           
+2094/3/5          19                      Friday         Insects Waken       
+2094/3/6          20                      Saturday                           
+2094/3/7          21                      Sunday                             
+2094/3/8          22                      Monday                             
+2094/3/9          23                      Tuesday                            
+2094/3/10         24                      Wednesday                          
+2094/3/11         25                      Thursday                           
+2094/3/12         26                      Friday                             
+2094/3/13         27                      Saturday                           
+2094/3/14         28                      Sunday                             
+2094/3/15         29                      Monday                             
+2094/3/16         2nd Lunar Month         Tuesday                            
+2094/3/17         2                       Wednesday                          
+2094/3/18         3                       Thursday                           
+2094/3/19         4                       Friday                             
+2094/3/20         5                       Saturday       Vernal Equinox      
+2094/3/21         6                       Sunday                             
+2094/3/22         7                       Monday                             
+2094/3/23         8                       Tuesday                            
+2094/3/24         9                       Wednesday                          
+2094/3/25         10                      Thursday                           
+2094/3/26         11                      Friday                             
+2094/3/27         12                      Saturday                           
+2094/3/28         13                      Sunday                             
+2094/3/29         14                      Monday                             
+2094/3/30         15                      Tuesday                            
+2094/3/31         16                      Wednesday                          
+2094/4/1          17                      Thursday                           
+2094/4/2          18                      Friday                             
+2094/4/3          19                      Saturday                           
+2094/4/4          20                      Sunday         Bright & Clear      
+2094/4/5          21                      Monday                             
+2094/4/6          22                      Tuesday                            
+2094/4/7          23                      Wednesday                          
+2094/4/8          24                      Thursday                           
+2094/4/9          25                      Friday                             
+2094/4/10         26                      Saturday                           
+2094/4/11         27                      Sunday                             
+2094/4/12         28                      Monday                             
+2094/4/13         29                      Tuesday                            
+2094/4/14         30                      Wednesday                          
+2094/4/15         3rd Lunar Month         Thursday                           
+2094/4/16         2                       Friday                             
+2094/4/17         3                       Saturday                           
+2094/4/18         4                       Sunday                             
+2094/4/19         5                       Monday         Corn Rain           
+2094/4/20         6                       Tuesday                            
+2094/4/21         7                       Wednesday                          
+2094/4/22         8                       Thursday                           
+2094/4/23         9                       Friday                             
+2094/4/24         10                      Saturday                           
+2094/4/25         11                      Sunday                             
+2094/4/26         12                      Monday                             
+2094/4/27         13                      Tuesday                            
+2094/4/28         14                      Wednesday                          
+2094/4/29         15                      Thursday                           
+2094/4/30         16                      Friday                             
+2094/5/1          17                      Saturday                           
+2094/5/2          18                      Sunday                             
+2094/5/3          19                      Monday                             
+2094/5/4          20                      Tuesday                            
+2094/5/5          21                      Wednesday      Summer Commences    
+2094/5/6          22                      Thursday                           
+2094/5/7          23                      Friday                             
+2094/5/8          24                      Saturday                           
+2094/5/9          25                      Sunday                             
+2094/5/10         26                      Monday                             
+2094/5/11         27                      Tuesday                            
+2094/5/12         28                      Wednesday                          
+2094/5/13         29                      Thursday                           
+2094/5/14         4th Lunar Month         Friday                             
+2094/5/15         2                       Saturday                           
+2094/5/16         3                       Sunday                             
+2094/5/17         4                       Monday                             
+2094/5/18         5                       Tuesday                            
+2094/5/19         6                       Wednesday                          
+2094/5/20         7                       Thursday       Corn Forms          
+2094/5/21         8                       Friday                             
+2094/5/22         9                       Saturday                           
+2094/5/23         10                      Sunday                             
+2094/5/24         11                      Monday                             
+2094/5/25         12                      Tuesday                            
+2094/5/26         13                      Wednesday                          
+2094/5/27         14                      Thursday                           
+2094/5/28         15                      Friday                             
+2094/5/29         16                      Saturday                           
+2094/5/30         17                      Sunday                             
+2094/5/31         18                      Monday                             
+2094/6/1          19                      Tuesday                            
+2094/6/2          20                      Wednesday                          
+2094/6/3          21                      Thursday                           
+2094/6/4          22                      Friday                             
+2094/6/5          23                      Saturday       Corn on Ear         
+2094/6/6          24                      Sunday                             
+2094/6/7          25                      Monday                             
+2094/6/8          26                      Tuesday                            
+2094/6/9          27                      Wednesday                          
+2094/6/10         28                      Thursday                           
+2094/6/11         29                      Friday                             
+2094/6/12         30                      Saturday                           
+2094/6/13         5th Lunar Month         Sunday                             
+2094/6/14         2                       Monday                             
+2094/6/15         3                       Tuesday                            
+2094/6/16         4                       Wednesday                          
+2094/6/17         5                       Thursday                           
+2094/6/18         6                       Friday                             
+2094/6/19         7                       Saturday                           
+2094/6/20         8                       Sunday                             
+2094/6/21         9                       Monday         Summer Solstice     
+2094/6/22         10                      Tuesday                            
+2094/6/23         11                      Wednesday                          
+2094/6/24         12                      Thursday                           
+2094/6/25         13                      Friday                             
+2094/6/26         14                      Saturday                           
+2094/6/27         15                      Sunday                             
+2094/6/28         16                      Monday                             
+2094/6/29         17                      Tuesday                            
+2094/6/30         18                      Wednesday                          
+2094/7/1          19                      Thursday                           
+2094/7/2          20                      Friday                             
+2094/7/3          21                      Saturday                           
+2094/7/4          22                      Sunday                             
+2094/7/5          23                      Monday                             
+2094/7/6          24                      Tuesday        Moderate Heat       
+2094/7/7          25                      Wednesday                          
+2094/7/8          26                      Thursday                           
+2094/7/9          27                      Friday                             
+2094/7/10         28                      Saturday                           
+2094/7/11         29                      Sunday                             
+2094/7/12         6th Lunar Month         Monday                             
+2094/7/13         2                       Tuesday                            
+2094/7/14         3                       Wednesday                          
+2094/7/15         4                       Thursday                           
+2094/7/16         5                       Friday                             
+2094/7/17         6                       Saturday                           
+2094/7/18         7                       Sunday                             
+2094/7/19         8                       Monday                             
+2094/7/20         9                       Tuesday                            
+2094/7/21         10                      Wednesday                          
+2094/7/22         11                      Thursday       Great Heat          
+2094/7/23         12                      Friday                             
+2094/7/24         13                      Saturday                           
+2094/7/25         14                      Sunday                             
+2094/7/26         15                      Monday                             
+2094/7/27         16                      Tuesday                            
+2094/7/28         17                      Wednesday                          
+2094/7/29         18                      Thursday                           
+2094/7/30         19                      Friday                             
+2094/7/31         20                      Saturday                           
+2094/8/1          21                      Sunday                             
+2094/8/2          22                      Monday                             
+2094/8/3          23                      Tuesday                            
+2094/8/4          24                      Wednesday                          
+2094/8/5          25                      Thursday                           
+2094/8/6          26                      Friday                             
+2094/8/7          27                      Saturday       Autumn Commences    
+2094/8/8          28                      Sunday                             
+2094/8/9          29                      Monday                             
+2094/8/10         30                      Tuesday                            
+2094/8/11         7th Lunar Month         Wednesday                          
+2094/8/12         2                       Thursday                           
+2094/8/13         3                       Friday                             
+2094/8/14         4                       Saturday                           
+2094/8/15         5                       Sunday                             
+2094/8/16         6                       Monday                             
+2094/8/17         7                       Tuesday                            
+2094/8/18         8                       Wednesday                          
+2094/8/19         9                       Thursday                           
+2094/8/20         10                      Friday                             
+2094/8/21         11                      Saturday                           
+2094/8/22         12                      Sunday         End of Heat         
+2094/8/23         13                      Monday                             
+2094/8/24         14                      Tuesday                            
+2094/8/25         15                      Wednesday                          
+2094/8/26         16                      Thursday                           
+2094/8/27         17                      Friday                             
+2094/8/28         18                      Saturday                           
+2094/8/29         19                      Sunday                             
+2094/8/30         20                      Monday                             
+2094/8/31         21                      Tuesday                            
+2094/9/1          22                      Wednesday                          
+2094/9/2          23                      Thursday                           
+2094/9/3          24                      Friday                             
+2094/9/4          25                      Saturday                           
+2094/9/5          26                      Sunday                             
+2094/9/6          27                      Monday                             
+2094/9/7          28                      Tuesday        White Dew           
+2094/9/8          29                      Wednesday                          
+2094/9/9          30                      Thursday                           
+2094/9/10         8th Lunar Month         Friday                             
+2094/9/11         2                       Saturday                           
+2094/9/12         3                       Sunday                             
+2094/9/13         4                       Monday                             
+2094/9/14         5                       Tuesday                            
+2094/9/15         6                       Wednesday                          
+2094/9/16         7                       Thursday                           
+2094/9/17         8                       Friday                             
+2094/9/18         9                       Saturday                           
+2094/9/19         10                      Sunday                             
+2094/9/20         11                      Monday                             
+2094/9/21         12                      Tuesday                            
+2094/9/22         13                      Wednesday      Autumnal Equinox    
+2094/9/23         14                      Thursday                           
+2094/9/24         15                      Friday                             
+2094/9/25         16                      Saturday                           
+2094/9/26         17                      Sunday                             
+2094/9/27         18                      Monday                             
+2094/9/28         19                      Tuesday                            
+2094/9/29         20                      Wednesday                          
+2094/9/30         21                      Thursday                           
+2094/10/1         22                      Friday                             
+2094/10/2         23                      Saturday                           
+2094/10/3         24                      Sunday                             
+2094/10/4         25                      Monday                             
+2094/10/5         26                      Tuesday                            
+2094/10/6         27                      Wednesday                          
+2094/10/7         28                      Thursday                           
+2094/10/8         29                      Friday         Cold Dew            
+2094/10/9         9th Lunar Month         Saturday                           
+2094/10/10        2                       Sunday                             
+2094/10/11        3                       Monday                             
+2094/10/12        4                       Tuesday                            
+2094/10/13        5                       Wednesday                          
+2094/10/14        6                       Thursday                           
+2094/10/15        7                       Friday                             
+2094/10/16        8                       Saturday                           
+2094/10/17        9                       Sunday                             
+2094/10/18        10                      Monday                             
+2094/10/19        11                      Tuesday                            
+2094/10/20        12                      Wednesday                          
+2094/10/21        13                      Thursday                           
+2094/10/22        14                      Friday                             
+2094/10/23        15                      Saturday       Frost               
+2094/10/24        16                      Sunday                             
+2094/10/25        17                      Monday                             
+2094/10/26        18                      Tuesday                            
+2094/10/27        19                      Wednesday                          
+2094/10/28        20                      Thursday                           
+2094/10/29        21                      Friday                             
+2094/10/30        22                      Saturday                           
+2094/10/31        23                      Sunday                             
+2094/11/1         24                      Monday                             
+2094/11/2         25                      Tuesday                            
+2094/11/3         26                      Wednesday                          
+2094/11/4         27                      Thursday                           
+2094/11/5         28                      Friday                             
+2094/11/6         29                      Saturday                           
+2094/11/7         30                      Sunday         Winter Commences    
+2094/11/8         10th Lunar Month        Monday                             
+2094/11/9         2                       Tuesday                            
+2094/11/10        3                       Wednesday                          
+2094/11/11        4                       Thursday                           
+2094/11/12        5                       Friday                             
+2094/11/13        6                       Saturday                           
+2094/11/14        7                       Sunday                             
+2094/11/15        8                       Monday                             
+2094/11/16        9                       Tuesday                            
+2094/11/17        10                      Wednesday                          
+2094/11/18        11                      Thursday                           
+2094/11/19        12                      Friday                             
+2094/11/20        13                      Saturday                           
+2094/11/21        14                      Sunday                             
+2094/11/22        15                      Monday         Light Snow          
+2094/11/23        16                      Tuesday                            
+2094/11/24        17                      Wednesday                          
+2094/11/25        18                      Thursday                           
+2094/11/26        19                      Friday                             
+2094/11/27        20                      Saturday                           
+2094/11/28        21                      Sunday                             
+2094/11/29        22                      Monday                             
+2094/11/30        23                      Tuesday                            
+2094/12/1         24                      Wednesday                          
+2094/12/2         25                      Thursday                           
+2094/12/3         26                      Friday                             
+2094/12/4         27                      Saturday                           
+2094/12/5         28                      Sunday                             
+2094/12/6         29                      Monday         Heavy Snow          
+2094/12/7         30                      Tuesday                            
+2094/12/8         11th Lunar Month        Wednesday                          
+2094/12/9         2                       Thursday                           
+2094/12/10        3                       Friday                             
+2094/12/11        4                       Saturday                           
+2094/12/12        5                       Sunday                             
+2094/12/13        6                       Monday                             
+2094/12/14        7                       Tuesday                            
+2094/12/15        8                       Wednesday                          
+2094/12/16        9                       Thursday                           
+2094/12/17        10                      Friday                             
+2094/12/18        11                      Saturday                           
+2094/12/19        12                      Sunday                             
+2094/12/20        13                      Monday                             
+2094/12/21        14                      Tuesday        Winter Solstice     
+2094/12/22        15                      Wednesday                          
+2094/12/23        16                      Thursday                           
+2094/12/24        17                      Friday                             
+2094/12/25        18                      Saturday                           
+2094/12/26        19                      Sunday                             
+2094/12/27        20                      Monday                             
+2094/12/28        21                      Tuesday                            
+2094/12/29        22                      Wednesday                          
+2094/12/30        23                      Thursday                           
+2094/12/31        24                      Friday                             

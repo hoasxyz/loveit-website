@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2055 (Yi-hai  -  year of the Pig)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2055/1/1          4                       Friday                             
+2055/1/2          5                       Saturday                           
+2055/1/3          6                       Sunday                             
+2055/1/4          7                       Monday                             
+2055/1/5          8                       Tuesday        Moderate Cold       
+2055/1/6          9                       Wednesday                          
+2055/1/7          10                      Thursday                           
+2055/1/8          11                      Friday                             
+2055/1/9          12                      Saturday                           
+2055/1/10         13                      Sunday                             
+2055/1/11         14                      Monday                             
+2055/1/12         15                      Tuesday                            
+2055/1/13         16                      Wednesday                          
+2055/1/14         17                      Thursday                           
+2055/1/15         18                      Friday                             
+2055/1/16         19                      Saturday                           
+2055/1/17         20                      Sunday                             
+2055/1/18         21                      Monday                             
+2055/1/19         22                      Tuesday                            
+2055/1/20         23                      Wednesday      Severe Cold         
+2055/1/21         24                      Thursday                           
+2055/1/22         25                      Friday                             
+2055/1/23         26                      Saturday                           
+2055/1/24         27                      Sunday                             
+2055/1/25         28                      Monday                             
+2055/1/26         29                      Tuesday                            
+2055/1/27         30                      Wednesday                          
+2055/1/28         1st Lunar Month         Thursday                           
+2055/1/29         2                       Friday                             
+2055/1/30         3                       Saturday                           
+2055/1/31         4                       Sunday                             
+2055/2/1          5                       Monday                             
+2055/2/2          6                       Tuesday                            
+2055/2/3          7                       Wednesday                          
+2055/2/4          8                       Thursday       Spring Commences    
+2055/2/5          9                       Friday                             
+2055/2/6          10                      Saturday                           
+2055/2/7          11                      Sunday                             
+2055/2/8          12                      Monday                             
+2055/2/9          13                      Tuesday                            
+2055/2/10         14                      Wednesday                          
+2055/2/11         15                      Thursday                           
+2055/2/12         16                      Friday                             
+2055/2/13         17                      Saturday                           
+2055/2/14         18                      Sunday                             
+2055/2/15         19                      Monday                             
+2055/2/16         20                      Tuesday                            
+2055/2/17         21                      Wednesday                          
+2055/2/18         22                      Thursday                           
+2055/2/19         23                      Friday         Spring Showers      
+2055/2/20         24                      Saturday                           
+2055/2/21         25                      Sunday                             
+2055/2/22         26                      Monday                             
+2055/2/23         27                      Tuesday                            
+2055/2/24         28                      Wednesday                          
+2055/2/25         29                      Thursday                           
+2055/2/26         2nd Lunar Month         Friday                             
+2055/2/27         2                       Saturday                           
+2055/2/28         3                       Sunday                             
+2055/3/1          4                       Monday                             
+2055/3/2          5                       Tuesday                            
+2055/3/3          6                       Wednesday                          
+2055/3/4          7                       Thursday                           
+2055/3/5          8                       Friday         Insects Waken       
+2055/3/6          9                       Saturday                           
+2055/3/7          10                      Sunday                             
+2055/3/8          11                      Monday                             
+2055/3/9          12                      Tuesday                            
+2055/3/10         13                      Wednesday                          
+2055/3/11         14                      Thursday                           
+2055/3/12         15                      Friday                             
+2055/3/13         16                      Saturday                           
+2055/3/14         17                      Sunday                             
+2055/3/15         18                      Monday                             
+2055/3/16         19                      Tuesday                            
+2055/3/17         20                      Wednesday                          
+2055/3/18         21                      Thursday                           
+2055/3/19         22                      Friday                             
+2055/3/20         23                      Saturday       Vernal Equinox      
+2055/3/21         24                      Sunday                             
+2055/3/22         25                      Monday                             
+2055/3/23         26                      Tuesday                            
+2055/3/24         27                      Wednesday                          
+2055/3/25         28                      Thursday                           
+2055/3/26         29                      Friday                             
+2055/3/27         30                      Saturday                           
+2055/3/28         3rd Lunar Month         Sunday                             
+2055/3/29         2                       Monday                             
+2055/3/30         3                       Tuesday                            
+2055/3/31         4                       Wednesday                          
+2055/4/1          5                       Thursday                           
+2055/4/2          6                       Friday                             
+2055/4/3          7                       Saturday                           
+2055/4/4          8                       Sunday                             
+2055/4/5          9                       Monday         Bright & Clear      
+2055/4/6          10                      Tuesday                            
+2055/4/7          11                      Wednesday                          
+2055/4/8          12                      Thursday                           
+2055/4/9          13                      Friday                             
+2055/4/10         14                      Saturday                           
+2055/4/11         15                      Sunday                             
+2055/4/12         16                      Monday                             
+2055/4/13         17                      Tuesday                            
+2055/4/14         18                      Wednesday                          
+2055/4/15         19                      Thursday                           
+2055/4/16         20                      Friday                             
+2055/4/17         21                      Saturday                           
+2055/4/18         22                      Sunday                             
+2055/4/19         23                      Monday                             
+2055/4/20         24                      Tuesday        Corn Rain           
+2055/4/21         25                      Wednesday                          
+2055/4/22         26                      Thursday                           
+2055/4/23         27                      Friday                             
+2055/4/24         28                      Saturday                           
+2055/4/25         29                      Sunday                             
+2055/4/26         30                      Monday                             
+2055/4/27         4th Lunar Month         Tuesday                            
+2055/4/28         2                       Wednesday                          
+2055/4/29         3                       Thursday                           
+2055/4/30         4                       Friday                             
+2055/5/1          5                       Saturday                           
+2055/5/2          6                       Sunday                             
+2055/5/3          7                       Monday                             
+2055/5/4          8                       Tuesday                            
+2055/5/5          9                       Wednesday      Summer Commences    
+2055/5/6          10                      Thursday                           
+2055/5/7          11                      Friday                             
+2055/5/8          12                      Saturday                           
+2055/5/9          13                      Sunday                             
+2055/5/10         14                      Monday                             
+2055/5/11         15                      Tuesday                            
+2055/5/12         16                      Wednesday                          
+2055/5/13         17                      Thursday                           
+2055/5/14         18                      Friday                             
+2055/5/15         19                      Saturday                           
+2055/5/16         20                      Sunday                             
+2055/5/17         21                      Monday                             
+2055/5/18         22                      Tuesday                            
+2055/5/19         23                      Wednesday                          
+2055/5/20         24                      Thursday                           
+2055/5/21         25                      Friday         Corn Forms          
+2055/5/22         26                      Saturday                           
+2055/5/23         27                      Sunday                             
+2055/5/24         28                      Monday                             
+2055/5/25         29                      Tuesday                            
+2055/5/26         5th Lunar Month         Wednesday                          
+2055/5/27         2                       Thursday                           
+2055/5/28         3                       Friday                             
+2055/5/29         4                       Saturday                           
+2055/5/30         5                       Sunday                             
+2055/5/31         6                       Monday                             
+2055/6/1          7                       Tuesday                            
+2055/6/2          8                       Wednesday                          
+2055/6/3          9                       Thursday                           
+2055/6/4          10                      Friday                             
+2055/6/5          11                      Saturday       Corn on Ear         
+2055/6/6          12                      Sunday                             
+2055/6/7          13                      Monday                             
+2055/6/8          14                      Tuesday                            
+2055/6/9          15                      Wednesday                          
+2055/6/10         16                      Thursday                           
+2055/6/11         17                      Friday                             
+2055/6/12         18                      Saturday                           
+2055/6/13         19                      Sunday                             
+2055/6/14         20                      Monday                             
+2055/6/15         21                      Tuesday                            
+2055/6/16         22                      Wednesday                          
+2055/6/17         23                      Thursday                           
+2055/6/18         24                      Friday                             
+2055/6/19         25                      Saturday                           
+2055/6/20         26                      Sunday                             
+2055/6/21         27                      Monday         Summer Solstice     
+2055/6/22         28                      Tuesday                            
+2055/6/23         29                      Wednesday                          
+2055/6/24         30                      Thursday                           
+2055/6/25         6th Lunar Month         Friday                             
+2055/6/26         2                       Saturday                           
+2055/6/27         3                       Sunday                             
+2055/6/28         4                       Monday                             
+2055/6/29         5                       Tuesday                            
+2055/6/30         6                       Wednesday                          
+2055/7/1          7                       Thursday                           
+2055/7/2          8                       Friday                             
+2055/7/3          9                       Saturday                           
+2055/7/4          10                      Sunday                             
+2055/7/5          11                      Monday                             
+2055/7/6          12                      Tuesday                            
+2055/7/7          13                      Wednesday      Moderate Heat       
+2055/7/8          14                      Thursday                           
+2055/7/9          15                      Friday                             
+2055/7/10         16                      Saturday                           
+2055/7/11         17                      Sunday                             
+2055/7/12         18                      Monday                             
+2055/7/13         19                      Tuesday                            
+2055/7/14         20                      Wednesday                          
+2055/7/15         21                      Thursday                           
+2055/7/16         22                      Friday                             
+2055/7/17         23                      Saturday                           
+2055/7/18         24                      Sunday                             
+2055/7/19         25                      Monday                             
+2055/7/20         26                      Tuesday                            
+2055/7/21         27                      Wednesday                          
+2055/7/22         28                      Thursday                           
+2055/7/23         29                      Friday         Great Heat          
+2055/7/24         6th Lunar Month         Saturday                           
+2055/7/25         2                       Sunday                             
+2055/7/26         3                       Monday                             
+2055/7/27         4                       Tuesday                            
+2055/7/28         5                       Wednesday                          
+2055/7/29         6                       Thursday                           
+2055/7/30         7                       Friday                             
+2055/7/31         8                       Saturday                           
+2055/8/1          9                       Sunday                             
+2055/8/2          10                      Monday                             
+2055/8/3          11                      Tuesday                            
+2055/8/4          12                      Wednesday                          
+2055/8/5          13                      Thursday                           
+2055/8/6          14                      Friday                             
+2055/8/7          15                      Saturday       Autumn Commences    
+2055/8/8          16                      Sunday                             
+2055/8/9          17                      Monday                             
+2055/8/10         18                      Tuesday                            
+2055/8/11         19                      Wednesday                          
+2055/8/12         20                      Thursday                           
+2055/8/13         21                      Friday                             
+2055/8/14         22                      Saturday                           
+2055/8/15         23                      Sunday                             
+2055/8/16         24                      Monday                             
+2055/8/17         25                      Tuesday                            
+2055/8/18         26                      Wednesday                          
+2055/8/19         27                      Thursday                           
+2055/8/20         28                      Friday                             
+2055/8/21         29                      Saturday                           
+2055/8/22         30                      Sunday                             
+2055/8/23         7th Lunar Month         Monday         End of Heat         
+2055/8/24         2                       Tuesday                            
+2055/8/25         3                       Wednesday                          
+2055/8/26         4                       Thursday                           
+2055/8/27         5                       Friday                             
+2055/8/28         6                       Saturday                           
+2055/8/29         7                       Sunday                             
+2055/8/30         8                       Monday                             
+2055/8/31         9                       Tuesday                            
+2055/9/1          10                      Wednesday                          
+2055/9/2          11                      Thursday                           
+2055/9/3          12                      Friday                             
+2055/9/4          13                      Saturday                           
+2055/9/5          14                      Sunday                             
+2055/9/6          15                      Monday                             
+2055/9/7          16                      Tuesday        White Dew           
+2055/9/8          17                      Wednesday                          
+2055/9/9          18                      Thursday                           
+2055/9/10         19                      Friday                             
+2055/9/11         20                      Saturday                           
+2055/9/12         21                      Sunday                             
+2055/9/13         22                      Monday                             
+2055/9/14         23                      Tuesday                            
+2055/9/15         24                      Wednesday                          
+2055/9/16         25                      Thursday                           
+2055/9/17         26                      Friday                             
+2055/9/18         27                      Saturday                           
+2055/9/19         28                      Sunday                             
+2055/9/20         29                      Monday                             
+2055/9/21         8th Lunar Month         Tuesday                            
+2055/9/22         2                       Wednesday                          
+2055/9/23         3                       Thursday       Autumnal Equinox    
+2055/9/24         4                       Friday                             
+2055/9/25         5                       Saturday                           
+2055/9/26         6                       Sunday                             
+2055/9/27         7                       Monday                             
+2055/9/28         8                       Tuesday                            
+2055/9/29         9                       Wednesday                          
+2055/9/30         10                      Thursday                           
+2055/10/1         11                      Friday                             
+2055/10/2         12                      Saturday                           
+2055/10/3         13                      Sunday                             
+2055/10/4         14                      Monday                             
+2055/10/5         15                      Tuesday                            
+2055/10/6         16                      Wednesday                          
+2055/10/7         17                      Thursday                           
+2055/10/8         18                      Friday         Cold Dew            
+2055/10/9         19                      Saturday                           
+2055/10/10        20                      Sunday                             
+2055/10/11        21                      Monday                             
+2055/10/12        22                      Tuesday                            
+2055/10/13        23                      Wednesday                          
+2055/10/14        24                      Thursday                           
+2055/10/15        25                      Friday                             
+2055/10/16        26                      Saturday                           
+2055/10/17        27                      Sunday                             
+2055/10/18        28                      Monday                             
+2055/10/19        29                      Tuesday                            
+2055/10/20        9th Lunar Month         Wednesday                          
+2055/10/21        2                       Thursday                           
+2055/10/22        3                       Friday                             
+2055/10/23        4                       Saturday       Frost               
+2055/10/24        5                       Sunday                             
+2055/10/25        6                       Monday                             
+2055/10/26        7                       Tuesday                            
+2055/10/27        8                       Wednesday                          
+2055/10/28        9                       Thursday                           
+2055/10/29        10                      Friday                             
+2055/10/30        11                      Saturday                           
+2055/10/31        12                      Sunday                             
+2055/11/1         13                      Monday                             
+2055/11/2         14                      Tuesday                            
+2055/11/3         15                      Wednesday                          
+2055/11/4         16                      Thursday                           
+2055/11/5         17                      Friday                             
+2055/11/6         18                      Saturday                           
+2055/11/7         19                      Sunday         Winter Commences    
+2055/11/8         20                      Monday                             
+2055/11/9         21                      Tuesday                            
+2055/11/10        22                      Wednesday                          
+2055/11/11        23                      Thursday                           
+2055/11/12        24                      Friday                             
+2055/11/13        25                      Saturday                           
+2055/11/14        26                      Sunday                             
+2055/11/15        27                      Monday                             
+2055/11/16        28                      Tuesday                            
+2055/11/17        29                      Wednesday                          
+2055/11/18        30                      Thursday                           
+2055/11/19        10th Lunar Month        Friday                             
+2055/11/20        2                       Saturday                           
+2055/11/21        3                       Sunday                             
+2055/11/22        4                       Monday         Light Snow          
+2055/11/23        5                       Tuesday                            
+2055/11/24        6                       Wednesday                          
+2055/11/25        7                       Thursday                           
+2055/11/26        8                       Friday                             
+2055/11/27        9                       Saturday                           
+2055/11/28        10                      Sunday                             
+2055/11/29        11                      Monday                             
+2055/11/30        12                      Tuesday                            
+2055/12/1         13                      Wednesday                          
+2055/12/2         14                      Thursday                           
+2055/12/3         15                      Friday                             
+2055/12/4         16                      Saturday                           
+2055/12/5         17                      Sunday                             
+2055/12/6         18                      Monday                             
+2055/12/7         19                      Tuesday        Heavy Snow          
+2055/12/8         20                      Wednesday                          
+2055/12/9         21                      Thursday                           
+2055/12/10        22                      Friday                             
+2055/12/11        23                      Saturday                           
+2055/12/12        24                      Sunday                             
+2055/12/13        25                      Monday                             
+2055/12/14        26                      Tuesday                            
+2055/12/15        27                      Wednesday                          
+2055/12/16        28                      Thursday                           
+2055/12/17        29                      Friday                             
+2055/12/18        11th Lunar Month        Saturday                           
+2055/12/19        2                       Sunday                             
+2055/12/20        3                       Monday                             
+2055/12/21        4                       Tuesday                            
+2055/12/22        5                       Wednesday      Winter Solstice     
+2055/12/23        6                       Thursday                           
+2055/12/24        7                       Friday                             
+2055/12/25        8                       Saturday                           
+2055/12/26        9                       Sunday                             
+2055/12/27        10                      Monday                             
+2055/12/28        11                      Tuesday                            
+2055/12/29        12                      Wednesday                          
+2055/12/30        13                      Thursday                           
+2055/12/31        14                      Friday                             

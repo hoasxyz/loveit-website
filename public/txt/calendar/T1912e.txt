@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1912 (Ren-zi ¡V year of the Mouse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1912/01/01     13                  Monday                             
+1912/01/02     14                  Tuesday                            
+1912/01/03     15                  Wednesday                          
+1912/01/04     16                  Thursday                           
+1912/01/05     17                  Friday                             
+1912/01/06     18                  Saturday                           
+1912/01/07     19                  Sunday         Moderate Cold       
+1912/01/08     20                  Monday                             
+1912/01/09     21                  Tuesday                            
+1912/01/10     22                  Wednesday                          
+1912/01/11     23                  Thursday                           
+1912/01/12     24                  Friday                             
+1912/01/13     25                  Saturday                           
+1912/01/14     26                  Sunday                             
+1912/01/15     27                  Monday                             
+1912/01/16     28                  Tuesday                            
+1912/01/17     29                  Wednesday                          
+1912/01/18     30                  Thursday                           
+1912/01/19     12th Lunar month    Friday                             
+1912/01/20     2                   Saturday                           
+1912/01/21     3                   Sunday         Severe Cold         
+1912/01/22     4                   Monday                             
+1912/01/23     5                   Tuesday                            
+1912/01/24     6                   Wednesday                          
+1912/01/25     7                   Thursday                           
+1912/01/26     8                   Friday                             
+1912/01/27     9                   Saturday                           
+1912/01/28     10                  Sunday                             
+1912/01/29     11                  Monday                             
+1912/01/30     12                  Tuesday                            
+1912/01/31     13                  Wednesday                          
+1912/02/01     14                  Thursday                           
+1912/02/02     15                  Friday                             
+1912/02/03     16                  Saturday                           
+1912/02/04     17                  Sunday                             
+1912/02/05     18                  Monday         Spring Commences    
+1912/02/06     19                  Tuesday                            
+1912/02/07     20                  Wednesday                          
+1912/02/08     21                  Thursday                           
+1912/02/09     22                  Friday                             
+1912/02/10     23                  Saturday                           
+1912/02/11     24                  Sunday                             
+1912/02/12     25                  Monday                             
+1912/02/13     26                  Tuesday                            
+1912/02/14     27                  Wednesday                          
+1912/02/15     28                  Thursday                           
+1912/02/16     29                  Friday                             
+1912/02/17     30                  Saturday                           
+1912/02/18     1st Lunar month     Sunday                             
+1912/02/19     2                   Monday                             
+1912/02/20     3                   Tuesday        Spring Showers      
+1912/02/21     4                   Wednesday                          
+1912/02/22     5                   Thursday                           
+1912/02/23     6                   Friday                             
+1912/02/24     7                   Saturday                           
+1912/02/25     8                   Sunday                             
+1912/02/26     9                   Monday                             
+1912/02/27     10                  Tuesday                            
+1912/02/28     11                  Wednesday                          
+1912/02/29     12                  Thursday                           
+1912/03/01     13                  Friday                             
+1912/03/02     14                  Saturday                           
+1912/03/03     15                  Sunday                             
+1912/03/04     16                  Monday                             
+1912/03/05     17                  Tuesday                            
+1912/03/06     18                  Wednesday      Insects Waken       
+1912/03/07     19                  Thursday                           
+1912/03/08     20                  Friday                             
+1912/03/09     21                  Saturday                           
+1912/03/10     22                  Sunday                             
+1912/03/11     23                  Monday                             
+1912/03/12     24                  Tuesday                            
+1912/03/13     25                  Wednesday                          
+1912/03/14     26                  Thursday                           
+1912/03/15     27                  Friday                             
+1912/03/16     28                  Saturday                           
+1912/03/17     29                  Sunday                             
+1912/03/18     30                  Monday                             
+1912/03/19     2nd Lunar month     Tuesday                            
+1912/03/20     2                   Wednesday                          
+1912/03/21     3                   Thursday       Vernal Equinox      
+1912/03/22     4                   Friday                             
+1912/03/23     5                   Saturday                           
+1912/03/24     6                   Sunday                             
+1912/03/25     7                   Monday                             
+1912/03/26     8                   Tuesday                            
+1912/03/27     9                   Wednesday                          
+1912/03/28     10                  Thursday                           
+1912/03/29     11                  Friday                             
+1912/03/30     12                  Saturday                           
+1912/03/31     13                  Sunday                             
+1912/04/01     14                  Monday                             
+1912/04/02     15                  Tuesday                            
+1912/04/03     16                  Wednesday                          
+1912/04/04     17                  Thursday                           
+1912/04/05     18                  Friday         Bright & Clear      
+1912/04/06     19                  Saturday                           
+1912/04/07     20                  Sunday                             
+1912/04/08     21                  Monday                             
+1912/04/09     22                  Tuesday                            
+1912/04/10     23                  Wednesday                          
+1912/04/11     24                  Thursday                           
+1912/04/12     25                  Friday                             
+1912/04/13     26                  Saturday                           
+1912/04/14     27                  Sunday                             
+1912/04/15     28                  Monday                             
+1912/04/16     29                  Tuesday                            
+1912/04/17     3rd Lunar month     Wednesday                          
+1912/04/18     2                   Thursday                           
+1912/04/19     3                   Friday                             
+1912/04/20     4                   Saturday       Corn Rain           
+1912/04/21     5                   Sunday                             
+1912/04/22     6                   Monday                             
+1912/04/23     7                   Tuesday                            
+1912/04/24     8                   Wednesday                          
+1912/04/25     9                   Thursday                           
+1912/04/26     10                  Friday                             
+1912/04/27     11                  Saturday                           
+1912/04/28     12                  Sunday                             
+1912/04/29     13                  Monday                             
+1912/04/30     14                  Tuesday                            
+1912/05/01     15                  Wednesday                          
+1912/05/02     16                  Thursday                           
+1912/05/03     17                  Friday                             
+1912/05/04     18                  Saturday                           
+1912/05/05     19                  Sunday                             
+1912/05/06     20                  Monday         Summer Commences    
+1912/05/07     21                  Tuesday                            
+1912/05/08     22                  Wednesday                          
+1912/05/09     23                  Thursday                           
+1912/05/10     24                  Friday                             
+1912/05/11     25                  Saturday                           
+1912/05/12     26                  Sunday                             
+1912/05/13     27                  Monday                             
+1912/05/14     28                  Tuesday                            
+1912/05/15     29                  Wednesday                          
+1912/05/16     30                  Thursday                           
+1912/05/17     4th Lunar month     Friday                             
+1912/05/18     2                   Saturday                           
+1912/05/19     3                   Sunday                             
+1912/05/20     4                   Monday                             
+1912/05/21     5                   Tuesday        Corn Forms          
+1912/05/22     6                   Wednesday                          
+1912/05/23     7                   Thursday                           
+1912/05/24     8                   Friday                             
+1912/05/25     9                   Saturday                           
+1912/05/26     10                  Sunday                             
+1912/05/27     11                  Monday                             
+1912/05/28     12                  Tuesday                            
+1912/05/29     13                  Wednesday                          
+1912/05/30     14                  Thursday                           
+1912/05/31     15                  Friday                             
+1912/06/01     16                  Saturday                           
+1912/06/02     17                  Sunday                             
+1912/06/03     18                  Monday                             
+1912/06/04     19                  Tuesday                            
+1912/06/05     20                  Wednesday                          
+1912/06/06     21                  Thursday       Corn on Ear         
+1912/06/07     22                  Friday                             
+1912/06/08     23                  Saturday                           
+1912/06/09     24                  Sunday                             
+1912/06/10     25                  Monday                             
+1912/06/11     26                  Tuesday                            
+1912/06/12     27                  Wednesday                          
+1912/06/13     28                  Thursday                           
+1912/06/14     29                  Friday                             
+1912/06/15     5th Lunar month     Saturday                           
+1912/06/16     2                   Sunday                             
+1912/06/17     3                   Monday                             
+1912/06/18     4                   Tuesday                            
+1912/06/19     5                   Wednesday                          
+1912/06/20     6                   Thursday                           
+1912/06/21     7                   Friday                             
+1912/06/22     8                   Saturday       Summer Solstice     
+1912/06/23     9                   Sunday                             
+1912/06/24     10                  Monday                             
+1912/06/25     11                  Tuesday                            
+1912/06/26     12                  Wednesday                          
+1912/06/27     13                  Thursday                           
+1912/06/28     14                  Friday                             
+1912/06/29     15                  Saturday                           
+1912/06/30     16                  Sunday                             
+1912/07/01     17                  Monday                             
+1912/07/02     18                  Tuesday                            
+1912/07/03     19                  Wednesday                          
+1912/07/04     20                  Thursday                           
+1912/07/05     21                  Friday                             
+1912/07/06     22                  Saturday                           
+1912/07/07     23                  Sunday         Moderate Heat       
+1912/07/08     24                  Monday                             
+1912/07/09     25                  Tuesday                            
+1912/07/10     26                  Wednesday                          
+1912/07/11     27                  Thursday                           
+1912/07/12     28                  Friday                             
+1912/07/13     29                  Saturday                           
+1912/07/14     6th Lunar month     Sunday                             
+1912/07/15     2                   Monday                             
+1912/07/16     3                   Tuesday                            
+1912/07/17     4                   Wednesday                          
+1912/07/18     5                   Thursday                           
+1912/07/19     6                   Friday                             
+1912/07/20     7                   Saturday                           
+1912/07/21     8                   Sunday                             
+1912/07/22     9                   Monday                             
+1912/07/23     10                  Tuesday        Great Heat          
+1912/07/24     11                  Wednesday                          
+1912/07/25     12                  Thursday                           
+1912/07/26     13                  Friday                             
+1912/07/27     14                  Saturday                           
+1912/07/28     15                  Sunday                             
+1912/07/29     16                  Monday                             
+1912/07/30     17                  Tuesday                            
+1912/07/31     18                  Wednesday                          
+1912/08/01     19                  Thursday                           
+1912/08/02     20                  Friday                             
+1912/08/03     21                  Saturday                           
+1912/08/04     22                  Sunday                             
+1912/08/05     23                  Monday                             
+1912/08/06     24                  Tuesday                            
+1912/08/07     25                  Wednesday                          
+1912/08/08     26                  Thursday       Autumn Commences    
+1912/08/09     27                  Friday                             
+1912/08/10     28                  Saturday                           
+1912/08/11     29                  Sunday                             
+1912/08/12     30                  Monday                             
+1912/08/13     7th Lunar month     Tuesday                            
+1912/08/14     2                   Wednesday                          
+1912/08/15     3                   Thursday                           
+1912/08/16     4                   Friday                             
+1912/08/17     5                   Saturday                           
+1912/08/18     6                   Sunday                             
+1912/08/19     7                   Monday                             
+1912/08/20     8                   Tuesday                            
+1912/08/21     9                   Wednesday                          
+1912/08/22     10                  Thursday                           
+1912/08/23     11                  Friday         End of Heat         
+1912/08/24     12                  Saturday                           
+1912/08/25     13                  Sunday                             
+1912/08/26     14                  Monday                             
+1912/08/27     15                  Tuesday                            
+1912/08/28     16                  Wednesday                          
+1912/08/29     17                  Thursday                           
+1912/08/30     18                  Friday                             
+1912/08/31     19                  Saturday                           
+1912/09/01     20                  Sunday                             
+1912/09/02     21                  Monday                             
+1912/09/03     22                  Tuesday                            
+1912/09/04     23                  Wednesday                          
+1912/09/05     24                  Thursday                           
+1912/09/06     25                  Friday                             
+1912/09/07     26                  Saturday                           
+1912/09/08     27                  Sunday         White Dew           
+1912/09/09     28                  Monday                             
+1912/09/10     29                  Tuesday                            
+1912/09/11     8th Lunar month     Wednesday                          
+1912/09/12     2                   Thursday                           
+1912/09/13     3                   Friday                             
+1912/09/14     4                   Saturday                           
+1912/09/15     5                   Sunday                             
+1912/09/16     6                   Monday                             
+1912/09/17     7                   Tuesday                            
+1912/09/18     8                   Wednesday                          
+1912/09/19     9                   Thursday                           
+1912/09/20     10                  Friday                             
+1912/09/21     11                  Saturday                           
+1912/09/22     12                  Sunday                             
+1912/09/23     13                  Monday         Autumnal Equinox    
+1912/09/24     14                  Tuesday                            
+1912/09/25     15                  Wednesday                          
+1912/09/26     16                  Thursday                           
+1912/09/27     17                  Friday                             
+1912/09/28     18                  Saturday                           
+1912/09/29     19                  Sunday                             
+1912/09/30     20                  Monday                             
+1912/10/01     21                  Tuesday                            
+1912/10/02     22                  Wednesday                          
+1912/10/03     23                  Thursday                           
+1912/10/04     24                  Friday                             
+1912/10/05     25                  Saturday                           
+1912/10/06     26                  Sunday                             
+1912/10/07     27                  Monday                             
+1912/10/08     28                  Tuesday                            
+1912/10/09     29                  Wednesday      Cold Dew            
+1912/10/10     9th Lunar month     Thursday                           
+1912/10/11     2                   Friday                             
+1912/10/12     3                   Saturday                           
+1912/10/13     4                   Sunday                             
+1912/10/14     5                   Monday                             
+1912/10/15     6                   Tuesday                            
+1912/10/16     7                   Wednesday                          
+1912/10/17     8                   Thursday                           
+1912/10/18     9                   Friday                             
+1912/10/19     10                  Saturday                           
+1912/10/20     11                  Sunday                             
+1912/10/21     12                  Monday                             
+1912/10/22     13                  Tuesday                            
+1912/10/23     14                  Wednesday                          
+1912/10/24     15                  Thursday       Frost               
+1912/10/25     16                  Friday                             
+1912/10/26     17                  Saturday                           
+1912/10/27     18                  Sunday                             
+1912/10/28     19                  Monday                             
+1912/10/29     20                  Tuesday                            
+1912/10/30     21                  Wednesday                          
+1912/10/31     22                  Thursday                           
+1912/11/01     23                  Friday                             
+1912/11/02     24                  Saturday                           
+1912/11/03     25                  Sunday                             
+1912/11/04     26                  Monday                             
+1912/11/05     27                  Tuesday                            
+1912/11/06     28                  Wednesday                          
+1912/11/07     29                  Thursday                           
+1912/11/08     30                  Friday         Winter Commences    
+1912/11/09     10th Lunar month    Saturday                           
+1912/11/10     2                   Sunday                             
+1912/11/11     3                   Monday                             
+1912/11/12     4                   Tuesday                            
+1912/11/13     5                   Wednesday                          
+1912/11/14     6                   Thursday                           
+1912/11/15     7                   Friday                             
+1912/11/16     8                   Saturday                           
+1912/11/17     9                   Sunday                             
+1912/11/18     10                  Monday                             
+1912/11/19     11                  Tuesday                            
+1912/11/20     12                  Wednesday                          
+1912/11/21     13                  Thursday                           
+1912/11/22     14                  Friday                             
+1912/11/23     15                  Saturday       Light Snow          
+1912/11/24     16                  Sunday                             
+1912/11/25     17                  Monday                             
+1912/11/26     18                  Tuesday                            
+1912/11/27     19                  Wednesday                          
+1912/11/28     20                  Thursday                           
+1912/11/29     21                  Friday                             
+1912/11/30     22                  Saturday                           
+1912/12/01     23                  Sunday                             
+1912/12/02     24                  Monday                             
+1912/12/03     25                  Tuesday                            
+1912/12/04     26                  Wednesday                          
+1912/12/05     27                  Thursday                           
+1912/12/06     28                  Friday                             
+1912/12/07     29                  Saturday       Heavy Snow          
+1912/12/08     30                  Sunday                             
+1912/12/09     11th Lunar month    Monday                             
+1912/12/10     2                   Tuesday                            
+1912/12/11     3                   Wednesday                          
+1912/12/12     4                   Thursday                           
+1912/12/13     5                   Friday                             
+1912/12/14     6                   Saturday                           
+1912/12/15     7                   Sunday                             
+1912/12/16     8                   Monday                             
+1912/12/17     9                   Tuesday                            
+1912/12/18     10                  Wednesday                          
+1912/12/19     11                  Thursday                           
+1912/12/20     12                  Friday                             
+1912/12/21     13                  Saturday                           
+1912/12/22     14                  Sunday         Winter Solstice     
+1912/12/23     15                  Monday                             
+1912/12/24     16                  Tuesday                            
+1912/12/25     17                  Wednesday                          
+1912/12/26     18                  Thursday                           
+1912/12/27     19                  Friday                             
+1912/12/28     20                  Saturday                           
+1912/12/29     21                  Sunday                             
+1912/12/30     22                  Monday                             
+1912/12/31     23                  Tuesday                            

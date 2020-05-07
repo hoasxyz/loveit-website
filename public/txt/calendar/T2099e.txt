@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2099 (Ji-wei  -  year of the Goat)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2099/1/1          11                      Thursday                           
+2099/1/2          12                      Friday                             
+2099/1/3          13                      Saturday                           
+2099/1/4          14                      Sunday                             
+2099/1/5          15                      Monday         Moderate Cold       
+2099/1/6          16                      Tuesday                            
+2099/1/7          17                      Wednesday                          
+2099/1/8          18                      Thursday                           
+2099/1/9          19                      Friday                             
+2099/1/10         20                      Saturday                           
+2099/1/11         21                      Sunday                             
+2099/1/12         22                      Monday                             
+2099/1/13         23                      Tuesday                            
+2099/1/14         24                      Wednesday                          
+2099/1/15         25                      Thursday                           
+2099/1/16         26                      Friday                             
+2099/1/17         27                      Saturday                           
+2099/1/18         28                      Sunday                             
+2099/1/19         29                      Monday                             
+2099/1/20         30                      Tuesday        Severe Cold         
+2099/1/21         1st Lunar Month         Wednesday                          
+2099/1/22         2                       Thursday                           
+2099/1/23         3                       Friday                             
+2099/1/24         4                       Saturday                           
+2099/1/25         5                       Sunday                             
+2099/1/26         6                       Monday                             
+2099/1/27         7                       Tuesday                            
+2099/1/28         8                       Wednesday                          
+2099/1/29         9                       Thursday                           
+2099/1/30         10                      Friday                             
+2099/1/31         11                      Saturday                           
+2099/2/1          12                      Sunday                             
+2099/2/2          13                      Monday                             
+2099/2/3          14                      Tuesday        Spring Commences    
+2099/2/4          15                      Wednesday                          
+2099/2/5          16                      Thursday                           
+2099/2/6          17                      Friday                             
+2099/2/7          18                      Saturday                           
+2099/2/8          19                      Sunday                             
+2099/2/9          20                      Monday                             
+2099/2/10         21                      Tuesday                            
+2099/2/11         22                      Wednesday                          
+2099/2/12         23                      Thursday                           
+2099/2/13         24                      Friday                             
+2099/2/14         25                      Saturday                           
+2099/2/15         26                      Sunday                             
+2099/2/16         27                      Monday                             
+2099/2/17         28                      Tuesday                            
+2099/2/18         29                      Wednesday      Spring Showers      
+2099/2/19         30                      Thursday                           
+2099/2/20         2nd Lunar Month         Friday                             
+2099/2/21         2                       Saturday                           
+2099/2/22         3                       Sunday                             
+2099/2/23         4                       Monday                             
+2099/2/24         5                       Tuesday                            
+2099/2/25         6                       Wednesday                          
+2099/2/26         7                       Thursday                           
+2099/2/27         8                       Friday                             
+2099/2/28         9                       Saturday                           
+2099/3/1          10                      Sunday                             
+2099/3/2          11                      Monday                             
+2099/3/3          12                      Tuesday                            
+2099/3/4          13                      Wednesday                          
+2099/3/5          14                      Thursday       Insects Waken       
+2099/3/6          15                      Friday                             
+2099/3/7          16                      Saturday                           
+2099/3/8          17                      Sunday                             
+2099/3/9          18                      Monday                             
+2099/3/10         19                      Tuesday                            
+2099/3/11         20                      Wednesday                          
+2099/3/12         21                      Thursday                           
+2099/3/13         22                      Friday                             
+2099/3/14         23                      Saturday                           
+2099/3/15         24                      Sunday                             
+2099/3/16         25                      Monday                             
+2099/3/17         26                      Tuesday                            
+2099/3/18         27                      Wednesday                          
+2099/3/19         28                      Thursday                           
+2099/3/20         29                      Friday         Vernal Equinox      
+2099/3/21         30                      Saturday                           
+2099/3/22         2nd Lunar Month         Sunday                             
+2099/3/23         2                       Monday                             
+2099/3/24         3                       Tuesday                            
+2099/3/25         4                       Wednesday                          
+2099/3/26         5                       Thursday                           
+2099/3/27         6                       Friday                             
+2099/3/28         7                       Saturday                           
+2099/3/29         8                       Sunday                             
+2099/3/30         9                       Monday                             
+2099/3/31         10                      Tuesday                            
+2099/4/1          11                      Wednesday                          
+2099/4/2          12                      Thursday                           
+2099/4/3          13                      Friday                             
+2099/4/4          14                      Saturday       Bright & Clear      
+2099/4/5          15                      Sunday                             
+2099/4/6          16                      Monday                             
+2099/4/7          17                      Tuesday                            
+2099/4/8          18                      Wednesday                          
+2099/4/9          19                      Thursday                           
+2099/4/10         20                      Friday                             
+2099/4/11         21                      Saturday                           
+2099/4/12         22                      Sunday                             
+2099/4/13         23                      Monday                             
+2099/4/14         24                      Tuesday                            
+2099/4/15         25                      Wednesday                          
+2099/4/16         26                      Thursday                           
+2099/4/17         27                      Friday                             
+2099/4/18         28                      Saturday                           
+2099/4/19         29                      Sunday                             
+2099/4/20         3rd Lunar Month         Monday         Corn Rain           
+2099/4/21         2                       Tuesday                            
+2099/4/22         3                       Wednesday                          
+2099/4/23         4                       Thursday                           
+2099/4/24         5                       Friday                             
+2099/4/25         6                       Saturday                           
+2099/4/26         7                       Sunday                             
+2099/4/27         8                       Monday                             
+2099/4/28         9                       Tuesday                            
+2099/4/29         10                      Wednesday                          
+2099/4/30         11                      Thursday                           
+2099/5/1          12                      Friday                             
+2099/5/2          13                      Saturday                           
+2099/5/3          14                      Sunday                             
+2099/5/4          15                      Monday                             
+2099/5/5          16                      Tuesday        Summer Commences    
+2099/5/6          17                      Wednesday                          
+2099/5/7          18                      Thursday                           
+2099/5/8          19                      Friday                             
+2099/5/9          20                      Saturday                           
+2099/5/10         21                      Sunday                             
+2099/5/11         22                      Monday                             
+2099/5/12         23                      Tuesday                            
+2099/5/13         24                      Wednesday                          
+2099/5/14         25                      Thursday                           
+2099/5/15         26                      Friday                             
+2099/5/16         27                      Saturday                           
+2099/5/17         28                      Sunday                             
+2099/5/18         29                      Monday                             
+2099/5/19         30                      Tuesday                            
+2099/5/20         4th Lunar Month         Wednesday                          
+2099/5/21         2                       Thursday       Corn Forms          
+2099/5/22         3                       Friday                             
+2099/5/23         4                       Saturday                           
+2099/5/24         5                       Sunday                             
+2099/5/25         6                       Monday                             
+2099/5/26         7                       Tuesday                            
+2099/5/27         8                       Wednesday                          
+2099/5/28         9                       Thursday                           
+2099/5/29         10                      Friday                             
+2099/5/30         11                      Saturday                           
+2099/5/31         12                      Sunday                             
+2099/6/1          13                      Monday                             
+2099/6/2          14                      Tuesday                            
+2099/6/3          15                      Wednesday                          
+2099/6/4          16                      Thursday                           
+2099/6/5          17                      Friday         Corn on Ear         
+2099/6/6          18                      Saturday                           
+2099/6/7          19                      Sunday                             
+2099/6/8          20                      Monday                             
+2099/6/9          21                      Tuesday                            
+2099/6/10         22                      Wednesday                          
+2099/6/11         23                      Thursday                           
+2099/6/12         24                      Friday                             
+2099/6/13         25                      Saturday                           
+2099/6/14         26                      Sunday                             
+2099/6/15         27                      Monday                             
+2099/6/16         28                      Tuesday                            
+2099/6/17         29                      Wednesday                          
+2099/6/18         30                      Thursday                           
+2099/6/19         5th Lunar Month         Friday                             
+2099/6/20         2                       Saturday                           
+2099/6/21         3                       Sunday         Summer Solstice     
+2099/6/22         4                       Monday                             
+2099/6/23         5                       Tuesday                            
+2099/6/24         6                       Wednesday                          
+2099/6/25         7                       Thursday                           
+2099/6/26         8                       Friday                             
+2099/6/27         9                       Saturday                           
+2099/6/28         10                      Sunday                             
+2099/6/29         11                      Monday                             
+2099/6/30         12                      Tuesday                            
+2099/7/1          13                      Wednesday                          
+2099/7/2          14                      Thursday                           
+2099/7/3          15                      Friday                             
+2099/7/4          16                      Saturday                           
+2099/7/5          17                      Sunday                             
+2099/7/6          18                      Monday                             
+2099/7/7          19                      Tuesday        Moderate Heat       
+2099/7/8          20                      Wednesday                          
+2099/7/9          21                      Thursday                           
+2099/7/10         22                      Friday                             
+2099/7/11         23                      Saturday                           
+2099/7/12         24                      Sunday                             
+2099/7/13         25                      Monday                             
+2099/7/14         26                      Tuesday                            
+2099/7/15         27                      Wednesday                          
+2099/7/16         28                      Thursday                           
+2099/7/17         29                      Friday                             
+2099/7/18         6th Lunar Month         Saturday                           
+2099/7/19         2                       Sunday                             
+2099/7/20         3                       Monday                             
+2099/7/21         4                       Tuesday                            
+2099/7/22         5                       Wednesday      Great Heat          
+2099/7/23         6                       Thursday                           
+2099/7/24         7                       Friday                             
+2099/7/25         8                       Saturday                           
+2099/7/26         9                       Sunday                             
+2099/7/27         10                      Monday                             
+2099/7/28         11                      Tuesday                            
+2099/7/29         12                      Wednesday                          
+2099/7/30         13                      Thursday                           
+2099/7/31         14                      Friday                             
+2099/8/1          15                      Saturday                           
+2099/8/2          16                      Sunday                             
+2099/8/3          17                      Monday                             
+2099/8/4          18                      Tuesday                            
+2099/8/5          19                      Wednesday                          
+2099/8/6          20                      Thursday                           
+2099/8/7          21                      Friday         Autumn Commences    
+2099/8/8          22                      Saturday                           
+2099/8/9          23                      Sunday                             
+2099/8/10         24                      Monday                             
+2099/8/11         25                      Tuesday                            
+2099/8/12         26                      Wednesday                          
+2099/8/13         27                      Thursday                           
+2099/8/14         28                      Friday                             
+2099/8/15         29                      Saturday                           
+2099/8/16         7th Lunar Month         Sunday                             
+2099/8/17         2                       Monday                             
+2099/8/18         3                       Tuesday                            
+2099/8/19         4                       Wednesday                          
+2099/8/20         5                       Thursday                           
+2099/8/21         6                       Friday                             
+2099/8/22         7                       Saturday                           
+2099/8/23         8                       Sunday         End of Heat         
+2099/8/24         9                       Monday                             
+2099/8/25         10                      Tuesday                            
+2099/8/26         11                      Wednesday                          
+2099/8/27         12                      Thursday                           
+2099/8/28         13                      Friday                             
+2099/8/29         14                      Saturday                           
+2099/8/30         15                      Sunday                             
+2099/8/31         16                      Monday                             
+2099/9/1          17                      Tuesday                            
+2099/9/2          18                      Wednesday                          
+2099/9/3          19                      Thursday                           
+2099/9/4          20                      Friday                             
+2099/9/5          21                      Saturday                           
+2099/9/6          22                      Sunday                             
+2099/9/7          23                      Monday         White Dew           
+2099/9/8          24                      Tuesday                            
+2099/9/9          25                      Wednesday                          
+2099/9/10         26                      Thursday                           
+2099/9/11         27                      Friday                             
+2099/9/12         28                      Saturday                           
+2099/9/13         29                      Sunday                             
+2099/9/14         30                      Monday                             
+2099/9/15         8th Lunar Month         Tuesday                            
+2099/9/16         2                       Wednesday                          
+2099/9/17         3                       Thursday                           
+2099/9/18         4                       Friday                             
+2099/9/19         5                       Saturday                           
+2099/9/20         6                       Sunday                             
+2099/9/21         7                       Monday                             
+2099/9/22         8                       Tuesday                            
+2099/9/23         9                       Wednesday      Autumnal Equinox    
+2099/9/24         10                      Thursday                           
+2099/9/25         11                      Friday                             
+2099/9/26         12                      Saturday                           
+2099/9/27         13                      Sunday                             
+2099/9/28         14                      Monday                             
+2099/9/29         15                      Tuesday                            
+2099/9/30         16                      Wednesday                          
+2099/10/1         17                      Thursday                           
+2099/10/2         18                      Friday                             
+2099/10/3         19                      Saturday                           
+2099/10/4         20                      Sunday                             
+2099/10/5         21                      Monday                             
+2099/10/6         22                      Tuesday                            
+2099/10/7         23                      Wednesday                          
+2099/10/8         24                      Thursday       Cold Dew            
+2099/10/9         25                      Friday                             
+2099/10/10        26                      Saturday                           
+2099/10/11        27                      Sunday                             
+2099/10/12        28                      Monday                             
+2099/10/13        29                      Tuesday                            
+2099/10/14        9th Lunar Month         Wednesday                          
+2099/10/15        2                       Thursday                           
+2099/10/16        3                       Friday                             
+2099/10/17        4                       Saturday                           
+2099/10/18        5                       Sunday                             
+2099/10/19        6                       Monday                             
+2099/10/20        7                       Tuesday                            
+2099/10/21        8                       Wednesday                          
+2099/10/22        9                       Thursday                           
+2099/10/23        10                      Friday         Frost               
+2099/10/24        11                      Saturday                           
+2099/10/25        12                      Sunday                             
+2099/10/26        13                      Monday                             
+2099/10/27        14                      Tuesday                            
+2099/10/28        15                      Wednesday                          
+2099/10/29        16                      Thursday                           
+2099/10/30        17                      Friday                             
+2099/10/31        18                      Saturday                           
+2099/11/1         19                      Sunday                             
+2099/11/2         20                      Monday                             
+2099/11/3         21                      Tuesday                            
+2099/11/4         22                      Wednesday                          
+2099/11/5         23                      Thursday                           
+2099/11/6         24                      Friday                             
+2099/11/7         25                      Saturday       Winter Commences    
+2099/11/8         26                      Sunday                             
+2099/11/9         27                      Monday                             
+2099/11/10        28                      Tuesday                            
+2099/11/11        29                      Wednesday                          
+2099/11/12        10th Lunar Month        Thursday                           
+2099/11/13        2                       Friday                             
+2099/11/14        3                       Saturday                           
+2099/11/15        4                       Sunday                             
+2099/11/16        5                       Monday                             
+2099/11/17        6                       Tuesday                            
+2099/11/18        7                       Wednesday                          
+2099/11/19        8                       Thursday                           
+2099/11/20        9                       Friday                             
+2099/11/21        10                      Saturday                           
+2099/11/22        11                      Sunday         Light Snow          
+2099/11/23        12                      Monday                             
+2099/11/24        13                      Tuesday                            
+2099/11/25        14                      Wednesday                          
+2099/11/26        15                      Thursday                           
+2099/11/27        16                      Friday                             
+2099/11/28        17                      Saturday                           
+2099/11/29        18                      Sunday                             
+2099/11/30        19                      Monday                             
+2099/12/1         20                      Tuesday                            
+2099/12/2         21                      Wednesday                          
+2099/12/3         22                      Thursday                           
+2099/12/4         23                      Friday                             
+2099/12/5         24                      Saturday                           
+2099/12/6         25                      Sunday                             
+2099/12/7         26                      Monday         Heavy Snow          
+2099/12/8         27                      Tuesday                            
+2099/12/9         28                      Wednesday                          
+2099/12/10        29                      Thursday                           
+2099/12/11        30                      Friday                             
+2099/12/12        11th Lunar Month        Saturday                           
+2099/12/13        2                       Sunday                             
+2099/12/14        3                       Monday                             
+2099/12/15        4                       Tuesday                            
+2099/12/16        5                       Wednesday                          
+2099/12/17        6                       Thursday                           
+2099/12/18        7                       Friday                             
+2099/12/19        8                       Saturday                           
+2099/12/20        9                       Sunday                             
+2099/12/21        10                      Monday         Winter Solstice     
+2099/12/22        11                      Tuesday                            
+2099/12/23        12                      Wednesday                          
+2099/12/24        13                      Thursday                           
+2099/12/25        14                      Friday                             
+2099/12/26        15                      Saturday                           
+2099/12/27        16                      Sunday                             
+2099/12/28        17                      Monday                             
+2099/12/29        18                      Tuesday                            
+2099/12/30        19                      Wednesday                          
+2099/12/31        20                      Thursday                           

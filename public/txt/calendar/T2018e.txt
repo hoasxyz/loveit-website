@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2018 (Wu-xu  -  year of the Dog)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2018/1/1          15                      Monday                             
+2018/1/2          16                      Tuesday                            
+2018/1/3          17                      Wednesday                          
+2018/1/4          18                      Thursday                           
+2018/1/5          19                      Friday         Moderate Cold       
+2018/1/6          20                      Saturday                           
+2018/1/7          21                      Sunday                             
+2018/1/8          22                      Monday                             
+2018/1/9          23                      Tuesday                            
+2018/1/10         24                      Wednesday                          
+2018/1/11         25                      Thursday                           
+2018/1/12         26                      Friday                             
+2018/1/13         27                      Saturday                           
+2018/1/14         28                      Sunday                             
+2018/1/15         29                      Monday                             
+2018/1/16         30                      Tuesday                            
+2018/1/17         12th Lunar Month        Wednesday                          
+2018/1/18         2                       Thursday                           
+2018/1/19         3                       Friday                             
+2018/1/20         4                       Saturday       Severe Cold         
+2018/1/21         5                       Sunday                             
+2018/1/22         6                       Monday                             
+2018/1/23         7                       Tuesday                            
+2018/1/24         8                       Wednesday                          
+2018/1/25         9                       Thursday                           
+2018/1/26         10                      Friday                             
+2018/1/27         11                      Saturday                           
+2018/1/28         12                      Sunday                             
+2018/1/29         13                      Monday                             
+2018/1/30         14                      Tuesday                            
+2018/1/31         15                      Wednesday                          
+2018/2/1          16                      Thursday                           
+2018/2/2          17                      Friday                             
+2018/2/3          18                      Saturday                           
+2018/2/4          19                      Sunday         Spring Commences    
+2018/2/5          20                      Monday                             
+2018/2/6          21                      Tuesday                            
+2018/2/7          22                      Wednesday                          
+2018/2/8          23                      Thursday                           
+2018/2/9          24                      Friday                             
+2018/2/10         25                      Saturday                           
+2018/2/11         26                      Sunday                             
+2018/2/12         27                      Monday                             
+2018/2/13         28                      Tuesday                            
+2018/2/14         29                      Wednesday                          
+2018/2/15         30                      Thursday                           
+2018/2/16         1st Lunar Month         Friday                             
+2018/2/17         2                       Saturday                           
+2018/2/18         3                       Sunday                             
+2018/2/19         4                       Monday         Spring Showers      
+2018/2/20         5                       Tuesday                            
+2018/2/21         6                       Wednesday                          
+2018/2/22         7                       Thursday                           
+2018/2/23         8                       Friday                             
+2018/2/24         9                       Saturday                           
+2018/2/25         10                      Sunday                             
+2018/2/26         11                      Monday                             
+2018/2/27         12                      Tuesday                            
+2018/2/28         13                      Wednesday                          
+2018/3/1          14                      Thursday                           
+2018/3/2          15                      Friday                             
+2018/3/3          16                      Saturday                           
+2018/3/4          17                      Sunday                             
+2018/3/5          18                      Monday         Insects Waken       
+2018/3/6          19                      Tuesday                            
+2018/3/7          20                      Wednesday                          
+2018/3/8          21                      Thursday                           
+2018/3/9          22                      Friday                             
+2018/3/10         23                      Saturday                           
+2018/3/11         24                      Sunday                             
+2018/3/12         25                      Monday                             
+2018/3/13         26                      Tuesday                            
+2018/3/14         27                      Wednesday                          
+2018/3/15         28                      Thursday                           
+2018/3/16         29                      Friday                             
+2018/3/17         2nd Lunar Month         Saturday                           
+2018/3/18         2                       Sunday                             
+2018/3/19         3                       Monday                             
+2018/3/20         4                       Tuesday                            
+2018/3/21         5                       Wednesday      Vernal Equinox      
+2018/3/22         6                       Thursday                           
+2018/3/23         7                       Friday                             
+2018/3/24         8                       Saturday                           
+2018/3/25         9                       Sunday                             
+2018/3/26         10                      Monday                             
+2018/3/27         11                      Tuesday                            
+2018/3/28         12                      Wednesday                          
+2018/3/29         13                      Thursday                           
+2018/3/30         14                      Friday                             
+2018/3/31         15                      Saturday                           
+2018/4/1          16                      Sunday                             
+2018/4/2          17                      Monday                             
+2018/4/3          18                      Tuesday                            
+2018/4/4          19                      Wednesday                          
+2018/4/5          20                      Thursday       Bright & Clear      
+2018/4/6          21                      Friday                             
+2018/4/7          22                      Saturday                           
+2018/4/8          23                      Sunday                             
+2018/4/9          24                      Monday                             
+2018/4/10         25                      Tuesday                            
+2018/4/11         26                      Wednesday                          
+2018/4/12         27                      Thursday                           
+2018/4/13         28                      Friday                             
+2018/4/14         29                      Saturday                           
+2018/4/15         30                      Sunday                             
+2018/4/16         3rd Lunar Month         Monday                             
+2018/4/17         2                       Tuesday                            
+2018/4/18         3                       Wednesday                          
+2018/4/19         4                       Thursday                           
+2018/4/20         5                       Friday         Corn Rain           
+2018/4/21         6                       Saturday                           
+2018/4/22         7                       Sunday                             
+2018/4/23         8                       Monday                             
+2018/4/24         9                       Tuesday                            
+2018/4/25         10                      Wednesday                          
+2018/4/26         11                      Thursday                           
+2018/4/27         12                      Friday                             
+2018/4/28         13                      Saturday                           
+2018/4/29         14                      Sunday                             
+2018/4/30         15                      Monday                             
+2018/5/1          16                      Tuesday                            
+2018/5/2          17                      Wednesday                          
+2018/5/3          18                      Thursday                           
+2018/5/4          19                      Friday                             
+2018/5/5          20                      Saturday       Summer Commences    
+2018/5/6          21                      Sunday                             
+2018/5/7          22                      Monday                             
+2018/5/8          23                      Tuesday                            
+2018/5/9          24                      Wednesday                          
+2018/5/10         25                      Thursday                           
+2018/5/11         26                      Friday                             
+2018/5/12         27                      Saturday                           
+2018/5/13         28                      Sunday                             
+2018/5/14         29                      Monday                             
+2018/5/15         4th Lunar Month         Tuesday                            
+2018/5/16         2                       Wednesday                          
+2018/5/17         3                       Thursday                           
+2018/5/18         4                       Friday                             
+2018/5/19         5                       Saturday                           
+2018/5/20         6                       Sunday                             
+2018/5/21         7                       Monday         Corn Forms          
+2018/5/22         8                       Tuesday                            
+2018/5/23         9                       Wednesday                          
+2018/5/24         10                      Thursday                           
+2018/5/25         11                      Friday                             
+2018/5/26         12                      Saturday                           
+2018/5/27         13                      Sunday                             
+2018/5/28         14                      Monday                             
+2018/5/29         15                      Tuesday                            
+2018/5/30         16                      Wednesday                          
+2018/5/31         17                      Thursday                           
+2018/6/1          18                      Friday                             
+2018/6/2          19                      Saturday                           
+2018/6/3          20                      Sunday                             
+2018/6/4          21                      Monday                             
+2018/6/5          22                      Tuesday                            
+2018/6/6          23                      Wednesday      Corn on Ear         
+2018/6/7          24                      Thursday                           
+2018/6/8          25                      Friday                             
+2018/6/9          26                      Saturday                           
+2018/6/10         27                      Sunday                             
+2018/6/11         28                      Monday                             
+2018/6/12         29                      Tuesday                            
+2018/6/13         30                      Wednesday                          
+2018/6/14         5th Lunar Month         Thursday                           
+2018/6/15         2                       Friday                             
+2018/6/16         3                       Saturday                           
+2018/6/17         4                       Sunday                             
+2018/6/18         5                       Monday                             
+2018/6/19         6                       Tuesday                            
+2018/6/20         7                       Wednesday                          
+2018/6/21         8                       Thursday       Summer Solstice     
+2018/6/22         9                       Friday                             
+2018/6/23         10                      Saturday                           
+2018/6/24         11                      Sunday                             
+2018/6/25         12                      Monday                             
+2018/6/26         13                      Tuesday                            
+2018/6/27         14                      Wednesday                          
+2018/6/28         15                      Thursday                           
+2018/6/29         16                      Friday                             
+2018/6/30         17                      Saturday                           
+2018/7/1          18                      Sunday                             
+2018/7/2          19                      Monday                             
+2018/7/3          20                      Tuesday                            
+2018/7/4          21                      Wednesday                          
+2018/7/5          22                      Thursday                           
+2018/7/6          23                      Friday                             
+2018/7/7          24                      Saturday       Moderate Heat       
+2018/7/8          25                      Sunday                             
+2018/7/9          26                      Monday                             
+2018/7/10         27                      Tuesday                            
+2018/7/11         28                      Wednesday                          
+2018/7/12         29                      Thursday                           
+2018/7/13         6th Lunar Month         Friday                             
+2018/7/14         2                       Saturday                           
+2018/7/15         3                       Sunday                             
+2018/7/16         4                       Monday                             
+2018/7/17         5                       Tuesday                            
+2018/7/18         6                       Wednesday                          
+2018/7/19         7                       Thursday                           
+2018/7/20         8                       Friday                             
+2018/7/21         9                       Saturday                           
+2018/7/22         10                      Sunday                             
+2018/7/23         11                      Monday         Great Heat          
+2018/7/24         12                      Tuesday                            
+2018/7/25         13                      Wednesday                          
+2018/7/26         14                      Thursday                           
+2018/7/27         15                      Friday                             
+2018/7/28         16                      Saturday                           
+2018/7/29         17                      Sunday                             
+2018/7/30         18                      Monday                             
+2018/7/31         19                      Tuesday                            
+2018/8/1          20                      Wednesday                          
+2018/8/2          21                      Thursday                           
+2018/8/3          22                      Friday                             
+2018/8/4          23                      Saturday                           
+2018/8/5          24                      Sunday                             
+2018/8/6          25                      Monday                             
+2018/8/7          26                      Tuesday        Autumn Commences    
+2018/8/8          27                      Wednesday                          
+2018/8/9          28                      Thursday                           
+2018/8/10         29                      Friday                             
+2018/8/11         7th Lunar Month         Saturday                           
+2018/8/12         2                       Sunday                             
+2018/8/13         3                       Monday                             
+2018/8/14         4                       Tuesday                            
+2018/8/15         5                       Wednesday                          
+2018/8/16         6                       Thursday                           
+2018/8/17         7                       Friday                             
+2018/8/18         8                       Saturday                           
+2018/8/19         9                       Sunday                             
+2018/8/20         10                      Monday                             
+2018/8/21         11                      Tuesday                            
+2018/8/22         12                      Wednesday                          
+2018/8/23         13                      Thursday       End of Heat         
+2018/8/24         14                      Friday                             
+2018/8/25         15                      Saturday                           
+2018/8/26         16                      Sunday                             
+2018/8/27         17                      Monday                             
+2018/8/28         18                      Tuesday                            
+2018/8/29         19                      Wednesday                          
+2018/8/30         20                      Thursday                           
+2018/8/31         21                      Friday                             
+2018/9/1          22                      Saturday                           
+2018/9/2          23                      Sunday                             
+2018/9/3          24                      Monday                             
+2018/9/4          25                      Tuesday                            
+2018/9/5          26                      Wednesday                          
+2018/9/6          27                      Thursday                           
+2018/9/7          28                      Friday                             
+2018/9/8          29                      Saturday       White Dew           
+2018/9/9          30                      Sunday                             
+2018/9/10         8th Lunar Month         Monday                             
+2018/9/11         2                       Tuesday                            
+2018/9/12         3                       Wednesday                          
+2018/9/13         4                       Thursday                           
+2018/9/14         5                       Friday                             
+2018/9/15         6                       Saturday                           
+2018/9/16         7                       Sunday                             
+2018/9/17         8                       Monday                             
+2018/9/18         9                       Tuesday                            
+2018/9/19         10                      Wednesday                          
+2018/9/20         11                      Thursday                           
+2018/9/21         12                      Friday                             
+2018/9/22         13                      Saturday                           
+2018/9/23         14                      Sunday         Autumnal Equinox    
+2018/9/24         15                      Monday                             
+2018/9/25         16                      Tuesday                            
+2018/9/26         17                      Wednesday                          
+2018/9/27         18                      Thursday                           
+2018/9/28         19                      Friday                             
+2018/9/29         20                      Saturday                           
+2018/9/30         21                      Sunday                             
+2018/10/1         22                      Monday                             
+2018/10/2         23                      Tuesday                            
+2018/10/3         24                      Wednesday                          
+2018/10/4         25                      Thursday                           
+2018/10/5         26                      Friday                             
+2018/10/6         27                      Saturday                           
+2018/10/7         28                      Sunday                             
+2018/10/8         29                      Monday         Cold Dew            
+2018/10/9         9th Lunar Month         Tuesday                            
+2018/10/10        2                       Wednesday                          
+2018/10/11        3                       Thursday                           
+2018/10/12        4                       Friday                             
+2018/10/13        5                       Saturday                           
+2018/10/14        6                       Sunday                             
+2018/10/15        7                       Monday                             
+2018/10/16        8                       Tuesday                            
+2018/10/17        9                       Wednesday                          
+2018/10/18        10                      Thursday                           
+2018/10/19        11                      Friday                             
+2018/10/20        12                      Saturday                           
+2018/10/21        13                      Sunday                             
+2018/10/22        14                      Monday                             
+2018/10/23        15                      Tuesday        Frost               
+2018/10/24        16                      Wednesday                          
+2018/10/25        17                      Thursday                           
+2018/10/26        18                      Friday                             
+2018/10/27        19                      Saturday                           
+2018/10/28        20                      Sunday                             
+2018/10/29        21                      Monday                             
+2018/10/30        22                      Tuesday                            
+2018/10/31        23                      Wednesday                          
+2018/11/1         24                      Thursday                           
+2018/11/2         25                      Friday                             
+2018/11/3         26                      Saturday                           
+2018/11/4         27                      Sunday                             
+2018/11/5         28                      Monday                             
+2018/11/6         29                      Tuesday                            
+2018/11/7         30                      Wednesday      Winter Commences    
+2018/11/8         10th Lunar Month        Thursday                           
+2018/11/9         2                       Friday                             
+2018/11/10        3                       Saturday                           
+2018/11/11        4                       Sunday                             
+2018/11/12        5                       Monday                             
+2018/11/13        6                       Tuesday                            
+2018/11/14        7                       Wednesday                          
+2018/11/15        8                       Thursday                           
+2018/11/16        9                       Friday                             
+2018/11/17        10                      Saturday                           
+2018/11/18        11                      Sunday                             
+2018/11/19        12                      Monday                             
+2018/11/20        13                      Tuesday                            
+2018/11/21        14                      Wednesday                          
+2018/11/22        15                      Thursday       Light Snow          
+2018/11/23        16                      Friday                             
+2018/11/24        17                      Saturday                           
+2018/11/25        18                      Sunday                             
+2018/11/26        19                      Monday                             
+2018/11/27        20                      Tuesday                            
+2018/11/28        21                      Wednesday                          
+2018/11/29        22                      Thursday                           
+2018/11/30        23                      Friday                             
+2018/12/1         24                      Saturday                           
+2018/12/2         25                      Sunday                             
+2018/12/3         26                      Monday                             
+2018/12/4         27                      Tuesday                            
+2018/12/5         28                      Wednesday                          
+2018/12/6         29                      Thursday                           
+2018/12/7         11th Lunar Month        Friday         Heavy Snow          
+2018/12/8         2                       Saturday                           
+2018/12/9         3                       Sunday                             
+2018/12/10        4                       Monday                             
+2018/12/11        5                       Tuesday                            
+2018/12/12        6                       Wednesday                          
+2018/12/13        7                       Thursday                           
+2018/12/14        8                       Friday                             
+2018/12/15        9                       Saturday                           
+2018/12/16        10                      Sunday                             
+2018/12/17        11                      Monday                             
+2018/12/18        12                      Tuesday                            
+2018/12/19        13                      Wednesday                          
+2018/12/20        14                      Thursday                           
+2018/12/21        15                      Friday                             
+2018/12/22        16                      Saturday       Winter Solstice     
+2018/12/23        17                      Sunday                             
+2018/12/24        18                      Monday                             
+2018/12/25        19                      Tuesday                            
+2018/12/26        20                      Wednesday                          
+2018/12/27        21                      Thursday                           
+2018/12/28        22                      Friday                             
+2018/12/29        23                      Saturday                           
+2018/12/30        24                      Sunday                             
+2018/12/31        25                      Monday                             

@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1980 (Geng-shen ¡V year of the Monkey)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1980/01/01     14                  Tuesday                            
+1980/01/02     15                  Wednesday                          
+1980/01/03     16                  Thursday                           
+1980/01/04     17                  Friday                             
+1980/01/05     18                  Saturday                           
+1980/01/06     19                  Sunday         Moderate Cold       
+1980/01/07     20                  Monday                             
+1980/01/08     21                  Tuesday                            
+1980/01/09     22                  Wednesday                          
+1980/01/10     23                  Thursday                           
+1980/01/11     24                  Friday                             
+1980/01/12     25                  Saturday                           
+1980/01/13     26                  Sunday                             
+1980/01/14     27                  Monday                             
+1980/01/15     28                  Tuesday                            
+1980/01/16     29                  Wednesday                          
+1980/01/17     30                  Thursday                           
+1980/01/18     12th Lunar month    Friday                             
+1980/01/19     2                   Saturday                           
+1980/01/20     3                   Sunday                             
+1980/01/21     4                   Monday         Severe Cold         
+1980/01/22     5                   Tuesday                            
+1980/01/23     6                   Wednesday                          
+1980/01/24     7                   Thursday                           
+1980/01/25     8                   Friday                             
+1980/01/26     9                   Saturday                           
+1980/01/27     10                  Sunday                             
+1980/01/28     11                  Monday                             
+1980/01/29     12                  Tuesday                            
+1980/01/30     13                  Wednesday                          
+1980/01/31     14                  Thursday                           
+1980/02/01     15                  Friday                             
+1980/02/02     16                  Saturday                           
+1980/02/03     17                  Sunday                             
+1980/02/04     18                  Monday                             
+1980/02/05     19                  Tuesday        Spring Commences    
+1980/02/06     20                  Wednesday                          
+1980/02/07     21                  Thursday                           
+1980/02/08     22                  Friday                             
+1980/02/09     23                  Saturday                           
+1980/02/10     24                  Sunday                             
+1980/02/11     25                  Monday                             
+1980/02/12     26                  Tuesday                            
+1980/02/13     27                  Wednesday                          
+1980/02/14     28                  Thursday                           
+1980/02/15     29                  Friday                             
+1980/02/16     1st Lunar month     Saturday                           
+1980/02/17     2                   Sunday                             
+1980/02/18     3                   Monday                             
+1980/02/19     4                   Tuesday        Spring Showers      
+1980/02/20     5                   Wednesday                          
+1980/02/21     6                   Thursday                           
+1980/02/22     7                   Friday                             
+1980/02/23     8                   Saturday                           
+1980/02/24     9                   Sunday                             
+1980/02/25     10                  Monday                             
+1980/02/26     11                  Tuesday                            
+1980/02/27     12                  Wednesday                          
+1980/02/28     13                  Thursday                           
+1980/02/29     14                  Friday                             
+1980/03/01     15                  Saturday                           
+1980/03/02     16                  Sunday                             
+1980/03/03     17                  Monday                             
+1980/03/04     18                  Tuesday                            
+1980/03/05     19                  Wednesday      Insects Waken       
+1980/03/06     20                  Thursday                           
+1980/03/07     21                  Friday                             
+1980/03/08     22                  Saturday                           
+1980/03/09     23                  Sunday                             
+1980/03/10     24                  Monday                             
+1980/03/11     25                  Tuesday                            
+1980/03/12     26                  Wednesday                          
+1980/03/13     27                  Thursday                           
+1980/03/14     28                  Friday                             
+1980/03/15     29                  Saturday                           
+1980/03/16     30                  Sunday                             
+1980/03/17     2nd Lunar month     Monday                             
+1980/03/18     2                   Tuesday                            
+1980/03/19     3                   Wednesday                          
+1980/03/20     4                   Thursday       Vernal Equinox      
+1980/03/21     5                   Friday                             
+1980/03/22     6                   Saturday                           
+1980/03/23     7                   Sunday                             
+1980/03/24     8                   Monday                             
+1980/03/25     9                   Tuesday                            
+1980/03/26     10                  Wednesday                          
+1980/03/27     11                  Thursday                           
+1980/03/28     12                  Friday                             
+1980/03/29     13                  Saturday                           
+1980/03/30     14                  Sunday                             
+1980/03/31     15                  Monday                             
+1980/04/01     16                  Tuesday                            
+1980/04/02     17                  Wednesday                          
+1980/04/03     18                  Thursday                           
+1980/04/04     19                  Friday         Bright & Clear      
+1980/04/05     20                  Saturday                           
+1980/04/06     21                  Sunday                             
+1980/04/07     22                  Monday                             
+1980/04/08     23                  Tuesday                            
+1980/04/09     24                  Wednesday                          
+1980/04/10     25                  Thursday                           
+1980/04/11     26                  Friday                             
+1980/04/12     27                  Saturday                           
+1980/04/13     28                  Sunday                             
+1980/04/14     29                  Monday                             
+1980/04/15     3rd Lunar month     Tuesday                            
+1980/04/16     2                   Wednesday                          
+1980/04/17     3                   Thursday                           
+1980/04/18     4                   Friday                             
+1980/04/19     5                   Saturday                           
+1980/04/20     6                   Sunday         Corn Rain           
+1980/04/21     7                   Monday                             
+1980/04/22     8                   Tuesday                            
+1980/04/23     9                   Wednesday                          
+1980/04/24     10                  Thursday                           
+1980/04/25     11                  Friday                             
+1980/04/26     12                  Saturday                           
+1980/04/27     13                  Sunday                             
+1980/04/28     14                  Monday                             
+1980/04/29     15                  Tuesday                            
+1980/04/30     16                  Wednesday                          
+1980/05/01     17                  Thursday                           
+1980/05/02     18                  Friday                             
+1980/05/03     19                  Saturday                           
+1980/05/04     20                  Sunday                             
+1980/05/05     21                  Monday         Summer Commences    
+1980/05/06     22                  Tuesday                            
+1980/05/07     23                  Wednesday                          
+1980/05/08     24                  Thursday                           
+1980/05/09     25                  Friday                             
+1980/05/10     26                  Saturday                           
+1980/05/11     27                  Sunday                             
+1980/05/12     28                  Monday                             
+1980/05/13     29                  Tuesday                            
+1980/05/14     4th Lunar month     Wednesday                          
+1980/05/15     2                   Thursday                           
+1980/05/16     3                   Friday                             
+1980/05/17     4                   Saturday                           
+1980/05/18     5                   Sunday                             
+1980/05/19     6                   Monday                             
+1980/05/20     7                   Tuesday                            
+1980/05/21     8                   Wednesday      Corn Forms          
+1980/05/22     9                   Thursday                           
+1980/05/23     10                  Friday                             
+1980/05/24     11                  Saturday                           
+1980/05/25     12                  Sunday                             
+1980/05/26     13                  Monday                             
+1980/05/27     14                  Tuesday                            
+1980/05/28     15                  Wednesday                          
+1980/05/29     16                  Thursday                           
+1980/05/30     17                  Friday                             
+1980/05/31     18                  Saturday                           
+1980/06/01     19                  Sunday                             
+1980/06/02     20                  Monday                             
+1980/06/03     21                  Tuesday                            
+1980/06/04     22                  Wednesday                          
+1980/06/05     23                  Thursday       Corn on Ear         
+1980/06/06     24                  Friday                             
+1980/06/07     25                  Saturday                           
+1980/06/08     26                  Sunday                             
+1980/06/09     27                  Monday                             
+1980/06/10     28                  Tuesday                            
+1980/06/11     29                  Wednesday                          
+1980/06/12     30                  Thursday                           
+1980/06/13     5th Lunar month     Friday                             
+1980/06/14     2                   Saturday                           
+1980/06/15     3                   Sunday                             
+1980/06/16     4                   Monday                             
+1980/06/17     5                   Tuesday                            
+1980/06/18     6                   Wednesday                          
+1980/06/19     7                   Thursday                           
+1980/06/20     8                   Friday                             
+1980/06/21     9                   Saturday       Summer Solstice     
+1980/06/22     10                  Sunday                             
+1980/06/23     11                  Monday                             
+1980/06/24     12                  Tuesday                            
+1980/06/25     13                  Wednesday                          
+1980/06/26     14                  Thursday                           
+1980/06/27     15                  Friday                             
+1980/06/28     16                  Saturday                           
+1980/06/29     17                  Sunday                             
+1980/06/30     18                  Monday                             
+1980/07/01     19                  Tuesday                            
+1980/07/02     20                  Wednesday                          
+1980/07/03     21                  Thursday                           
+1980/07/04     22                  Friday                             
+1980/07/05     23                  Saturday                           
+1980/07/06     24                  Sunday                             
+1980/07/07     25                  Monday         Moderate Heat       
+1980/07/08     26                  Tuesday                            
+1980/07/09     27                  Wednesday                          
+1980/07/10     28                  Thursday                           
+1980/07/11     29                  Friday                             
+1980/07/12     6th Lunar month     Saturday                           
+1980/07/13     2                   Sunday                             
+1980/07/14     3                   Monday                             
+1980/07/15     4                   Tuesday                            
+1980/07/16     5                   Wednesday                          
+1980/07/17     6                   Thursday                           
+1980/07/18     7                   Friday                             
+1980/07/19     8                   Saturday                           
+1980/07/20     9                   Sunday                             
+1980/07/21     10                  Monday                             
+1980/07/22     11                  Tuesday                            
+1980/07/23     12                  Wednesday      Great Heat          
+1980/07/24     13                  Thursday                           
+1980/07/25     14                  Friday                             
+1980/07/26     15                  Saturday                           
+1980/07/27     16                  Sunday                             
+1980/07/28     17                  Monday                             
+1980/07/29     18                  Tuesday                            
+1980/07/30     19                  Wednesday                          
+1980/07/31     20                  Thursday                           
+1980/08/01     21                  Friday                             
+1980/08/02     22                  Saturday                           
+1980/08/03     23                  Sunday                             
+1980/08/04     24                  Monday                             
+1980/08/05     25                  Tuesday                            
+1980/08/06     26                  Wednesday                          
+1980/08/07     27                  Thursday       Autumn Commences    
+1980/08/08     28                  Friday                             
+1980/08/09     29                  Saturday                           
+1980/08/10     30                  Sunday                             
+1980/08/11     7th Lunar month     Monday                             
+1980/08/12     2                   Tuesday                            
+1980/08/13     3                   Wednesday                          
+1980/08/14     4                   Thursday                           
+1980/08/15     5                   Friday                             
+1980/08/16     6                   Saturday                           
+1980/08/17     7                   Sunday                             
+1980/08/18     8                   Monday                             
+1980/08/19     9                   Tuesday                            
+1980/08/20     10                  Wednesday                          
+1980/08/21     11                  Thursday                           
+1980/08/22     12                  Friday                             
+1980/08/23     13                  Saturday       End of Heat         
+1980/08/24     14                  Sunday                             
+1980/08/25     15                  Monday                             
+1980/08/26     16                  Tuesday                            
+1980/08/27     17                  Wednesday                          
+1980/08/28     18                  Thursday                           
+1980/08/29     19                  Friday                             
+1980/08/30     20                  Saturday                           
+1980/08/31     21                  Sunday                             
+1980/09/01     22                  Monday                             
+1980/09/02     23                  Tuesday                            
+1980/09/03     24                  Wednesday                          
+1980/09/04     25                  Thursday                           
+1980/09/05     26                  Friday                             
+1980/09/06     27                  Saturday                           
+1980/09/07     28                  Sunday         White Dew           
+1980/09/08     29                  Monday                             
+1980/09/09     8th Lunar month     Tuesday                            
+1980/09/10     2                   Wednesday                          
+1980/09/11     3                   Thursday                           
+1980/09/12     4                   Friday                             
+1980/09/13     5                   Saturday                           
+1980/09/14     6                   Sunday                             
+1980/09/15     7                   Monday                             
+1980/09/16     8                   Tuesday                            
+1980/09/17     9                   Wednesday                          
+1980/09/18     10                  Thursday                           
+1980/09/19     11                  Friday                             
+1980/09/20     12                  Saturday                           
+1980/09/21     13                  Sunday                             
+1980/09/22     14                  Monday                             
+1980/09/23     15                  Tuesday        Autumnal Equinox    
+1980/09/24     16                  Wednesday                          
+1980/09/25     17                  Thursday                           
+1980/09/26     18                  Friday                             
+1980/09/27     19                  Saturday                           
+1980/09/28     20                  Sunday                             
+1980/09/29     21                  Monday                             
+1980/09/30     22                  Tuesday                            
+1980/10/01     23                  Wednesday                          
+1980/10/02     24                  Thursday                           
+1980/10/03     25                  Friday                             
+1980/10/04     26                  Saturday                           
+1980/10/05     27                  Sunday                             
+1980/10/06     28                  Monday                             
+1980/10/07     29                  Tuesday                            
+1980/10/08     30                  Wednesday      Cold Dew            
+1980/10/09     9th Lunar month     Thursday                           
+1980/10/10     2                   Friday                             
+1980/10/11     3                   Saturday                           
+1980/10/12     4                   Sunday                             
+1980/10/13     5                   Monday                             
+1980/10/14     6                   Tuesday                            
+1980/10/15     7                   Wednesday                          
+1980/10/16     8                   Thursday                           
+1980/10/17     9                   Friday                             
+1980/10/18     10                  Saturday                           
+1980/10/19     11                  Sunday                             
+1980/10/20     12                  Monday                             
+1980/10/21     13                  Tuesday                            
+1980/10/22     14                  Wednesday                          
+1980/10/23     15                  Thursday       Frost               
+1980/10/24     16                  Friday                             
+1980/10/25     17                  Saturday                           
+1980/10/26     18                  Sunday                             
+1980/10/27     19                  Monday                             
+1980/10/28     20                  Tuesday                            
+1980/10/29     21                  Wednesday                          
+1980/10/30     22                  Thursday                           
+1980/10/31     23                  Friday                             
+1980/11/01     24                  Saturday                           
+1980/11/02     25                  Sunday                             
+1980/11/03     26                  Monday                             
+1980/11/04     27                  Tuesday                            
+1980/11/05     28                  Wednesday                          
+1980/11/06     29                  Thursday                           
+1980/11/07     30                  Friday         Winter Commences    
+1980/11/08     10th Lunar month    Saturday                           
+1980/11/09     2                   Sunday                             
+1980/11/10     3                   Monday                             
+1980/11/11     4                   Tuesday                            
+1980/11/12     5                   Wednesday                          
+1980/11/13     6                   Thursday                           
+1980/11/14     7                   Friday                             
+1980/11/15     8                   Saturday                           
+1980/11/16     9                   Sunday                             
+1980/11/17     10                  Monday                             
+1980/11/18     11                  Tuesday                            
+1980/11/19     12                  Wednesday                          
+1980/11/20     13                  Thursday                           
+1980/11/21     14                  Friday                             
+1980/11/22     15                  Saturday       Light Snow          
+1980/11/23     16                  Sunday                             
+1980/11/24     17                  Monday                             
+1980/11/25     18                  Tuesday                            
+1980/11/26     19                  Wednesday                          
+1980/11/27     20                  Thursday                           
+1980/11/28     21                  Friday                             
+1980/11/29     22                  Saturday                           
+1980/11/30     23                  Sunday                             
+1980/12/01     24                  Monday                             
+1980/12/02     25                  Tuesday                            
+1980/12/03     26                  Wednesday                          
+1980/12/04     27                  Thursday                           
+1980/12/05     28                  Friday                             
+1980/12/06     29                  Saturday                           
+1980/12/07     11th Lunar month    Sunday         Heavy Snow          
+1980/12/08     2                   Monday                             
+1980/12/09     3                   Tuesday                            
+1980/12/10     4                   Wednesday                          
+1980/12/11     5                   Thursday                           
+1980/12/12     6                   Friday                             
+1980/12/13     7                   Saturday                           
+1980/12/14     8                   Sunday                             
+1980/12/15     9                   Monday                             
+1980/12/16     10                  Tuesday                            
+1980/12/17     11                  Wednesday                          
+1980/12/18     12                  Thursday                           
+1980/12/19     13                  Friday                             
+1980/12/20     14                  Saturday                           
+1980/12/21     15                  Sunday                             
+1980/12/22     16                  Monday         Winter Solstice     
+1980/12/23     17                  Tuesday                            
+1980/12/24     18                  Wednesday                          
+1980/12/25     19                  Thursday                           
+1980/12/26     20                  Friday                             
+1980/12/27     21                  Saturday                           
+1980/12/28     22                  Sunday                             
+1980/12/29     23                  Monday                             
+1980/12/30     24                  Tuesday                            
+1980/12/31     25                  Wednesday                          

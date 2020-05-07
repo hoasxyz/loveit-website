@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1925 (Yi-chou ¡V year of the Ox)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1925/01/01     7                   Thursday                           
+1925/01/02     8                   Friday                             
+1925/01/03     9                   Saturday                           
+1925/01/04     10                  Sunday                             
+1925/01/05     11                  Monday                             
+1925/01/06     12                  Tuesday        Moderate Cold       
+1925/01/07     13                  Wednesday                          
+1925/01/08     14                  Thursday                           
+1925/01/09     15                  Friday                             
+1925/01/10     16                  Saturday                           
+1925/01/11     17                  Sunday                             
+1925/01/12     18                  Monday                             
+1925/01/13     19                  Tuesday                            
+1925/01/14     20                  Wednesday                          
+1925/01/15     21                  Thursday                           
+1925/01/16     22                  Friday                             
+1925/01/17     23                  Saturday                           
+1925/01/18     24                  Sunday                             
+1925/01/19     25                  Monday                             
+1925/01/20     26                  Tuesday        Severe Cold         
+1925/01/21     27                  Wednesday                          
+1925/01/22     28                  Thursday                           
+1925/01/23     29                  Friday                             
+1925/01/24     1st Lunar month     Saturday                           
+1925/01/25     2                   Sunday                             
+1925/01/26     3                   Monday                             
+1925/01/27     4                   Tuesday                            
+1925/01/28     5                   Wednesday                          
+1925/01/29     6                   Thursday                           
+1925/01/30     7                   Friday                             
+1925/01/31     8                   Saturday                           
+1925/02/01     9                   Sunday                             
+1925/02/02     10                  Monday                             
+1925/02/03     11                  Tuesday                            
+1925/02/04     12                  Wednesday      Spring Commences    
+1925/02/05     13                  Thursday                           
+1925/02/06     14                  Friday                             
+1925/02/07     15                  Saturday                           
+1925/02/08     16                  Sunday                             
+1925/02/09     17                  Monday                             
+1925/02/10     18                  Tuesday                            
+1925/02/11     19                  Wednesday                          
+1925/02/12     20                  Thursday                           
+1925/02/13     21                  Friday                             
+1925/02/14     22                  Saturday                           
+1925/02/15     23                  Sunday                             
+1925/02/16     24                  Monday                             
+1925/02/17     25                  Tuesday                            
+1925/02/18     26                  Wednesday                          
+1925/02/19     27                  Thursday       Spring Showers      
+1925/02/20     28                  Friday                             
+1925/02/21     29                  Saturday                           
+1925/02/22     30                  Sunday                             
+1925/02/23     2nd Lunar month     Monday                             
+1925/02/24     2                   Tuesday                            
+1925/02/25     3                   Wednesday                          
+1925/02/26     4                   Thursday                           
+1925/02/27     5                   Friday                             
+1925/02/28     6                   Saturday                           
+1925/03/01     7                   Sunday                             
+1925/03/02     8                   Monday                             
+1925/03/03     9                   Tuesday                            
+1925/03/04     10                  Wednesday                          
+1925/03/05     11                  Thursday                           
+1925/03/06     12                  Friday         Insects Waken       
+1925/03/07     13                  Saturday                           
+1925/03/08     14                  Sunday                             
+1925/03/09     15                  Monday                             
+1925/03/10     16                  Tuesday                            
+1925/03/11     17                  Wednesday                          
+1925/03/12     18                  Thursday                           
+1925/03/13     19                  Friday                             
+1925/03/14     20                  Saturday                           
+1925/03/15     21                  Sunday                             
+1925/03/16     22                  Monday                             
+1925/03/17     23                  Tuesday                            
+1925/03/18     24                  Wednesday                          
+1925/03/19     25                  Thursday                           
+1925/03/20     26                  Friday                             
+1925/03/21     27                  Saturday       Vernal Equinox      
+1925/03/22     28                  Sunday                             
+1925/03/23     29                  Monday                             
+1925/03/24     3rd Lunar month     Tuesday                            
+1925/03/25     2                   Wednesday                          
+1925/03/26     3                   Thursday                           
+1925/03/27     4                   Friday                             
+1925/03/28     5                   Saturday                           
+1925/03/29     6                   Sunday                             
+1925/03/30     7                   Monday                             
+1925/03/31     8                   Tuesday                            
+1925/04/01     9                   Wednesday                          
+1925/04/02     10                  Thursday                           
+1925/04/03     11                  Friday                             
+1925/04/04     12                  Saturday                           
+1925/04/05     13                  Sunday         Bright & Clear      
+1925/04/06     14                  Monday                             
+1925/04/07     15                  Tuesday                            
+1925/04/08     16                  Wednesday                          
+1925/04/09     17                  Thursday                           
+1925/04/10     18                  Friday                             
+1925/04/11     19                  Saturday                           
+1925/04/12     20                  Sunday                             
+1925/04/13     21                  Monday                             
+1925/04/14     22                  Tuesday                            
+1925/04/15     23                  Wednesday                          
+1925/04/16     24                  Thursday                           
+1925/04/17     25                  Friday                             
+1925/04/18     26                  Saturday                           
+1925/04/19     27                  Sunday                             
+1925/04/20     28                  Monday         Corn Rain           
+1925/04/21     29                  Tuesday                            
+1925/04/22     30                  Wednesday                          
+1925/04/23     4th Lunar month     Thursday                           
+1925/04/24     2                   Friday                             
+1925/04/25     3                   Saturday                           
+1925/04/26     4                   Sunday                             
+1925/04/27     5                   Monday                             
+1925/04/28     6                   Tuesday                            
+1925/04/29     7                   Wednesday                          
+1925/04/30     8                   Thursday                           
+1925/05/01     9                   Friday                             
+1925/05/02     10                  Saturday                           
+1925/05/03     11                  Sunday                             
+1925/05/04     12                  Monday                             
+1925/05/05     13                  Tuesday                            
+1925/05/06     14                  Wednesday      Summer Commences    
+1925/05/07     15                  Thursday                           
+1925/05/08     16                  Friday                             
+1925/05/09     17                  Saturday                           
+1925/05/10     18                  Sunday                             
+1925/05/11     19                  Monday                             
+1925/05/12     20                  Tuesday                            
+1925/05/13     21                  Wednesday                          
+1925/05/14     22                  Thursday                           
+1925/05/15     23                  Friday                             
+1925/05/16     24                  Saturday                           
+1925/05/17     25                  Sunday                             
+1925/05/18     26                  Monday                             
+1925/05/19     27                  Tuesday                            
+1925/05/20     28                  Wednesday                          
+1925/05/21     29                  Thursday       Corn Forms          
+1925/05/22     4th Lunar month     Friday                             
+1925/05/23     2                   Saturday                           
+1925/05/24     3                   Sunday                             
+1925/05/25     4                   Monday                             
+1925/05/26     5                   Tuesday                            
+1925/05/27     6                   Wednesday                          
+1925/05/28     7                   Thursday                           
+1925/05/29     8                   Friday                             
+1925/05/30     9                   Saturday                           
+1925/05/31     10                  Sunday                             
+1925/06/01     11                  Monday                             
+1925/06/02     12                  Tuesday                            
+1925/06/03     13                  Wednesday                          
+1925/06/04     14                  Thursday                           
+1925/06/05     15                  Friday                             
+1925/06/06     16                  Saturday       Corn on Ear         
+1925/06/07     17                  Sunday                             
+1925/06/08     18                  Monday                             
+1925/06/09     19                  Tuesday                            
+1925/06/10     20                  Wednesday                          
+1925/06/11     21                  Thursday                           
+1925/06/12     22                  Friday                             
+1925/06/13     23                  Saturday                           
+1925/06/14     24                  Sunday                             
+1925/06/15     25                  Monday                             
+1925/06/16     26                  Tuesday                            
+1925/06/17     27                  Wednesday                          
+1925/06/18     28                  Thursday                           
+1925/06/19     29                  Friday                             
+1925/06/20     30                  Saturday                           
+1925/06/21     5th Lunar month     Sunday                             
+1925/06/22     2                   Monday         Summer Solstice     
+1925/06/23     3                   Tuesday                            
+1925/06/24     4                   Wednesday                          
+1925/06/25     5                   Thursday                           
+1925/06/26     6                   Friday                             
+1925/06/27     7                   Saturday                           
+1925/06/28     8                   Sunday                             
+1925/06/29     9                   Monday                             
+1925/06/30     10                  Tuesday                            
+1925/07/01     11                  Wednesday                          
+1925/07/02     12                  Thursday                           
+1925/07/03     13                  Friday                             
+1925/07/04     14                  Saturday                           
+1925/07/05     15                  Sunday                             
+1925/07/06     16                  Monday                             
+1925/07/07     17                  Tuesday                            
+1925/07/08     18                  Wednesday      Moderate Heat       
+1925/07/09     19                  Thursday                           
+1925/07/10     20                  Friday                             
+1925/07/11     21                  Saturday                           
+1925/07/12     22                  Sunday                             
+1925/07/13     23                  Monday                             
+1925/07/14     24                  Tuesday                            
+1925/07/15     25                  Wednesday                          
+1925/07/16     26                  Thursday                           
+1925/07/17     27                  Friday                             
+1925/07/18     28                  Saturday                           
+1925/07/19     29                  Sunday                             
+1925/07/20     30                  Monday                             
+1925/07/21     6th Lunar month     Tuesday                            
+1925/07/22     2                   Wednesday                          
+1925/07/23     3                   Thursday       Great Heat          
+1925/07/24     4                   Friday                             
+1925/07/25     5                   Saturday                           
+1925/07/26     6                   Sunday                             
+1925/07/27     7                   Monday                             
+1925/07/28     8                   Tuesday                            
+1925/07/29     9                   Wednesday                          
+1925/07/30     10                  Thursday                           
+1925/07/31     11                  Friday                             
+1925/08/01     12                  Saturday                           
+1925/08/02     13                  Sunday                             
+1925/08/03     14                  Monday                             
+1925/08/04     15                  Tuesday                            
+1925/08/05     16                  Wednesday                          
+1925/08/06     17                  Thursday                           
+1925/08/07     18                  Friday                             
+1925/08/08     19                  Saturday       Autumn Commences    
+1925/08/09     20                  Sunday                             
+1925/08/10     21                  Monday                             
+1925/08/11     22                  Tuesday                            
+1925/08/12     23                  Wednesday                          
+1925/08/13     24                  Thursday                           
+1925/08/14     25                  Friday                             
+1925/08/15     26                  Saturday                           
+1925/08/16     27                  Sunday                             
+1925/08/17     28                  Monday                             
+1925/08/18     29                  Tuesday                            
+1925/08/19     7th Lunar month     Wednesday                          
+1925/08/20     2                   Thursday                           
+1925/08/21     3                   Friday                             
+1925/08/22     4                   Saturday                           
+1925/08/23     5                   Sunday                             
+1925/08/24     6                   Monday         End of Heat         
+1925/08/25     7                   Tuesday                            
+1925/08/26     8                   Wednesday                          
+1925/08/27     9                   Thursday                           
+1925/08/28     10                  Friday                             
+1925/08/29     11                  Saturday                           
+1925/08/30     12                  Sunday                             
+1925/08/31     13                  Monday                             
+1925/09/01     14                  Tuesday                            
+1925/09/02     15                  Wednesday                          
+1925/09/03     16                  Thursday                           
+1925/09/04     17                  Friday                             
+1925/09/05     18                  Saturday                           
+1925/09/06     19                  Sunday                             
+1925/09/07     20                  Monday                             
+1925/09/08     21                  Tuesday        White Dew           
+1925/09/09     22                  Wednesday                          
+1925/09/10     23                  Thursday                           
+1925/09/11     24                  Friday                             
+1925/09/12     25                  Saturday                           
+1925/09/13     26                  Sunday                             
+1925/09/14     27                  Monday                             
+1925/09/15     28                  Tuesday                            
+1925/09/16     29                  Wednesday                          
+1925/09/17     30                  Thursday                           
+1925/09/18     8th Lunar month     Friday                             
+1925/09/19     2                   Saturday                           
+1925/09/20     3                   Sunday                             
+1925/09/21     4                   Monday                             
+1925/09/22     5                   Tuesday                            
+1925/09/23     6                   Wednesday      Autumnal Equinox    
+1925/09/24     7                   Thursday                           
+1925/09/25     8                   Friday                             
+1925/09/26     9                   Saturday                           
+1925/09/27     10                  Sunday                             
+1925/09/28     11                  Monday                             
+1925/09/29     12                  Tuesday                            
+1925/09/30     13                  Wednesday                          
+1925/10/01     14                  Thursday                           
+1925/10/02     15                  Friday                             
+1925/10/03     16                  Saturday                           
+1925/10/04     17                  Sunday                             
+1925/10/05     18                  Monday                             
+1925/10/06     19                  Tuesday                            
+1925/10/07     20                  Wednesday                          
+1925/10/08     21                  Thursday                           
+1925/10/09     22                  Friday         Cold Dew            
+1925/10/10     23                  Saturday                           
+1925/10/11     24                  Sunday                             
+1925/10/12     25                  Monday                             
+1925/10/13     26                  Tuesday                            
+1925/10/14     27                  Wednesday                          
+1925/10/15     28                  Thursday                           
+1925/10/16     29                  Friday                             
+1925/10/17     30                  Saturday                           
+1925/10/18     9th Lunar month     Sunday                             
+1925/10/19     2                   Monday                             
+1925/10/20     3                   Tuesday                            
+1925/10/21     4                   Wednesday                          
+1925/10/22     5                   Thursday                           
+1925/10/23     6                   Friday                             
+1925/10/24     7                   Saturday       Frost               
+1925/10/25     8                   Sunday                             
+1925/10/26     9                   Monday                             
+1925/10/27     10                  Tuesday                            
+1925/10/28     11                  Wednesday                          
+1925/10/29     12                  Thursday                           
+1925/10/30     13                  Friday                             
+1925/10/31     14                  Saturday                           
+1925/11/01     15                  Sunday                             
+1925/11/02     16                  Monday                             
+1925/11/03     17                  Tuesday                            
+1925/11/04     18                  Wednesday                          
+1925/11/05     19                  Thursday                           
+1925/11/06     20                  Friday                             
+1925/11/07     21                  Saturday                           
+1925/11/08     22                  Sunday         Winter Commences    
+1925/11/09     23                  Monday                             
+1925/11/10     24                  Tuesday                            
+1925/11/11     25                  Wednesday                          
+1925/11/12     26                  Thursday                           
+1925/11/13     27                  Friday                             
+1925/11/14     28                  Saturday                           
+1925/11/15     29                  Sunday                             
+1925/11/16     10th Lunar month    Monday                             
+1925/11/17     2                   Tuesday                            
+1925/11/18     3                   Wednesday                          
+1925/11/19     4                   Thursday                           
+1925/11/20     5                   Friday                             
+1925/11/21     6                   Saturday                           
+1925/11/22     7                   Sunday                             
+1925/11/23     8                   Monday         Light Snow          
+1925/11/24     9                   Tuesday                            
+1925/11/25     10                  Wednesday                          
+1925/11/26     11                  Thursday                           
+1925/11/27     12                  Friday                             
+1925/11/28     13                  Saturday                           
+1925/11/29     14                  Sunday                             
+1925/11/30     15                  Monday                             
+1925/12/01     16                  Tuesday                            
+1925/12/02     17                  Wednesday                          
+1925/12/03     18                  Thursday                           
+1925/12/04     19                  Friday                             
+1925/12/05     20                  Saturday                           
+1925/12/06     21                  Sunday                             
+1925/12/07     22                  Monday         Heavy Snow          
+1925/12/08     23                  Tuesday                            
+1925/12/09     24                  Wednesday                          
+1925/12/10     25                  Thursday                           
+1925/12/11     26                  Friday                             
+1925/12/12     27                  Saturday                           
+1925/12/13     28                  Sunday                             
+1925/12/14     29                  Monday                             
+1925/12/15     30                  Tuesday                            
+1925/12/16     11th Lunar month    Wednesday                          
+1925/12/17     2                   Thursday                           
+1925/12/18     3                   Friday                             
+1925/12/19     4                   Saturday                           
+1925/12/20     5                   Sunday                             
+1925/12/21     6                   Monday                             
+1925/12/22     7                   Tuesday        Winter Solstice     
+1925/12/23     8                   Wednesday                          
+1925/12/24     9                   Thursday                           
+1925/12/25     10                  Friday                             
+1925/12/26     11                  Saturday                           
+1925/12/27     12                  Sunday                             
+1925/12/28     13                  Monday                             
+1925/12/29     14                  Tuesday                            
+1925/12/30     15                  Wednesday                          
+1925/12/31     16                  Thursday                           

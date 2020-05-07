@@ -7,17 +7,20 @@ categories:
   - notes
 tags:
   - Fonts
-lastmod: '2020-03-07T14:27:45+08:00'
+subtitle: ''
+lastmod: '2020-05-07T10:57:42+08:00'
+authorLink: ''
 description: ''
-show_in_homepage: yes
-show_description: no
-license: ''
-featured_image: ''
-featured_image_preview: ''
-comment: no
-toc: yes
-autoCollapseToc: yes
-math: yes
+hiddenFromHomePage: no
+hiddenFromSearch: no
+featuredImage: 'https://i2.wp.com/www.jack.guru/wp-content/uploads/2016/10/all-work-and-no-play-make-jake-a-dull-boy.jpg?resize=570%2C285&ssl=1'
+featuredImagePreview: ''
+toc:
+  enable: yes
+math:
+  enable: no
+lightgallery: no
+license: CC BY-NC 4.0
 ---
 
 杂交字体在坊间由来已久，随着当今码农审美水平的提高，他们对编程的外部环境需求越来越大，其中字体就是重点之一。

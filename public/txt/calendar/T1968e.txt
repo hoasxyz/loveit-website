@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1968 (Wu-shen ¡V year of the Monkey)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1968/01/01     2                   Monday                             
+1968/01/02     3                   Tuesday                            
+1968/01/03     4                   Wednesday                          
+1968/01/04     5                   Thursday                           
+1968/01/05     6                   Friday                             
+1968/01/06     7                   Saturday       Moderate Cold       
+1968/01/07     8                   Sunday                             
+1968/01/08     9                   Monday                             
+1968/01/09     10                  Tuesday                            
+1968/01/10     11                  Wednesday                          
+1968/01/11     12                  Thursday                           
+1968/01/12     13                  Friday                             
+1968/01/13     14                  Saturday                           
+1968/01/14     15                  Sunday                             
+1968/01/15     16                  Monday                             
+1968/01/16     17                  Tuesday                            
+1968/01/17     18                  Wednesday                          
+1968/01/18     19                  Thursday                           
+1968/01/19     20                  Friday                             
+1968/01/20     21                  Saturday                           
+1968/01/21     22                  Sunday         Severe Cold         
+1968/01/22     23                  Monday                             
+1968/01/23     24                  Tuesday                            
+1968/01/24     25                  Wednesday                          
+1968/01/25     26                  Thursday                           
+1968/01/26     27                  Friday                             
+1968/01/27     28                  Saturday                           
+1968/01/28     29                  Sunday                             
+1968/01/29     30                  Monday                             
+1968/01/30     1st Lunar month     Tuesday                            
+1968/01/31     2                   Wednesday                          
+1968/02/01     3                   Thursday                           
+1968/02/02     4                   Friday                             
+1968/02/03     5                   Saturday                           
+1968/02/04     6                   Sunday                             
+1968/02/05     7                   Monday         Spring Commences    
+1968/02/06     8                   Tuesday                            
+1968/02/07     9                   Wednesday                          
+1968/02/08     10                  Thursday                           
+1968/02/09     11                  Friday                             
+1968/02/10     12                  Saturday                           
+1968/02/11     13                  Sunday                             
+1968/02/12     14                  Monday                             
+1968/02/13     15                  Tuesday                            
+1968/02/14     16                  Wednesday                          
+1968/02/15     17                  Thursday                           
+1968/02/16     18                  Friday                             
+1968/02/17     19                  Saturday                           
+1968/02/18     20                  Sunday                             
+1968/02/19     21                  Monday         Spring Showers      
+1968/02/20     22                  Tuesday                            
+1968/02/21     23                  Wednesday                          
+1968/02/22     24                  Thursday                           
+1968/02/23     25                  Friday                             
+1968/02/24     26                  Saturday                           
+1968/02/25     27                  Sunday                             
+1968/02/26     28                  Monday                             
+1968/02/27     29                  Tuesday                            
+1968/02/28     2nd Lunar month     Wednesday                          
+1968/02/29     2                   Thursday                           
+1968/03/01     3                   Friday                             
+1968/03/02     4                   Saturday                           
+1968/03/03     5                   Sunday                             
+1968/03/04     6                   Monday                             
+1968/03/05     7                   Tuesday        Insects Waken       
+1968/03/06     8                   Wednesday                          
+1968/03/07     9                   Thursday                           
+1968/03/08     10                  Friday                             
+1968/03/09     11                  Saturday                           
+1968/03/10     12                  Sunday                             
+1968/03/11     13                  Monday                             
+1968/03/12     14                  Tuesday                            
+1968/03/13     15                  Wednesday                          
+1968/03/14     16                  Thursday                           
+1968/03/15     17                  Friday                             
+1968/03/16     18                  Saturday                           
+1968/03/17     19                  Sunday                             
+1968/03/18     20                  Monday                             
+1968/03/19     21                  Tuesday                            
+1968/03/20     22                  Wednesday      Vernal Equinox      
+1968/03/21     23                  Thursday                           
+1968/03/22     24                  Friday                             
+1968/03/23     25                  Saturday                           
+1968/03/24     26                  Sunday                             
+1968/03/25     27                  Monday                             
+1968/03/26     28                  Tuesday                            
+1968/03/27     29                  Wednesday                          
+1968/03/28     30                  Thursday                           
+1968/03/29     3rd Lunar month     Friday                             
+1968/03/30     2                   Saturday                           
+1968/03/31     3                   Sunday                             
+1968/04/01     4                   Monday                             
+1968/04/02     5                   Tuesday                            
+1968/04/03     6                   Wednesday                          
+1968/04/04     7                   Thursday                           
+1968/04/05     8                   Friday         Bright & Clear      
+1968/04/06     9                   Saturday                           
+1968/04/07     10                  Sunday                             
+1968/04/08     11                  Monday                             
+1968/04/09     12                  Tuesday                            
+1968/04/10     13                  Wednesday                          
+1968/04/11     14                  Thursday                           
+1968/04/12     15                  Friday                             
+1968/04/13     16                  Saturday                           
+1968/04/14     17                  Sunday                             
+1968/04/15     18                  Monday                             
+1968/04/16     19                  Tuesday                            
+1968/04/17     20                  Wednesday                          
+1968/04/18     21                  Thursday                           
+1968/04/19     22                  Friday                             
+1968/04/20     23                  Saturday       Corn Rain           
+1968/04/21     24                  Sunday                             
+1968/04/22     25                  Monday                             
+1968/04/23     26                  Tuesday                            
+1968/04/24     27                  Wednesday                          
+1968/04/25     28                  Thursday                           
+1968/04/26     29                  Friday                             
+1968/04/27     4th Lunar month     Saturday                           
+1968/04/28     2                   Sunday                             
+1968/04/29     3                   Monday                             
+1968/04/30     4                   Tuesday                            
+1968/05/01     5                   Wednesday                          
+1968/05/02     6                   Thursday                           
+1968/05/03     7                   Friday                             
+1968/05/04     8                   Saturday                           
+1968/05/05     9                   Sunday         Summer Commences    
+1968/05/06     10                  Monday                             
+1968/05/07     11                  Tuesday                            
+1968/05/08     12                  Wednesday                          
+1968/05/09     13                  Thursday                           
+1968/05/10     14                  Friday                             
+1968/05/11     15                  Saturday                           
+1968/05/12     16                  Sunday                             
+1968/05/13     17                  Monday                             
+1968/05/14     18                  Tuesday                            
+1968/05/15     19                  Wednesday                          
+1968/05/16     20                  Thursday                           
+1968/05/17     21                  Friday                             
+1968/05/18     22                  Saturday                           
+1968/05/19     23                  Sunday                             
+1968/05/20     24                  Monday                             
+1968/05/21     25                  Tuesday        Corn Forms          
+1968/05/22     26                  Wednesday                          
+1968/05/23     27                  Thursday                           
+1968/05/24     28                  Friday                             
+1968/05/25     29                  Saturday                           
+1968/05/26     30                  Sunday                             
+1968/05/27     5th Lunar month     Monday                             
+1968/05/28     2                   Tuesday                            
+1968/05/29     3                   Wednesday                          
+1968/05/30     4                   Thursday                           
+1968/05/31     5                   Friday                             
+1968/06/01     6                   Saturday                           
+1968/06/02     7                   Sunday                             
+1968/06/03     8                   Monday                             
+1968/06/04     9                   Tuesday                            
+1968/06/05     10                  Wednesday      Corn on Ear         
+1968/06/06     11                  Thursday                           
+1968/06/07     12                  Friday                             
+1968/06/08     13                  Saturday                           
+1968/06/09     14                  Sunday                             
+1968/06/10     15                  Monday                             
+1968/06/11     16                  Tuesday                            
+1968/06/12     17                  Wednesday                          
+1968/06/13     18                  Thursday                           
+1968/06/14     19                  Friday                             
+1968/06/15     20                  Saturday                           
+1968/06/16     21                  Sunday                             
+1968/06/17     22                  Monday                             
+1968/06/18     23                  Tuesday                            
+1968/06/19     24                  Wednesday                          
+1968/06/20     25                  Thursday                           
+1968/06/21     26                  Friday         Summer Solstice     
+1968/06/22     27                  Saturday                           
+1968/06/23     28                  Sunday                             
+1968/06/24     29                  Monday                             
+1968/06/25     30                  Tuesday                            
+1968/06/26     6th Lunar month     Wednesday                          
+1968/06/27     2                   Thursday                           
+1968/06/28     3                   Friday                             
+1968/06/29     4                   Saturday                           
+1968/06/30     5                   Sunday                             
+1968/07/01     6                   Monday                             
+1968/07/02     7                   Tuesday                            
+1968/07/03     8                   Wednesday                          
+1968/07/04     9                   Thursday                           
+1968/07/05     10                  Friday                             
+1968/07/06     11                  Saturday                           
+1968/07/07     12                  Sunday         Moderate Heat       
+1968/07/08     13                  Monday                             
+1968/07/09     14                  Tuesday                            
+1968/07/10     15                  Wednesday                          
+1968/07/11     16                  Thursday                           
+1968/07/12     17                  Friday                             
+1968/07/13     18                  Saturday                           
+1968/07/14     19                  Sunday                             
+1968/07/15     20                  Monday                             
+1968/07/16     21                  Tuesday                            
+1968/07/17     22                  Wednesday                          
+1968/07/18     23                  Thursday                           
+1968/07/19     24                  Friday                             
+1968/07/20     25                  Saturday                           
+1968/07/21     26                  Sunday                             
+1968/07/22     27                  Monday                             
+1968/07/23     28                  Tuesday        Great Heat          
+1968/07/24     29                  Wednesday                          
+1968/07/25     7th Lunar month     Thursday                           
+1968/07/26     2                   Friday                             
+1968/07/27     3                   Saturday                           
+1968/07/28     4                   Sunday                             
+1968/07/29     5                   Monday                             
+1968/07/30     6                   Tuesday                            
+1968/07/31     7                   Wednesday                          
+1968/08/01     8                   Thursday                           
+1968/08/02     9                   Friday                             
+1968/08/03     10                  Saturday                           
+1968/08/04     11                  Sunday                             
+1968/08/05     12                  Monday                             
+1968/08/06     13                  Tuesday                            
+1968/08/07     14                  Wednesday      Autumn Commences    
+1968/08/08     15                  Thursday                           
+1968/08/09     16                  Friday                             
+1968/08/10     17                  Saturday                           
+1968/08/11     18                  Sunday                             
+1968/08/12     19                  Monday                             
+1968/08/13     20                  Tuesday                            
+1968/08/14     21                  Wednesday                          
+1968/08/15     22                  Thursday                           
+1968/08/16     23                  Friday                             
+1968/08/17     24                  Saturday                           
+1968/08/18     25                  Sunday                             
+1968/08/19     26                  Monday                             
+1968/08/20     27                  Tuesday                            
+1968/08/21     28                  Wednesday                          
+1968/08/22     29                  Thursday                           
+1968/08/23     30                  Friday         End of Heat         
+1968/08/24     7th Lunar month     Saturday                           
+1968/08/25     2                   Sunday                             
+1968/08/26     3                   Monday                             
+1968/08/27     4                   Tuesday                            
+1968/08/28     5                   Wednesday                          
+1968/08/29     6                   Thursday                           
+1968/08/30     7                   Friday                             
+1968/08/31     8                   Saturday                           
+1968/09/01     9                   Sunday                             
+1968/09/02     10                  Monday                             
+1968/09/03     11                  Tuesday                            
+1968/09/04     12                  Wednesday                          
+1968/09/05     13                  Thursday                           
+1968/09/06     14                  Friday                             
+1968/09/07     15                  Saturday       White Dew           
+1968/09/08     16                  Sunday                             
+1968/09/09     17                  Monday                             
+1968/09/10     18                  Tuesday                            
+1968/09/11     19                  Wednesday                          
+1968/09/12     20                  Thursday                           
+1968/09/13     21                  Friday                             
+1968/09/14     22                  Saturday                           
+1968/09/15     23                  Sunday                             
+1968/09/16     24                  Monday                             
+1968/09/17     25                  Tuesday                            
+1968/09/18     26                  Wednesday                          
+1968/09/19     27                  Thursday                           
+1968/09/20     28                  Friday                             
+1968/09/21     29                  Saturday                           
+1968/09/22     8th Lunar month     Sunday                             
+1968/09/23     2                   Monday         Autumnal Equinox    
+1968/09/24     3                   Tuesday                            
+1968/09/25     4                   Wednesday                          
+1968/09/26     5                   Thursday                           
+1968/09/27     6                   Friday                             
+1968/09/28     7                   Saturday                           
+1968/09/29     8                   Sunday                             
+1968/09/30     9                   Monday                             
+1968/10/01     10                  Tuesday                            
+1968/10/02     11                  Wednesday                          
+1968/10/03     12                  Thursday                           
+1968/10/04     13                  Friday                             
+1968/10/05     14                  Saturday                           
+1968/10/06     15                  Sunday                             
+1968/10/07     16                  Monday                             
+1968/10/08     17                  Tuesday        Cold Dew            
+1968/10/09     18                  Wednesday                          
+1968/10/10     19                  Thursday                           
+1968/10/11     20                  Friday                             
+1968/10/12     21                  Saturday                           
+1968/10/13     22                  Sunday                             
+1968/10/14     23                  Monday                             
+1968/10/15     24                  Tuesday                            
+1968/10/16     25                  Wednesday                          
+1968/10/17     26                  Thursday                           
+1968/10/18     27                  Friday                             
+1968/10/19     28                  Saturday                           
+1968/10/20     29                  Sunday                             
+1968/10/21     30                  Monday                             
+1968/10/22     9th Lunar month     Tuesday                            
+1968/10/23     2                   Wednesday      Frost               
+1968/10/24     3                   Thursday                           
+1968/10/25     4                   Friday                             
+1968/10/26     5                   Saturday                           
+1968/10/27     6                   Sunday                             
+1968/10/28     7                   Monday                             
+1968/10/29     8                   Tuesday                            
+1968/10/30     9                   Wednesday                          
+1968/10/31     10                  Thursday                           
+1968/11/01     11                  Friday                             
+1968/11/02     12                  Saturday                           
+1968/11/03     13                  Sunday                             
+1968/11/04     14                  Monday                             
+1968/11/05     15                  Tuesday                            
+1968/11/06     16                  Wednesday                          
+1968/11/07     17                  Thursday       Winter Commences    
+1968/11/08     18                  Friday                             
+1968/11/09     19                  Saturday                           
+1968/11/10     20                  Sunday                             
+1968/11/11     21                  Monday                             
+1968/11/12     22                  Tuesday                            
+1968/11/13     23                  Wednesday                          
+1968/11/14     24                  Thursday                           
+1968/11/15     25                  Friday                             
+1968/11/16     26                  Saturday                           
+1968/11/17     27                  Sunday                             
+1968/11/18     28                  Monday                             
+1968/11/19     29                  Tuesday                            
+1968/11/20     10th Lunar month    Wednesday                          
+1968/11/21     2                   Thursday                           
+1968/11/22     3                   Friday         Light Snow          
+1968/11/23     4                   Saturday                           
+1968/11/24     5                   Sunday                             
+1968/11/25     6                   Monday                             
+1968/11/26     7                   Tuesday                            
+1968/11/27     8                   Wednesday                          
+1968/11/28     9                   Thursday                           
+1968/11/29     10                  Friday                             
+1968/11/30     11                  Saturday                           
+1968/12/01     12                  Sunday                             
+1968/12/02     13                  Monday                             
+1968/12/03     14                  Tuesday                            
+1968/12/04     15                  Wednesday                          
+1968/12/05     16                  Thursday                           
+1968/12/06     17                  Friday                             
+1968/12/07     18                  Saturday       Heavy Snow          
+1968/12/08     19                  Sunday                             
+1968/12/09     20                  Monday                             
+1968/12/10     21                  Tuesday                            
+1968/12/11     22                  Wednesday                          
+1968/12/12     23                  Thursday                           
+1968/12/13     24                  Friday                             
+1968/12/14     25                  Saturday                           
+1968/12/15     26                  Sunday                             
+1968/12/16     27                  Monday                             
+1968/12/17     28                  Tuesday                            
+1968/12/18     29                  Wednesday                          
+1968/12/19     30                  Thursday                           
+1968/12/20     11th Lunar month    Friday                             
+1968/12/21     2                   Saturday                           
+1968/12/22     3                   Sunday         Winter Solstice     
+1968/12/23     4                   Monday                             
+1968/12/24     5                   Tuesday                            
+1968/12/25     6                   Wednesday                          
+1968/12/26     7                   Thursday                           
+1968/12/27     8                   Friday                             
+1968/12/28     9                   Saturday                           
+1968/12/29     10                  Sunday                             
+1968/12/30     11                  Monday                             
+1968/12/31     12                  Tuesday                            
+
+In 1968, summer time was enforced during 21 April to 20 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

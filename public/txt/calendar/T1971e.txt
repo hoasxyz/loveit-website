@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1971 (Xin-hai ¡V year of the Pig)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1971/01/01     5                   Friday                             
+1971/01/02     6                   Saturday                           
+1971/01/03     7                   Sunday                             
+1971/01/04     8                   Monday                             
+1971/01/05     9                   Tuesday                            
+1971/01/06     10                  Wednesday      Moderate Cold       
+1971/01/07     11                  Thursday                           
+1971/01/08     12                  Friday                             
+1971/01/09     13                  Saturday                           
+1971/01/10     14                  Sunday                             
+1971/01/11     15                  Monday                             
+1971/01/12     16                  Tuesday                            
+1971/01/13     17                  Wednesday                          
+1971/01/14     18                  Thursday                           
+1971/01/15     19                  Friday                             
+1971/01/16     20                  Saturday                           
+1971/01/17     21                  Sunday                             
+1971/01/18     22                  Monday                             
+1971/01/19     23                  Tuesday                            
+1971/01/20     24                  Wednesday                          
+1971/01/21     25                  Thursday       Severe Cold         
+1971/01/22     26                  Friday                             
+1971/01/23     27                  Saturday                           
+1971/01/24     28                  Sunday                             
+1971/01/25     29                  Monday                             
+1971/01/26     30                  Tuesday                            
+1971/01/27     1st Lunar month     Wednesday                          
+1971/01/28     2                   Thursday                           
+1971/01/29     3                   Friday                             
+1971/01/30     4                   Saturday                           
+1971/01/31     5                   Sunday                             
+1971/02/01     6                   Monday                             
+1971/02/02     7                   Tuesday                            
+1971/02/03     8                   Wednesday                          
+1971/02/04     9                   Thursday       Spring Commences    
+1971/02/05     10                  Friday                             
+1971/02/06     11                  Saturday                           
+1971/02/07     12                  Sunday                             
+1971/02/08     13                  Monday                             
+1971/02/09     14                  Tuesday                            
+1971/02/10     15                  Wednesday                          
+1971/02/11     16                  Thursday                           
+1971/02/12     17                  Friday                             
+1971/02/13     18                  Saturday                           
+1971/02/14     19                  Sunday                             
+1971/02/15     20                  Monday                             
+1971/02/16     21                  Tuesday                            
+1971/02/17     22                  Wednesday                          
+1971/02/18     23                  Thursday                           
+1971/02/19     24                  Friday         Spring Showers      
+1971/02/20     25                  Saturday                           
+1971/02/21     26                  Sunday                             
+1971/02/22     27                  Monday                             
+1971/02/23     28                  Tuesday                            
+1971/02/24     29                  Wednesday                          
+1971/02/25     2nd Lunar month     Thursday                           
+1971/02/26     2                   Friday                             
+1971/02/27     3                   Saturday                           
+1971/02/28     4                   Sunday                             
+1971/03/01     5                   Monday                             
+1971/03/02     6                   Tuesday                            
+1971/03/03     7                   Wednesday                          
+1971/03/04     8                   Thursday                           
+1971/03/05     9                   Friday                             
+1971/03/06     10                  Saturday       Insects Waken       
+1971/03/07     11                  Sunday                             
+1971/03/08     12                  Monday                             
+1971/03/09     13                  Tuesday                            
+1971/03/10     14                  Wednesday                          
+1971/03/11     15                  Thursday                           
+1971/03/12     16                  Friday                             
+1971/03/13     17                  Saturday                           
+1971/03/14     18                  Sunday                             
+1971/03/15     19                  Monday                             
+1971/03/16     20                  Tuesday                            
+1971/03/17     21                  Wednesday                          
+1971/03/18     22                  Thursday                           
+1971/03/19     23                  Friday                             
+1971/03/20     24                  Saturday                           
+1971/03/21     25                  Sunday         Vernal Equinox      
+1971/03/22     26                  Monday                             
+1971/03/23     27                  Tuesday                            
+1971/03/24     28                  Wednesday                          
+1971/03/25     29                  Thursday                           
+1971/03/26     30                  Friday                             
+1971/03/27     3rd Lunar month     Saturday                           
+1971/03/28     2                   Sunday                             
+1971/03/29     3                   Monday                             
+1971/03/30     4                   Tuesday                            
+1971/03/31     5                   Wednesday                          
+1971/04/01     6                   Thursday                           
+1971/04/02     7                   Friday                             
+1971/04/03     8                   Saturday                           
+1971/04/04     9                   Sunday                             
+1971/04/05     10                  Monday         Bright & Clear      
+1971/04/06     11                  Tuesday                            
+1971/04/07     12                  Wednesday                          
+1971/04/08     13                  Thursday                           
+1971/04/09     14                  Friday                             
+1971/04/10     15                  Saturday                           
+1971/04/11     16                  Sunday                             
+1971/04/12     17                  Monday                             
+1971/04/13     18                  Tuesday                            
+1971/04/14     19                  Wednesday                          
+1971/04/15     20                  Thursday                           
+1971/04/16     21                  Friday                             
+1971/04/17     22                  Saturday                           
+1971/04/18     23                  Sunday                             
+1971/04/19     24                  Monday                             
+1971/04/20     25                  Tuesday                            
+1971/04/21     26                  Wednesday      Corn Rain           
+1971/04/22     27                  Thursday                           
+1971/04/23     28                  Friday                             
+1971/04/24     29                  Saturday                           
+1971/04/25     4th Lunar month     Sunday                             
+1971/04/26     2                   Monday                             
+1971/04/27     3                   Tuesday                            
+1971/04/28     4                   Wednesday                          
+1971/04/29     5                   Thursday                           
+1971/04/30     6                   Friday                             
+1971/05/01     7                   Saturday                           
+1971/05/02     8                   Sunday                             
+1971/05/03     9                   Monday                             
+1971/05/04     10                  Tuesday                            
+1971/05/05     11                  Wednesday                          
+1971/05/06     12                  Thursday       Summer Commences    
+1971/05/07     13                  Friday                             
+1971/05/08     14                  Saturday                           
+1971/05/09     15                  Sunday                             
+1971/05/10     16                  Monday                             
+1971/05/11     17                  Tuesday                            
+1971/05/12     18                  Wednesday                          
+1971/05/13     19                  Thursday                           
+1971/05/14     20                  Friday                             
+1971/05/15     21                  Saturday                           
+1971/05/16     22                  Sunday                             
+1971/05/17     23                  Monday                             
+1971/05/18     24                  Tuesday                            
+1971/05/19     25                  Wednesday                          
+1971/05/20     26                  Thursday                           
+1971/05/21     27                  Friday                             
+1971/05/22     28                  Saturday       Corn Forms          
+1971/05/23     29                  Sunday                             
+1971/05/24     5th Lunar month     Monday                             
+1971/05/25     2                   Tuesday                            
+1971/05/26     3                   Wednesday                          
+1971/05/27     4                   Thursday                           
+1971/05/28     5                   Friday                             
+1971/05/29     6                   Saturday                           
+1971/05/30     7                   Sunday                             
+1971/05/31     8                   Monday                             
+1971/06/01     9                   Tuesday                            
+1971/06/02     10                  Wednesday                          
+1971/06/03     11                  Thursday                           
+1971/06/04     12                  Friday                             
+1971/06/05     13                  Saturday                           
+1971/06/06     14                  Sunday         Corn on Ear         
+1971/06/07     15                  Monday                             
+1971/06/08     16                  Tuesday                            
+1971/06/09     17                  Wednesday                          
+1971/06/10     18                  Thursday                           
+1971/06/11     19                  Friday                             
+1971/06/12     20                  Saturday                           
+1971/06/13     21                  Sunday                             
+1971/06/14     22                  Monday                             
+1971/06/15     23                  Tuesday                            
+1971/06/16     24                  Wednesday                          
+1971/06/17     25                  Thursday                           
+1971/06/18     26                  Friday                             
+1971/06/19     27                  Saturday                           
+1971/06/20     28                  Sunday                             
+1971/06/21     29                  Monday                             
+1971/06/22     30                  Tuesday        Summer Solstice     
+1971/06/23     5th Lunar month     Wednesday                          
+1971/06/24     2                   Thursday                           
+1971/06/25     3                   Friday                             
+1971/06/26     4                   Saturday                           
+1971/06/27     5                   Sunday                             
+1971/06/28     6                   Monday                             
+1971/06/29     7                   Tuesday                            
+1971/06/30     8                   Wednesday                          
+1971/07/01     9                   Thursday                           
+1971/07/02     10                  Friday                             
+1971/07/03     11                  Saturday                           
+1971/07/04     12                  Sunday                             
+1971/07/05     13                  Monday                             
+1971/07/06     14                  Tuesday                            
+1971/07/07     15                  Wednesday                          
+1971/07/08     16                  Thursday       Moderate Heat       
+1971/07/09     17                  Friday                             
+1971/07/10     18                  Saturday                           
+1971/07/11     19                  Sunday                             
+1971/07/12     20                  Monday                             
+1971/07/13     21                  Tuesday                            
+1971/07/14     22                  Wednesday                          
+1971/07/15     23                  Thursday                           
+1971/07/16     24                  Friday                             
+1971/07/17     25                  Saturday                           
+1971/07/18     26                  Sunday                             
+1971/07/19     27                  Monday                             
+1971/07/20     28                  Tuesday                            
+1971/07/21     29                  Wednesday                          
+1971/07/22     6th Lunar month     Thursday                           
+1971/07/23     2                   Friday         Great Heat          
+1971/07/24     3                   Saturday                           
+1971/07/25     4                   Sunday                             
+1971/07/26     5                   Monday                             
+1971/07/27     6                   Tuesday                            
+1971/07/28     7                   Wednesday                          
+1971/07/29     8                   Thursday                           
+1971/07/30     9                   Friday                             
+1971/07/31     10                  Saturday                           
+1971/08/01     11                  Sunday                             
+1971/08/02     12                  Monday                             
+1971/08/03     13                  Tuesday                            
+1971/08/04     14                  Wednesday                          
+1971/08/05     15                  Thursday                           
+1971/08/06     16                  Friday                             
+1971/08/07     17                  Saturday                           
+1971/08/08     18                  Sunday         Autumn Commences    
+1971/08/09     19                  Monday                             
+1971/08/10     20                  Tuesday                            
+1971/08/11     21                  Wednesday                          
+1971/08/12     22                  Thursday                           
+1971/08/13     23                  Friday                             
+1971/08/14     24                  Saturday                           
+1971/08/15     25                  Sunday                             
+1971/08/16     26                  Monday                             
+1971/08/17     27                  Tuesday                            
+1971/08/18     28                  Wednesday                          
+1971/08/19     29                  Thursday                           
+1971/08/20     30                  Friday                             
+1971/08/21     7th Lunar month     Saturday                           
+1971/08/22     2                   Sunday                             
+1971/08/23     3                   Monday                             
+1971/08/24     4                   Tuesday        End of Heat         
+1971/08/25     5                   Wednesday                          
+1971/08/26     6                   Thursday                           
+1971/08/27     7                   Friday                             
+1971/08/28     8                   Saturday                           
+1971/08/29     9                   Sunday                             
+1971/08/30     10                  Monday                             
+1971/08/31     11                  Tuesday                            
+1971/09/01     12                  Wednesday                          
+1971/09/02     13                  Thursday                           
+1971/09/03     14                  Friday                             
+1971/09/04     15                  Saturday                           
+1971/09/05     16                  Sunday                             
+1971/09/06     17                  Monday                             
+1971/09/07     18                  Tuesday                            
+1971/09/08     19                  Wednesday      White Dew           
+1971/09/09     20                  Thursday                           
+1971/09/10     21                  Friday                             
+1971/09/11     22                  Saturday                           
+1971/09/12     23                  Sunday                             
+1971/09/13     24                  Monday                             
+1971/09/14     25                  Tuesday                            
+1971/09/15     26                  Wednesday                          
+1971/09/16     27                  Thursday                           
+1971/09/17     28                  Friday                             
+1971/09/18     29                  Saturday                           
+1971/09/19     8th Lunar month     Sunday                             
+1971/09/20     2                   Monday                             
+1971/09/21     3                   Tuesday                            
+1971/09/22     4                   Wednesday                          
+1971/09/23     5                   Thursday                           
+1971/09/24     6                   Friday         Autumnal Equinox    
+1971/09/25     7                   Saturday                           
+1971/09/26     8                   Sunday                             
+1971/09/27     9                   Monday                             
+1971/09/28     10                  Tuesday                            
+1971/09/29     11                  Wednesday                          
+1971/09/30     12                  Thursday                           
+1971/10/01     13                  Friday                             
+1971/10/02     14                  Saturday                           
+1971/10/03     15                  Sunday                             
+1971/10/04     16                  Monday                             
+1971/10/05     17                  Tuesday                            
+1971/10/06     18                  Wednesday                          
+1971/10/07     19                  Thursday                           
+1971/10/08     20                  Friday                             
+1971/10/09     21                  Saturday       Cold Dew            
+1971/10/10     22                  Sunday                             
+1971/10/11     23                  Monday                             
+1971/10/12     24                  Tuesday                            
+1971/10/13     25                  Wednesday                          
+1971/10/14     26                  Thursday                           
+1971/10/15     27                  Friday                             
+1971/10/16     28                  Saturday                           
+1971/10/17     29                  Sunday                             
+1971/10/18     30                  Monday                             
+1971/10/19     9th Lunar month     Tuesday                            
+1971/10/20     2                   Wednesday                          
+1971/10/21     3                   Thursday                           
+1971/10/22     4                   Friday                             
+1971/10/23     5                   Saturday                           
+1971/10/24     6                   Sunday         Frost               
+1971/10/25     7                   Monday                             
+1971/10/26     8                   Tuesday                            
+1971/10/27     9                   Wednesday                          
+1971/10/28     10                  Thursday                           
+1971/10/29     11                  Friday                             
+1971/10/30     12                  Saturday                           
+1971/10/31     13                  Sunday                             
+1971/11/01     14                  Monday                             
+1971/11/02     15                  Tuesday                            
+1971/11/03     16                  Wednesday                          
+1971/11/04     17                  Thursday                           
+1971/11/05     18                  Friday                             
+1971/11/06     19                  Saturday                           
+1971/11/07     20                  Sunday                             
+1971/11/08     21                  Monday         Winter Commences    
+1971/11/09     22                  Tuesday                            
+1971/11/10     23                  Wednesday                          
+1971/11/11     24                  Thursday                           
+1971/11/12     25                  Friday                             
+1971/11/13     26                  Saturday                           
+1971/11/14     27                  Sunday                             
+1971/11/15     28                  Monday                             
+1971/11/16     29                  Tuesday                            
+1971/11/17     30                  Wednesday                          
+1971/11/18     10th Lunar month    Thursday                           
+1971/11/19     2                   Friday                             
+1971/11/20     3                   Saturday                           
+1971/11/21     4                   Sunday                             
+1971/11/22     5                   Monday                             
+1971/11/23     6                   Tuesday        Light Snow          
+1971/11/24     7                   Wednesday                          
+1971/11/25     8                   Thursday                           
+1971/11/26     9                   Friday                             
+1971/11/27     10                  Saturday                           
+1971/11/28     11                  Sunday                             
+1971/11/29     12                  Monday                             
+1971/11/30     13                  Tuesday                            
+1971/12/01     14                  Wednesday                          
+1971/12/02     15                  Thursday                           
+1971/12/03     16                  Friday                             
+1971/12/04     17                  Saturday                           
+1971/12/05     18                  Sunday                             
+1971/12/06     19                  Monday                             
+1971/12/07     20                  Tuesday                            
+1971/12/08     21                  Wednesday      Heavy Snow          
+1971/12/09     22                  Thursday                           
+1971/12/10     23                  Friday                             
+1971/12/11     24                  Saturday                           
+1971/12/12     25                  Sunday                             
+1971/12/13     26                  Monday                             
+1971/12/14     27                  Tuesday                            
+1971/12/15     28                  Wednesday                          
+1971/12/16     29                  Thursday                           
+1971/12/17     30                  Friday                             
+1971/12/18     11th Lunar month    Saturday                           
+1971/12/19     2                   Sunday                             
+1971/12/20     3                   Monday                             
+1971/12/21     4                   Tuesday                            
+1971/12/22     5                   Wednesday      Winter Solstice     
+1971/12/23     6                   Thursday                           
+1971/12/24     7                   Friday                             
+1971/12/25     8                   Saturday                           
+1971/12/26     9                   Sunday                             
+1971/12/27     10                  Monday                             
+1971/12/28     11                  Tuesday                            
+1971/12/29     12                  Wednesday                          
+1971/12/30     13                  Thursday                           
+1971/12/31     14                  Friday                             
+
+In 1971, summer time was enforced during 18 April to 17 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

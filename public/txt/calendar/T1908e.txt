@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1908 (Wu-shen ¡V year of the Monkey)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1908/01/01     28                  Wednesday                          
+1908/01/02     29                  Thursday                           
+1908/01/03     30                  Friday                             
+1908/01/04     12th Lunar month    Saturday                           
+1908/01/05     2                   Sunday                             
+1908/01/06     3                   Monday                             
+1908/01/07     4                   Tuesday        Moderate Cold       
+1908/01/08     5                   Wednesday                          
+1908/01/09     6                   Thursday                           
+1908/01/10     7                   Friday                             
+1908/01/11     8                   Saturday                           
+1908/01/12     9                   Sunday                             
+1908/01/13     10                  Monday                             
+1908/01/14     11                  Tuesday                            
+1908/01/15     12                  Wednesday                          
+1908/01/16     13                  Thursday                           
+1908/01/17     14                  Friday                             
+1908/01/18     15                  Saturday                           
+1908/01/19     16                  Sunday                             
+1908/01/20     17                  Monday                             
+1908/01/21     18                  Tuesday        Severe Cold         
+1908/01/22     19                  Wednesday                          
+1908/01/23     20                  Thursday                           
+1908/01/24     21                  Friday                             
+1908/01/25     22                  Saturday                           
+1908/01/26     23                  Sunday                             
+1908/01/27     24                  Monday                             
+1908/01/28     25                  Tuesday                            
+1908/01/29     26                  Wednesday                          
+1908/01/30     27                  Thursday                           
+1908/01/31     28                  Friday                             
+1908/02/01     29                  Saturday                           
+1908/02/02     1st Lunar month     Sunday                             
+1908/02/03     2                   Monday                             
+1908/02/04     3                   Tuesday                            
+1908/02/05     4                   Wednesday      Spring Commences    
+1908/02/06     5                   Thursday                           
+1908/02/07     6                   Friday                             
+1908/02/08     7                   Saturday                           
+1908/02/09     8                   Sunday                             
+1908/02/10     9                   Monday                             
+1908/02/11     10                  Tuesday                            
+1908/02/12     11                  Wednesday                          
+1908/02/13     12                  Thursday                           
+1908/02/14     13                  Friday                             
+1908/02/15     14                  Saturday                           
+1908/02/16     15                  Sunday                             
+1908/02/17     16                  Monday                             
+1908/02/18     17                  Tuesday                            
+1908/02/19     18                  Wednesday                          
+1908/02/20     19                  Thursday       Spring Showers      
+1908/02/21     20                  Friday                             
+1908/02/22     21                  Saturday                           
+1908/02/23     22                  Sunday                             
+1908/02/24     23                  Monday                             
+1908/02/25     24                  Tuesday                            
+1908/02/26     25                  Wednesday                          
+1908/02/27     26                  Thursday                           
+1908/02/28     27                  Friday                             
+1908/02/29     28                  Saturday                           
+1908/03/01     29                  Sunday                             
+1908/03/02     30                  Monday                             
+1908/03/03     2nd Lunar month     Tuesday                            
+1908/03/04     2                   Wednesday                          
+1908/03/05     3                   Thursday                           
+1908/03/06     4                   Friday         Insects Waken       
+1908/03/07     5                   Saturday                           
+1908/03/08     6                   Sunday                             
+1908/03/09     7                   Monday                             
+1908/03/10     8                   Tuesday                            
+1908/03/11     9                   Wednesday                          
+1908/03/12     10                  Thursday                           
+1908/03/13     11                  Friday                             
+1908/03/14     12                  Saturday                           
+1908/03/15     13                  Sunday                             
+1908/03/16     14                  Monday                             
+1908/03/17     15                  Tuesday                            
+1908/03/18     16                  Wednesday                          
+1908/03/19     17                  Thursday                           
+1908/03/20     18                  Friday                             
+1908/03/21     19                  Saturday       Vernal Equinox      
+1908/03/22     20                  Sunday                             
+1908/03/23     21                  Monday                             
+1908/03/24     22                  Tuesday                            
+1908/03/25     23                  Wednesday                          
+1908/03/26     24                  Thursday                           
+1908/03/27     25                  Friday                             
+1908/03/28     26                  Saturday                           
+1908/03/29     27                  Sunday                             
+1908/03/30     28                  Monday                             
+1908/03/31     29                  Tuesday                            
+1908/04/01     3rd Lunar month     Wednesday                          
+1908/04/02     2                   Thursday                           
+1908/04/03     3                   Friday                             
+1908/04/04     4                   Saturday                           
+1908/04/05     5                   Sunday         Bright & Clear      
+1908/04/06     6                   Monday                             
+1908/04/07     7                   Tuesday                            
+1908/04/08     8                   Wednesday                          
+1908/04/09     9                   Thursday                           
+1908/04/10     10                  Friday                             
+1908/04/11     11                  Saturday                           
+1908/04/12     12                  Sunday                             
+1908/04/13     13                  Monday                             
+1908/04/14     14                  Tuesday                            
+1908/04/15     15                  Wednesday                          
+1908/04/16     16                  Thursday                           
+1908/04/17     17                  Friday                             
+1908/04/18     18                  Saturday                           
+1908/04/19     19                  Sunday                             
+1908/04/20     20                  Monday         Corn Rain           
+1908/04/21     21                  Tuesday                            
+1908/04/22     22                  Wednesday                          
+1908/04/23     23                  Thursday                           
+1908/04/24     24                  Friday                             
+1908/04/25     25                  Saturday                           
+1908/04/26     26                  Sunday                             
+1908/04/27     27                  Monday                             
+1908/04/28     28                  Tuesday                            
+1908/04/29     29                  Wednesday                          
+1908/04/30     4th Lunar month     Thursday                           
+1908/05/01     2                   Friday                             
+1908/05/02     3                   Saturday                           
+1908/05/03     4                   Sunday                             
+1908/05/04     5                   Monday                             
+1908/05/05     6                   Tuesday                            
+1908/05/06     7                   Wednesday      Summer Commences    
+1908/05/07     8                   Thursday                           
+1908/05/08     9                   Friday                             
+1908/05/09     10                  Saturday                           
+1908/05/10     11                  Sunday                             
+1908/05/11     12                  Monday                             
+1908/05/12     13                  Tuesday                            
+1908/05/13     14                  Wednesday                          
+1908/05/14     15                  Thursday                           
+1908/05/15     16                  Friday                             
+1908/05/16     17                  Saturday                           
+1908/05/17     18                  Sunday                             
+1908/05/18     19                  Monday                             
+1908/05/19     20                  Tuesday                            
+1908/05/20     21                  Wednesday                          
+1908/05/21     22                  Thursday       Corn Forms          
+1908/05/22     23                  Friday                             
+1908/05/23     24                  Saturday                           
+1908/05/24     25                  Sunday                             
+1908/05/25     26                  Monday                             
+1908/05/26     27                  Tuesday                            
+1908/05/27     28                  Wednesday                          
+1908/05/28     29                  Thursday                           
+1908/05/29     30                  Friday                             
+1908/05/30     5th Lunar month     Saturday                           
+1908/05/31     2                   Sunday                             
+1908/06/01     3                   Monday                             
+1908/06/02     4                   Tuesday                            
+1908/06/03     5                   Wednesday                          
+1908/06/04     6                   Thursday                           
+1908/06/05     7                   Friday                             
+1908/06/06     8                   Saturday       Corn on Ear         
+1908/06/07     9                   Sunday                             
+1908/06/08     10                  Monday                             
+1908/06/09     11                  Tuesday                            
+1908/06/10     12                  Wednesday                          
+1908/06/11     13                  Thursday                           
+1908/06/12     14                  Friday                             
+1908/06/13     15                  Saturday                           
+1908/06/14     16                  Sunday                             
+1908/06/15     17                  Monday                             
+1908/06/16     18                  Tuesday                            
+1908/06/17     19                  Wednesday                          
+1908/06/18     20                  Thursday                           
+1908/06/19     21                  Friday                             
+1908/06/20     22                  Saturday                           
+1908/06/21     23                  Sunday                             
+1908/06/22     24                  Monday         Summer Solstice     
+1908/06/23     25                  Tuesday                            
+1908/06/24     26                  Wednesday                          
+1908/06/25     27                  Thursday                           
+1908/06/26     28                  Friday                             
+1908/06/27     29                  Saturday                           
+1908/06/28     30                  Sunday                             
+1908/06/29     6th Lunar month     Monday                             
+1908/06/30     2                   Tuesday                            
+1908/07/01     3                   Wednesday                          
+1908/07/02     4                   Thursday                           
+1908/07/03     5                   Friday                             
+1908/07/04     6                   Saturday                           
+1908/07/05     7                   Sunday                             
+1908/07/06     8                   Monday                             
+1908/07/07     9                   Tuesday        Moderate Heat       
+1908/07/08     10                  Wednesday                          
+1908/07/09     11                  Thursday                           
+1908/07/10     12                  Friday                             
+1908/07/11     13                  Saturday                           
+1908/07/12     14                  Sunday                             
+1908/07/13     15                  Monday                             
+1908/07/14     16                  Tuesday                            
+1908/07/15     17                  Wednesday                          
+1908/07/16     18                  Thursday                           
+1908/07/17     19                  Friday                             
+1908/07/18     20                  Saturday                           
+1908/07/19     21                  Sunday                             
+1908/07/20     22                  Monday                             
+1908/07/21     23                  Tuesday                            
+1908/07/22     24                  Wednesday                          
+1908/07/23     25                  Thursday       Great Heat          
+1908/07/24     26                  Friday                             
+1908/07/25     27                  Saturday                           
+1908/07/26     28                  Sunday                             
+1908/07/27     29                  Monday                             
+1908/07/28     7th Lunar month     Tuesday                            
+1908/07/29     2                   Wednesday                          
+1908/07/30     3                   Thursday                           
+1908/07/31     4                   Friday                             
+1908/08/01     5                   Saturday                           
+1908/08/02     6                   Sunday                             
+1908/08/03     7                   Monday                             
+1908/08/04     8                   Tuesday                            
+1908/08/05     9                   Wednesday                          
+1908/08/06     10                  Thursday                           
+1908/08/07     11                  Friday                             
+1908/08/08     12                  Saturday       Autumn Commences    
+1908/08/09     13                  Sunday                             
+1908/08/10     14                  Monday                             
+1908/08/11     15                  Tuesday                            
+1908/08/12     16                  Wednesday                          
+1908/08/13     17                  Thursday                           
+1908/08/14     18                  Friday                             
+1908/08/15     19                  Saturday                           
+1908/08/16     20                  Sunday                             
+1908/08/17     21                  Monday                             
+1908/08/18     22                  Tuesday                            
+1908/08/19     23                  Wednesday                          
+1908/08/20     24                  Thursday                           
+1908/08/21     25                  Friday                             
+1908/08/22     26                  Saturday                           
+1908/08/23     27                  Sunday         End of Heat         
+1908/08/24     28                  Monday                             
+1908/08/25     29                  Tuesday                            
+1908/08/26     30                  Wednesday                          
+1908/08/27     8th Lunar month     Thursday                           
+1908/08/28     2                   Friday                             
+1908/08/29     3                   Saturday                           
+1908/08/30     4                   Sunday                             
+1908/08/31     5                   Monday                             
+1908/09/01     6                   Tuesday                            
+1908/09/02     7                   Wednesday                          
+1908/09/03     8                   Thursday                           
+1908/09/04     9                   Friday                             
+1908/09/05     10                  Saturday                           
+1908/09/06     11                  Sunday                             
+1908/09/07     12                  Monday                             
+1908/09/08     13                  Tuesday        White Dew           
+1908/09/09     14                  Wednesday                          
+1908/09/10     15                  Thursday                           
+1908/09/11     16                  Friday                             
+1908/09/12     17                  Saturday                           
+1908/09/13     18                  Sunday                             
+1908/09/14     19                  Monday                             
+1908/09/15     20                  Tuesday                            
+1908/09/16     21                  Wednesday                          
+1908/09/17     22                  Thursday                           
+1908/09/18     23                  Friday                             
+1908/09/19     24                  Saturday                           
+1908/09/20     25                  Sunday                             
+1908/09/21     26                  Monday                             
+1908/09/22     27                  Tuesday                            
+1908/09/23     28                  Wednesday      Autumnal Equinox    
+1908/09/24     29                  Thursday                           
+1908/09/25     9th Lunar month     Friday                             
+1908/09/26     2                   Saturday                           
+1908/09/27     3                   Sunday                             
+1908/09/28     4                   Monday                             
+1908/09/29     5                   Tuesday                            
+1908/09/30     6                   Wednesday                          
+1908/10/01     7                   Thursday                           
+1908/10/02     8                   Friday                             
+1908/10/03     9                   Saturday                           
+1908/10/04     10                  Sunday                             
+1908/10/05     11                  Monday                             
+1908/10/06     12                  Tuesday                            
+1908/10/07     13                  Wednesday                          
+1908/10/08     14                  Thursday                           
+1908/10/09     15                  Friday         Cold Dew            
+1908/10/10     16                  Saturday                           
+1908/10/11     17                  Sunday                             
+1908/10/12     18                  Monday                             
+1908/10/13     19                  Tuesday                            
+1908/10/14     20                  Wednesday                          
+1908/10/15     21                  Thursday                           
+1908/10/16     22                  Friday                             
+1908/10/17     23                  Saturday                           
+1908/10/18     24                  Sunday                             
+1908/10/19     25                  Monday                             
+1908/10/20     26                  Tuesday                            
+1908/10/21     27                  Wednesday                          
+1908/10/22     28                  Thursday                           
+1908/10/23     29                  Friday                             
+1908/10/24     30                  Saturday       Frost               
+1908/10/25     10th Lunar month    Sunday                             
+1908/10/26     2                   Monday                             
+1908/10/27     3                   Tuesday                            
+1908/10/28     4                   Wednesday                          
+1908/10/29     5                   Thursday                           
+1908/10/30     6                   Friday                             
+1908/10/31     7                   Saturday                           
+1908/11/01     8                   Sunday                             
+1908/11/02     9                   Monday                             
+1908/11/03     10                  Tuesday                            
+1908/11/04     11                  Wednesday                          
+1908/11/05     12                  Thursday                           
+1908/11/06     13                  Friday                             
+1908/11/07     14                  Saturday                           
+1908/11/08     15                  Sunday         Winter Commences    
+1908/11/09     16                  Monday                             
+1908/11/10     17                  Tuesday                            
+1908/11/11     18                  Wednesday                          
+1908/11/12     19                  Thursday                           
+1908/11/13     20                  Friday                             
+1908/11/14     21                  Saturday                           
+1908/11/15     22                  Sunday                             
+1908/11/16     23                  Monday                             
+1908/11/17     24                  Tuesday                            
+1908/11/18     25                  Wednesday                          
+1908/11/19     26                  Thursday                           
+1908/11/20     27                  Friday                             
+1908/11/21     28                  Saturday                           
+1908/11/22     29                  Sunday                             
+1908/11/23     30                  Monday         Light Snow          
+1908/11/24     11th Lunar month    Tuesday                            
+1908/11/25     2                   Wednesday                          
+1908/11/26     3                   Thursday                           
+1908/11/27     4                   Friday                             
+1908/11/28     5                   Saturday                           
+1908/11/29     6                   Sunday                             
+1908/11/30     7                   Monday                             
+1908/12/01     8                   Tuesday                            
+1908/12/02     9                   Wednesday                          
+1908/12/03     10                  Thursday                           
+1908/12/04     11                  Friday                             
+1908/12/05     12                  Saturday                           
+1908/12/06     13                  Sunday                             
+1908/12/07     14                  Monday         Heavy Snow          
+1908/12/08     15                  Tuesday                            
+1908/12/09     16                  Wednesday                          
+1908/12/10     17                  Thursday                           
+1908/12/11     18                  Friday                             
+1908/12/12     19                  Saturday                           
+1908/12/13     20                  Sunday                             
+1908/12/14     21                  Monday                             
+1908/12/15     22                  Tuesday                            
+1908/12/16     23                  Wednesday                          
+1908/12/17     24                  Thursday                           
+1908/12/18     25                  Friday                             
+1908/12/19     26                  Saturday                           
+1908/12/20     27                  Sunday                             
+1908/12/21     28                  Monday                             
+1908/12/22     29                  Tuesday        Winter Solstice     
+1908/12/23     12th Lunar month    Wednesday                          
+1908/12/24     2                   Thursday                           
+1908/12/25     3                   Friday                             
+1908/12/26     4                   Saturday                           
+1908/12/27     5                   Sunday                             
+1908/12/28     6                   Monday                             
+1908/12/29     7                   Tuesday                            
+1908/12/30     8                   Wednesday                          
+1908/12/31     9                   Thursday                           

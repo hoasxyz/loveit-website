@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1991 (Xin-wei ¡V year of the Goat)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1991/01/01     16                  Tuesday                            
+1991/01/02     17                  Wednesday                          
+1991/01/03     18                  Thursday                           
+1991/01/04     19                  Friday                             
+1991/01/05     20                  Saturday                           
+1991/01/06     21                  Sunday         Moderate Cold       
+1991/01/07     22                  Monday                             
+1991/01/08     23                  Tuesday                            
+1991/01/09     24                  Wednesday                          
+1991/01/10     25                  Thursday                           
+1991/01/11     26                  Friday                             
+1991/01/12     27                  Saturday                           
+1991/01/13     28                  Sunday                             
+1991/01/14     29                  Monday                             
+1991/01/15     30                  Tuesday                            
+1991/01/16     12th Lunar month    Wednesday                          
+1991/01/17     2                   Thursday                           
+1991/01/18     3                   Friday                             
+1991/01/19     4                   Saturday                           
+1991/01/20     5                   Sunday         Severe Cold         
+1991/01/21     6                   Monday                             
+1991/01/22     7                   Tuesday                            
+1991/01/23     8                   Wednesday                          
+1991/01/24     9                   Thursday                           
+1991/01/25     10                  Friday                             
+1991/01/26     11                  Saturday                           
+1991/01/27     12                  Sunday                             
+1991/01/28     13                  Monday                             
+1991/01/29     14                  Tuesday                            
+1991/01/30     15                  Wednesday                          
+1991/01/31     16                  Thursday                           
+1991/02/01     17                  Friday                             
+1991/02/02     18                  Saturday                           
+1991/02/03     19                  Sunday                             
+1991/02/04     20                  Monday         Spring Commences    
+1991/02/05     21                  Tuesday                            
+1991/02/06     22                  Wednesday                          
+1991/02/07     23                  Thursday                           
+1991/02/08     24                  Friday                             
+1991/02/09     25                  Saturday                           
+1991/02/10     26                  Sunday                             
+1991/02/11     27                  Monday                             
+1991/02/12     28                  Tuesday                            
+1991/02/13     29                  Wednesday                          
+1991/02/14     30                  Thursday                           
+1991/02/15     1st Lunar month     Friday                             
+1991/02/16     2                   Saturday                           
+1991/02/17     3                   Sunday                             
+1991/02/18     4                   Monday                             
+1991/02/19     5                   Tuesday        Spring Showers      
+1991/02/20     6                   Wednesday                          
+1991/02/21     7                   Thursday                           
+1991/02/22     8                   Friday                             
+1991/02/23     9                   Saturday                           
+1991/02/24     10                  Sunday                             
+1991/02/25     11                  Monday                             
+1991/02/26     12                  Tuesday                            
+1991/02/27     13                  Wednesday                          
+1991/02/28     14                  Thursday                           
+1991/03/01     15                  Friday                             
+1991/03/02     16                  Saturday                           
+1991/03/03     17                  Sunday                             
+1991/03/04     18                  Monday                             
+1991/03/05     19                  Tuesday                            
+1991/03/06     20                  Wednesday      Insects Waken       
+1991/03/07     21                  Thursday                           
+1991/03/08     22                  Friday                             
+1991/03/09     23                  Saturday                           
+1991/03/10     24                  Sunday                             
+1991/03/11     25                  Monday                             
+1991/03/12     26                  Tuesday                            
+1991/03/13     27                  Wednesday                          
+1991/03/14     28                  Thursday                           
+1991/03/15     29                  Friday                             
+1991/03/16     2nd Lunar month     Saturday                           
+1991/03/17     2                   Sunday                             
+1991/03/18     3                   Monday                             
+1991/03/19     4                   Tuesday                            
+1991/03/20     5                   Wednesday                          
+1991/03/21     6                   Thursday       Vernal Equinox      
+1991/03/22     7                   Friday                             
+1991/03/23     8                   Saturday                           
+1991/03/24     9                   Sunday                             
+1991/03/25     10                  Monday                             
+1991/03/26     11                  Tuesday                            
+1991/03/27     12                  Wednesday                          
+1991/03/28     13                  Thursday                           
+1991/03/29     14                  Friday                             
+1991/03/30     15                  Saturday                           
+1991/03/31     16                  Sunday                             
+1991/04/01     17                  Monday                             
+1991/04/02     18                  Tuesday                            
+1991/04/03     19                  Wednesday                          
+1991/04/04     20                  Thursday                           
+1991/04/05     21                  Friday         Bright & Clear      
+1991/04/06     22                  Saturday                           
+1991/04/07     23                  Sunday                             
+1991/04/08     24                  Monday                             
+1991/04/09     25                  Tuesday                            
+1991/04/10     26                  Wednesday                          
+1991/04/11     27                  Thursday                           
+1991/04/12     28                  Friday                             
+1991/04/13     29                  Saturday                           
+1991/04/14     30                  Sunday                             
+1991/04/15     3rd Lunar month     Monday                             
+1991/04/16     2                   Tuesday                            
+1991/04/17     3                   Wednesday                          
+1991/04/18     4                   Thursday                           
+1991/04/19     5                   Friday                             
+1991/04/20     6                   Saturday       Corn Rain           
+1991/04/21     7                   Sunday                             
+1991/04/22     8                   Monday                             
+1991/04/23     9                   Tuesday                            
+1991/04/24     10                  Wednesday                          
+1991/04/25     11                  Thursday                           
+1991/04/26     12                  Friday                             
+1991/04/27     13                  Saturday                           
+1991/04/28     14                  Sunday                             
+1991/04/29     15                  Monday                             
+1991/04/30     16                  Tuesday                            
+1991/05/01     17                  Wednesday                          
+1991/05/02     18                  Thursday                           
+1991/05/03     19                  Friday                             
+1991/05/04     20                  Saturday                           
+1991/05/05     21                  Sunday                             
+1991/05/06     22                  Monday         Summer Commences    
+1991/05/07     23                  Tuesday                            
+1991/05/08     24                  Wednesday                          
+1991/05/09     25                  Thursday                           
+1991/05/10     26                  Friday                             
+1991/05/11     27                  Saturday                           
+1991/05/12     28                  Sunday                             
+1991/05/13     29                  Monday                             
+1991/05/14     4th Lunar month     Tuesday                            
+1991/05/15     2                   Wednesday                          
+1991/05/16     3                   Thursday                           
+1991/05/17     4                   Friday                             
+1991/05/18     5                   Saturday                           
+1991/05/19     6                   Sunday                             
+1991/05/20     7                   Monday                             
+1991/05/21     8                   Tuesday        Corn Forms          
+1991/05/22     9                   Wednesday                          
+1991/05/23     10                  Thursday                           
+1991/05/24     11                  Friday                             
+1991/05/25     12                  Saturday                           
+1991/05/26     13                  Sunday                             
+1991/05/27     14                  Monday                             
+1991/05/28     15                  Tuesday                            
+1991/05/29     16                  Wednesday                          
+1991/05/30     17                  Thursday                           
+1991/05/31     18                  Friday                             
+1991/06/01     19                  Saturday                           
+1991/06/02     20                  Sunday                             
+1991/06/03     21                  Monday                             
+1991/06/04     22                  Tuesday                            
+1991/06/05     23                  Wednesday                          
+1991/06/06     24                  Thursday       Corn on Ear         
+1991/06/07     25                  Friday                             
+1991/06/08     26                  Saturday                           
+1991/06/09     27                  Sunday                             
+1991/06/10     28                  Monday                             
+1991/06/11     29                  Tuesday                            
+1991/06/12     5th Lunar month     Wednesday                          
+1991/06/13     2                   Thursday                           
+1991/06/14     3                   Friday                             
+1991/06/15     4                   Saturday                           
+1991/06/16     5                   Sunday                             
+1991/06/17     6                   Monday                             
+1991/06/18     7                   Tuesday                            
+1991/06/19     8                   Wednesday                          
+1991/06/20     9                   Thursday                           
+1991/06/21     10                  Friday                             
+1991/06/22     11                  Saturday       Summer Solstice     
+1991/06/23     12                  Sunday                             
+1991/06/24     13                  Monday                             
+1991/06/25     14                  Tuesday                            
+1991/06/26     15                  Wednesday                          
+1991/06/27     16                  Thursday                           
+1991/06/28     17                  Friday                             
+1991/06/29     18                  Saturday                           
+1991/06/30     19                  Sunday                             
+1991/07/01     20                  Monday                             
+1991/07/02     21                  Tuesday                            
+1991/07/03     22                  Wednesday                          
+1991/07/04     23                  Thursday                           
+1991/07/05     24                  Friday                             
+1991/07/06     25                  Saturday                           
+1991/07/07     26                  Sunday         Moderate Heat       
+1991/07/08     27                  Monday                             
+1991/07/09     28                  Tuesday                            
+1991/07/10     29                  Wednesday                          
+1991/07/11     30                  Thursday                           
+1991/07/12     6th Lunar month     Friday                             
+1991/07/13     2                   Saturday                           
+1991/07/14     3                   Sunday                             
+1991/07/15     4                   Monday                             
+1991/07/16     5                   Tuesday                            
+1991/07/17     6                   Wednesday                          
+1991/07/18     7                   Thursday                           
+1991/07/19     8                   Friday                             
+1991/07/20     9                   Saturday                           
+1991/07/21     10                  Sunday                             
+1991/07/22     11                  Monday                             
+1991/07/23     12                  Tuesday        Great Heat          
+1991/07/24     13                  Wednesday                          
+1991/07/25     14                  Thursday                           
+1991/07/26     15                  Friday                             
+1991/07/27     16                  Saturday                           
+1991/07/28     17                  Sunday                             
+1991/07/29     18                  Monday                             
+1991/07/30     19                  Tuesday                            
+1991/07/31     20                  Wednesday                          
+1991/08/01     21                  Thursday                           
+1991/08/02     22                  Friday                             
+1991/08/03     23                  Saturday                           
+1991/08/04     24                  Sunday                             
+1991/08/05     25                  Monday                             
+1991/08/06     26                  Tuesday                            
+1991/08/07     27                  Wednesday                          
+1991/08/08     28                  Thursday       Autumn Commences    
+1991/08/09     29                  Friday                             
+1991/08/10     7th Lunar month     Saturday                           
+1991/08/11     2                   Sunday                             
+1991/08/12     3                   Monday                             
+1991/08/13     4                   Tuesday                            
+1991/08/14     5                   Wednesday                          
+1991/08/15     6                   Thursday                           
+1991/08/16     7                   Friday                             
+1991/08/17     8                   Saturday                           
+1991/08/18     9                   Sunday                             
+1991/08/19     10                  Monday                             
+1991/08/20     11                  Tuesday                            
+1991/08/21     12                  Wednesday                          
+1991/08/22     13                  Thursday                           
+1991/08/23     14                  Friday         End of Heat         
+1991/08/24     15                  Saturday                           
+1991/08/25     16                  Sunday                             
+1991/08/26     17                  Monday                             
+1991/08/27     18                  Tuesday                            
+1991/08/28     19                  Wednesday                          
+1991/08/29     20                  Thursday                           
+1991/08/30     21                  Friday                             
+1991/08/31     22                  Saturday                           
+1991/09/01     23                  Sunday                             
+1991/09/02     24                  Monday                             
+1991/09/03     25                  Tuesday                            
+1991/09/04     26                  Wednesday                          
+1991/09/05     27                  Thursday                           
+1991/09/06     28                  Friday                             
+1991/09/07     29                  Saturday                           
+1991/09/08     8th Lunar month     Sunday         White Dew           
+1991/09/09     2                   Monday                             
+1991/09/10     3                   Tuesday                            
+1991/09/11     4                   Wednesday                          
+1991/09/12     5                   Thursday                           
+1991/09/13     6                   Friday                             
+1991/09/14     7                   Saturday                           
+1991/09/15     8                   Sunday                             
+1991/09/16     9                   Monday                             
+1991/09/17     10                  Tuesday                            
+1991/09/18     11                  Wednesday                          
+1991/09/19     12                  Thursday                           
+1991/09/20     13                  Friday                             
+1991/09/21     14                  Saturday                           
+1991/09/22     15                  Sunday                             
+1991/09/23     16                  Monday         Autumnal Equinox    
+1991/09/24     17                  Tuesday                            
+1991/09/25     18                  Wednesday                          
+1991/09/26     19                  Thursday                           
+1991/09/27     20                  Friday                             
+1991/09/28     21                  Saturday                           
+1991/09/29     22                  Sunday                             
+1991/09/30     23                  Monday                             
+1991/10/01     24                  Tuesday                            
+1991/10/02     25                  Wednesday                          
+1991/10/03     26                  Thursday                           
+1991/10/04     27                  Friday                             
+1991/10/05     28                  Saturday                           
+1991/10/06     29                  Sunday                             
+1991/10/07     30                  Monday                             
+1991/10/08     9th Lunar month     Tuesday                            
+1991/10/09     2                   Wednesday      Cold Dew            
+1991/10/10     3                   Thursday                           
+1991/10/11     4                   Friday                             
+1991/10/12     5                   Saturday                           
+1991/10/13     6                   Sunday                             
+1991/10/14     7                   Monday                             
+1991/10/15     8                   Tuesday                            
+1991/10/16     9                   Wednesday                          
+1991/10/17     10                  Thursday                           
+1991/10/18     11                  Friday                             
+1991/10/19     12                  Saturday                           
+1991/10/20     13                  Sunday                             
+1991/10/21     14                  Monday                             
+1991/10/22     15                  Tuesday                            
+1991/10/23     16                  Wednesday                          
+1991/10/24     17                  Thursday       Frost               
+1991/10/25     18                  Friday                             
+1991/10/26     19                  Saturday                           
+1991/10/27     20                  Sunday                             
+1991/10/28     21                  Monday                             
+1991/10/29     22                  Tuesday                            
+1991/10/30     23                  Wednesday                          
+1991/10/31     24                  Thursday                           
+1991/11/01     25                  Friday                             
+1991/11/02     26                  Saturday                           
+1991/11/03     27                  Sunday                             
+1991/11/04     28                  Monday                             
+1991/11/05     29                  Tuesday                            
+1991/11/06     10th Lunar month    Wednesday                          
+1991/11/07     2                   Thursday                           
+1991/11/08     3                   Friday         Winter Commences    
+1991/11/09     4                   Saturday                           
+1991/11/10     5                   Sunday                             
+1991/11/11     6                   Monday                             
+1991/11/12     7                   Tuesday                            
+1991/11/13     8                   Wednesday                          
+1991/11/14     9                   Thursday                           
+1991/11/15     10                  Friday                             
+1991/11/16     11                  Saturday                           
+1991/11/17     12                  Sunday                             
+1991/11/18     13                  Monday                             
+1991/11/19     14                  Tuesday                            
+1991/11/20     15                  Wednesday                          
+1991/11/21     16                  Thursday                           
+1991/11/22     17                  Friday                             
+1991/11/23     18                  Saturday       Light Snow          
+1991/11/24     19                  Sunday                             
+1991/11/25     20                  Monday                             
+1991/11/26     21                  Tuesday                            
+1991/11/27     22                  Wednesday                          
+1991/11/28     23                  Thursday                           
+1991/11/29     24                  Friday                             
+1991/11/30     25                  Saturday                           
+1991/12/01     26                  Sunday                             
+1991/12/02     27                  Monday                             
+1991/12/03     28                  Tuesday                            
+1991/12/04     29                  Wednesday                          
+1991/12/05     30                  Thursday                           
+1991/12/06     11th Lunar month    Friday                             
+1991/12/07     2                   Saturday       Heavy Snow          
+1991/12/08     3                   Sunday                             
+1991/12/09     4                   Monday                             
+1991/12/10     5                   Tuesday                            
+1991/12/11     6                   Wednesday                          
+1991/12/12     7                   Thursday                           
+1991/12/13     8                   Friday                             
+1991/12/14     9                   Saturday                           
+1991/12/15     10                  Sunday                             
+1991/12/16     11                  Monday                             
+1991/12/17     12                  Tuesday                            
+1991/12/18     13                  Wednesday                          
+1991/12/19     14                  Thursday                           
+1991/12/20     15                  Friday                             
+1991/12/21     16                  Saturday                           
+1991/12/22     17                  Sunday         Winter Solstice     
+1991/12/23     18                  Monday                             
+1991/12/24     19                  Tuesday                            
+1991/12/25     20                  Wednesday                          
+1991/12/26     21                  Thursday                           
+1991/12/27     22                  Friday                             
+1991/12/28     23                  Saturday                           
+1991/12/29     24                  Sunday                             
+1991/12/30     25                  Monday                             
+1991/12/31     26                  Tuesday                            

@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1927 (Ding-mao ¡V year of the Rabbit)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1927/01/01     28                  Saturday                           
+1927/01/02     29                  Sunday                             
+1927/01/03     30                  Monday                             
+1927/01/04     12th Lunar month    Tuesday                            
+1927/01/05     2                   Wednesday                          
+1927/01/06     3                   Thursday       Moderate Cold       
+1927/01/07     4                   Friday                             
+1927/01/08     5                   Saturday                           
+1927/01/09     6                   Sunday                             
+1927/01/10     7                   Monday                             
+1927/01/11     8                   Tuesday                            
+1927/01/12     9                   Wednesday                          
+1927/01/13     10                  Thursday                           
+1927/01/14     11                  Friday                             
+1927/01/15     12                  Saturday                           
+1927/01/16     13                  Sunday                             
+1927/01/17     14                  Monday                             
+1927/01/18     15                  Tuesday                            
+1927/01/19     16                  Wednesday                          
+1927/01/20     17                  Thursday                           
+1927/01/21     18                  Friday         Severe Cold         
+1927/01/22     19                  Saturday                           
+1927/01/23     20                  Sunday                             
+1927/01/24     21                  Monday                             
+1927/01/25     22                  Tuesday                            
+1927/01/26     23                  Wednesday                          
+1927/01/27     24                  Thursday                           
+1927/01/28     25                  Friday                             
+1927/01/29     26                  Saturday                           
+1927/01/30     27                  Sunday                             
+1927/01/31     28                  Monday                             
+1927/02/01     29                  Tuesday                            
+1927/02/02     1st Lunar month     Wednesday                          
+1927/02/03     2                   Thursday                           
+1927/02/04     3                   Friday                             
+1927/02/05     4                   Saturday       Spring Commences    
+1927/02/06     5                   Sunday                             
+1927/02/07     6                   Monday                             
+1927/02/08     7                   Tuesday                            
+1927/02/09     8                   Wednesday                          
+1927/02/10     9                   Thursday                           
+1927/02/11     10                  Friday                             
+1927/02/12     11                  Saturday                           
+1927/02/13     12                  Sunday                             
+1927/02/14     13                  Monday                             
+1927/02/15     14                  Tuesday                            
+1927/02/16     15                  Wednesday                          
+1927/02/17     16                  Thursday                           
+1927/02/18     17                  Friday                             
+1927/02/19     18                  Saturday       Spring Showers      
+1927/02/20     19                  Sunday                             
+1927/02/21     20                  Monday                             
+1927/02/22     21                  Tuesday                            
+1927/02/23     22                  Wednesday                          
+1927/02/24     23                  Thursday                           
+1927/02/25     24                  Friday                             
+1927/02/26     25                  Saturday                           
+1927/02/27     26                  Sunday                             
+1927/02/28     27                  Monday                             
+1927/03/01     28                  Tuesday                            
+1927/03/02     29                  Wednesday                          
+1927/03/03     30                  Thursday                           
+1927/03/04     2nd Lunar month     Friday                             
+1927/03/05     2                   Saturday                           
+1927/03/06     3                   Sunday         Insects Waken       
+1927/03/07     4                   Monday                             
+1927/03/08     5                   Tuesday                            
+1927/03/09     6                   Wednesday                          
+1927/03/10     7                   Thursday                           
+1927/03/11     8                   Friday                             
+1927/03/12     9                   Saturday                           
+1927/03/13     10                  Sunday                             
+1927/03/14     11                  Monday                             
+1927/03/15     12                  Tuesday                            
+1927/03/16     13                  Wednesday                          
+1927/03/17     14                  Thursday                           
+1927/03/18     15                  Friday                             
+1927/03/19     16                  Saturday                           
+1927/03/20     17                  Sunday                             
+1927/03/21     18                  Monday         Vernal Equinox      
+1927/03/22     19                  Tuesday                            
+1927/03/23     20                  Wednesday                          
+1927/03/24     21                  Thursday                           
+1927/03/25     22                  Friday                             
+1927/03/26     23                  Saturday                           
+1927/03/27     24                  Sunday                             
+1927/03/28     25                  Monday                             
+1927/03/29     26                  Tuesday                            
+1927/03/30     27                  Wednesday                          
+1927/03/31     28                  Thursday                           
+1927/04/01     29                  Friday                             
+1927/04/02     3rd Lunar month     Saturday                           
+1927/04/03     2                   Sunday                             
+1927/04/04     3                   Monday                             
+1927/04/05     4                   Tuesday                            
+1927/04/06     5                   Wednesday      Bright & Clear      
+1927/04/07     6                   Thursday                           
+1927/04/08     7                   Friday                             
+1927/04/09     8                   Saturday                           
+1927/04/10     9                   Sunday                             
+1927/04/11     10                  Monday                             
+1927/04/12     11                  Tuesday                            
+1927/04/13     12                  Wednesday                          
+1927/04/14     13                  Thursday                           
+1927/04/15     14                  Friday                             
+1927/04/16     15                  Saturday                           
+1927/04/17     16                  Sunday                             
+1927/04/18     17                  Monday                             
+1927/04/19     18                  Tuesday                            
+1927/04/20     19                  Wednesday                          
+1927/04/21     20                  Thursday       Corn Rain           
+1927/04/22     21                  Friday                             
+1927/04/23     22                  Saturday                           
+1927/04/24     23                  Sunday                             
+1927/04/25     24                  Monday                             
+1927/04/26     25                  Tuesday                            
+1927/04/27     26                  Wednesday                          
+1927/04/28     27                  Thursday                           
+1927/04/29     28                  Friday                             
+1927/04/30     29                  Saturday                           
+1927/05/01     4th Lunar month     Sunday                             
+1927/05/02     2                   Monday                             
+1927/05/03     3                   Tuesday                            
+1927/05/04     4                   Wednesday                          
+1927/05/05     5                   Thursday                           
+1927/05/06     6                   Friday         Summer Commences    
+1927/05/07     7                   Saturday                           
+1927/05/08     8                   Sunday                             
+1927/05/09     9                   Monday                             
+1927/05/10     10                  Tuesday                            
+1927/05/11     11                  Wednesday                          
+1927/05/12     12                  Thursday                           
+1927/05/13     13                  Friday                             
+1927/05/14     14                  Saturday                           
+1927/05/15     15                  Sunday                             
+1927/05/16     16                  Monday                             
+1927/05/17     17                  Tuesday                            
+1927/05/18     18                  Wednesday                          
+1927/05/19     19                  Thursday                           
+1927/05/20     20                  Friday                             
+1927/05/21     21                  Saturday                           
+1927/05/22     22                  Sunday         Corn Forms          
+1927/05/23     23                  Monday                             
+1927/05/24     24                  Tuesday                            
+1927/05/25     25                  Wednesday                          
+1927/05/26     26                  Thursday                           
+1927/05/27     27                  Friday                             
+1927/05/28     28                  Saturday                           
+1927/05/29     29                  Sunday                             
+1927/05/30     30                  Monday                             
+1927/05/31     5th Lunar month     Tuesday                            
+1927/06/01     2                   Wednesday                          
+1927/06/02     3                   Thursday                           
+1927/06/03     4                   Friday                             
+1927/06/04     5                   Saturday                           
+1927/06/05     6                   Sunday                             
+1927/06/06     7                   Monday                             
+1927/06/07     8                   Tuesday        Corn on Ear         
+1927/06/08     9                   Wednesday                          
+1927/06/09     10                  Thursday                           
+1927/06/10     11                  Friday                             
+1927/06/11     12                  Saturday                           
+1927/06/12     13                  Sunday                             
+1927/06/13     14                  Monday                             
+1927/06/14     15                  Tuesday                            
+1927/06/15     16                  Wednesday                          
+1927/06/16     17                  Thursday                           
+1927/06/17     18                  Friday                             
+1927/06/18     19                  Saturday                           
+1927/06/19     20                  Sunday                             
+1927/06/20     21                  Monday                             
+1927/06/21     22                  Tuesday                            
+1927/06/22     23                  Wednesday      Summer Solstice     
+1927/06/23     24                  Thursday                           
+1927/06/24     25                  Friday                             
+1927/06/25     26                  Saturday                           
+1927/06/26     27                  Sunday                             
+1927/06/27     28                  Monday                             
+1927/06/28     29                  Tuesday                            
+1927/06/29     6th Lunar month     Wednesday                          
+1927/06/30     2                   Thursday                           
+1927/07/01     3                   Friday                             
+1927/07/02     4                   Saturday                           
+1927/07/03     5                   Sunday                             
+1927/07/04     6                   Monday                             
+1927/07/05     7                   Tuesday                            
+1927/07/06     8                   Wednesday                          
+1927/07/07     9                   Thursday                           
+1927/07/08     10                  Friday         Moderate Heat       
+1927/07/09     11                  Saturday                           
+1927/07/10     12                  Sunday                             
+1927/07/11     13                  Monday                             
+1927/07/12     14                  Tuesday                            
+1927/07/13     15                  Wednesday                          
+1927/07/14     16                  Thursday                           
+1927/07/15     17                  Friday                             
+1927/07/16     18                  Saturday                           
+1927/07/17     19                  Sunday                             
+1927/07/18     20                  Monday                             
+1927/07/19     21                  Tuesday                            
+1927/07/20     22                  Wednesday                          
+1927/07/21     23                  Thursday                           
+1927/07/22     24                  Friday                             
+1927/07/23     25                  Saturday                           
+1927/07/24     26                  Sunday         Great Heat          
+1927/07/25     27                  Monday                             
+1927/07/26     28                  Tuesday                            
+1927/07/27     29                  Wednesday                          
+1927/07/28     30                  Thursday                           
+1927/07/29     7th Lunar month     Friday                             
+1927/07/30     2                   Saturday                           
+1927/07/31     3                   Sunday                             
+1927/08/01     4                   Monday                             
+1927/08/02     5                   Tuesday                            
+1927/08/03     6                   Wednesday                          
+1927/08/04     7                   Thursday                           
+1927/08/05     8                   Friday                             
+1927/08/06     9                   Saturday                           
+1927/08/07     10                  Sunday                             
+1927/08/08     11                  Monday         Autumn Commences    
+1927/08/09     12                  Tuesday                            
+1927/08/10     13                  Wednesday                          
+1927/08/11     14                  Thursday                           
+1927/08/12     15                  Friday                             
+1927/08/13     16                  Saturday                           
+1927/08/14     17                  Sunday                             
+1927/08/15     18                  Monday                             
+1927/08/16     19                  Tuesday                            
+1927/08/17     20                  Wednesday                          
+1927/08/18     21                  Thursday                           
+1927/08/19     22                  Friday                             
+1927/08/20     23                  Saturday                           
+1927/08/21     24                  Sunday                             
+1927/08/22     25                  Monday                             
+1927/08/23     26                  Tuesday                            
+1927/08/24     27                  Wednesday      End of Heat         
+1927/08/25     28                  Thursday                           
+1927/08/26     29                  Friday                             
+1927/08/27     8th Lunar month     Saturday                           
+1927/08/28     2                   Sunday                             
+1927/08/29     3                   Monday                             
+1927/08/30     4                   Tuesday                            
+1927/08/31     5                   Wednesday                          
+1927/09/01     6                   Thursday                           
+1927/09/02     7                   Friday                             
+1927/09/03     8                   Saturday                           
+1927/09/04     9                   Sunday                             
+1927/09/05     10                  Monday                             
+1927/09/06     11                  Tuesday                            
+1927/09/07     12                  Wednesday                          
+1927/09/08     13                  Thursday       White Dew           
+1927/09/09     14                  Friday                             
+1927/09/10     15                  Saturday                           
+1927/09/11     16                  Sunday                             
+1927/09/12     17                  Monday                             
+1927/09/13     18                  Tuesday                            
+1927/09/14     19                  Wednesday                          
+1927/09/15     20                  Thursday                           
+1927/09/16     21                  Friday                             
+1927/09/17     22                  Saturday                           
+1927/09/18     23                  Sunday                             
+1927/09/19     24                  Monday                             
+1927/09/20     25                  Tuesday                            
+1927/09/21     26                  Wednesday                          
+1927/09/22     27                  Thursday                           
+1927/09/23     28                  Friday                             
+1927/09/24     29                  Saturday       Autumnal Equinox    
+1927/09/25     30                  Sunday                             
+1927/09/26     9th Lunar month     Monday                             
+1927/09/27     2                   Tuesday                            
+1927/09/28     3                   Wednesday                          
+1927/09/29     4                   Thursday                           
+1927/09/30     5                   Friday                             
+1927/10/01     6                   Saturday                           
+1927/10/02     7                   Sunday                             
+1927/10/03     8                   Monday                             
+1927/10/04     9                   Tuesday                            
+1927/10/05     10                  Wednesday                          
+1927/10/06     11                  Thursday                           
+1927/10/07     12                  Friday                             
+1927/10/08     13                  Saturday                           
+1927/10/09     14                  Sunday         Cold Dew            
+1927/10/10     15                  Monday                             
+1927/10/11     16                  Tuesday                            
+1927/10/12     17                  Wednesday                          
+1927/10/13     18                  Thursday                           
+1927/10/14     19                  Friday                             
+1927/10/15     20                  Saturday                           
+1927/10/16     21                  Sunday                             
+1927/10/17     22                  Monday                             
+1927/10/18     23                  Tuesday                            
+1927/10/19     24                  Wednesday                          
+1927/10/20     25                  Thursday                           
+1927/10/21     26                  Friday                             
+1927/10/22     27                  Saturday                           
+1927/10/23     28                  Sunday                             
+1927/10/24     29                  Monday         Frost               
+1927/10/25     10th Lunar month    Tuesday                            
+1927/10/26     2                   Wednesday                          
+1927/10/27     3                   Thursday                           
+1927/10/28     4                   Friday                             
+1927/10/29     5                   Saturday                           
+1927/10/30     6                   Sunday                             
+1927/10/31     7                   Monday                             
+1927/11/01     8                   Tuesday                            
+1927/11/02     9                   Wednesday                          
+1927/11/03     10                  Thursday                           
+1927/11/04     11                  Friday                             
+1927/11/05     12                  Saturday                           
+1927/11/06     13                  Sunday                             
+1927/11/07     14                  Monday                             
+1927/11/08     15                  Tuesday        Winter Commences    
+1927/11/09     16                  Wednesday                          
+1927/11/10     17                  Thursday                           
+1927/11/11     18                  Friday                             
+1927/11/12     19                  Saturday                           
+1927/11/13     20                  Sunday                             
+1927/11/14     21                  Monday                             
+1927/11/15     22                  Tuesday                            
+1927/11/16     23                  Wednesday                          
+1927/11/17     24                  Thursday                           
+1927/11/18     25                  Friday                             
+1927/11/19     26                  Saturday                           
+1927/11/20     27                  Sunday                             
+1927/11/21     28                  Monday                             
+1927/11/22     29                  Tuesday                            
+1927/11/23     30                  Wednesday      Light Snow          
+1927/11/24     11th Lunar month    Thursday                           
+1927/11/25     2                   Friday                             
+1927/11/26     3                   Saturday                           
+1927/11/27     4                   Sunday                             
+1927/11/28     5                   Monday                             
+1927/11/29     6                   Tuesday                            
+1927/11/30     7                   Wednesday                          
+1927/12/01     8                   Thursday                           
+1927/12/02     9                   Friday                             
+1927/12/03     10                  Saturday                           
+1927/12/04     11                  Sunday                             
+1927/12/05     12                  Monday                             
+1927/12/06     13                  Tuesday                            
+1927/12/07     14                  Wednesday                          
+1927/12/08     15                  Thursday       Heavy Snow          
+1927/12/09     16                  Friday                             
+1927/12/10     17                  Saturday                           
+1927/12/11     18                  Sunday                             
+1927/12/12     19                  Monday                             
+1927/12/13     20                  Tuesday                            
+1927/12/14     21                  Wednesday                          
+1927/12/15     22                  Thursday                           
+1927/12/16     23                  Friday                             
+1927/12/17     24                  Saturday                           
+1927/12/18     25                  Sunday                             
+1927/12/19     26                  Monday                             
+1927/12/20     27                  Tuesday                            
+1927/12/21     28                  Wednesday                          
+1927/12/22     29                  Thursday                           
+1927/12/23     30                  Friday         Winter Solstice     
+1927/12/24     12th Lunar month    Saturday                           
+1927/12/25     2                   Sunday                             
+1927/12/26     3                   Monday                             
+1927/12/27     4                   Tuesday                            
+1927/12/28     5                   Wednesday                          
+1927/12/29     6                   Thursday                           
+1927/12/30     7                   Friday                             
+1927/12/31     8                   Saturday                           

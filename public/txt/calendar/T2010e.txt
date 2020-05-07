@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2010 (Geng-yin ¡V year of the Tiger)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2010/01/01     17                  Friday                             
+2010/01/02     18                  Saturday                           
+2010/01/03     19                  Sunday                             
+2010/01/04     20                  Monday                             
+2010/01/05     21                  Tuesday        Moderate Cold       
+2010/01/06     22                  Wednesday                          
+2010/01/07     23                  Thursday                           
+2010/01/08     24                  Friday                             
+2010/01/09     25                  Saturday                           
+2010/01/10     26                  Sunday                             
+2010/01/11     27                  Monday                             
+2010/01/12     28                  Tuesday                            
+2010/01/13     29                  Wednesday                          
+2010/01/14     30                  Thursday                           
+2010/01/15     12th Lunar month    Friday                             
+2010/01/16     2                   Saturday                           
+2010/01/17     3                   Sunday                             
+2010/01/18     4                   Monday                             
+2010/01/19     5                   Tuesday                            
+2010/01/20     6                   Wednesday      Severe Cold         
+2010/01/21     7                   Thursday                           
+2010/01/22     8                   Friday                             
+2010/01/23     9                   Saturday                           
+2010/01/24     10                  Sunday                             
+2010/01/25     11                  Monday                             
+2010/01/26     12                  Tuesday                            
+2010/01/27     13                  Wednesday                          
+2010/01/28     14                  Thursday                           
+2010/01/29     15                  Friday                             
+2010/01/30     16                  Saturday                           
+2010/01/31     17                  Sunday                             
+2010/02/01     18                  Monday                             
+2010/02/02     19                  Tuesday                            
+2010/02/03     20                  Wednesday                          
+2010/02/04     21                  Thursday       Spring Commences    
+2010/02/05     22                  Friday                             
+2010/02/06     23                  Saturday                           
+2010/02/07     24                  Sunday                             
+2010/02/08     25                  Monday                             
+2010/02/09     26                  Tuesday                            
+2010/02/10     27                  Wednesday                          
+2010/02/11     28                  Thursday                           
+2010/02/12     29                  Friday                             
+2010/02/13     30                  Saturday                           
+2010/02/14     1st Lunar month     Sunday                             
+2010/02/15     2                   Monday                             
+2010/02/16     3                   Tuesday                            
+2010/02/17     4                   Wednesday                          
+2010/02/18     5                   Thursday                           
+2010/02/19     6                   Friday         Spring Showers      
+2010/02/20     7                   Saturday                           
+2010/02/21     8                   Sunday                             
+2010/02/22     9                   Monday                             
+2010/02/23     10                  Tuesday                            
+2010/02/24     11                  Wednesday                          
+2010/02/25     12                  Thursday                           
+2010/02/26     13                  Friday                             
+2010/02/27     14                  Saturday                           
+2010/02/28     15                  Sunday                             
+2010/03/01     16                  Monday                             
+2010/03/02     17                  Tuesday                            
+2010/03/03     18                  Wednesday                          
+2010/03/04     19                  Thursday                           
+2010/03/05     20                  Friday                             
+2010/03/06     21                  Saturday       Insects Waken       
+2010/03/07     22                  Sunday                             
+2010/03/08     23                  Monday                             
+2010/03/09     24                  Tuesday                            
+2010/03/10     25                  Wednesday                          
+2010/03/11     26                  Thursday                           
+2010/03/12     27                  Friday                             
+2010/03/13     28                  Saturday                           
+2010/03/14     29                  Sunday                             
+2010/03/15     30                  Monday                             
+2010/03/16     2nd Lunar month     Tuesday                            
+2010/03/17     2                   Wednesday                          
+2010/03/18     3                   Thursday                           
+2010/03/19     4                   Friday                             
+2010/03/20     5                   Saturday                           
+2010/03/21     6                   Sunday         Vernal Equinox      
+2010/03/22     7                   Monday                             
+2010/03/23     8                   Tuesday                            
+2010/03/24     9                   Wednesday                          
+2010/03/25     10                  Thursday                           
+2010/03/26     11                  Friday                             
+2010/03/27     12                  Saturday                           
+2010/03/28     13                  Sunday                             
+2010/03/29     14                  Monday                             
+2010/03/30     15                  Tuesday                            
+2010/03/31     16                  Wednesday                          
+2010/04/01     17                  Thursday                           
+2010/04/02     18                  Friday                             
+2010/04/03     19                  Saturday                           
+2010/04/04     20                  Sunday                             
+2010/04/05     21                  Monday         Bright & Clear      
+2010/04/06     22                  Tuesday                            
+2010/04/07     23                  Wednesday                          
+2010/04/08     24                  Thursday                           
+2010/04/09     25                  Friday                             
+2010/04/10     26                  Saturday                           
+2010/04/11     27                  Sunday                             
+2010/04/12     28                  Monday                             
+2010/04/13     29                  Tuesday                            
+2010/04/14     3rd Lunar month     Wednesday                          
+2010/04/15     2                   Thursday                           
+2010/04/16     3                   Friday                             
+2010/04/17     4                   Saturday                           
+2010/04/18     5                   Sunday                             
+2010/04/19     6                   Monday                             
+2010/04/20     7                   Tuesday        Corn Rain           
+2010/04/21     8                   Wednesday                          
+2010/04/22     9                   Thursday                           
+2010/04/23     10                  Friday                             
+2010/04/24     11                  Saturday                           
+2010/04/25     12                  Sunday                             
+2010/04/26     13                  Monday                             
+2010/04/27     14                  Tuesday                            
+2010/04/28     15                  Wednesday                          
+2010/04/29     16                  Thursday                           
+2010/04/30     17                  Friday                             
+2010/05/01     18                  Saturday                           
+2010/05/02     19                  Sunday                             
+2010/05/03     20                  Monday                             
+2010/05/04     21                  Tuesday                            
+2010/05/05     22                  Wednesday      Summer Commences    
+2010/05/06     23                  Thursday                           
+2010/05/07     24                  Friday                             
+2010/05/08     25                  Saturday                           
+2010/05/09     26                  Sunday                             
+2010/05/10     27                  Monday                             
+2010/05/11     28                  Tuesday                            
+2010/05/12     29                  Wednesday                          
+2010/05/13     30                  Thursday                           
+2010/05/14     4th Lunar month     Friday                             
+2010/05/15     2                   Saturday                           
+2010/05/16     3                   Sunday                             
+2010/05/17     4                   Monday                             
+2010/05/18     5                   Tuesday                            
+2010/05/19     6                   Wednesday                          
+2010/05/20     7                   Thursday                           
+2010/05/21     8                   Friday         Corn Forms          
+2010/05/22     9                   Saturday                           
+2010/05/23     10                  Sunday                             
+2010/05/24     11                  Monday                             
+2010/05/25     12                  Tuesday                            
+2010/05/26     13                  Wednesday                          
+2010/05/27     14                  Thursday                           
+2010/05/28     15                  Friday                             
+2010/05/29     16                  Saturday                           
+2010/05/30     17                  Sunday                             
+2010/05/31     18                  Monday                             
+2010/06/01     19                  Tuesday                            
+2010/06/02     20                  Wednesday                          
+2010/06/03     21                  Thursday                           
+2010/06/04     22                  Friday                             
+2010/06/05     23                  Saturday                           
+2010/06/06     24                  Sunday         Corn on Ear         
+2010/06/07     25                  Monday                             
+2010/06/08     26                  Tuesday                            
+2010/06/09     27                  Wednesday                          
+2010/06/10     28                  Thursday                           
+2010/06/11     29                  Friday                             
+2010/06/12     5th Lunar month     Saturday                           
+2010/06/13     2                   Sunday                             
+2010/06/14     3                   Monday                             
+2010/06/15     4                   Tuesday                            
+2010/06/16     5                   Wednesday                          
+2010/06/17     6                   Thursday                           
+2010/06/18     7                   Friday                             
+2010/06/19     8                   Saturday                           
+2010/06/20     9                   Sunday                             
+2010/06/21     10                  Monday         Summer Solstice     
+2010/06/22     11                  Tuesday                            
+2010/06/23     12                  Wednesday                          
+2010/06/24     13                  Thursday                           
+2010/06/25     14                  Friday                             
+2010/06/26     15                  Saturday                           
+2010/06/27     16                  Sunday                             
+2010/06/28     17                  Monday                             
+2010/06/29     18                  Tuesday                            
+2010/06/30     19                  Wednesday                          
+2010/07/01     20                  Thursday                           
+2010/07/02     21                  Friday                             
+2010/07/03     22                  Saturday                           
+2010/07/04     23                  Sunday                             
+2010/07/05     24                  Monday                             
+2010/07/06     25                  Tuesday                            
+2010/07/07     26                  Wednesday      Moderate Heat       
+2010/07/08     27                  Thursday                           
+2010/07/09     28                  Friday                             
+2010/07/10     29                  Saturday                           
+2010/07/11     30                  Sunday                             
+2010/07/12     6th Lunar month     Monday                             
+2010/07/13     2                   Tuesday                            
+2010/07/14     3                   Wednesday                          
+2010/07/15     4                   Thursday                           
+2010/07/16     5                   Friday                             
+2010/07/17     6                   Saturday                           
+2010/07/18     7                   Sunday                             
+2010/07/19     8                   Monday                             
+2010/07/20     9                   Tuesday                            
+2010/07/21     10                  Wednesday                          
+2010/07/22     11                  Thursday                           
+2010/07/23     12                  Friday         Great Heat          
+2010/07/24     13                  Saturday                           
+2010/07/25     14                  Sunday                             
+2010/07/26     15                  Monday                             
+2010/07/27     16                  Tuesday                            
+2010/07/28     17                  Wednesday                          
+2010/07/29     18                  Thursday                           
+2010/07/30     19                  Friday                             
+2010/07/31     20                  Saturday                           
+2010/08/01     21                  Sunday                             
+2010/08/02     22                  Monday                             
+2010/08/03     23                  Tuesday                            
+2010/08/04     24                  Wednesday                          
+2010/08/05     25                  Thursday                           
+2010/08/06     26                  Friday                             
+2010/08/07     27                  Saturday       Autumn Commences    
+2010/08/08     28                  Sunday                             
+2010/08/09     29                  Monday                             
+2010/08/10     7th Lunar month     Tuesday                            
+2010/08/11     2                   Wednesday                          
+2010/08/12     3                   Thursday                           
+2010/08/13     4                   Friday                             
+2010/08/14     5                   Saturday                           
+2010/08/15     6                   Sunday                             
+2010/08/16     7                   Monday                             
+2010/08/17     8                   Tuesday                            
+2010/08/18     9                   Wednesday                          
+2010/08/19     10                  Thursday                           
+2010/08/20     11                  Friday                             
+2010/08/21     12                  Saturday                           
+2010/08/22     13                  Sunday                             
+2010/08/23     14                  Monday         End of Heat         
+2010/08/24     15                  Tuesday                            
+2010/08/25     16                  Wednesday                          
+2010/08/26     17                  Thursday                           
+2010/08/27     18                  Friday                             
+2010/08/28     19                  Saturday                           
+2010/08/29     20                  Sunday                             
+2010/08/30     21                  Monday                             
+2010/08/31     22                  Tuesday                            
+2010/09/01     23                  Wednesday                          
+2010/09/02     24                  Thursday                           
+2010/09/03     25                  Friday                             
+2010/09/04     26                  Saturday                           
+2010/09/05     27                  Sunday                             
+2010/09/06     28                  Monday                             
+2010/09/07     29                  Tuesday                            
+2010/09/08     8th Lunar month     Wednesday      White Dew           
+2010/09/09     2                   Thursday                           
+2010/09/10     3                   Friday                             
+2010/09/11     4                   Saturday                           
+2010/09/12     5                   Sunday                             
+2010/09/13     6                   Monday                             
+2010/09/14     7                   Tuesday                            
+2010/09/15     8                   Wednesday                          
+2010/09/16     9                   Thursday                           
+2010/09/17     10                  Friday                             
+2010/09/18     11                  Saturday                           
+2010/09/19     12                  Sunday                             
+2010/09/20     13                  Monday                             
+2010/09/21     14                  Tuesday                            
+2010/09/22     15                  Wednesday                          
+2010/09/23     16                  Thursday       Autumnal Equinox    
+2010/09/24     17                  Friday                             
+2010/09/25     18                  Saturday                           
+2010/09/26     19                  Sunday                             
+2010/09/27     20                  Monday                             
+2010/09/28     21                  Tuesday                            
+2010/09/29     22                  Wednesday                          
+2010/09/30     23                  Thursday                           
+2010/10/01     24                  Friday                             
+2010/10/02     25                  Saturday                           
+2010/10/03     26                  Sunday                             
+2010/10/04     27                  Monday                             
+2010/10/05     28                  Tuesday                            
+2010/10/06     29                  Wednesday                          
+2010/10/07     30                  Thursday                           
+2010/10/08     9th Lunar month     Friday         Cold Dew            
+2010/10/09     2                   Saturday                           
+2010/10/10     3                   Sunday                             
+2010/10/11     4                   Monday                             
+2010/10/12     5                   Tuesday                            
+2010/10/13     6                   Wednesday                          
+2010/10/14     7                   Thursday                           
+2010/10/15     8                   Friday                             
+2010/10/16     9                   Saturday                           
+2010/10/17     10                  Sunday                             
+2010/10/18     11                  Monday                             
+2010/10/19     12                  Tuesday                            
+2010/10/20     13                  Wednesday                          
+2010/10/21     14                  Thursday                           
+2010/10/22     15                  Friday                             
+2010/10/23     16                  Saturday       Frost               
+2010/10/24     17                  Sunday                             
+2010/10/25     18                  Monday                             
+2010/10/26     19                  Tuesday                            
+2010/10/27     20                  Wednesday                          
+2010/10/28     21                  Thursday                           
+2010/10/29     22                  Friday                             
+2010/10/30     23                  Saturday                           
+2010/10/31     24                  Sunday                             
+2010/11/01     25                  Monday                             
+2010/11/02     26                  Tuesday                            
+2010/11/03     27                  Wednesday                          
+2010/11/04     28                  Thursday                           
+2010/11/05     29                  Friday                             
+2010/11/06     10th Lunar month    Saturday                           
+2010/11/07     2                   Sunday         Winter Commences    
+2010/11/08     3                   Monday                             
+2010/11/09     4                   Tuesday                            
+2010/11/10     5                   Wednesday                          
+2010/11/11     6                   Thursday                           
+2010/11/12     7                   Friday                             
+2010/11/13     8                   Saturday                           
+2010/11/14     9                   Sunday                             
+2010/11/15     10                  Monday                             
+2010/11/16     11                  Tuesday                            
+2010/11/17     12                  Wednesday                          
+2010/11/18     13                  Thursday                           
+2010/11/19     14                  Friday                             
+2010/11/20     15                  Saturday                           
+2010/11/21     16                  Sunday                             
+2010/11/22     17                  Monday         Light Snow          
+2010/11/23     18                  Tuesday                            
+2010/11/24     19                  Wednesday                          
+2010/11/25     20                  Thursday                           
+2010/11/26     21                  Friday                             
+2010/11/27     22                  Saturday                           
+2010/11/28     23                  Sunday                             
+2010/11/29     24                  Monday                             
+2010/11/30     25                  Tuesday                            
+2010/12/01     26                  Wednesday                          
+2010/12/02     27                  Thursday                           
+2010/12/03     28                  Friday                             
+2010/12/04     29                  Saturday                           
+2010/12/05     30                  Sunday                             
+2010/12/06     11th Lunar month    Monday                             
+2010/12/07     2                   Tuesday        Heavy Snow          
+2010/12/08     3                   Wednesday                          
+2010/12/09     4                   Thursday                           
+2010/12/10     5                   Friday                             
+2010/12/11     6                   Saturday                           
+2010/12/12     7                   Sunday                             
+2010/12/13     8                   Monday                             
+2010/12/14     9                   Tuesday                            
+2010/12/15     10                  Wednesday                          
+2010/12/16     11                  Thursday                           
+2010/12/17     12                  Friday                             
+2010/12/18     13                  Saturday                           
+2010/12/19     14                  Sunday                             
+2010/12/20     15                  Monday                             
+2010/12/21     16                  Tuesday                            
+2010/12/22     17                  Wednesday      Winter Solstice     
+2010/12/23     18                  Thursday                           
+2010/12/24     19                  Friday                             
+2010/12/25     20                  Saturday                           
+2010/12/26     21                  Sunday                             
+2010/12/27     22                  Monday                             
+2010/12/28     23                  Tuesday                            
+2010/12/29     24                  Wednesday                          
+2010/12/30     25                  Thursday                           
+2010/12/31     26                  Friday                             

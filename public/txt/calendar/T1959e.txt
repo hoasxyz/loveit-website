@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1959 (Ji-hai ¡V year of the Pig)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1959/01/01     22                  Thursday                           
+1959/01/02     23                  Friday                             
+1959/01/03     24                  Saturday                           
+1959/01/04     25                  Sunday                             
+1959/01/05     26                  Monday                             
+1959/01/06     27                  Tuesday        Moderate Cold       
+1959/01/07     28                  Wednesday                          
+1959/01/08     29                  Thursday                           
+1959/01/09     12th Lunar month    Friday                             
+1959/01/10     2                   Saturday                           
+1959/01/11     3                   Sunday                             
+1959/01/12     4                   Monday                             
+1959/01/13     5                   Tuesday                            
+1959/01/14     6                   Wednesday                          
+1959/01/15     7                   Thursday                           
+1959/01/16     8                   Friday                             
+1959/01/17     9                   Saturday                           
+1959/01/18     10                  Sunday                             
+1959/01/19     11                  Monday                             
+1959/01/20     12                  Tuesday                            
+1959/01/21     13                  Wednesday      Severe Cold         
+1959/01/22     14                  Thursday                           
+1959/01/23     15                  Friday                             
+1959/01/24     16                  Saturday                           
+1959/01/25     17                  Sunday                             
+1959/01/26     18                  Monday                             
+1959/01/27     19                  Tuesday                            
+1959/01/28     20                  Wednesday                          
+1959/01/29     21                  Thursday                           
+1959/01/30     22                  Friday                             
+1959/01/31     23                  Saturday                           
+1959/02/01     24                  Sunday                             
+1959/02/02     25                  Monday                             
+1959/02/03     26                  Tuesday                            
+1959/02/04     27                  Wednesday      Spring Commences    
+1959/02/05     28                  Thursday                           
+1959/02/06     29                  Friday                             
+1959/02/07     30                  Saturday                           
+1959/02/08     1st Lunar month     Sunday                             
+1959/02/09     2                   Monday                             
+1959/02/10     3                   Tuesday                            
+1959/02/11     4                   Wednesday                          
+1959/02/12     5                   Thursday                           
+1959/02/13     6                   Friday                             
+1959/02/14     7                   Saturday                           
+1959/02/15     8                   Sunday                             
+1959/02/16     9                   Monday                             
+1959/02/17     10                  Tuesday                            
+1959/02/18     11                  Wednesday                          
+1959/02/19     12                  Thursday       Spring Showers      
+1959/02/20     13                  Friday                             
+1959/02/21     14                  Saturday                           
+1959/02/22     15                  Sunday                             
+1959/02/23     16                  Monday                             
+1959/02/24     17                  Tuesday                            
+1959/02/25     18                  Wednesday                          
+1959/02/26     19                  Thursday                           
+1959/02/27     20                  Friday                             
+1959/02/28     21                  Saturday                           
+1959/03/01     22                  Sunday                             
+1959/03/02     23                  Monday                             
+1959/03/03     24                  Tuesday                            
+1959/03/04     25                  Wednesday                          
+1959/03/05     26                  Thursday                           
+1959/03/06     27                  Friday         Insects Waken       
+1959/03/07     28                  Saturday                           
+1959/03/08     29                  Sunday                             
+1959/03/09     2nd Lunar month     Monday                             
+1959/03/10     2                   Tuesday                            
+1959/03/11     3                   Wednesday                          
+1959/03/12     4                   Thursday                           
+1959/03/13     5                   Friday                             
+1959/03/14     6                   Saturday                           
+1959/03/15     7                   Sunday                             
+1959/03/16     8                   Monday                             
+1959/03/17     9                   Tuesday                            
+1959/03/18     10                  Wednesday                          
+1959/03/19     11                  Thursday                           
+1959/03/20     12                  Friday                             
+1959/03/21     13                  Saturday       Vernal Equinox      
+1959/03/22     14                  Sunday                             
+1959/03/23     15                  Monday                             
+1959/03/24     16                  Tuesday                            
+1959/03/25     17                  Wednesday                          
+1959/03/26     18                  Thursday                           
+1959/03/27     19                  Friday                             
+1959/03/28     20                  Saturday                           
+1959/03/29     21                  Sunday                             
+1959/03/30     22                  Monday                             
+1959/03/31     23                  Tuesday                            
+1959/04/01     24                  Wednesday                          
+1959/04/02     25                  Thursday                           
+1959/04/03     26                  Friday                             
+1959/04/04     27                  Saturday                           
+1959/04/05     28                  Sunday         Bright & Clear      
+1959/04/06     29                  Monday                             
+1959/04/07     30                  Tuesday                            
+1959/04/08     3rd Lunar month     Wednesday                          
+1959/04/09     2                   Thursday                           
+1959/04/10     3                   Friday                             
+1959/04/11     4                   Saturday                           
+1959/04/12     5                   Sunday                             
+1959/04/13     6                   Monday                             
+1959/04/14     7                   Tuesday                            
+1959/04/15     8                   Wednesday                          
+1959/04/16     9                   Thursday                           
+1959/04/17     10                  Friday                             
+1959/04/18     11                  Saturday                           
+1959/04/19     12                  Sunday                             
+1959/04/20     13                  Monday                             
+1959/04/21     14                  Tuesday        Corn Rain           
+1959/04/22     15                  Wednesday                          
+1959/04/23     16                  Thursday                           
+1959/04/24     17                  Friday                             
+1959/04/25     18                  Saturday                           
+1959/04/26     19                  Sunday                             
+1959/04/27     20                  Monday                             
+1959/04/28     21                  Tuesday                            
+1959/04/29     22                  Wednesday                          
+1959/04/30     23                  Thursday                           
+1959/05/01     24                  Friday                             
+1959/05/02     25                  Saturday                           
+1959/05/03     26                  Sunday                             
+1959/05/04     27                  Monday                             
+1959/05/05     28                  Tuesday                            
+1959/05/06     29                  Wednesday      Summer Commences    
+1959/05/07     30                  Thursday                           
+1959/05/08     4th Lunar month     Friday                             
+1959/05/09     2                   Saturday                           
+1959/05/10     3                   Sunday                             
+1959/05/11     4                   Monday                             
+1959/05/12     5                   Tuesday                            
+1959/05/13     6                   Wednesday                          
+1959/05/14     7                   Thursday                           
+1959/05/15     8                   Friday                             
+1959/05/16     9                   Saturday                           
+1959/05/17     10                  Sunday                             
+1959/05/18     11                  Monday                             
+1959/05/19     12                  Tuesday                            
+1959/05/20     13                  Wednesday                          
+1959/05/21     14                  Thursday                           
+1959/05/22     15                  Friday         Corn Forms          
+1959/05/23     16                  Saturday                           
+1959/05/24     17                  Sunday                             
+1959/05/25     18                  Monday                             
+1959/05/26     19                  Tuesday                            
+1959/05/27     20                  Wednesday                          
+1959/05/28     21                  Thursday                           
+1959/05/29     22                  Friday                             
+1959/05/30     23                  Saturday                           
+1959/05/31     24                  Sunday                             
+1959/06/01     25                  Monday                             
+1959/06/02     26                  Tuesday                            
+1959/06/03     27                  Wednesday                          
+1959/06/04     28                  Thursday                           
+1959/06/05     29                  Friday                             
+1959/06/06     5th Lunar month     Saturday       Corn on Ear         
+1959/06/07     2                   Sunday                             
+1959/06/08     3                   Monday                             
+1959/06/09     4                   Tuesday                            
+1959/06/10     5                   Wednesday                          
+1959/06/11     6                   Thursday                           
+1959/06/12     7                   Friday                             
+1959/06/13     8                   Saturday                           
+1959/06/14     9                   Sunday                             
+1959/06/15     10                  Monday                             
+1959/06/16     11                  Tuesday                            
+1959/06/17     12                  Wednesday                          
+1959/06/18     13                  Thursday                           
+1959/06/19     14                  Friday                             
+1959/06/20     15                  Saturday                           
+1959/06/21     16                  Sunday                             
+1959/06/22     17                  Monday         Summer Solstice     
+1959/06/23     18                  Tuesday                            
+1959/06/24     19                  Wednesday                          
+1959/06/25     20                  Thursday                           
+1959/06/26     21                  Friday                             
+1959/06/27     22                  Saturday                           
+1959/06/28     23                  Sunday                             
+1959/06/29     24                  Monday                             
+1959/06/30     25                  Tuesday                            
+1959/07/01     26                  Wednesday                          
+1959/07/02     27                  Thursday                           
+1959/07/03     28                  Friday                             
+1959/07/04     29                  Saturday                           
+1959/07/05     30                  Sunday                             
+1959/07/06     6th Lunar month     Monday                             
+1959/07/07     2                   Tuesday                            
+1959/07/08     3                   Wednesday      Moderate Heat       
+1959/07/09     4                   Thursday                           
+1959/07/10     5                   Friday                             
+1959/07/11     6                   Saturday                           
+1959/07/12     7                   Sunday                             
+1959/07/13     8                   Monday                             
+1959/07/14     9                   Tuesday                            
+1959/07/15     10                  Wednesday                          
+1959/07/16     11                  Thursday                           
+1959/07/17     12                  Friday                             
+1959/07/18     13                  Saturday                           
+1959/07/19     14                  Sunday                             
+1959/07/20     15                  Monday                             
+1959/07/21     16                  Tuesday                            
+1959/07/22     17                  Wednesday                          
+1959/07/23     18                  Thursday       Great Heat          
+1959/07/24     19                  Friday                             
+1959/07/25     20                  Saturday                           
+1959/07/26     21                  Sunday                             
+1959/07/27     22                  Monday                             
+1959/07/28     23                  Tuesday                            
+1959/07/29     24                  Wednesday                          
+1959/07/30     25                  Thursday                           
+1959/07/31     26                  Friday                             
+1959/08/01     27                  Saturday                           
+1959/08/02     28                  Sunday                             
+1959/08/03     29                  Monday                             
+1959/08/04     7th Lunar month     Tuesday                            
+1959/08/05     2                   Wednesday                          
+1959/08/06     3                   Thursday                           
+1959/08/07     4                   Friday                             
+1959/08/08     5                   Saturday       Autumn Commences    
+1959/08/09     6                   Sunday                             
+1959/08/10     7                   Monday                             
+1959/08/11     8                   Tuesday                            
+1959/08/12     9                   Wednesday                          
+1959/08/13     10                  Thursday                           
+1959/08/14     11                  Friday                             
+1959/08/15     12                  Saturday                           
+1959/08/16     13                  Sunday                             
+1959/08/17     14                  Monday                             
+1959/08/18     15                  Tuesday                            
+1959/08/19     16                  Wednesday                          
+1959/08/20     17                  Thursday                           
+1959/08/21     18                  Friday                             
+1959/08/22     19                  Saturday                           
+1959/08/23     20                  Sunday                             
+1959/08/24     21                  Monday         End of Heat         
+1959/08/25     22                  Tuesday                            
+1959/08/26     23                  Wednesday                          
+1959/08/27     24                  Thursday                           
+1959/08/28     25                  Friday                             
+1959/08/29     26                  Saturday                           
+1959/08/30     27                  Sunday                             
+1959/08/31     28                  Monday                             
+1959/09/01     29                  Tuesday                            
+1959/09/02     30                  Wednesday                          
+1959/09/03     8th Lunar month     Thursday                           
+1959/09/04     2                   Friday                             
+1959/09/05     3                   Saturday                           
+1959/09/06     4                   Sunday                             
+1959/09/07     5                   Monday                             
+1959/09/08     6                   Tuesday        White Dew           
+1959/09/09     7                   Wednesday                          
+1959/09/10     8                   Thursday                           
+1959/09/11     9                   Friday                             
+1959/09/12     10                  Saturday                           
+1959/09/13     11                  Sunday                             
+1959/09/14     12                  Monday                             
+1959/09/15     13                  Tuesday                            
+1959/09/16     14                  Wednesday                          
+1959/09/17     15                  Thursday                           
+1959/09/18     16                  Friday                             
+1959/09/19     17                  Saturday                           
+1959/09/20     18                  Sunday                             
+1959/09/21     19                  Monday                             
+1959/09/22     20                  Tuesday                            
+1959/09/23     21                  Wednesday                          
+1959/09/24     22                  Thursday       Autumnal Equinox    
+1959/09/25     23                  Friday                             
+1959/09/26     24                  Saturday                           
+1959/09/27     25                  Sunday                             
+1959/09/28     26                  Monday                             
+1959/09/29     27                  Tuesday                            
+1959/09/30     28                  Wednesday                          
+1959/10/01     29                  Thursday                           
+1959/10/02     9th Lunar month     Friday                             
+1959/10/03     2                   Saturday                           
+1959/10/04     3                   Sunday                             
+1959/10/05     4                   Monday                             
+1959/10/06     5                   Tuesday                            
+1959/10/07     6                   Wednesday                          
+1959/10/08     7                   Thursday                           
+1959/10/09     8                   Friday         Cold Dew            
+1959/10/10     9                   Saturday                           
+1959/10/11     10                  Sunday                             
+1959/10/12     11                  Monday                             
+1959/10/13     12                  Tuesday                            
+1959/10/14     13                  Wednesday                          
+1959/10/15     14                  Thursday                           
+1959/10/16     15                  Friday                             
+1959/10/17     16                  Saturday                           
+1959/10/18     17                  Sunday                             
+1959/10/19     18                  Monday                             
+1959/10/20     19                  Tuesday                            
+1959/10/21     20                  Wednesday                          
+1959/10/22     21                  Thursday                           
+1959/10/23     22                  Friday                             
+1959/10/24     23                  Saturday       Frost               
+1959/10/25     24                  Sunday                             
+1959/10/26     25                  Monday                             
+1959/10/27     26                  Tuesday                            
+1959/10/28     27                  Wednesday                          
+1959/10/29     28                  Thursday                           
+1959/10/30     29                  Friday                             
+1959/10/31     30                  Saturday                           
+1959/11/01     10th Lunar month    Sunday                             
+1959/11/02     2                   Monday                             
+1959/11/03     3                   Tuesday                            
+1959/11/04     4                   Wednesday                          
+1959/11/05     5                   Thursday                           
+1959/11/06     6                   Friday                             
+1959/11/07     7                   Saturday                           
+1959/11/08     8                   Sunday         Winter Commences    
+1959/11/09     9                   Monday                             
+1959/11/10     10                  Tuesday                            
+1959/11/11     11                  Wednesday                          
+1959/11/12     12                  Thursday                           
+1959/11/13     13                  Friday                             
+1959/11/14     14                  Saturday                           
+1959/11/15     15                  Sunday                             
+1959/11/16     16                  Monday                             
+1959/11/17     17                  Tuesday                            
+1959/11/18     18                  Wednesday                          
+1959/11/19     19                  Thursday                           
+1959/11/20     20                  Friday                             
+1959/11/21     21                  Saturday                           
+1959/11/22     22                  Sunday                             
+1959/11/23     23                  Monday         Light Snow          
+1959/11/24     24                  Tuesday                            
+1959/11/25     25                  Wednesday                          
+1959/11/26     26                  Thursday                           
+1959/11/27     27                  Friday                             
+1959/11/28     28                  Saturday                           
+1959/11/29     29                  Sunday                             
+1959/11/30     11th Lunar month    Monday                             
+1959/12/01     2                   Tuesday                            
+1959/12/02     3                   Wednesday                          
+1959/12/03     4                   Thursday                           
+1959/12/04     5                   Friday                             
+1959/12/05     6                   Saturday                           
+1959/12/06     7                   Sunday                             
+1959/12/07     8                   Monday                             
+1959/12/08     9                   Tuesday        Heavy Snow          
+1959/12/09     10                  Wednesday                          
+1959/12/10     11                  Thursday                           
+1959/12/11     12                  Friday                             
+1959/12/12     13                  Saturday                           
+1959/12/13     14                  Sunday                             
+1959/12/14     15                  Monday                             
+1959/12/15     16                  Tuesday                            
+1959/12/16     17                  Wednesday                          
+1959/12/17     18                  Thursday                           
+1959/12/18     19                  Friday                             
+1959/12/19     20                  Saturday                           
+1959/12/20     21                  Sunday                             
+1959/12/21     22                  Monday                             
+1959/12/22     23                  Tuesday        Winter Solstice     
+1959/12/23     24                  Wednesday                          
+1959/12/24     25                  Thursday                           
+1959/12/25     26                  Friday                             
+1959/12/26     27                  Saturday                           
+1959/12/27     28                  Sunday                             
+1959/12/28     29                  Monday                             
+1959/12/29     30                  Tuesday                            
+1959/12/30     12th Lunar month    Wednesday                          
+1959/12/31     2                   Thursday                           
+
+In 1959, summer time was enforced during 22 March to 1 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

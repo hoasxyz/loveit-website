@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1905 (Yi-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1905/01/01     26                  Sunday                             
+1905/01/02     27                  Monday                             
+1905/01/03     28                  Tuesday                            
+1905/01/04     29                  Wednesday                          
+1905/01/05     30                  Thursday                           
+1905/01/06     12th Lunar month    Friday         Moderate Cold       
+1905/01/07     2                   Saturday                           
+1905/01/08     3                   Sunday                             
+1905/01/09     4                   Monday                             
+1905/01/10     5                   Tuesday                            
+1905/01/11     6                   Wednesday                          
+1905/01/12     7                   Thursday                           
+1905/01/13     8                   Friday                             
+1905/01/14     9                   Saturday                           
+1905/01/15     10                  Sunday                             
+1905/01/16     11                  Monday                             
+1905/01/17     12                  Tuesday                            
+1905/01/18     13                  Wednesday                          
+1905/01/19     14                  Thursday                           
+1905/01/20     15                  Friday                             
+1905/01/21     16                  Saturday       Severe Cold         
+1905/01/22     17                  Sunday                             
+1905/01/23     18                  Monday                             
+1905/01/24     19                  Tuesday                            
+1905/01/25     20                  Wednesday                          
+1905/01/26     21                  Thursday                           
+1905/01/27     22                  Friday                             
+1905/01/28     23                  Saturday                           
+1905/01/29     24                  Sunday                             
+1905/01/30     25                  Monday                             
+1905/01/31     26                  Tuesday                            
+1905/02/01     27                  Wednesday                          
+1905/02/02     28                  Thursday                           
+1905/02/03     29                  Friday                             
+1905/02/04     1st Lunar month     Saturday       Spring Commences    
+1905/02/05     2                   Sunday                             
+1905/02/06     3                   Monday                             
+1905/02/07     4                   Tuesday                            
+1905/02/08     5                   Wednesday                          
+1905/02/09     6                   Thursday                           
+1905/02/10     7                   Friday                             
+1905/02/11     8                   Saturday                           
+1905/02/12     9                   Sunday                             
+1905/02/13     10                  Monday                             
+1905/02/14     11                  Tuesday                            
+1905/02/15     12                  Wednesday                          
+1905/02/16     13                  Thursday                           
+1905/02/17     14                  Friday                             
+1905/02/18     15                  Saturday                           
+1905/02/19     16                  Sunday         Spring Showers      
+1905/02/20     17                  Monday                             
+1905/02/21     18                  Tuesday                            
+1905/02/22     19                  Wednesday                          
+1905/02/23     20                  Thursday                           
+1905/02/24     21                  Friday                             
+1905/02/25     22                  Saturday                           
+1905/02/26     23                  Sunday                             
+1905/02/27     24                  Monday                             
+1905/02/28     25                  Tuesday                            
+1905/03/01     26                  Wednesday                          
+1905/03/02     27                  Thursday                           
+1905/03/03     28                  Friday                             
+1905/03/04     29                  Saturday                           
+1905/03/05     30                  Sunday                             
+1905/03/06     2nd Lunar month     Monday         Insects Waken       
+1905/03/07     2                   Tuesday                            
+1905/03/08     3                   Wednesday                          
+1905/03/09     4                   Thursday                           
+1905/03/10     5                   Friday                             
+1905/03/11     6                   Saturday                           
+1905/03/12     7                   Sunday                             
+1905/03/13     8                   Monday                             
+1905/03/14     9                   Tuesday                            
+1905/03/15     10                  Wednesday                          
+1905/03/16     11                  Thursday                           
+1905/03/17     12                  Friday                             
+1905/03/18     13                  Saturday                           
+1905/03/19     14                  Sunday                             
+1905/03/20     15                  Monday                             
+1905/03/21     16                  Tuesday        Vernal Equinox      
+1905/03/22     17                  Wednesday                          
+1905/03/23     18                  Thursday                           
+1905/03/24     19                  Friday                             
+1905/03/25     20                  Saturday                           
+1905/03/26     21                  Sunday                             
+1905/03/27     22                  Monday                             
+1905/03/28     23                  Tuesday                            
+1905/03/29     24                  Wednesday                          
+1905/03/30     25                  Thursday                           
+1905/03/31     26                  Friday                             
+1905/04/01     27                  Saturday                           
+1905/04/02     28                  Sunday                             
+1905/04/03     29                  Monday                             
+1905/04/04     30                  Tuesday                            
+1905/04/05     3rd Lunar month     Wednesday      Bright & Clear      
+1905/04/06     2                   Thursday                           
+1905/04/07     3                   Friday                             
+1905/04/08     4                   Saturday                           
+1905/04/09     5                   Sunday                             
+1905/04/10     6                   Monday                             
+1905/04/11     7                   Tuesday                            
+1905/04/12     8                   Wednesday                          
+1905/04/13     9                   Thursday                           
+1905/04/14     10                  Friday                             
+1905/04/15     11                  Saturday                           
+1905/04/16     12                  Sunday                             
+1905/04/17     13                  Monday                             
+1905/04/18     14                  Tuesday                            
+1905/04/19     15                  Wednesday                          
+1905/04/20     16                  Thursday                           
+1905/04/21     17                  Friday         Corn Rain           
+1905/04/22     18                  Saturday                           
+1905/04/23     19                  Sunday                             
+1905/04/24     20                  Monday                             
+1905/04/25     21                  Tuesday                            
+1905/04/26     22                  Wednesday                          
+1905/04/27     23                  Thursday                           
+1905/04/28     24                  Friday                             
+1905/04/29     25                  Saturday                           
+1905/04/30     26                  Sunday                             
+1905/05/01     27                  Monday                             
+1905/05/02     28                  Tuesday                            
+1905/05/03     29                  Wednesday                          
+1905/05/04     4th Lunar month     Thursday                           
+1905/05/05     2                   Friday                             
+1905/05/06     3                   Saturday       Summer Commences    
+1905/05/07     4                   Sunday                             
+1905/05/08     5                   Monday                             
+1905/05/09     6                   Tuesday                            
+1905/05/10     7                   Wednesday                          
+1905/05/11     8                   Thursday                           
+1905/05/12     9                   Friday                             
+1905/05/13     10                  Saturday                           
+1905/05/14     11                  Sunday                             
+1905/05/15     12                  Monday                             
+1905/05/16     13                  Tuesday                            
+1905/05/17     14                  Wednesday                          
+1905/05/18     15                  Thursday                           
+1905/05/19     16                  Friday                             
+1905/05/20     17                  Saturday                           
+1905/05/21     18                  Sunday                             
+1905/05/22     19                  Monday         Corn Forms          
+1905/05/23     20                  Tuesday                            
+1905/05/24     21                  Wednesday                          
+1905/05/25     22                  Thursday                           
+1905/05/26     23                  Friday                             
+1905/05/27     24                  Saturday                           
+1905/05/28     25                  Sunday                             
+1905/05/29     26                  Monday                             
+1905/05/30     27                  Tuesday                            
+1905/05/31     28                  Wednesday                          
+1905/06/01     29                  Thursday                           
+1905/06/02     30                  Friday                             
+1905/06/03     5th Lunar month     Saturday                           
+1905/06/04     2                   Sunday                             
+1905/06/05     3                   Monday                             
+1905/06/06     4                   Tuesday        Corn on Ear         
+1905/06/07     5                   Wednesday                          
+1905/06/08     6                   Thursday                           
+1905/06/09     7                   Friday                             
+1905/06/10     8                   Saturday                           
+1905/06/11     9                   Sunday                             
+1905/06/12     10                  Monday                             
+1905/06/13     11                  Tuesday                            
+1905/06/14     12                  Wednesday                          
+1905/06/15     13                  Thursday                           
+1905/06/16     14                  Friday                             
+1905/06/17     15                  Saturday                           
+1905/06/18     16                  Sunday                             
+1905/06/19     17                  Monday                             
+1905/06/20     18                  Tuesday                            
+1905/06/21     19                  Wednesday                          
+1905/06/22     20                  Thursday       Summer Solstice     
+1905/06/23     21                  Friday                             
+1905/06/24     22                  Saturday                           
+1905/06/25     23                  Sunday                             
+1905/06/26     24                  Monday                             
+1905/06/27     25                  Tuesday                            
+1905/06/28     26                  Wednesday                          
+1905/06/29     27                  Thursday                           
+1905/06/30     28                  Friday                             
+1905/07/01     29                  Saturday                           
+1905/07/02     30                  Sunday                             
+1905/07/03     6th Lunar month     Monday                             
+1905/07/04     2                   Tuesday                            
+1905/07/05     3                   Wednesday                          
+1905/07/06     4                   Thursday                           
+1905/07/07     5                   Friday                             
+1905/07/08     6                   Saturday       Moderate Heat       
+1905/07/09     7                   Sunday                             
+1905/07/10     8                   Monday                             
+1905/07/11     9                   Tuesday                            
+1905/07/12     10                  Wednesday                          
+1905/07/13     11                  Thursday                           
+1905/07/14     12                  Friday                             
+1905/07/15     13                  Saturday                           
+1905/07/16     14                  Sunday                             
+1905/07/17     15                  Monday                             
+1905/07/18     16                  Tuesday                            
+1905/07/19     17                  Wednesday                          
+1905/07/20     18                  Thursday                           
+1905/07/21     19                  Friday                             
+1905/07/22     20                  Saturday                           
+1905/07/23     21                  Sunday         Great Heat          
+1905/07/24     22                  Monday                             
+1905/07/25     23                  Tuesday                            
+1905/07/26     24                  Wednesday                          
+1905/07/27     25                  Thursday                           
+1905/07/28     26                  Friday                             
+1905/07/29     27                  Saturday                           
+1905/07/30     28                  Sunday                             
+1905/07/31     29                  Monday                             
+1905/08/01     7th Lunar month     Tuesday                            
+1905/08/02     2                   Wednesday                          
+1905/08/03     3                   Thursday                           
+1905/08/04     4                   Friday                             
+1905/08/05     5                   Saturday                           
+1905/08/06     6                   Sunday                             
+1905/08/07     7                   Monday                             
+1905/08/08     8                   Tuesday        Autumn Commences    
+1905/08/09     9                   Wednesday                          
+1905/08/10     10                  Thursday                           
+1905/08/11     11                  Friday                             
+1905/08/12     12                  Saturday                           
+1905/08/13     13                  Sunday                             
+1905/08/14     14                  Monday                             
+1905/08/15     15                  Tuesday                            
+1905/08/16     16                  Wednesday                          
+1905/08/17     17                  Thursday                           
+1905/08/18     18                  Friday                             
+1905/08/19     19                  Saturday                           
+1905/08/20     20                  Sunday                             
+1905/08/21     21                  Monday                             
+1905/08/22     22                  Tuesday                            
+1905/08/23     23                  Wednesday                          
+1905/08/24     24                  Thursday       End of Heat         
+1905/08/25     25                  Friday                             
+1905/08/26     26                  Saturday                           
+1905/08/27     27                  Sunday                             
+1905/08/28     28                  Monday                             
+1905/08/29     29                  Tuesday                            
+1905/08/30     8th Lunar month     Wednesday                          
+1905/08/31     2                   Thursday                           
+1905/09/01     3                   Friday                             
+1905/09/02     4                   Saturday                           
+1905/09/03     5                   Sunday                             
+1905/09/04     6                   Monday                             
+1905/09/05     7                   Tuesday                            
+1905/09/06     8                   Wednesday                          
+1905/09/07     9                   Thursday                           
+1905/09/08     10                  Friday         White Dew           
+1905/09/09     11                  Saturday                           
+1905/09/10     12                  Sunday                             
+1905/09/11     13                  Monday                             
+1905/09/12     14                  Tuesday                            
+1905/09/13     15                  Wednesday                          
+1905/09/14     16                  Thursday                           
+1905/09/15     17                  Friday                             
+1905/09/16     18                  Saturday                           
+1905/09/17     19                  Sunday                             
+1905/09/18     20                  Monday                             
+1905/09/19     21                  Tuesday                            
+1905/09/20     22                  Wednesday                          
+1905/09/21     23                  Thursday                           
+1905/09/22     24                  Friday                             
+1905/09/23     25                  Saturday                           
+1905/09/24     26                  Sunday         Autumnal Equinox    
+1905/09/25     27                  Monday                             
+1905/09/26     28                  Tuesday                            
+1905/09/27     29                  Wednesday                          
+1905/09/28     30                  Thursday                           
+1905/09/29     9th Lunar month     Friday                             
+1905/09/30     2                   Saturday                           
+1905/10/01     3                   Sunday                             
+1905/10/02     4                   Monday                             
+1905/10/03     5                   Tuesday                            
+1905/10/04     6                   Wednesday                          
+1905/10/05     7                   Thursday                           
+1905/10/06     8                   Friday                             
+1905/10/07     9                   Saturday                           
+1905/10/08     10                  Sunday                             
+1905/10/09     11                  Monday         Cold Dew            
+1905/10/10     12                  Tuesday                            
+1905/10/11     13                  Wednesday                          
+1905/10/12     14                  Thursday                           
+1905/10/13     15                  Friday                             
+1905/10/14     16                  Saturday                           
+1905/10/15     17                  Sunday                             
+1905/10/16     18                  Monday                             
+1905/10/17     19                  Tuesday                            
+1905/10/18     20                  Wednesday                          
+1905/10/19     21                  Thursday                           
+1905/10/20     22                  Friday                             
+1905/10/21     23                  Saturday                           
+1905/10/22     24                  Sunday                             
+1905/10/23     25                  Monday                             
+1905/10/24     26                  Tuesday        Frost               
+1905/10/25     27                  Wednesday                          
+1905/10/26     28                  Thursday                           
+1905/10/27     29                  Friday                             
+1905/10/28     10th Lunar month    Saturday                           
+1905/10/29     2                   Sunday                             
+1905/10/30     3                   Monday                             
+1905/10/31     4                   Tuesday                            
+1905/11/01     5                   Wednesday                          
+1905/11/02     6                   Thursday                           
+1905/11/03     7                   Friday                             
+1905/11/04     8                   Saturday                           
+1905/11/05     9                   Sunday                             
+1905/11/06     10                  Monday                             
+1905/11/07     11                  Tuesday                            
+1905/11/08     12                  Wednesday      Winter Commences    
+1905/11/09     13                  Thursday                           
+1905/11/10     14                  Friday                             
+1905/11/11     15                  Saturday                           
+1905/11/12     16                  Sunday                             
+1905/11/13     17                  Monday                             
+1905/11/14     18                  Tuesday                            
+1905/11/15     19                  Wednesday                          
+1905/11/16     20                  Thursday                           
+1905/11/17     21                  Friday                             
+1905/11/18     22                  Saturday                           
+1905/11/19     23                  Sunday                             
+1905/11/20     24                  Monday                             
+1905/11/21     25                  Tuesday                            
+1905/11/22     26                  Wednesday                          
+1905/11/23     27                  Thursday       Light Snow          
+1905/11/24     28                  Friday                             
+1905/11/25     29                  Saturday                           
+1905/11/26     30                  Sunday                             
+1905/11/27     11th Lunar month    Monday                             
+1905/11/28     2                   Tuesday                            
+1905/11/29     3                   Wednesday                          
+1905/11/30     4                   Thursday                           
+1905/12/01     5                   Friday                             
+1905/12/02     6                   Saturday                           
+1905/12/03     7                   Sunday                             
+1905/12/04     8                   Monday                             
+1905/12/05     9                   Tuesday                            
+1905/12/06     10                  Wednesday                          
+1905/12/07     11                  Thursday                           
+1905/12/08     12                  Friday         Heavy Snow          
+1905/12/09     13                  Saturday                           
+1905/12/10     14                  Sunday                             
+1905/12/11     15                  Monday                             
+1905/12/12     16                  Tuesday                            
+1905/12/13     17                  Wednesday                          
+1905/12/14     18                  Thursday                           
+1905/12/15     19                  Friday                             
+1905/12/16     20                  Saturday                           
+1905/12/17     21                  Sunday                             
+1905/12/18     22                  Monday                             
+1905/12/19     23                  Tuesday                            
+1905/12/20     24                  Wednesday                          
+1905/12/21     25                  Thursday                           
+1905/12/22     26                  Friday         Winter Solstice     
+1905/12/23     27                  Saturday                           
+1905/12/24     28                  Sunday                             
+1905/12/25     29                  Monday                             
+1905/12/26     12th Lunar month    Tuesday                            
+1905/12/27     2                   Wednesday                          
+1905/12/28     3                   Thursday                           
+1905/12/29     4                   Friday                             
+1905/12/30     5                   Saturday                           
+1905/12/31     6                   Sunday                             

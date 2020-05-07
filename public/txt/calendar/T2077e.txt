@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2077 (Ding-you  -  year of the Rooster)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2077/1/1          7                       Friday                             
+2077/1/2          8                       Saturday                           
+2077/1/3          9                       Sunday                             
+2077/1/4          10                      Monday                             
+2077/1/5          11                      Tuesday        Moderate Cold       
+2077/1/6          12                      Wednesday                          
+2077/1/7          13                      Thursday                           
+2077/1/8          14                      Friday                             
+2077/1/9          15                      Saturday                           
+2077/1/10         16                      Sunday                             
+2077/1/11         17                      Monday                             
+2077/1/12         18                      Tuesday                            
+2077/1/13         19                      Wednesday                          
+2077/1/14         20                      Thursday                           
+2077/1/15         21                      Friday                             
+2077/1/16         22                      Saturday                           
+2077/1/17         23                      Sunday                             
+2077/1/18         24                      Monday                             
+2077/1/19         25                      Tuesday        Severe Cold         
+2077/1/20         26                      Wednesday                          
+2077/1/21         27                      Thursday                           
+2077/1/22         28                      Friday                             
+2077/1/23         29                      Saturday                           
+2077/1/24         1st Lunar Month         Sunday                             
+2077/1/25         2                       Monday                             
+2077/1/26         3                       Tuesday                            
+2077/1/27         4                       Wednesday                          
+2077/1/28         5                       Thursday                           
+2077/1/29         6                       Friday                             
+2077/1/30         7                       Saturday                           
+2077/1/31         8                       Sunday                             
+2077/2/1          9                       Monday                             
+2077/2/2          10                      Tuesday                            
+2077/2/3          11                      Wednesday      Spring Commences    
+2077/2/4          12                      Thursday                           
+2077/2/5          13                      Friday                             
+2077/2/6          14                      Saturday                           
+2077/2/7          15                      Sunday                             
+2077/2/8          16                      Monday                             
+2077/2/9          17                      Tuesday                            
+2077/2/10         18                      Wednesday                          
+2077/2/11         19                      Thursday                           
+2077/2/12         20                      Friday                             
+2077/2/13         21                      Saturday                           
+2077/2/14         22                      Sunday                             
+2077/2/15         23                      Monday                             
+2077/2/16         24                      Tuesday                            
+2077/2/17         25                      Wednesday                          
+2077/2/18         26                      Thursday       Spring Showers      
+2077/2/19         27                      Friday                             
+2077/2/20         28                      Saturday                           
+2077/2/21         29                      Sunday                             
+2077/2/22         30                      Monday                             
+2077/2/23         2nd Lunar Month         Tuesday                            
+2077/2/24         2                       Wednesday                          
+2077/2/25         3                       Thursday                           
+2077/2/26         4                       Friday                             
+2077/2/27         5                       Saturday                           
+2077/2/28         6                       Sunday                             
+2077/3/1          7                       Monday                             
+2077/3/2          8                       Tuesday                            
+2077/3/3          9                       Wednesday                          
+2077/3/4          10                      Thursday                           
+2077/3/5          11                      Friday         Insects Waken       
+2077/3/6          12                      Saturday                           
+2077/3/7          13                      Sunday                             
+2077/3/8          14                      Monday                             
+2077/3/9          15                      Tuesday                            
+2077/3/10         16                      Wednesday                          
+2077/3/11         17                      Thursday                           
+2077/3/12         18                      Friday                             
+2077/3/13         19                      Saturday                           
+2077/3/14         20                      Sunday                             
+2077/3/15         21                      Monday                             
+2077/3/16         22                      Tuesday                            
+2077/3/17         23                      Wednesday                          
+2077/3/18         24                      Thursday                           
+2077/3/19         25                      Friday                             
+2077/3/20         26                      Saturday       Vernal Equinox      
+2077/3/21         27                      Sunday                             
+2077/3/22         28                      Monday                             
+2077/3/23         29                      Tuesday                            
+2077/3/24         3rd Lunar Month         Wednesday                          
+2077/3/25         2                       Thursday                           
+2077/3/26         3                       Friday                             
+2077/3/27         4                       Saturday                           
+2077/3/28         5                       Sunday                             
+2077/3/29         6                       Monday                             
+2077/3/30         7                       Tuesday                            
+2077/3/31         8                       Wednesday                          
+2077/4/1          9                       Thursday                           
+2077/4/2          10                      Friday                             
+2077/4/3          11                      Saturday                           
+2077/4/4          12                      Sunday         Bright & Clear      
+2077/4/5          13                      Monday                             
+2077/4/6          14                      Tuesday                            
+2077/4/7          15                      Wednesday                          
+2077/4/8          16                      Thursday                           
+2077/4/9          17                      Friday                             
+2077/4/10         18                      Saturday                           
+2077/4/11         19                      Sunday                             
+2077/4/12         20                      Monday                             
+2077/4/13         21                      Tuesday                            
+2077/4/14         22                      Wednesday                          
+2077/4/15         23                      Thursday                           
+2077/4/16         24                      Friday                             
+2077/4/17         25                      Saturday                           
+2077/4/18         26                      Sunday                             
+2077/4/19         27                      Monday         Corn Rain           
+2077/4/20         28                      Tuesday                            
+2077/4/21         29                      Wednesday                          
+2077/4/22         30                      Thursday                           
+2077/4/23         4th Lunar Month         Friday                             
+2077/4/24         2                       Saturday                           
+2077/4/25         3                       Sunday                             
+2077/4/26         4                       Monday                             
+2077/4/27         5                       Tuesday                            
+2077/4/28         6                       Wednesday                          
+2077/4/29         7                       Thursday                           
+2077/4/30         8                       Friday                             
+2077/5/1          9                       Saturday                           
+2077/5/2          10                      Sunday                             
+2077/5/3          11                      Monday                             
+2077/5/4          12                      Tuesday                            
+2077/5/5          13                      Wednesday      Summer Commences    
+2077/5/6          14                      Thursday                           
+2077/5/7          15                      Friday                             
+2077/5/8          16                      Saturday                           
+2077/5/9          17                      Sunday                             
+2077/5/10         18                      Monday                             
+2077/5/11         19                      Tuesday                            
+2077/5/12         20                      Wednesday                          
+2077/5/13         21                      Thursday                           
+2077/5/14         22                      Friday                             
+2077/5/15         23                      Saturday                           
+2077/5/16         24                      Sunday                             
+2077/5/17         25                      Monday                             
+2077/5/18         26                      Tuesday                            
+2077/5/19         27                      Wednesday                          
+2077/5/20         28                      Thursday       Corn Forms          
+2077/5/21         29                      Friday                             
+2077/5/22         4th Lunar Month         Saturday                           
+2077/5/23         2                       Sunday                             
+2077/5/24         3                       Monday                             
+2077/5/25         4                       Tuesday                            
+2077/5/26         5                       Wednesday                          
+2077/5/27         6                       Thursday                           
+2077/5/28         7                       Friday                             
+2077/5/29         8                       Saturday                           
+2077/5/30         9                       Sunday                             
+2077/5/31         10                      Monday                             
+2077/6/1          11                      Tuesday                            
+2077/6/2          12                      Wednesday                          
+2077/6/3          13                      Thursday                           
+2077/6/4          14                      Friday                             
+2077/6/5          15                      Saturday       Corn on Ear         
+2077/6/6          16                      Sunday                             
+2077/6/7          17                      Monday                             
+2077/6/8          18                      Tuesday                            
+2077/6/9          19                      Wednesday                          
+2077/6/10         20                      Thursday                           
+2077/6/11         21                      Friday                             
+2077/6/12         22                      Saturday                           
+2077/6/13         23                      Sunday                             
+2077/6/14         24                      Monday                             
+2077/6/15         25                      Tuesday                            
+2077/6/16         26                      Wednesday                          
+2077/6/17         27                      Thursday                           
+2077/6/18         28                      Friday                             
+2077/6/19         29                      Saturday                           
+2077/6/20         5th Lunar Month         Sunday                             
+2077/6/21         2                       Monday         Summer Solstice     
+2077/6/22         3                       Tuesday                            
+2077/6/23         4                       Wednesday                          
+2077/6/24         5                       Thursday                           
+2077/6/25         6                       Friday                             
+2077/6/26         7                       Saturday                           
+2077/6/27         8                       Sunday                             
+2077/6/28         9                       Monday                             
+2077/6/29         10                      Tuesday                            
+2077/6/30         11                      Wednesday                          
+2077/7/1          12                      Thursday                           
+2077/7/2          13                      Friday                             
+2077/7/3          14                      Saturday                           
+2077/7/4          15                      Sunday                             
+2077/7/5          16                      Monday                             
+2077/7/6          17                      Tuesday        Moderate Heat       
+2077/7/7          18                      Wednesday                          
+2077/7/8          19                      Thursday                           
+2077/7/9          20                      Friday                             
+2077/7/10         21                      Saturday                           
+2077/7/11         22                      Sunday                             
+2077/7/12         23                      Monday                             
+2077/7/13         24                      Tuesday                            
+2077/7/14         25                      Wednesday                          
+2077/7/15         26                      Thursday                           
+2077/7/16         27                      Friday                             
+2077/7/17         28                      Saturday                           
+2077/7/18         29                      Sunday                             
+2077/7/19         30                      Monday                             
+2077/7/20         6th Lunar Month         Tuesday                            
+2077/7/21         2                       Wednesday                          
+2077/7/22         3                       Thursday       Great Heat          
+2077/7/23         4                       Friday                             
+2077/7/24         5                       Saturday                           
+2077/7/25         6                       Sunday                             
+2077/7/26         7                       Monday                             
+2077/7/27         8                       Tuesday                            
+2077/7/28         9                       Wednesday                          
+2077/7/29         10                      Thursday                           
+2077/7/30         11                      Friday                             
+2077/7/31         12                      Saturday                           
+2077/8/1          13                      Sunday                             
+2077/8/2          14                      Monday                             
+2077/8/3          15                      Tuesday                            
+2077/8/4          16                      Wednesday                          
+2077/8/5          17                      Thursday                           
+2077/8/6          18                      Friday                             
+2077/8/7          19                      Saturday       Autumn Commences    
+2077/8/8          20                      Sunday                             
+2077/8/9          21                      Monday                             
+2077/8/10         22                      Tuesday                            
+2077/8/11         23                      Wednesday                          
+2077/8/12         24                      Thursday                           
+2077/8/13         25                      Friday                             
+2077/8/14         26                      Saturday                           
+2077/8/15         27                      Sunday                             
+2077/8/16         28                      Monday                             
+2077/8/17         29                      Tuesday                            
+2077/8/18         7th Lunar Month         Wednesday                          
+2077/8/19         2                       Thursday                           
+2077/8/20         3                       Friday                             
+2077/8/21         4                       Saturday                           
+2077/8/22         5                       Sunday         End of Heat         
+2077/8/23         6                       Monday                             
+2077/8/24         7                       Tuesday                            
+2077/8/25         8                       Wednesday                          
+2077/8/26         9                       Thursday                           
+2077/8/27         10                      Friday                             
+2077/8/28         11                      Saturday                           
+2077/8/29         12                      Sunday                             
+2077/8/30         13                      Monday                             
+2077/8/31         14                      Tuesday                            
+2077/9/1          15                      Wednesday                          
+2077/9/2          16                      Thursday                           
+2077/9/3          17                      Friday                             
+2077/9/4          18                      Saturday                           
+2077/9/5          19                      Sunday                             
+2077/9/6          20                      Monday                             
+2077/9/7          21                      Tuesday        White Dew           
+2077/9/8          22                      Wednesday                          
+2077/9/9          23                      Thursday                           
+2077/9/10         24                      Friday                             
+2077/9/11         25                      Saturday                           
+2077/9/12         26                      Sunday                             
+2077/9/13         27                      Monday                             
+2077/9/14         28                      Tuesday                            
+2077/9/15         29                      Wednesday                          
+2077/9/16         30                      Thursday                           
+2077/9/17         8th Lunar Month         Friday                             
+2077/9/18         2                       Saturday                           
+2077/9/19         3                       Sunday                             
+2077/9/20         4                       Monday                             
+2077/9/21         5                       Tuesday                            
+2077/9/22         6                       Wednesday      Autumnal Equinox    
+2077/9/23         7                       Thursday                           
+2077/9/24         8                       Friday                             
+2077/9/25         9                       Saturday                           
+2077/9/26         10                      Sunday                             
+2077/9/27         11                      Monday                             
+2077/9/28         12                      Tuesday                            
+2077/9/29         13                      Wednesday                          
+2077/9/30         14                      Thursday                           
+2077/10/1         15                      Friday                             
+2077/10/2         16                      Saturday                           
+2077/10/3         17                      Sunday                             
+2077/10/4         18                      Monday                             
+2077/10/5         19                      Tuesday                            
+2077/10/6         20                      Wednesday                          
+2077/10/7         21                      Thursday       Cold Dew            
+2077/10/8         22                      Friday                             
+2077/10/9         23                      Saturday                           
+2077/10/10        24                      Sunday                             
+2077/10/11        25                      Monday                             
+2077/10/12        26                      Tuesday                            
+2077/10/13        27                      Wednesday                          
+2077/10/14        28                      Thursday                           
+2077/10/15        29                      Friday                             
+2077/10/16        30                      Saturday                           
+2077/10/17        9th Lunar Month         Sunday                             
+2077/10/18        2                       Monday                             
+2077/10/19        3                       Tuesday                            
+2077/10/20        4                       Wednesday                          
+2077/10/21        5                       Thursday                           
+2077/10/22        6                       Friday                             
+2077/10/23        7                       Saturday       Frost               
+2077/10/24        8                       Sunday                             
+2077/10/25        9                       Monday                             
+2077/10/26        10                      Tuesday                            
+2077/10/27        11                      Wednesday                          
+2077/10/28        12                      Thursday                           
+2077/10/29        13                      Friday                             
+2077/10/30        14                      Saturday                           
+2077/10/31        15                      Sunday                             
+2077/11/1         16                      Monday                             
+2077/11/2         17                      Tuesday                            
+2077/11/3         18                      Wednesday                          
+2077/11/4         19                      Thursday                           
+2077/11/5         20                      Friday                             
+2077/11/6         21                      Saturday                           
+2077/11/7         22                      Sunday         Winter Commences    
+2077/11/8         23                      Monday                             
+2077/11/9         24                      Tuesday                            
+2077/11/10        25                      Wednesday                          
+2077/11/11        26                      Thursday                           
+2077/11/12        27                      Friday                             
+2077/11/13        28                      Saturday                           
+2077/11/14        29                      Sunday                             
+2077/11/15        30                      Monday                             
+2077/11/16        10th Lunar Month        Tuesday                            
+2077/11/17        2                       Wednesday                          
+2077/11/18        3                       Thursday                           
+2077/11/19        4                       Friday                             
+2077/11/20        5                       Saturday                           
+2077/11/21        6                       Sunday                             
+2077/11/22        7                       Monday         Light Snow          
+2077/11/23        8                       Tuesday                            
+2077/11/24        9                       Wednesday                          
+2077/11/25        10                      Thursday                           
+2077/11/26        11                      Friday                             
+2077/11/27        12                      Saturday                           
+2077/11/28        13                      Sunday                             
+2077/11/29        14                      Monday                             
+2077/11/30        15                      Tuesday                            
+2077/12/1         16                      Wednesday                          
+2077/12/2         17                      Thursday                           
+2077/12/3         18                      Friday                             
+2077/12/4         19                      Saturday                           
+2077/12/5         20                      Sunday                             
+2077/12/6         21                      Monday         Heavy Snow          
+2077/12/7         22                      Tuesday                            
+2077/12/8         23                      Wednesday                          
+2077/12/9         24                      Thursday                           
+2077/12/10        25                      Friday                             
+2077/12/11        26                      Saturday                           
+2077/12/12        27                      Sunday                             
+2077/12/13        28                      Monday                             
+2077/12/14        29                      Tuesday                            
+2077/12/15        11th Lunar Month        Wednesday                          
+2077/12/16        2                       Thursday                           
+2077/12/17        3                       Friday                             
+2077/12/18        4                       Saturday                           
+2077/12/19        5                       Sunday                             
+2077/12/20        6                       Monday                             
+2077/12/21        7                       Tuesday        Winter Solstice     
+2077/12/22        8                       Wednesday                          
+2077/12/23        9                       Thursday                           
+2077/12/24        10                      Friday                             
+2077/12/25        11                      Saturday                           
+2077/12/26        12                      Sunday                             
+2077/12/27        13                      Monday                             
+2077/12/28        14                      Tuesday                            
+2077/12/29        15                      Wednesday                          
+2077/12/30        16                      Thursday                           
+2077/12/31        17                      Friday                             

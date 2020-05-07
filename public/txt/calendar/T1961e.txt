@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1961 (Xin-chou ¡V year of the Ox)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1961/01/01     15                  Sunday                             
+1961/01/02     16                  Monday                             
+1961/01/03     17                  Tuesday                            
+1961/01/04     18                  Wednesday                          
+1961/01/05     19                  Thursday       Moderate Cold       
+1961/01/06     20                  Friday                             
+1961/01/07     21                  Saturday                           
+1961/01/08     22                  Sunday                             
+1961/01/09     23                  Monday                             
+1961/01/10     24                  Tuesday                            
+1961/01/11     25                  Wednesday                          
+1961/01/12     26                  Thursday                           
+1961/01/13     27                  Friday                             
+1961/01/14     28                  Saturday                           
+1961/01/15     29                  Sunday                             
+1961/01/16     30                  Monday                             
+1961/01/17     12th Lunar month    Tuesday                            
+1961/01/18     2                   Wednesday                          
+1961/01/19     3                   Thursday                           
+1961/01/20     4                   Friday         Severe Cold         
+1961/01/21     5                   Saturday                           
+1961/01/22     6                   Sunday                             
+1961/01/23     7                   Monday                             
+1961/01/24     8                   Tuesday                            
+1961/01/25     9                   Wednesday                          
+1961/01/26     10                  Thursday                           
+1961/01/27     11                  Friday                             
+1961/01/28     12                  Saturday                           
+1961/01/29     13                  Sunday                             
+1961/01/30     14                  Monday                             
+1961/01/31     15                  Tuesday                            
+1961/02/01     16                  Wednesday                          
+1961/02/02     17                  Thursday                           
+1961/02/03     18                  Friday                             
+1961/02/04     19                  Saturday       Spring Commences    
+1961/02/05     20                  Sunday                             
+1961/02/06     21                  Monday                             
+1961/02/07     22                  Tuesday                            
+1961/02/08     23                  Wednesday                          
+1961/02/09     24                  Thursday                           
+1961/02/10     25                  Friday                             
+1961/02/11     26                  Saturday                           
+1961/02/12     27                  Sunday                             
+1961/02/13     28                  Monday                             
+1961/02/14     29                  Tuesday                            
+1961/02/15     1st Lunar month     Wednesday                          
+1961/02/16     2                   Thursday                           
+1961/02/17     3                   Friday                             
+1961/02/18     4                   Saturday                           
+1961/02/19     5                   Sunday         Spring Showers      
+1961/02/20     6                   Monday                             
+1961/02/21     7                   Tuesday                            
+1961/02/22     8                   Wednesday                          
+1961/02/23     9                   Thursday                           
+1961/02/24     10                  Friday                             
+1961/02/25     11                  Saturday                           
+1961/02/26     12                  Sunday                             
+1961/02/27     13                  Monday                             
+1961/02/28     14                  Tuesday                            
+1961/03/01     15                  Wednesday                          
+1961/03/02     16                  Thursday                           
+1961/03/03     17                  Friday                             
+1961/03/04     18                  Saturday                           
+1961/03/05     19                  Sunday                             
+1961/03/06     20                  Monday         Insects Waken       
+1961/03/07     21                  Tuesday                            
+1961/03/08     22                  Wednesday                          
+1961/03/09     23                  Thursday                           
+1961/03/10     24                  Friday                             
+1961/03/11     25                  Saturday                           
+1961/03/12     26                  Sunday                             
+1961/03/13     27                  Monday                             
+1961/03/14     28                  Tuesday                            
+1961/03/15     29                  Wednesday                          
+1961/03/16     30                  Thursday                           
+1961/03/17     2nd Lunar month     Friday                             
+1961/03/18     2                   Saturday                           
+1961/03/19     3                   Sunday                             
+1961/03/20     4                   Monday                             
+1961/03/21     5                   Tuesday        Vernal Equinox      
+1961/03/22     6                   Wednesday                          
+1961/03/23     7                   Thursday                           
+1961/03/24     8                   Friday                             
+1961/03/25     9                   Saturday                           
+1961/03/26     10                  Sunday                             
+1961/03/27     11                  Monday                             
+1961/03/28     12                  Tuesday                            
+1961/03/29     13                  Wednesday                          
+1961/03/30     14                  Thursday                           
+1961/03/31     15                  Friday                             
+1961/04/01     16                  Saturday                           
+1961/04/02     17                  Sunday                             
+1961/04/03     18                  Monday                             
+1961/04/04     19                  Tuesday                            
+1961/04/05     20                  Wednesday      Bright & Clear      
+1961/04/06     21                  Thursday                           
+1961/04/07     22                  Friday                             
+1961/04/08     23                  Saturday                           
+1961/04/09     24                  Sunday                             
+1961/04/10     25                  Monday                             
+1961/04/11     26                  Tuesday                            
+1961/04/12     27                  Wednesday                          
+1961/04/13     28                  Thursday                           
+1961/04/14     29                  Friday                             
+1961/04/15     3rd Lunar month     Saturday                           
+1961/04/16     2                   Sunday                             
+1961/04/17     3                   Monday                             
+1961/04/18     4                   Tuesday                            
+1961/04/19     5                   Wednesday                          
+1961/04/20     6                   Thursday       Corn Rain           
+1961/04/21     7                   Friday                             
+1961/04/22     8                   Saturday                           
+1961/04/23     9                   Sunday                             
+1961/04/24     10                  Monday                             
+1961/04/25     11                  Tuesday                            
+1961/04/26     12                  Wednesday                          
+1961/04/27     13                  Thursday                           
+1961/04/28     14                  Friday                             
+1961/04/29     15                  Saturday                           
+1961/04/30     16                  Sunday                             
+1961/05/01     17                  Monday                             
+1961/05/02     18                  Tuesday                            
+1961/05/03     19                  Wednesday                          
+1961/05/04     20                  Thursday                           
+1961/05/05     21                  Friday                             
+1961/05/06     22                  Saturday       Summer Commences    
+1961/05/07     23                  Sunday                             
+1961/05/08     24                  Monday                             
+1961/05/09     25                  Tuesday                            
+1961/05/10     26                  Wednesday                          
+1961/05/11     27                  Thursday                           
+1961/05/12     28                  Friday                             
+1961/05/13     29                  Saturday                           
+1961/05/14     30                  Sunday                             
+1961/05/15     4th Lunar month     Monday                             
+1961/05/16     2                   Tuesday                            
+1961/05/17     3                   Wednesday                          
+1961/05/18     4                   Thursday                           
+1961/05/19     5                   Friday                             
+1961/05/20     6                   Saturday                           
+1961/05/21     7                   Sunday         Corn Forms          
+1961/05/22     8                   Monday                             
+1961/05/23     9                   Tuesday                            
+1961/05/24     10                  Wednesday                          
+1961/05/25     11                  Thursday                           
+1961/05/26     12                  Friday                             
+1961/05/27     13                  Saturday                           
+1961/05/28     14                  Sunday                             
+1961/05/29     15                  Monday                             
+1961/05/30     16                  Tuesday                            
+1961/05/31     17                  Wednesday                          
+1961/06/01     18                  Thursday                           
+1961/06/02     19                  Friday                             
+1961/06/03     20                  Saturday                           
+1961/06/04     21                  Sunday                             
+1961/06/05     22                  Monday                             
+1961/06/06     23                  Tuesday        Corn on Ear         
+1961/06/07     24                  Wednesday                          
+1961/06/08     25                  Thursday                           
+1961/06/09     26                  Friday                             
+1961/06/10     27                  Saturday                           
+1961/06/11     28                  Sunday                             
+1961/06/12     29                  Monday                             
+1961/06/13     5th Lunar month     Tuesday                            
+1961/06/14     2                   Wednesday                          
+1961/06/15     3                   Thursday                           
+1961/06/16     4                   Friday                             
+1961/06/17     5                   Saturday                           
+1961/06/18     6                   Sunday                             
+1961/06/19     7                   Monday                             
+1961/06/20     8                   Tuesday                            
+1961/06/21     9                   Wednesday      Summer Solstice     
+1961/06/22     10                  Thursday                           
+1961/06/23     11                  Friday                             
+1961/06/24     12                  Saturday                           
+1961/06/25     13                  Sunday                             
+1961/06/26     14                  Monday                             
+1961/06/27     15                  Tuesday                            
+1961/06/28     16                  Wednesday                          
+1961/06/29     17                  Thursday                           
+1961/06/30     18                  Friday                             
+1961/07/01     19                  Saturday                           
+1961/07/02     20                  Sunday                             
+1961/07/03     21                  Monday                             
+1961/07/04     22                  Tuesday                            
+1961/07/05     23                  Wednesday                          
+1961/07/06     24                  Thursday                           
+1961/07/07     25                  Friday         Moderate Heat       
+1961/07/08     26                  Saturday                           
+1961/07/09     27                  Sunday                             
+1961/07/10     28                  Monday                             
+1961/07/11     29                  Tuesday                            
+1961/07/12     30                  Wednesday                          
+1961/07/13     6th Lunar month     Thursday                           
+1961/07/14     2                   Friday                             
+1961/07/15     3                   Saturday                           
+1961/07/16     4                   Sunday                             
+1961/07/17     5                   Monday                             
+1961/07/18     6                   Tuesday                            
+1961/07/19     7                   Wednesday                          
+1961/07/20     8                   Thursday                           
+1961/07/21     9                   Friday                             
+1961/07/22     10                  Saturday                           
+1961/07/23     11                  Sunday         Great Heat          
+1961/07/24     12                  Monday                             
+1961/07/25     13                  Tuesday                            
+1961/07/26     14                  Wednesday                          
+1961/07/27     15                  Thursday                           
+1961/07/28     16                  Friday                             
+1961/07/29     17                  Saturday                           
+1961/07/30     18                  Sunday                             
+1961/07/31     19                  Monday                             
+1961/08/01     20                  Tuesday                            
+1961/08/02     21                  Wednesday                          
+1961/08/03     22                  Thursday                           
+1961/08/04     23                  Friday                             
+1961/08/05     24                  Saturday                           
+1961/08/06     25                  Sunday                             
+1961/08/07     26                  Monday                             
+1961/08/08     27                  Tuesday        Autumn Commences    
+1961/08/09     28                  Wednesday                          
+1961/08/10     29                  Thursday                           
+1961/08/11     7th Lunar month     Friday                             
+1961/08/12     2                   Saturday                           
+1961/08/13     3                   Sunday                             
+1961/08/14     4                   Monday                             
+1961/08/15     5                   Tuesday                            
+1961/08/16     6                   Wednesday                          
+1961/08/17     7                   Thursday                           
+1961/08/18     8                   Friday                             
+1961/08/19     9                   Saturday                           
+1961/08/20     10                  Sunday                             
+1961/08/21     11                  Monday                             
+1961/08/22     12                  Tuesday                            
+1961/08/23     13                  Wednesday      End of Heat         
+1961/08/24     14                  Thursday                           
+1961/08/25     15                  Friday                             
+1961/08/26     16                  Saturday                           
+1961/08/27     17                  Sunday                             
+1961/08/28     18                  Monday                             
+1961/08/29     19                  Tuesday                            
+1961/08/30     20                  Wednesday                          
+1961/08/31     21                  Thursday                           
+1961/09/01     22                  Friday                             
+1961/09/02     23                  Saturday                           
+1961/09/03     24                  Sunday                             
+1961/09/04     25                  Monday                             
+1961/09/05     26                  Tuesday                            
+1961/09/06     27                  Wednesday                          
+1961/09/07     28                  Thursday                           
+1961/09/08     29                  Friday         White Dew           
+1961/09/09     30                  Saturday                           
+1961/09/10     8th Lunar month     Sunday                             
+1961/09/11     2                   Monday                             
+1961/09/12     3                   Tuesday                            
+1961/09/13     4                   Wednesday                          
+1961/09/14     5                   Thursday                           
+1961/09/15     6                   Friday                             
+1961/09/16     7                   Saturday                           
+1961/09/17     8                   Sunday                             
+1961/09/18     9                   Monday                             
+1961/09/19     10                  Tuesday                            
+1961/09/20     11                  Wednesday                          
+1961/09/21     12                  Thursday                           
+1961/09/22     13                  Friday                             
+1961/09/23     14                  Saturday       Autumnal Equinox    
+1961/09/24     15                  Sunday                             
+1961/09/25     16                  Monday                             
+1961/09/26     17                  Tuesday                            
+1961/09/27     18                  Wednesday                          
+1961/09/28     19                  Thursday                           
+1961/09/29     20                  Friday                             
+1961/09/30     21                  Saturday                           
+1961/10/01     22                  Sunday                             
+1961/10/02     23                  Monday                             
+1961/10/03     24                  Tuesday                            
+1961/10/04     25                  Wednesday                          
+1961/10/05     26                  Thursday                           
+1961/10/06     27                  Friday                             
+1961/10/07     28                  Saturday                           
+1961/10/08     29                  Sunday         Cold Dew            
+1961/10/09     30                  Monday                             
+1961/10/10     9th Lunar month     Tuesday                            
+1961/10/11     2                   Wednesday                          
+1961/10/12     3                   Thursday                           
+1961/10/13     4                   Friday                             
+1961/10/14     5                   Saturday                           
+1961/10/15     6                   Sunday                             
+1961/10/16     7                   Monday                             
+1961/10/17     8                   Tuesday                            
+1961/10/18     9                   Wednesday                          
+1961/10/19     10                  Thursday                           
+1961/10/20     11                  Friday                             
+1961/10/21     12                  Saturday                           
+1961/10/22     13                  Sunday                             
+1961/10/23     14                  Monday         Frost               
+1961/10/24     15                  Tuesday                            
+1961/10/25     16                  Wednesday                          
+1961/10/26     17                  Thursday                           
+1961/10/27     18                  Friday                             
+1961/10/28     19                  Saturday                           
+1961/10/29     20                  Sunday                             
+1961/10/30     21                  Monday                             
+1961/10/31     22                  Tuesday                            
+1961/11/01     23                  Wednesday                          
+1961/11/02     24                  Thursday                           
+1961/11/03     25                  Friday                             
+1961/11/04     26                  Saturday                           
+1961/11/05     27                  Sunday                             
+1961/11/06     28                  Monday                             
+1961/11/07     29                  Tuesday        Winter Commences    
+1961/11/08     10th Lunar month    Wednesday                          
+1961/11/09     2                   Thursday                           
+1961/11/10     3                   Friday                             
+1961/11/11     4                   Saturday                           
+1961/11/12     5                   Sunday                             
+1961/11/13     6                   Monday                             
+1961/11/14     7                   Tuesday                            
+1961/11/15     8                   Wednesday                          
+1961/11/16     9                   Thursday                           
+1961/11/17     10                  Friday                             
+1961/11/18     11                  Saturday                           
+1961/11/19     12                  Sunday                             
+1961/11/20     13                  Monday                             
+1961/11/21     14                  Tuesday                            
+1961/11/22     15                  Wednesday      Light Snow          
+1961/11/23     16                  Thursday                           
+1961/11/24     17                  Friday                             
+1961/11/25     18                  Saturday                           
+1961/11/26     19                  Sunday                             
+1961/11/27     20                  Monday                             
+1961/11/28     21                  Tuesday                            
+1961/11/29     22                  Wednesday                          
+1961/11/30     23                  Thursday                           
+1961/12/01     24                  Friday                             
+1961/12/02     25                  Saturday                           
+1961/12/03     26                  Sunday                             
+1961/12/04     27                  Monday                             
+1961/12/05     28                  Tuesday                            
+1961/12/06     29                  Wednesday                          
+1961/12/07     30                  Thursday       Heavy Snow          
+1961/12/08     11th Lunar month    Friday                             
+1961/12/09     2                   Saturday                           
+1961/12/10     3                   Sunday                             
+1961/12/11     4                   Monday                             
+1961/12/12     5                   Tuesday                            
+1961/12/13     6                   Wednesday                          
+1961/12/14     7                   Thursday                           
+1961/12/15     8                   Friday                             
+1961/12/16     9                   Saturday                           
+1961/12/17     10                  Sunday                             
+1961/12/18     11                  Monday                             
+1961/12/19     12                  Tuesday                            
+1961/12/20     13                  Wednesday                          
+1961/12/21     14                  Thursday                           
+1961/12/22     15                  Friday         Winter Solstice     
+1961/12/23     16                  Saturday                           
+1961/12/24     17                  Sunday                             
+1961/12/25     18                  Monday                             
+1961/12/26     19                  Tuesday                            
+1961/12/27     20                  Wednesday                          
+1961/12/28     21                  Thursday                           
+1961/12/29     22                  Friday                             
+1961/12/30     23                  Saturday                           
+1961/12/31     24                  Sunday                             
+
+In 1961, summer time was enforced during 19 March to 5 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

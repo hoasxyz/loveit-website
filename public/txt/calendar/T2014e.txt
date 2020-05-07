@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2014 (Jia-wu  -  year of the Horse)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2014/1/1          12th Lunar Month        Wednesday                          
+2014/1/2          2                       Thursday                           
+2014/1/3          3                       Friday                             
+2014/1/4          4                       Saturday                           
+2014/1/5          5                       Sunday         Moderate Cold       
+2014/1/6          6                       Monday                             
+2014/1/7          7                       Tuesday                            
+2014/1/8          8                       Wednesday                          
+2014/1/9          9                       Thursday                           
+2014/1/10         10                      Friday                             
+2014/1/11         11                      Saturday                           
+2014/1/12         12                      Sunday                             
+2014/1/13         13                      Monday                             
+2014/1/14         14                      Tuesday                            
+2014/1/15         15                      Wednesday                          
+2014/1/16         16                      Thursday                           
+2014/1/17         17                      Friday                             
+2014/1/18         18                      Saturday                           
+2014/1/19         19                      Sunday                             
+2014/1/20         20                      Monday         Severe Cold         
+2014/1/21         21                      Tuesday                            
+2014/1/22         22                      Wednesday                          
+2014/1/23         23                      Thursday                           
+2014/1/24         24                      Friday                             
+2014/1/25         25                      Saturday                           
+2014/1/26         26                      Sunday                             
+2014/1/27         27                      Monday                             
+2014/1/28         28                      Tuesday                            
+2014/1/29         29                      Wednesday                          
+2014/1/30         30                      Thursday                           
+2014/1/31         1st Lunar Month         Friday                             
+2014/2/1          2                       Saturday                           
+2014/2/2          3                       Sunday                             
+2014/2/3          4                       Monday                             
+2014/2/4          5                       Tuesday        Spring Commences    
+2014/2/5          6                       Wednesday                          
+2014/2/6          7                       Thursday                           
+2014/2/7          8                       Friday                             
+2014/2/8          9                       Saturday                           
+2014/2/9          10                      Sunday                             
+2014/2/10         11                      Monday                             
+2014/2/11         12                      Tuesday                            
+2014/2/12         13                      Wednesday                          
+2014/2/13         14                      Thursday                           
+2014/2/14         15                      Friday                             
+2014/2/15         16                      Saturday                           
+2014/2/16         17                      Sunday                             
+2014/2/17         18                      Monday                             
+2014/2/18         19                      Tuesday                            
+2014/2/19         20                      Wednesday      Spring Showers      
+2014/2/20         21                      Thursday                           
+2014/2/21         22                      Friday                             
+2014/2/22         23                      Saturday                           
+2014/2/23         24                      Sunday                             
+2014/2/24         25                      Monday                             
+2014/2/25         26                      Tuesday                            
+2014/2/26         27                      Wednesday                          
+2014/2/27         28                      Thursday                           
+2014/2/28         29                      Friday                             
+2014/3/1          2nd Lunar Month         Saturday                           
+2014/3/2          2                       Sunday                             
+2014/3/3          3                       Monday                             
+2014/3/4          4                       Tuesday                            
+2014/3/5          5                       Wednesday                          
+2014/3/6          6                       Thursday       Insects Waken       
+2014/3/7          7                       Friday                             
+2014/3/8          8                       Saturday                           
+2014/3/9          9                       Sunday                             
+2014/3/10         10                      Monday                             
+2014/3/11         11                      Tuesday                            
+2014/3/12         12                      Wednesday                          
+2014/3/13         13                      Thursday                           
+2014/3/14         14                      Friday                             
+2014/3/15         15                      Saturday                           
+2014/3/16         16                      Sunday                             
+2014/3/17         17                      Monday                             
+2014/3/18         18                      Tuesday                            
+2014/3/19         19                      Wednesday                          
+2014/3/20         20                      Thursday                           
+2014/3/21         21                      Friday         Vernal Equinox      
+2014/3/22         22                      Saturday                           
+2014/3/23         23                      Sunday                             
+2014/3/24         24                      Monday                             
+2014/3/25         25                      Tuesday                            
+2014/3/26         26                      Wednesday                          
+2014/3/27         27                      Thursday                           
+2014/3/28         28                      Friday                             
+2014/3/29         29                      Saturday                           
+2014/3/30         30                      Sunday                             
+2014/3/31         3rd Lunar Month         Monday                             
+2014/4/1          2                       Tuesday                            
+2014/4/2          3                       Wednesday                          
+2014/4/3          4                       Thursday                           
+2014/4/4          5                       Friday                             
+2014/4/5          6                       Saturday       Bright & Clear      
+2014/4/6          7                       Sunday                             
+2014/4/7          8                       Monday                             
+2014/4/8          9                       Tuesday                            
+2014/4/9          10                      Wednesday                          
+2014/4/10         11                      Thursday                           
+2014/4/11         12                      Friday                             
+2014/4/12         13                      Saturday                           
+2014/4/13         14                      Sunday                             
+2014/4/14         15                      Monday                             
+2014/4/15         16                      Tuesday                            
+2014/4/16         17                      Wednesday                          
+2014/4/17         18                      Thursday                           
+2014/4/18         19                      Friday                             
+2014/4/19         20                      Saturday                           
+2014/4/20         21                      Sunday         Corn Rain           
+2014/4/21         22                      Monday                             
+2014/4/22         23                      Tuesday                            
+2014/4/23         24                      Wednesday                          
+2014/4/24         25                      Thursday                           
+2014/4/25         26                      Friday                             
+2014/4/26         27                      Saturday                           
+2014/4/27         28                      Sunday                             
+2014/4/28         29                      Monday                             
+2014/4/29         4th Lunar Month         Tuesday                            
+2014/4/30         2                       Wednesday                          
+2014/5/1          3                       Thursday                           
+2014/5/2          4                       Friday                             
+2014/5/3          5                       Saturday                           
+2014/5/4          6                       Sunday                             
+2014/5/5          7                       Monday         Summer Commences    
+2014/5/6          8                       Tuesday                            
+2014/5/7          9                       Wednesday                          
+2014/5/8          10                      Thursday                           
+2014/5/9          11                      Friday                             
+2014/5/10         12                      Saturday                           
+2014/5/11         13                      Sunday                             
+2014/5/12         14                      Monday                             
+2014/5/13         15                      Tuesday                            
+2014/5/14         16                      Wednesday                          
+2014/5/15         17                      Thursday                           
+2014/5/16         18                      Friday                             
+2014/5/17         19                      Saturday                           
+2014/5/18         20                      Sunday                             
+2014/5/19         21                      Monday                             
+2014/5/20         22                      Tuesday                            
+2014/5/21         23                      Wednesday      Corn Forms          
+2014/5/22         24                      Thursday                           
+2014/5/23         25                      Friday                             
+2014/5/24         26                      Saturday                           
+2014/5/25         27                      Sunday                             
+2014/5/26         28                      Monday                             
+2014/5/27         29                      Tuesday                            
+2014/5/28         30                      Wednesday                          
+2014/5/29         5th Lunar Month         Thursday                           
+2014/5/30         2                       Friday                             
+2014/5/31         3                       Saturday                           
+2014/6/1          4                       Sunday                             
+2014/6/2          5                       Monday                             
+2014/6/3          6                       Tuesday                            
+2014/6/4          7                       Wednesday                          
+2014/6/5          8                       Thursday                           
+2014/6/6          9                       Friday         Corn on Ear         
+2014/6/7          10                      Saturday                           
+2014/6/8          11                      Sunday                             
+2014/6/9          12                      Monday                             
+2014/6/10         13                      Tuesday                            
+2014/6/11         14                      Wednesday                          
+2014/6/12         15                      Thursday                           
+2014/6/13         16                      Friday                             
+2014/6/14         17                      Saturday                           
+2014/6/15         18                      Sunday                             
+2014/6/16         19                      Monday                             
+2014/6/17         20                      Tuesday                            
+2014/6/18         21                      Wednesday                          
+2014/6/19         22                      Thursday                           
+2014/6/20         23                      Friday                             
+2014/6/21         24                      Saturday       Summer Solstice     
+2014/6/22         25                      Sunday                             
+2014/6/23         26                      Monday                             
+2014/6/24         27                      Tuesday                            
+2014/6/25         28                      Wednesday                          
+2014/6/26         29                      Thursday                           
+2014/6/27         6th Lunar Month         Friday                             
+2014/6/28         2                       Saturday                           
+2014/6/29         3                       Sunday                             
+2014/6/30         4                       Monday                             
+2014/7/1          5                       Tuesday                            
+2014/7/2          6                       Wednesday                          
+2014/7/3          7                       Thursday                           
+2014/7/4          8                       Friday                             
+2014/7/5          9                       Saturday                           
+2014/7/6          10                      Sunday                             
+2014/7/7          11                      Monday         Moderate Heat       
+2014/7/8          12                      Tuesday                            
+2014/7/9          13                      Wednesday                          
+2014/7/10         14                      Thursday                           
+2014/7/11         15                      Friday                             
+2014/7/12         16                      Saturday                           
+2014/7/13         17                      Sunday                             
+2014/7/14         18                      Monday                             
+2014/7/15         19                      Tuesday                            
+2014/7/16         20                      Wednesday                          
+2014/7/17         21                      Thursday                           
+2014/7/18         22                      Friday                             
+2014/7/19         23                      Saturday                           
+2014/7/20         24                      Sunday                             
+2014/7/21         25                      Monday                             
+2014/7/22         26                      Tuesday                            
+2014/7/23         27                      Wednesday      Great Heat          
+2014/7/24         28                      Thursday                           
+2014/7/25         29                      Friday                             
+2014/7/26         30                      Saturday                           
+2014/7/27         7th Lunar Month         Sunday                             
+2014/7/28         2                       Monday                             
+2014/7/29         3                       Tuesday                            
+2014/7/30         4                       Wednesday                          
+2014/7/31         5                       Thursday                           
+2014/8/1          6                       Friday                             
+2014/8/2          7                       Saturday                           
+2014/8/3          8                       Sunday                             
+2014/8/4          9                       Monday                             
+2014/8/5          10                      Tuesday                            
+2014/8/6          11                      Wednesday                          
+2014/8/7          12                      Thursday       Autumn Commences    
+2014/8/8          13                      Friday                             
+2014/8/9          14                      Saturday                           
+2014/8/10         15                      Sunday                             
+2014/8/11         16                      Monday                             
+2014/8/12         17                      Tuesday                            
+2014/8/13         18                      Wednesday                          
+2014/8/14         19                      Thursday                           
+2014/8/15         20                      Friday                             
+2014/8/16         21                      Saturday                           
+2014/8/17         22                      Sunday                             
+2014/8/18         23                      Monday                             
+2014/8/19         24                      Tuesday                            
+2014/8/20         25                      Wednesday                          
+2014/8/21         26                      Thursday                           
+2014/8/22         27                      Friday                             
+2014/8/23         28                      Saturday       End of Heat         
+2014/8/24         29                      Sunday                             
+2014/8/25         8th Lunar Month         Monday                             
+2014/8/26         2                       Tuesday                            
+2014/8/27         3                       Wednesday                          
+2014/8/28         4                       Thursday                           
+2014/8/29         5                       Friday                             
+2014/8/30         6                       Saturday                           
+2014/8/31         7                       Sunday                             
+2014/9/1          8                       Monday                             
+2014/9/2          9                       Tuesday                            
+2014/9/3          10                      Wednesday                          
+2014/9/4          11                      Thursday                           
+2014/9/5          12                      Friday                             
+2014/9/6          13                      Saturday                           
+2014/9/7          14                      Sunday                             
+2014/9/8          15                      Monday         White Dew           
+2014/9/9          16                      Tuesday                            
+2014/9/10         17                      Wednesday                          
+2014/9/11         18                      Thursday                           
+2014/9/12         19                      Friday                             
+2014/9/13         20                      Saturday                           
+2014/9/14         21                      Sunday                             
+2014/9/15         22                      Monday                             
+2014/9/16         23                      Tuesday                            
+2014/9/17         24                      Wednesday                          
+2014/9/18         25                      Thursday                           
+2014/9/19         26                      Friday                             
+2014/9/20         27                      Saturday                           
+2014/9/21         28                      Sunday                             
+2014/9/22         29                      Monday                             
+2014/9/23         30                      Tuesday        Autumnal Equinox    
+2014/9/24         9th Lunar Month         Wednesday                          
+2014/9/25         2                       Thursday                           
+2014/9/26         3                       Friday                             
+2014/9/27         4                       Saturday                           
+2014/9/28         5                       Sunday                             
+2014/9/29         6                       Monday                             
+2014/9/30         7                       Tuesday                            
+2014/10/1         8                       Wednesday                          
+2014/10/2         9                       Thursday                           
+2014/10/3         10                      Friday                             
+2014/10/4         11                      Saturday                           
+2014/10/5         12                      Sunday                             
+2014/10/6         13                      Monday                             
+2014/10/7         14                      Tuesday                            
+2014/10/8         15                      Wednesday      Cold Dew            
+2014/10/9         16                      Thursday                           
+2014/10/10        17                      Friday                             
+2014/10/11        18                      Saturday                           
+2014/10/12        19                      Sunday                             
+2014/10/13        20                      Monday                             
+2014/10/14        21                      Tuesday                            
+2014/10/15        22                      Wednesday                          
+2014/10/16        23                      Thursday                           
+2014/10/17        24                      Friday                             
+2014/10/18        25                      Saturday                           
+2014/10/19        26                      Sunday                             
+2014/10/20        27                      Monday                             
+2014/10/21        28                      Tuesday                            
+2014/10/22        29                      Wednesday                          
+2014/10/23        30                      Thursday       Frost               
+2014/10/24        9th Lunar Month         Friday                             
+2014/10/25        2                       Saturday                           
+2014/10/26        3                       Sunday                             
+2014/10/27        4                       Monday                             
+2014/10/28        5                       Tuesday                            
+2014/10/29        6                       Wednesday                          
+2014/10/30        7                       Thursday                           
+2014/10/31        8                       Friday                             
+2014/11/1         9                       Saturday                           
+2014/11/2         10                      Sunday                             
+2014/11/3         11                      Monday                             
+2014/11/4         12                      Tuesday                            
+2014/11/5         13                      Wednesday                          
+2014/11/6         14                      Thursday                           
+2014/11/7         15                      Friday         Winter Commences    
+2014/11/8         16                      Saturday                           
+2014/11/9         17                      Sunday                             
+2014/11/10        18                      Monday                             
+2014/11/11        19                      Tuesday                            
+2014/11/12        20                      Wednesday                          
+2014/11/13        21                      Thursday                           
+2014/11/14        22                      Friday                             
+2014/11/15        23                      Saturday                           
+2014/11/16        24                      Sunday                             
+2014/11/17        25                      Monday                             
+2014/11/18        26                      Tuesday                            
+2014/11/19        27                      Wednesday                          
+2014/11/20        28                      Thursday                           
+2014/11/21        29                      Friday                             
+2014/11/22        10th Lunar Month        Saturday       Light Snow          
+2014/11/23        2                       Sunday                             
+2014/11/24        3                       Monday                             
+2014/11/25        4                       Tuesday                            
+2014/11/26        5                       Wednesday                          
+2014/11/27        6                       Thursday                           
+2014/11/28        7                       Friday                             
+2014/11/29        8                       Saturday                           
+2014/11/30        9                       Sunday                             
+2014/12/1         10                      Monday                             
+2014/12/2         11                      Tuesday                            
+2014/12/3         12                      Wednesday                          
+2014/12/4         13                      Thursday                           
+2014/12/5         14                      Friday                             
+2014/12/6         15                      Saturday                           
+2014/12/7         16                      Sunday         Heavy Snow          
+2014/12/8         17                      Monday                             
+2014/12/9         18                      Tuesday                            
+2014/12/10        19                      Wednesday                          
+2014/12/11        20                      Thursday                           
+2014/12/12        21                      Friday                             
+2014/12/13        22                      Saturday                           
+2014/12/14        23                      Sunday                             
+2014/12/15        24                      Monday                             
+2014/12/16        25                      Tuesday                            
+2014/12/17        26                      Wednesday                          
+2014/12/18        27                      Thursday                           
+2014/12/19        28                      Friday                             
+2014/12/20        29                      Saturday                           
+2014/12/21        30                      Sunday                             
+2014/12/22        11th Lunar Month        Monday         Winter Solstice     
+2014/12/23        2                       Tuesday                            
+2014/12/24        3                       Wednesday                          
+2014/12/25        4                       Thursday                           
+2014/12/26        5                       Friday                             
+2014/12/27        6                       Saturday                           
+2014/12/28        7                       Sunday                             
+2014/12/29        8                       Monday                             
+2014/12/30        9                       Tuesday                            
+2014/12/31        10                      Wednesday                          
