@@ -65,3 +65,16 @@ doc/*.txt
 # 忽略所有的 .pdf 文件 在 doc/ directory 下的
 doc/**/*.pdf
 ```
+
+
+
+## 移除缓存时的注意事项
+
+因为`.gitignore`能忽略那些原来没有被 track 的文件，如果某些文件已经被纳入了版本管理中，则修改`.gitignore`是无效的。解决方法是先把本地缓存删除，然后再提交。删除本地缓存的方法是`git rm -r --cached .`。
+
+{{<admonition warning "注意" true>}}
+- 该指令会删除很多别的你需要的文件！`commit`的时候这些文件都会消失，进而出现一系列别的问题！
+
+- 删除的文件可以通过`git status`查看，如果有想要留下的缓存就用`git add <file>`添加！
+{{< /admonition >}}
+
