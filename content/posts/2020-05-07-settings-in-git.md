@@ -79,3 +79,16 @@ doc/**/*.pdf
 - 删除的文件可以通过`git status`查看，如果有想要留下的缓存就用`git add <file>`添加！
 {{< /admonition >}}
 
+## warning: LF will be replaced by ...
+
+```
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory.
+```
+
+解决方法：
+
+```bash
+git config --global core.autocrlf false//禁用自动换行
+```
+
