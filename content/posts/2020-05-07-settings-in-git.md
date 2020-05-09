@@ -92,3 +92,37 @@ The file will have its original line endings in your working directory.
 git config --global core.autocrlf false//禁用自动换行
 ```
 
+## `git submodule`
+
+先将缓存中的子模块文件删除：`git rm -r --cached themes/LoveIt/`，再将本地仓库中的`/themes/LoveIt/`删除，然后
+
+```bash
+$ git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt
+Cloning into 'F:/1R/loveit-website/themes/LoveIt'...
+remote: Enumerating objects: 25, done.
+remote: Counting objects: 100% (25/25), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 9046 (delta 9), reused 12 (delta 4), pack-reused 9021
+Receiving objects: 100% (9046/9046), 35.85 MiB | 899.00 KiB/s, done.
+Resolving deltas: 100% (4423/4423), done.
+
+```
+
+这个时候在本地仓库根目录可以看到`.gitmodules`文件，打开后是
+
+```
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+```
+
+目前没有待更新，等theme再有更新再更。
+
+## 缓存中删除文件的恢复
+
+```bash
+git rm -r --cached .
+git restore --staged .
+git restore .
+```
+
