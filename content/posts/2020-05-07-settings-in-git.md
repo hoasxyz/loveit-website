@@ -105,7 +105,6 @@ remote: Compressing objects: 100% (21/21), done.
 remote: Total 9046 (delta 9), reused 12 (delta 4), pack-reused 9021
 Receiving objects: 100% (9046/9046), 35.85 MiB | 899.00 KiB/s, done.
 Resolving deltas: 100% (4423/4423), done.
-
 ```
 
 这个时候在本地仓库根目录可以看到`.gitmodules`文件，打开后是
@@ -115,6 +114,10 @@ Resolving deltas: 100% (4423/4423), done.
 	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
 ```
+
+`git push`之后，可以在github上看到子模块文件夹，文件夹带上了其所在仓库的版本号：
+
+![LoveIt @ 4479d55](https://i.loli.net/2020/05/09/QJCVWKkFwsn3I2e.png)
 
 目前没有待更新，等theme再有更新再更。
 
