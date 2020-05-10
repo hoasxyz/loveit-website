@@ -980,6 +980,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # CSS and JS Files CDN
   # CSS 和 JS 文件的 CDN 设置
   [params.cdn]
+    # pangu.js@4.0.7 https://github.com/vinta/pangu.js
+    panguJS = "https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"
     # normalize.css@8.0.1 https://github.com/necolas/normalize.css
     normalizeCSS = ""
     # fontawesome-free@5.13.0 https://fontawesome.com/

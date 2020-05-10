@@ -121,6 +121,12 @@ Resolving deltas: 100% (4423/4423), done.
 
 目前没有待更新，等theme再有更新再更。
 
+### 参考
+
+- https://d.cosx.org/d/421442-blogdowngithubtheme
+- https://yihui.org/cn/2017/03/git-submodule/
+- https://zhuanlan.zhihu.com/p/87053283
+
 ## 缓存中删除文件的恢复
 
 ```bash

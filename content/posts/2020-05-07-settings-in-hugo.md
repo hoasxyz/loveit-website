@@ -40,3 +40,23 @@ license: CC BY-NC 4.0
 解决方法就是在`系统变量-Path`中添加路径`C:\Users\Administrator\AppData\Roaming\Hugo\`这个路径不需要精确到`hugo.exe`。另外也不需要在`Administrator的用户变量`中添加该路径。
 
 以后hugo的手动更新就保存在这里把！
+
+## 盘古之白
+
+在`F:\1R\loveit-website\themes\LoveIt\layouts\partials\footer.html`中插入：
+
+```js
+<script>
+(function(u, c) {
+  var d = document, t = 'script', o = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+  o.src = u;
+  if (c) { o.addEventListener('load', function(e) { c(e); }); }
+  s.parentNode.insertBefore(o, s);
+})('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+  pangu.spacingPage();
+});
+</script>
+```
+
+但是每次用`git submodule`更新时都要重更，目前还没有找到解决方法。
