@@ -520,8 +520,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         # located in "assets/" 位于 "assets/"
         # Or 或者
         # someJavascript = "https://cdn.example.com/some.js"
-        panguJS = "pangu.min.js"
-        panguJS = "https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"
+        panguJS1 = "pangu.min.js"
+        panguJS2 = "https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"
     # SEO config
     # SEO 配置
     [params.page.seo]
