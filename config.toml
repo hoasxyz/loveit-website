@@ -509,6 +509,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         label = ""
         lightTheme = "github-light"
         darkTheme = "github-dark"
+    [params.page.library]
+      [params.page.library.css]
+        # someCSS = "some.css"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someCSS = "https://cdn.example.com/some.css"
+      [params.page.library.js]
+        # someJavascript = "some.js"
+        # located in "assets/" 位于 "assets/"
+        # Or 或者
+        # someJavascript = "https://cdn.example.com/some.js"
+        panguJS = "https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"
     # SEO config
     # SEO 配置
     [params.page.seo]
