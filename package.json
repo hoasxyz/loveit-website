@@ -1,0 +1,23 @@
+{
+  "name": "loveit-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoasxyz/loveit-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoasxyz/loveit-website/issues"
+  },
+  "homepage": "https://github.com/hoasxyz/loveit-website#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.17"
+  }
+}
