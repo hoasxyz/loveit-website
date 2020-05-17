@@ -520,17 +520,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         # located in "assets/" 位于 "assets/"
         # Or 或者
         # someJavascript = "https://cdn.example.com/some.js"
-        panguJS1 = "assets/pangu.min.js"
-        panguJS2 = "https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"
-        panguJS3 = "(function(u, c) {
-  var d = document, t = 'script', o = d.createElement(t),
-      s = d.getElementsByTagName(t)[0];
-  o.src = u;
-  if (c) { o.addEventListener('load', function(e) { c(e); }); }
-  s.parentNode.insertBefore(o, s);
-})('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
-  pangu.spacingPage();
-});"
+        panguJS = "https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js"
     # SEO config
     # SEO 配置
     [params.page.seo]
