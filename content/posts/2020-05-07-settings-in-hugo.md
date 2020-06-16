@@ -13,7 +13,7 @@ authorLink: ''
 description: ''
 hiddenFromHomePage: no
 hiddenFromSearch: no
-featuredImage: 'https://hugoloveit.com/images/theme-documentation-extended-shortcodes/featured-image-preview.jpg'
+featuredImage: 'https://hugoloveit.com/theme-documentation-built-in-shortcodes/featured-image.png'
 featuredImagePreview: ''
 toc:
   enable: yes
@@ -60,3 +60,22 @@ license: CC BY-NC 4.0
 ```
 
 但是每次用`git submodule`更新时都要重更，目前还没有找到解决方法。
+
+## 路径顺序
+
+如果想在博文的`.md`文件中插入本地图片（`/static/images/`），可以采用：
+
+```cmd
+![balabala](/images/lalala.jpg)
+```
+
+因为Hugo博文默认的图片引用根目录就已经是`static`！
+
+附上路径引用的区别：
+
+```cmd
+./  ::当前目录
+../ ::父级目录
+/   %根目录%
+```
+
