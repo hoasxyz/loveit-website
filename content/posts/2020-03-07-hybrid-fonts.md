@@ -13,7 +13,7 @@ authorLink: ''
 description: ''
 hiddenFromHomePage: no
 hiddenFromSearch: no
-featuredImage: 'https://i2.wp.com/www.jack.guru/wp-content/uploads/2016/10/all-work-and-no-play-make-jake-a-dull-boy.jpg?resize=570%2C285&ssl=1'
+featuredImage: 'https://sutter-group.com/wp-content/uploads/2015/01/best-fonts-for-website-featured-1.jpg'
 featuredImagePreview: ''
 toc:
   enable: yes
