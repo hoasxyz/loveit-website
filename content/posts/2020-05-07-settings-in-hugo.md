@@ -27,7 +27,7 @@ license: CC BY-NC 4.0
 
 每次Hugo更新都需要从[官网](https://github.com/gohugoio/hugo/releases)下载然后重新安装。**blogdown**的`blogdown::update_hugo()`是默认下载`extended`的版本。
 
-下载好后还需要配置**环境变量**。如果手动下载后解压到F盘，即使添加了`Administrator的用户变量`和`系统变量`，也会出现报错：
+下载好后需配置**环境变量**。如果手动下载后解压到F盘，即使添加了`Administrator的用户变量`和`系统变量`，也会出现报错：
 
 <!--more-->
 
@@ -43,7 +43,7 @@ license: CC BY-NC 4.0
 
 ## 盘古之白
 
-在`F:\1R\loveit-website\themes\LoveIt\layouts\partials\footer.html`中插入：
+采用[谢益辉的方法](https://yihui.org/cn/2017/05/pangu/)，在`F:\1R\loveit-website\themes\LoveIt\layouts\partials\footer.html`中插入：
 
 ```js
 <script>
@@ -60,6 +60,8 @@ license: CC BY-NC 4.0
 ```
 
 但是每次用`git submodule`更新时都要重更，目前还没有找到解决方法。
+
+在网页中，引入`pangu.js`之后需要使用指令`pangu.autoSpacingPage();`来触发盘古之白的效果！[详见](https://github.com/vinta/pangu.js)。
 
 ## 路径顺序
 
