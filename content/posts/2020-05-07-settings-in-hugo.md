@@ -79,3 +79,13 @@ license: CC BY-NC 4.0
 /   %根目录%
 ```
 
+## Algolia
+
+Hugo添加Algolia的教程见[阳明的博客](https://www.qikqiak.com/post/hugo-integrated-algolia-search/)，第一次部署之后每次新添加一个文章都需要使用该指令来刷新：
+
+```bash
+$ hugo-algolia -s
+JSON index file was created in public/algolia.json
+{ updatedAt: '2018-02-23T02:36:09.480Z', taskID: 249063848950 }
+```
+
