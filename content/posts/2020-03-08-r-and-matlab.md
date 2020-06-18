@@ -14,7 +14,7 @@ authorLink: ''
 description: ''
 hiddenFromHomePage: no
 hiddenFromSearch: no
-featuredImage: ''
+featuredImage: 'https://hackr.io/blog/r-vs-matlab/thumbnail/large'
 featuredImagePreview: ''
 toc:
   enable: yes
