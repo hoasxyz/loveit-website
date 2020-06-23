@@ -4,7 +4,7 @@ author: hoas
 date: '2020-06-16'
 slug: rights protection incident in deppon express
 categories:
-  - notes
+  - cases
 tags:
   - rights
 subtitle: ''
