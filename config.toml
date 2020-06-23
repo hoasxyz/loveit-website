@@ -1,4 +1,4 @@
-baseURL = "https://hoas.top"
+baseURL = "https://hoas.top/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -24,6 +24,7 @@ enableGitInfo = true
 enableEmoji = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+absoluteURL = true
 
 [languages]
   [languages.zh-cn]
@@ -118,7 +119,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         # 文章内容最长索引长度
         contentLength = 4000
         # 搜索框的占位提示语
-        placeholder = "在这里搜索吧……"
+        placeholder = ""
         # 最大结果数目
         maxResultLength = 10
         # 结果内容片段长度
