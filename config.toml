@@ -130,8 +130,8 @@ absoluteURL = true
         absoluteURL = true
         [languages.zh-cn.params.search.algolia]
           index = "LoveIt"
-          appID = "51HIYUODXW"
-          searchKey = "5500d30564be0ca1cd3b12ead36a9ea0"
+          appID = "6IKCTVQXQ3"
+          searchKey = "f5a362d265db871a6ab1f306865fd693"
       # 主页信息设置
       [languages.zh-cn.params.home]
         # RSS 文章数目

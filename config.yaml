@@ -1,5 +1,5 @@
 ---
-baseurl: "https://hoas.top"
+baseurl: "https://hoas.top/"
 DefaultContentLanguage: "zh-cn"
 hasCJKLanguage: true
 languageCode: "zh-cn"
@@ -8,6 +8,6 @@ theme: "LoveIt"
 metaDataFormat: "yaml"
 algolia:
   index: "LoveIt"
-  key: "d249e72c9ed9919b5b460f1d972ee0b7"
-  appID: "51HIYUODXW"
+  key: "f5a362d265db871a6ab1f306865fd693"
+  appID: "6IKCTVQXQ3"
 ---
