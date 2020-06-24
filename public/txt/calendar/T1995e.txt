@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1995 (Yi-hai ¡V year of the Pig)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1995/01/01     12th Lunar month    Sunday                             
+1995/01/02     2                   Monday                             
+1995/01/03     3                   Tuesday                            
+1995/01/04     4                   Wednesday                          
+1995/01/05     5                   Thursday                           
+1995/01/06     6                   Friday         Moderate Cold       
+1995/01/07     7                   Saturday                           
+1995/01/08     8                   Sunday                             
+1995/01/09     9                   Monday                             
+1995/01/10     10                  Tuesday                            
+1995/01/11     11                  Wednesday                          
+1995/01/12     12                  Thursday                           
+1995/01/13     13                  Friday                             
+1995/01/14     14                  Saturday                           
+1995/01/15     15                  Sunday                             
+1995/01/16     16                  Monday                             
+1995/01/17     17                  Tuesday                            
+1995/01/18     18                  Wednesday                          
+1995/01/19     19                  Thursday                           
+1995/01/20     20                  Friday         Severe Cold         
+1995/01/21     21                  Saturday                           
+1995/01/22     22                  Sunday                             
+1995/01/23     23                  Monday                             
+1995/01/24     24                  Tuesday                            
+1995/01/25     25                  Wednesday                          
+1995/01/26     26                  Thursday                           
+1995/01/27     27                  Friday                             
+1995/01/28     28                  Saturday                           
+1995/01/29     29                  Sunday                             
+1995/01/30     30                  Monday                             
+1995/01/31     1st Lunar month     Tuesday                            
+1995/02/01     2                   Wednesday                          
+1995/02/02     3                   Thursday                           
+1995/02/03     4                   Friday                             
+1995/02/04     5                   Saturday       Spring Commences    
+1995/02/05     6                   Sunday                             
+1995/02/06     7                   Monday                             
+1995/02/07     8                   Tuesday                            
+1995/02/08     9                   Wednesday                          
+1995/02/09     10                  Thursday                           
+1995/02/10     11                  Friday                             
+1995/02/11     12                  Saturday                           
+1995/02/12     13                  Sunday                             
+1995/02/13     14                  Monday                             
+1995/02/14     15                  Tuesday                            
+1995/02/15     16                  Wednesday                          
+1995/02/16     17                  Thursday                           
+1995/02/17     18                  Friday                             
+1995/02/18     19                  Saturday                           
+1995/02/19     20                  Sunday         Spring Showers      
+1995/02/20     21                  Monday                             
+1995/02/21     22                  Tuesday                            
+1995/02/22     23                  Wednesday                          
+1995/02/23     24                  Thursday                           
+1995/02/24     25                  Friday                             
+1995/02/25     26                  Saturday                           
+1995/02/26     27                  Sunday                             
+1995/02/27     28                  Monday                             
+1995/02/28     29                  Tuesday                            
+1995/03/01     2nd Lunar month     Wednesday                          
+1995/03/02     2                   Thursday                           
+1995/03/03     3                   Friday                             
+1995/03/04     4                   Saturday                           
+1995/03/05     5                   Sunday                             
+1995/03/06     6                   Monday         Insects Waken       
+1995/03/07     7                   Tuesday                            
+1995/03/08     8                   Wednesday                          
+1995/03/09     9                   Thursday                           
+1995/03/10     10                  Friday                             
+1995/03/11     11                  Saturday                           
+1995/03/12     12                  Sunday                             
+1995/03/13     13                  Monday                             
+1995/03/14     14                  Tuesday                            
+1995/03/15     15                  Wednesday                          
+1995/03/16     16                  Thursday                           
+1995/03/17     17                  Friday                             
+1995/03/18     18                  Saturday                           
+1995/03/19     19                  Sunday                             
+1995/03/20     20                  Monday                             
+1995/03/21     21                  Tuesday        Vernal Equinox      
+1995/03/22     22                  Wednesday                          
+1995/03/23     23                  Thursday                           
+1995/03/24     24                  Friday                             
+1995/03/25     25                  Saturday                           
+1995/03/26     26                  Sunday                             
+1995/03/27     27                  Monday                             
+1995/03/28     28                  Tuesday                            
+1995/03/29     29                  Wednesday                          
+1995/03/30     30                  Thursday                           
+1995/03/31     3rd Lunar month     Friday                             
+1995/04/01     2                   Saturday                           
+1995/04/02     3                   Sunday                             
+1995/04/03     4                   Monday                             
+1995/04/04     5                   Tuesday                            
+1995/04/05     6                   Wednesday      Bright & Clear      
+1995/04/06     7                   Thursday                           
+1995/04/07     8                   Friday                             
+1995/04/08     9                   Saturday                           
+1995/04/09     10                  Sunday                             
+1995/04/10     11                  Monday                             
+1995/04/11     12                  Tuesday                            
+1995/04/12     13                  Wednesday                          
+1995/04/13     14                  Thursday                           
+1995/04/14     15                  Friday                             
+1995/04/15     16                  Saturday                           
+1995/04/16     17                  Sunday                             
+1995/04/17     18                  Monday                             
+1995/04/18     19                  Tuesday                            
+1995/04/19     20                  Wednesday                          
+1995/04/20     21                  Thursday       Corn Rain           
+1995/04/21     22                  Friday                             
+1995/04/22     23                  Saturday                           
+1995/04/23     24                  Sunday                             
+1995/04/24     25                  Monday                             
+1995/04/25     26                  Tuesday                            
+1995/04/26     27                  Wednesday                          
+1995/04/27     28                  Thursday                           
+1995/04/28     29                  Friday                             
+1995/04/29     30                  Saturday                           
+1995/04/30     4th Lunar month     Sunday                             
+1995/05/01     2                   Monday                             
+1995/05/02     3                   Tuesday                            
+1995/05/03     4                   Wednesday                          
+1995/05/04     5                   Thursday                           
+1995/05/05     6                   Friday                             
+1995/05/06     7                   Saturday       Summer Commences    
+1995/05/07     8                   Sunday                             
+1995/05/08     9                   Monday                             
+1995/05/09     10                  Tuesday                            
+1995/05/10     11                  Wednesday                          
+1995/05/11     12                  Thursday                           
+1995/05/12     13                  Friday                             
+1995/05/13     14                  Saturday                           
+1995/05/14     15                  Sunday                             
+1995/05/15     16                  Monday                             
+1995/05/16     17                  Tuesday                            
+1995/05/17     18                  Wednesday                          
+1995/05/18     19                  Thursday                           
+1995/05/19     20                  Friday                             
+1995/05/20     21                  Saturday                           
+1995/05/21     22                  Sunday         Corn Forms          
+1995/05/22     23                  Monday                             
+1995/05/23     24                  Tuesday                            
+1995/05/24     25                  Wednesday                          
+1995/05/25     26                  Thursday                           
+1995/05/26     27                  Friday                             
+1995/05/27     28                  Saturday                           
+1995/05/28     29                  Sunday                             
+1995/05/29     5th Lunar month     Monday                             
+1995/05/30     2                   Tuesday                            
+1995/05/31     3                   Wednesday                          
+1995/06/01     4                   Thursday                           
+1995/06/02     5                   Friday                             
+1995/06/03     6                   Saturday                           
+1995/06/04     7                   Sunday                             
+1995/06/05     8                   Monday                             
+1995/06/06     9                   Tuesday        Corn on Ear         
+1995/06/07     10                  Wednesday                          
+1995/06/08     11                  Thursday                           
+1995/06/09     12                  Friday                             
+1995/06/10     13                  Saturday                           
+1995/06/11     14                  Sunday                             
+1995/06/12     15                  Monday                             
+1995/06/13     16                  Tuesday                            
+1995/06/14     17                  Wednesday                          
+1995/06/15     18                  Thursday                           
+1995/06/16     19                  Friday                             
+1995/06/17     20                  Saturday                           
+1995/06/18     21                  Sunday                             
+1995/06/19     22                  Monday                             
+1995/06/20     23                  Tuesday                            
+1995/06/21     24                  Wednesday                          
+1995/06/22     25                  Thursday       Summer Solstice     
+1995/06/23     26                  Friday                             
+1995/06/24     27                  Saturday                           
+1995/06/25     28                  Sunday                             
+1995/06/26     29                  Monday                             
+1995/06/27     30                  Tuesday                            
+1995/06/28     6th Lunar month     Wednesday                          
+1995/06/29     2                   Thursday                           
+1995/06/30     3                   Friday                             
+1995/07/01     4                   Saturday                           
+1995/07/02     5                   Sunday                             
+1995/07/03     6                   Monday                             
+1995/07/04     7                   Tuesday                            
+1995/07/05     8                   Wednesday                          
+1995/07/06     9                   Thursday                           
+1995/07/07     10                  Friday         Moderate Heat       
+1995/07/08     11                  Saturday                           
+1995/07/09     12                  Sunday                             
+1995/07/10     13                  Monday                             
+1995/07/11     14                  Tuesday                            
+1995/07/12     15                  Wednesday                          
+1995/07/13     16                  Thursday                           
+1995/07/14     17                  Friday                             
+1995/07/15     18                  Saturday                           
+1995/07/16     19                  Sunday                             
+1995/07/17     20                  Monday                             
+1995/07/18     21                  Tuesday                            
+1995/07/19     22                  Wednesday                          
+1995/07/20     23                  Thursday                           
+1995/07/21     24                  Friday                             
+1995/07/22     25                  Saturday                           
+1995/07/23     26                  Sunday         Great Heat          
+1995/07/24     27                  Monday                             
+1995/07/25     28                  Tuesday                            
+1995/07/26     29                  Wednesday                          
+1995/07/27     7th Lunar month     Thursday                           
+1995/07/28     2                   Friday                             
+1995/07/29     3                   Saturday                           
+1995/07/30     4                   Sunday                             
+1995/07/31     5                   Monday                             
+1995/08/01     6                   Tuesday                            
+1995/08/02     7                   Wednesday                          
+1995/08/03     8                   Thursday                           
+1995/08/04     9                   Friday                             
+1995/08/05     10                  Saturday                           
+1995/08/06     11                  Sunday                             
+1995/08/07     12                  Monday                             
+1995/08/08     13                  Tuesday        Autumn Commences    
+1995/08/09     14                  Wednesday                          
+1995/08/10     15                  Thursday                           
+1995/08/11     16                  Friday                             
+1995/08/12     17                  Saturday                           
+1995/08/13     18                  Sunday                             
+1995/08/14     19                  Monday                             
+1995/08/15     20                  Tuesday                            
+1995/08/16     21                  Wednesday                          
+1995/08/17     22                  Thursday                           
+1995/08/18     23                  Friday                             
+1995/08/19     24                  Saturday                           
+1995/08/20     25                  Sunday                             
+1995/08/21     26                  Monday                             
+1995/08/22     27                  Tuesday                            
+1995/08/23     28                  Wednesday      End of Heat         
+1995/08/24     29                  Thursday                           
+1995/08/25     30                  Friday                             
+1995/08/26     8th Lunar month     Saturday                           
+1995/08/27     2                   Sunday                             
+1995/08/28     3                   Monday                             
+1995/08/29     4                   Tuesday                            
+1995/08/30     5                   Wednesday                          
+1995/08/31     6                   Thursday                           
+1995/09/01     7                   Friday                             
+1995/09/02     8                   Saturday                           
+1995/09/03     9                   Sunday                             
+1995/09/04     10                  Monday                             
+1995/09/05     11                  Tuesday                            
+1995/09/06     12                  Wednesday                          
+1995/09/07     13                  Thursday                           
+1995/09/08     14                  Friday         White Dew           
+1995/09/09     15                  Saturday                           
+1995/09/10     16                  Sunday                             
+1995/09/11     17                  Monday                             
+1995/09/12     18                  Tuesday                            
+1995/09/13     19                  Wednesday                          
+1995/09/14     20                  Thursday                           
+1995/09/15     21                  Friday                             
+1995/09/16     22                  Saturday                           
+1995/09/17     23                  Sunday                             
+1995/09/18     24                  Monday                             
+1995/09/19     25                  Tuesday                            
+1995/09/20     26                  Wednesday                          
+1995/09/21     27                  Thursday                           
+1995/09/22     28                  Friday                             
+1995/09/23     29                  Saturday       Autumnal Equinox    
+1995/09/24     30                  Sunday                             
+1995/09/25     8th Lunar month     Monday                             
+1995/09/26     2                   Tuesday                            
+1995/09/27     3                   Wednesday                          
+1995/09/28     4                   Thursday                           
+1995/09/29     5                   Friday                             
+1995/09/30     6                   Saturday                           
+1995/10/01     7                   Sunday                             
+1995/10/02     8                   Monday                             
+1995/10/03     9                   Tuesday                            
+1995/10/04     10                  Wednesday                          
+1995/10/05     11                  Thursday                           
+1995/10/06     12                  Friday                             
+1995/10/07     13                  Saturday                           
+1995/10/08     14                  Sunday                             
+1995/10/09     15                  Monday         Cold Dew            
+1995/10/10     16                  Tuesday                            
+1995/10/11     17                  Wednesday                          
+1995/10/12     18                  Thursday                           
+1995/10/13     19                  Friday                             
+1995/10/14     20                  Saturday                           
+1995/10/15     21                  Sunday                             
+1995/10/16     22                  Monday                             
+1995/10/17     23                  Tuesday                            
+1995/10/18     24                  Wednesday                          
+1995/10/19     25                  Thursday                           
+1995/10/20     26                  Friday                             
+1995/10/21     27                  Saturday                           
+1995/10/22     28                  Sunday                             
+1995/10/23     29                  Monday                             
+1995/10/24     9th Lunar month     Tuesday        Frost               
+1995/10/25     2                   Wednesday                          
+1995/10/26     3                   Thursday                           
+1995/10/27     4                   Friday                             
+1995/10/28     5                   Saturday                           
+1995/10/29     6                   Sunday                             
+1995/10/30     7                   Monday                             
+1995/10/31     8                   Tuesday                            
+1995/11/01     9                   Wednesday                          
+1995/11/02     10                  Thursday                           
+1995/11/03     11                  Friday                             
+1995/11/04     12                  Saturday                           
+1995/11/05     13                  Sunday                             
+1995/11/06     14                  Monday                             
+1995/11/07     15                  Tuesday                            
+1995/11/08     16                  Wednesday      Winter Commences    
+1995/11/09     17                  Thursday                           
+1995/11/10     18                  Friday                             
+1995/11/11     19                  Saturday                           
+1995/11/12     20                  Sunday                             
+1995/11/13     21                  Monday                             
+1995/11/14     22                  Tuesday                            
+1995/11/15     23                  Wednesday                          
+1995/11/16     24                  Thursday                           
+1995/11/17     25                  Friday                             
+1995/11/18     26                  Saturday                           
+1995/11/19     27                  Sunday                             
+1995/11/20     28                  Monday                             
+1995/11/21     29                  Tuesday                            
+1995/11/22     10th Lunar month    Wednesday                          
+1995/11/23     2                   Thursday       Light Snow          
+1995/11/24     3                   Friday                             
+1995/11/25     4                   Saturday                           
+1995/11/26     5                   Sunday                             
+1995/11/27     6                   Monday                             
+1995/11/28     7                   Tuesday                            
+1995/11/29     8                   Wednesday                          
+1995/11/30     9                   Thursday                           
+1995/12/01     10                  Friday                             
+1995/12/02     11                  Saturday                           
+1995/12/03     12                  Sunday                             
+1995/12/04     13                  Monday                             
+1995/12/05     14                  Tuesday                            
+1995/12/06     15                  Wednesday                          
+1995/12/07     16                  Thursday       Heavy Snow          
+1995/12/08     17                  Friday                             
+1995/12/09     18                  Saturday                           
+1995/12/10     19                  Sunday                             
+1995/12/11     20                  Monday                             
+1995/12/12     21                  Tuesday                            
+1995/12/13     22                  Wednesday                          
+1995/12/14     23                  Thursday                           
+1995/12/15     24                  Friday                             
+1995/12/16     25                  Saturday                           
+1995/12/17     26                  Sunday                             
+1995/12/18     27                  Monday                             
+1995/12/19     28                  Tuesday                            
+1995/12/20     29                  Wednesday                          
+1995/12/21     30                  Thursday                           
+1995/12/22     11th Lunar month    Friday         Winter Solstice     
+1995/12/23     2                   Saturday                           
+1995/12/24     3                   Sunday                             
+1995/12/25     4                   Monday                             
+1995/12/26     5                   Tuesday                            
+1995/12/27     6                   Wednesday                          
+1995/12/28     7                   Thursday                           
+1995/12/29     8                   Friday                             
+1995/12/30     9                   Saturday                           
+1995/12/31     10                  Sunday                             

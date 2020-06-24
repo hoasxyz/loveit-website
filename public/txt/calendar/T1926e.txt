@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1926 (Bing-yin ¡V year of the Tiger)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1926/01/01     17                  Friday                             
+1926/01/02     18                  Saturday                           
+1926/01/03     19                  Sunday                             
+1926/01/04     20                  Monday                             
+1926/01/05     21                  Tuesday                            
+1926/01/06     22                  Wednesday      Moderate Cold       
+1926/01/07     23                  Thursday                           
+1926/01/08     24                  Friday                             
+1926/01/09     25                  Saturday                           
+1926/01/10     26                  Sunday                             
+1926/01/11     27                  Monday                             
+1926/01/12     28                  Tuesday                            
+1926/01/13     29                  Wednesday                          
+1926/01/14     12th Lunar month    Thursday                           
+1926/01/15     2                   Friday                             
+1926/01/16     3                   Saturday                           
+1926/01/17     4                   Sunday                             
+1926/01/18     5                   Monday                             
+1926/01/19     6                   Tuesday                            
+1926/01/20     7                   Wednesday                          
+1926/01/21     8                   Thursday       Severe Cold         
+1926/01/22     9                   Friday                             
+1926/01/23     10                  Saturday                           
+1926/01/24     11                  Sunday                             
+1926/01/25     12                  Monday                             
+1926/01/26     13                  Tuesday                            
+1926/01/27     14                  Wednesday                          
+1926/01/28     15                  Thursday                           
+1926/01/29     16                  Friday                             
+1926/01/30     17                  Saturday                           
+1926/01/31     18                  Sunday                             
+1926/02/01     19                  Monday                             
+1926/02/02     20                  Tuesday                            
+1926/02/03     21                  Wednesday                          
+1926/02/04     22                  Thursday       Spring Commences    
+1926/02/05     23                  Friday                             
+1926/02/06     24                  Saturday                           
+1926/02/07     25                  Sunday                             
+1926/02/08     26                  Monday                             
+1926/02/09     27                  Tuesday                            
+1926/02/10     28                  Wednesday                          
+1926/02/11     29                  Thursday                           
+1926/02/12     30                  Friday                             
+1926/02/13     1st Lunar month     Saturday                           
+1926/02/14     2                   Sunday                             
+1926/02/15     3                   Monday                             
+1926/02/16     4                   Tuesday                            
+1926/02/17     5                   Wednesday                          
+1926/02/18     6                   Thursday                           
+1926/02/19     7                   Friday         Spring Showers      
+1926/02/20     8                   Saturday                           
+1926/02/21     9                   Sunday                             
+1926/02/22     10                  Monday                             
+1926/02/23     11                  Tuesday                            
+1926/02/24     12                  Wednesday                          
+1926/02/25     13                  Thursday                           
+1926/02/26     14                  Friday                             
+1926/02/27     15                  Saturday                           
+1926/02/28     16                  Sunday                             
+1926/03/01     17                  Monday                             
+1926/03/02     18                  Tuesday                            
+1926/03/03     19                  Wednesday                          
+1926/03/04     20                  Thursday                           
+1926/03/05     21                  Friday                             
+1926/03/06     22                  Saturday       Insects Waken       
+1926/03/07     23                  Sunday                             
+1926/03/08     24                  Monday                             
+1926/03/09     25                  Tuesday                            
+1926/03/10     26                  Wednesday                          
+1926/03/11     27                  Thursday                           
+1926/03/12     28                  Friday                             
+1926/03/13     29                  Saturday                           
+1926/03/14     2nd Lunar month     Sunday                             
+1926/03/15     2                   Monday                             
+1926/03/16     3                   Tuesday                            
+1926/03/17     4                   Wednesday                          
+1926/03/18     5                   Thursday                           
+1926/03/19     6                   Friday                             
+1926/03/20     7                   Saturday                           
+1926/03/21     8                   Sunday         Vernal Equinox      
+1926/03/22     9                   Monday                             
+1926/03/23     10                  Tuesday                            
+1926/03/24     11                  Wednesday                          
+1926/03/25     12                  Thursday                           
+1926/03/26     13                  Friday                             
+1926/03/27     14                  Saturday                           
+1926/03/28     15                  Sunday                             
+1926/03/29     16                  Monday                             
+1926/03/30     17                  Tuesday                            
+1926/03/31     18                  Wednesday                          
+1926/04/01     19                  Thursday                           
+1926/04/02     20                  Friday                             
+1926/04/03     21                  Saturday                           
+1926/04/04     22                  Sunday                             
+1926/04/05     23                  Monday         Bright & Clear      
+1926/04/06     24                  Tuesday                            
+1926/04/07     25                  Wednesday                          
+1926/04/08     26                  Thursday                           
+1926/04/09     27                  Friday                             
+1926/04/10     28                  Saturday                           
+1926/04/11     29                  Sunday                             
+1926/04/12     3rd Lunar month     Monday                             
+1926/04/13     2                   Tuesday                            
+1926/04/14     3                   Wednesday                          
+1926/04/15     4                   Thursday                           
+1926/04/16     5                   Friday                             
+1926/04/17     6                   Saturday                           
+1926/04/18     7                   Sunday                             
+1926/04/19     8                   Monday                             
+1926/04/20     9                   Tuesday                            
+1926/04/21     10                  Wednesday      Corn Rain           
+1926/04/22     11                  Thursday                           
+1926/04/23     12                  Friday                             
+1926/04/24     13                  Saturday                           
+1926/04/25     14                  Sunday                             
+1926/04/26     15                  Monday                             
+1926/04/27     16                  Tuesday                            
+1926/04/28     17                  Wednesday                          
+1926/04/29     18                  Thursday                           
+1926/04/30     19                  Friday                             
+1926/05/01     20                  Saturday                           
+1926/05/02     21                  Sunday                             
+1926/05/03     22                  Monday                             
+1926/05/04     23                  Tuesday                            
+1926/05/05     24                  Wednesday                          
+1926/05/06     25                  Thursday       Summer Commences    
+1926/05/07     26                  Friday                             
+1926/05/08     27                  Saturday                           
+1926/05/09     28                  Sunday                             
+1926/05/10     29                  Monday                             
+1926/05/11     30                  Tuesday                            
+1926/05/12     4th Lunar month     Wednesday                          
+1926/05/13     2                   Thursday                           
+1926/05/14     3                   Friday                             
+1926/05/15     4                   Saturday                           
+1926/05/16     5                   Sunday                             
+1926/05/17     6                   Monday                             
+1926/05/18     7                   Tuesday                            
+1926/05/19     8                   Wednesday                          
+1926/05/20     9                   Thursday                           
+1926/05/21     10                  Friday                             
+1926/05/22     11                  Saturday       Corn Forms          
+1926/05/23     12                  Sunday                             
+1926/05/24     13                  Monday                             
+1926/05/25     14                  Tuesday                            
+1926/05/26     15                  Wednesday                          
+1926/05/27     16                  Thursday                           
+1926/05/28     17                  Friday                             
+1926/05/29     18                  Saturday                           
+1926/05/30     19                  Sunday                             
+1926/05/31     20                  Monday                             
+1926/06/01     21                  Tuesday                            
+1926/06/02     22                  Wednesday                          
+1926/06/03     23                  Thursday                           
+1926/06/04     24                  Friday                             
+1926/06/05     25                  Saturday                           
+1926/06/06     26                  Sunday         Corn on Ear         
+1926/06/07     27                  Monday                             
+1926/06/08     28                  Tuesday                            
+1926/06/09     29                  Wednesday                          
+1926/06/10     5th Lunar month     Thursday                           
+1926/06/11     2                   Friday                             
+1926/06/12     3                   Saturday                           
+1926/06/13     4                   Sunday                             
+1926/06/14     5                   Monday                             
+1926/06/15     6                   Tuesday                            
+1926/06/16     7                   Wednesday                          
+1926/06/17     8                   Thursday                           
+1926/06/18     9                   Friday                             
+1926/06/19     10                  Saturday                           
+1926/06/20     11                  Sunday                             
+1926/06/21     12                  Monday                             
+1926/06/22     13                  Tuesday        Summer Solstice     
+1926/06/23     14                  Wednesday                          
+1926/06/24     15                  Thursday                           
+1926/06/25     16                  Friday                             
+1926/06/26     17                  Saturday                           
+1926/06/27     18                  Sunday                             
+1926/06/28     19                  Monday                             
+1926/06/29     20                  Tuesday                            
+1926/06/30     21                  Wednesday                          
+1926/07/01     22                  Thursday                           
+1926/07/02     23                  Friday                             
+1926/07/03     24                  Saturday                           
+1926/07/04     25                  Sunday                             
+1926/07/05     26                  Monday                             
+1926/07/06     27                  Tuesday                            
+1926/07/07     28                  Wednesday                          
+1926/07/08     29                  Thursday       Moderate Heat       
+1926/07/09     30                  Friday                             
+1926/07/10     6th Lunar month     Saturday                           
+1926/07/11     2                   Sunday                             
+1926/07/12     3                   Monday                             
+1926/07/13     4                   Tuesday                            
+1926/07/14     5                   Wednesday                          
+1926/07/15     6                   Thursday                           
+1926/07/16     7                   Friday                             
+1926/07/17     8                   Saturday                           
+1926/07/18     9                   Sunday                             
+1926/07/19     10                  Monday                             
+1926/07/20     11                  Tuesday                            
+1926/07/21     12                  Wednesday                          
+1926/07/22     13                  Thursday                           
+1926/07/23     14                  Friday         Great Heat          
+1926/07/24     15                  Saturday                           
+1926/07/25     16                  Sunday                             
+1926/07/26     17                  Monday                             
+1926/07/27     18                  Tuesday                            
+1926/07/28     19                  Wednesday                          
+1926/07/29     20                  Thursday                           
+1926/07/30     21                  Friday                             
+1926/07/31     22                  Saturday                           
+1926/08/01     23                  Sunday                             
+1926/08/02     24                  Monday                             
+1926/08/03     25                  Tuesday                            
+1926/08/04     26                  Wednesday                          
+1926/08/05     27                  Thursday                           
+1926/08/06     28                  Friday                             
+1926/08/07     29                  Saturday                           
+1926/08/08     7th Lunar month     Sunday         Autumn Commences    
+1926/08/09     2                   Monday                             
+1926/08/10     3                   Tuesday                            
+1926/08/11     4                   Wednesday                          
+1926/08/12     5                   Thursday                           
+1926/08/13     6                   Friday                             
+1926/08/14     7                   Saturday                           
+1926/08/15     8                   Sunday                             
+1926/08/16     9                   Monday                             
+1926/08/17     10                  Tuesday                            
+1926/08/18     11                  Wednesday                          
+1926/08/19     12                  Thursday                           
+1926/08/20     13                  Friday                             
+1926/08/21     14                  Saturday                           
+1926/08/22     15                  Sunday                             
+1926/08/23     16                  Monday                             
+1926/08/24     17                  Tuesday        End of Heat         
+1926/08/25     18                  Wednesday                          
+1926/08/26     19                  Thursday                           
+1926/08/27     20                  Friday                             
+1926/08/28     21                  Saturday                           
+1926/08/29     22                  Sunday                             
+1926/08/30     23                  Monday                             
+1926/08/31     24                  Tuesday                            
+1926/09/01     25                  Wednesday                          
+1926/09/02     26                  Thursday                           
+1926/09/03     27                  Friday                             
+1926/09/04     28                  Saturday                           
+1926/09/05     29                  Sunday                             
+1926/09/06     30                  Monday                             
+1926/09/07     8th Lunar month     Tuesday                            
+1926/09/08     2                   Wednesday      White Dew           
+1926/09/09     3                   Thursday                           
+1926/09/10     4                   Friday                             
+1926/09/11     5                   Saturday                           
+1926/09/12     6                   Sunday                             
+1926/09/13     7                   Monday                             
+1926/09/14     8                   Tuesday                            
+1926/09/15     9                   Wednesday                          
+1926/09/16     10                  Thursday                           
+1926/09/17     11                  Friday                             
+1926/09/18     12                  Saturday                           
+1926/09/19     13                  Sunday                             
+1926/09/20     14                  Monday                             
+1926/09/21     15                  Tuesday                            
+1926/09/22     16                  Wednesday                          
+1926/09/23     17                  Thursday                           
+1926/09/24     18                  Friday         Autumnal Equinox    
+1926/09/25     19                  Saturday                           
+1926/09/26     20                  Sunday                             
+1926/09/27     21                  Monday                             
+1926/09/28     22                  Tuesday                            
+1926/09/29     23                  Wednesday                          
+1926/09/30     24                  Thursday                           
+1926/10/01     25                  Friday                             
+1926/10/02     26                  Saturday                           
+1926/10/03     27                  Sunday                             
+1926/10/04     28                  Monday                             
+1926/10/05     29                  Tuesday                            
+1926/10/06     30                  Wednesday                          
+1926/10/07     9th Lunar month     Thursday                           
+1926/10/08     2                   Friday                             
+1926/10/09     3                   Saturday       Cold Dew            
+1926/10/10     4                   Sunday                             
+1926/10/11     5                   Monday                             
+1926/10/12     6                   Tuesday                            
+1926/10/13     7                   Wednesday                          
+1926/10/14     8                   Thursday                           
+1926/10/15     9                   Friday                             
+1926/10/16     10                  Saturday                           
+1926/10/17     11                  Sunday                             
+1926/10/18     12                  Monday                             
+1926/10/19     13                  Tuesday                            
+1926/10/20     14                  Wednesday                          
+1926/10/21     15                  Thursday                           
+1926/10/22     16                  Friday                             
+1926/10/23     17                  Saturday                           
+1926/10/24     18                  Sunday         Frost               
+1926/10/25     19                  Monday                             
+1926/10/26     20                  Tuesday                            
+1926/10/27     21                  Wednesday                          
+1926/10/28     22                  Thursday                           
+1926/10/29     23                  Friday                             
+1926/10/30     24                  Saturday                           
+1926/10/31     25                  Sunday                             
+1926/11/01     26                  Monday                             
+1926/11/02     27                  Tuesday                            
+1926/11/03     28                  Wednesday                          
+1926/11/04     29                  Thursday                           
+1926/11/05     10th Lunar month    Friday                             
+1926/11/06     2                   Saturday                           
+1926/11/07     3                   Sunday                             
+1926/11/08     4                   Monday         Winter Commences    
+1926/11/09     5                   Tuesday                            
+1926/11/10     6                   Wednesday                          
+1926/11/11     7                   Thursday                           
+1926/11/12     8                   Friday                             
+1926/11/13     9                   Saturday                           
+1926/11/14     10                  Sunday                             
+1926/11/15     11                  Monday                             
+1926/11/16     12                  Tuesday                            
+1926/11/17     13                  Wednesday                          
+1926/11/18     14                  Thursday                           
+1926/11/19     15                  Friday                             
+1926/11/20     16                  Saturday                           
+1926/11/21     17                  Sunday                             
+1926/11/22     18                  Monday                             
+1926/11/23     19                  Tuesday        Light Snow          
+1926/11/24     20                  Wednesday                          
+1926/11/25     21                  Thursday                           
+1926/11/26     22                  Friday                             
+1926/11/27     23                  Saturday                           
+1926/11/28     24                  Sunday                             
+1926/11/29     25                  Monday                             
+1926/11/30     26                  Tuesday                            
+1926/12/01     27                  Wednesday                          
+1926/12/02     28                  Thursday                           
+1926/12/03     29                  Friday                             
+1926/12/04     30                  Saturday                           
+1926/12/05     11th Lunar month    Sunday                             
+1926/12/06     2                   Monday                             
+1926/12/07     3                   Tuesday                            
+1926/12/08     4                   Wednesday      Heavy Snow          
+1926/12/09     5                   Thursday                           
+1926/12/10     6                   Friday                             
+1926/12/11     7                   Saturday                           
+1926/12/12     8                   Sunday                             
+1926/12/13     9                   Monday                             
+1926/12/14     10                  Tuesday                            
+1926/12/15     11                  Wednesday                          
+1926/12/16     12                  Thursday                           
+1926/12/17     13                  Friday                             
+1926/12/18     14                  Saturday                           
+1926/12/19     15                  Sunday                             
+1926/12/20     16                  Monday                             
+1926/12/21     17                  Tuesday                            
+1926/12/22     18                  Wednesday      Winter Solstice     
+1926/12/23     19                  Thursday                           
+1926/12/24     20                  Friday                             
+1926/12/25     21                  Saturday                           
+1926/12/26     22                  Sunday                             
+1926/12/27     23                  Monday                             
+1926/12/28     24                  Tuesday                            
+1926/12/29     25                  Wednesday                          
+1926/12/30     26                  Thursday                           
+1926/12/31     27                  Friday                             

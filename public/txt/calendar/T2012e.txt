@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2012 (Ren-chen  -  year of the Dragon)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2012/1/1          8                       Sunday                             
+2012/1/2          9                       Monday                             
+2012/1/3          10                      Tuesday                            
+2012/1/4          11                      Wednesday                          
+2012/1/5          12                      Thursday                           
+2012/1/6          13                      Friday         Moderate Cold       
+2012/1/7          14                      Saturday                           
+2012/1/8          15                      Sunday                             
+2012/1/9          16                      Monday                             
+2012/1/10         17                      Tuesday                            
+2012/1/11         18                      Wednesday                          
+2012/1/12         19                      Thursday                           
+2012/1/13         20                      Friday                             
+2012/1/14         21                      Saturday                           
+2012/1/15         22                      Sunday                             
+2012/1/16         23                      Monday                             
+2012/1/17         24                      Tuesday                            
+2012/1/18         25                      Wednesday                          
+2012/1/19         26                      Thursday                           
+2012/1/20         27                      Friday                             
+2012/1/21         28                      Saturday       Severe Cold         
+2012/1/22         29                      Sunday                             
+2012/1/23         1st Lunar Month         Monday                             
+2012/1/24         2                       Tuesday                            
+2012/1/25         3                       Wednesday                          
+2012/1/26         4                       Thursday                           
+2012/1/27         5                       Friday                             
+2012/1/28         6                       Saturday                           
+2012/1/29         7                       Sunday                             
+2012/1/30         8                       Monday                             
+2012/1/31         9                       Tuesday                            
+2012/2/1          10                      Wednesday                          
+2012/2/2          11                      Thursday                           
+2012/2/3          12                      Friday                             
+2012/2/4          13                      Saturday       Spring Commences    
+2012/2/5          14                      Sunday                             
+2012/2/6          15                      Monday                             
+2012/2/7          16                      Tuesday                            
+2012/2/8          17                      Wednesday                          
+2012/2/9          18                      Thursday                           
+2012/2/10         19                      Friday                             
+2012/2/11         20                      Saturday                           
+2012/2/12         21                      Sunday                             
+2012/2/13         22                      Monday                             
+2012/2/14         23                      Tuesday                            
+2012/2/15         24                      Wednesday                          
+2012/2/16         25                      Thursday                           
+2012/2/17         26                      Friday                             
+2012/2/18         27                      Saturday                           
+2012/2/19         28                      Sunday         Spring Showers      
+2012/2/20         29                      Monday                             
+2012/2/21         30                      Tuesday                            
+2012/2/22         2nd Lunar Month         Wednesday                          
+2012/2/23         2                       Thursday                           
+2012/2/24         3                       Friday                             
+2012/2/25         4                       Saturday                           
+2012/2/26         5                       Sunday                             
+2012/2/27         6                       Monday                             
+2012/2/28         7                       Tuesday                            
+2012/2/29         8                       Wednesday                          
+2012/3/1          9                       Thursday                           
+2012/3/2          10                      Friday                             
+2012/3/3          11                      Saturday                           
+2012/3/4          12                      Sunday                             
+2012/3/5          13                      Monday         Insects Waken       
+2012/3/6          14                      Tuesday                            
+2012/3/7          15                      Wednesday                          
+2012/3/8          16                      Thursday                           
+2012/3/9          17                      Friday                             
+2012/3/10         18                      Saturday                           
+2012/3/11         19                      Sunday                             
+2012/3/12         20                      Monday                             
+2012/3/13         21                      Tuesday                            
+2012/3/14         22                      Wednesday                          
+2012/3/15         23                      Thursday                           
+2012/3/16         24                      Friday                             
+2012/3/17         25                      Saturday                           
+2012/3/18         26                      Sunday                             
+2012/3/19         27                      Monday                             
+2012/3/20         28                      Tuesday        Vernal Equinox      
+2012/3/21         29                      Wednesday                          
+2012/3/22         3rd Lunar Month         Thursday                           
+2012/3/23         2                       Friday                             
+2012/3/24         3                       Saturday                           
+2012/3/25         4                       Sunday                             
+2012/3/26         5                       Monday                             
+2012/3/27         6                       Tuesday                            
+2012/3/28         7                       Wednesday                          
+2012/3/29         8                       Thursday                           
+2012/3/30         9                       Friday                             
+2012/3/31         10                      Saturday                           
+2012/4/1          11                      Sunday                             
+2012/4/2          12                      Monday                             
+2012/4/3          13                      Tuesday                            
+2012/4/4          14                      Wednesday      Bright & Clear      
+2012/4/5          15                      Thursday                           
+2012/4/6          16                      Friday                             
+2012/4/7          17                      Saturday                           
+2012/4/8          18                      Sunday                             
+2012/4/9          19                      Monday                             
+2012/4/10         20                      Tuesday                            
+2012/4/11         21                      Wednesday                          
+2012/4/12         22                      Thursday                           
+2012/4/13         23                      Friday                             
+2012/4/14         24                      Saturday                           
+2012/4/15         25                      Sunday                             
+2012/4/16         26                      Monday                             
+2012/4/17         27                      Tuesday                            
+2012/4/18         28                      Wednesday                          
+2012/4/19         29                      Thursday                           
+2012/4/20         30                      Friday         Corn Rain           
+2012/4/21         4th Lunar Month         Saturday                           
+2012/4/22         2                       Sunday                             
+2012/4/23         3                       Monday                             
+2012/4/24         4                       Tuesday                            
+2012/4/25         5                       Wednesday                          
+2012/4/26         6                       Thursday                           
+2012/4/27         7                       Friday                             
+2012/4/28         8                       Saturday                           
+2012/4/29         9                       Sunday                             
+2012/4/30         10                      Monday                             
+2012/5/1          11                      Tuesday                            
+2012/5/2          12                      Wednesday                          
+2012/5/3          13                      Thursday                           
+2012/5/4          14                      Friday                             
+2012/5/5          15                      Saturday       Summer Commences    
+2012/5/6          16                      Sunday                             
+2012/5/7          17                      Monday                             
+2012/5/8          18                      Tuesday                            
+2012/5/9          19                      Wednesday                          
+2012/5/10         20                      Thursday                           
+2012/5/11         21                      Friday                             
+2012/5/12         22                      Saturday                           
+2012/5/13         23                      Sunday                             
+2012/5/14         24                      Monday                             
+2012/5/15         25                      Tuesday                            
+2012/5/16         26                      Wednesday                          
+2012/5/17         27                      Thursday                           
+2012/5/18         28                      Friday                             
+2012/5/19         29                      Saturday                           
+2012/5/20         30                      Sunday         Corn Forms          
+2012/5/21         4th Lunar Month         Monday                             
+2012/5/22         2                       Tuesday                            
+2012/5/23         3                       Wednesday                          
+2012/5/24         4                       Thursday                           
+2012/5/25         5                       Friday                             
+2012/5/26         6                       Saturday                           
+2012/5/27         7                       Sunday                             
+2012/5/28         8                       Monday                             
+2012/5/29         9                       Tuesday                            
+2012/5/30         10                      Wednesday                          
+2012/5/31         11                      Thursday                           
+2012/6/1          12                      Friday                             
+2012/6/2          13                      Saturday                           
+2012/6/3          14                      Sunday                             
+2012/6/4          15                      Monday                             
+2012/6/5          16                      Tuesday        Corn on Ear         
+2012/6/6          17                      Wednesday                          
+2012/6/7          18                      Thursday                           
+2012/6/8          19                      Friday                             
+2012/6/9          20                      Saturday                           
+2012/6/10         21                      Sunday                             
+2012/6/11         22                      Monday                             
+2012/6/12         23                      Tuesday                            
+2012/6/13         24                      Wednesday                          
+2012/6/14         25                      Thursday                           
+2012/6/15         26                      Friday                             
+2012/6/16         27                      Saturday                           
+2012/6/17         28                      Sunday                             
+2012/6/18         29                      Monday                             
+2012/6/19         5th Lunar Month         Tuesday                            
+2012/6/20         2                       Wednesday                          
+2012/6/21         3                       Thursday       Summer Solstice     
+2012/6/22         4                       Friday                             
+2012/6/23         5                       Saturday                           
+2012/6/24         6                       Sunday                             
+2012/6/25         7                       Monday                             
+2012/6/26         8                       Tuesday                            
+2012/6/27         9                       Wednesday                          
+2012/6/28         10                      Thursday                           
+2012/6/29         11                      Friday                             
+2012/6/30         12                      Saturday                           
+2012/7/1          13                      Sunday                             
+2012/7/2          14                      Monday                             
+2012/7/3          15                      Tuesday                            
+2012/7/4          16                      Wednesday                          
+2012/7/5          17                      Thursday                           
+2012/7/6          18                      Friday                             
+2012/7/7          19                      Saturday       Moderate Heat       
+2012/7/8          20                      Sunday                             
+2012/7/9          21                      Monday                             
+2012/7/10         22                      Tuesday                            
+2012/7/11         23                      Wednesday                          
+2012/7/12         24                      Thursday                           
+2012/7/13         25                      Friday                             
+2012/7/14         26                      Saturday                           
+2012/7/15         27                      Sunday                             
+2012/7/16         28                      Monday                             
+2012/7/17         29                      Tuesday                            
+2012/7/18         30                      Wednesday                          
+2012/7/19         6th Lunar Month         Thursday                           
+2012/7/20         2                       Friday                             
+2012/7/21         3                       Saturday                           
+2012/7/22         4                       Sunday         Great Heat          
+2012/7/23         5                       Monday                             
+2012/7/24         6                       Tuesday                            
+2012/7/25         7                       Wednesday                          
+2012/7/26         8                       Thursday                           
+2012/7/27         9                       Friday                             
+2012/7/28         10                      Saturday                           
+2012/7/29         11                      Sunday                             
+2012/7/30         12                      Monday                             
+2012/7/31         13                      Tuesday                            
+2012/8/1          14                      Wednesday                          
+2012/8/2          15                      Thursday                           
+2012/8/3          16                      Friday                             
+2012/8/4          17                      Saturday                           
+2012/8/5          18                      Sunday                             
+2012/8/6          19                      Monday                             
+2012/8/7          20                      Tuesday        Autumn Commences    
+2012/8/8          21                      Wednesday                          
+2012/8/9          22                      Thursday                           
+2012/8/10         23                      Friday                             
+2012/8/11         24                      Saturday                           
+2012/8/12         25                      Sunday                             
+2012/8/13         26                      Monday                             
+2012/8/14         27                      Tuesday                            
+2012/8/15         28                      Wednesday                          
+2012/8/16         29                      Thursday                           
+2012/8/17         7th Lunar Month         Friday                             
+2012/8/18         2                       Saturday                           
+2012/8/19         3                       Sunday                             
+2012/8/20         4                       Monday                             
+2012/8/21         5                       Tuesday                            
+2012/8/22         6                       Wednesday                          
+2012/8/23         7                       Thursday       End of Heat         
+2012/8/24         8                       Friday                             
+2012/8/25         9                       Saturday                           
+2012/8/26         10                      Sunday                             
+2012/8/27         11                      Monday                             
+2012/8/28         12                      Tuesday                            
+2012/8/29         13                      Wednesday                          
+2012/8/30         14                      Thursday                           
+2012/8/31         15                      Friday                             
+2012/9/1          16                      Saturday                           
+2012/9/2          17                      Sunday                             
+2012/9/3          18                      Monday                             
+2012/9/4          19                      Tuesday                            
+2012/9/5          20                      Wednesday                          
+2012/9/6          21                      Thursday                           
+2012/9/7          22                      Friday         White Dew           
+2012/9/8          23                      Saturday                           
+2012/9/9          24                      Sunday                             
+2012/9/10         25                      Monday                             
+2012/9/11         26                      Tuesday                            
+2012/9/12         27                      Wednesday                          
+2012/9/13         28                      Thursday                           
+2012/9/14         29                      Friday                             
+2012/9/15         30                      Saturday                           
+2012/9/16         8th Lunar Month         Sunday                             
+2012/9/17         2                       Monday                             
+2012/9/18         3                       Tuesday                            
+2012/9/19         4                       Wednesday                          
+2012/9/20         5                       Thursday                           
+2012/9/21         6                       Friday                             
+2012/9/22         7                       Saturday       Autumnal Equinox    
+2012/9/23         8                       Sunday                             
+2012/9/24         9                       Monday                             
+2012/9/25         10                      Tuesday                            
+2012/9/26         11                      Wednesday                          
+2012/9/27         12                      Thursday                           
+2012/9/28         13                      Friday                             
+2012/9/29         14                      Saturday                           
+2012/9/30         15                      Sunday                             
+2012/10/1         16                      Monday                             
+2012/10/2         17                      Tuesday                            
+2012/10/3         18                      Wednesday                          
+2012/10/4         19                      Thursday                           
+2012/10/5         20                      Friday                             
+2012/10/6         21                      Saturday                           
+2012/10/7         22                      Sunday                             
+2012/10/8         23                      Monday         Cold Dew            
+2012/10/9         24                      Tuesday                            
+2012/10/10        25                      Wednesday                          
+2012/10/11        26                      Thursday                           
+2012/10/12        27                      Friday                             
+2012/10/13        28                      Saturday                           
+2012/10/14        29                      Sunday                             
+2012/10/15        9th Lunar Month         Monday                             
+2012/10/16        2                       Tuesday                            
+2012/10/17        3                       Wednesday                          
+2012/10/18        4                       Thursday                           
+2012/10/19        5                       Friday                             
+2012/10/20        6                       Saturday                           
+2012/10/21        7                       Sunday                             
+2012/10/22        8                       Monday                             
+2012/10/23        9                       Tuesday        Frost               
+2012/10/24        10                      Wednesday                          
+2012/10/25        11                      Thursday                           
+2012/10/26        12                      Friday                             
+2012/10/27        13                      Saturday                           
+2012/10/28        14                      Sunday                             
+2012/10/29        15                      Monday                             
+2012/10/30        16                      Tuesday                            
+2012/10/31        17                      Wednesday                          
+2012/11/1         18                      Thursday                           
+2012/11/2         19                      Friday                             
+2012/11/3         20                      Saturday                           
+2012/11/4         21                      Sunday                             
+2012/11/5         22                      Monday                             
+2012/11/6         23                      Tuesday                            
+2012/11/7         24                      Wednesday      Winter Commences    
+2012/11/8         25                      Thursday                           
+2012/11/9         26                      Friday                             
+2012/11/10        27                      Saturday                           
+2012/11/11        28                      Sunday                             
+2012/11/12        29                      Monday                             
+2012/11/13        30                      Tuesday                            
+2012/11/14        10th Lunar Month        Wednesday                          
+2012/11/15        2                       Thursday                           
+2012/11/16        3                       Friday                             
+2012/11/17        4                       Saturday                           
+2012/11/18        5                       Sunday                             
+2012/11/19        6                       Monday                             
+2012/11/20        7                       Tuesday                            
+2012/11/21        8                       Wednesday                          
+2012/11/22        9                       Thursday       Light Snow          
+2012/11/23        10                      Friday                             
+2012/11/24        11                      Saturday                           
+2012/11/25        12                      Sunday                             
+2012/11/26        13                      Monday                             
+2012/11/27        14                      Tuesday                            
+2012/11/28        15                      Wednesday                          
+2012/11/29        16                      Thursday                           
+2012/11/30        17                      Friday                             
+2012/12/1         18                      Saturday                           
+2012/12/2         19                      Sunday                             
+2012/12/3         20                      Monday                             
+2012/12/4         21                      Tuesday                            
+2012/12/5         22                      Wednesday                          
+2012/12/6         23                      Thursday                           
+2012/12/7         24                      Friday         Heavy Snow          
+2012/12/8         25                      Saturday                           
+2012/12/9         26                      Sunday                             
+2012/12/10        27                      Monday                             
+2012/12/11        28                      Tuesday                            
+2012/12/12        29                      Wednesday                          
+2012/12/13        11th Lunar Month        Thursday                           
+2012/12/14        2                       Friday                             
+2012/12/15        3                       Saturday                           
+2012/12/16        4                       Sunday                             
+2012/12/17        5                       Monday                             
+2012/12/18        6                       Tuesday                            
+2012/12/19        7                       Wednesday                          
+2012/12/20        8                       Thursday                           
+2012/12/21        9                       Friday         Winter Solstice     
+2012/12/22        10                      Saturday                           
+2012/12/23        11                      Sunday                             
+2012/12/24        12                      Monday                             
+2012/12/25        13                      Tuesday                            
+2012/12/26        14                      Wednesday                          
+2012/12/27        15                      Thursday                           
+2012/12/28        16                      Friday                             
+2012/12/29        17                      Saturday                           
+2012/12/30        18                      Sunday                             
+2012/12/31        19                      Monday                             

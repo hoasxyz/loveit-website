@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2074 (Jia-wu  -  year of the Horse)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2074/1/1          4                       Monday                             
+2074/1/2          5                       Tuesday                            
+2074/1/3          6                       Wednesday                          
+2074/1/4          7                       Thursday                           
+2074/1/5          8                       Friday         Moderate Cold       
+2074/1/6          9                       Saturday                           
+2074/1/7          10                      Sunday                             
+2074/1/8          11                      Monday                             
+2074/1/9          12                      Tuesday                            
+2074/1/10         13                      Wednesday                          
+2074/1/11         14                      Thursday                           
+2074/1/12         15                      Friday                             
+2074/1/13         16                      Saturday                           
+2074/1/14         17                      Sunday                             
+2074/1/15         18                      Monday                             
+2074/1/16         19                      Tuesday                            
+2074/1/17         20                      Wednesday                          
+2074/1/18         21                      Thursday                           
+2074/1/19         22                      Friday                             
+2074/1/20         23                      Saturday       Severe Cold         
+2074/1/21         24                      Sunday                             
+2074/1/22         25                      Monday                             
+2074/1/23         26                      Tuesday                            
+2074/1/24         27                      Wednesday                          
+2074/1/25         28                      Thursday                           
+2074/1/26         29                      Friday                             
+2074/1/27         1st Lunar Month         Saturday                           
+2074/1/28         2                       Sunday                             
+2074/1/29         3                       Monday                             
+2074/1/30         4                       Tuesday                            
+2074/1/31         5                       Wednesday                          
+2074/2/1          6                       Thursday                           
+2074/2/2          7                       Friday                             
+2074/2/3          8                       Saturday       Spring Commences    
+2074/2/4          9                       Sunday                             
+2074/2/5          10                      Monday                             
+2074/2/6          11                      Tuesday                            
+2074/2/7          12                      Wednesday                          
+2074/2/8          13                      Thursday                           
+2074/2/9          14                      Friday                             
+2074/2/10         15                      Saturday                           
+2074/2/11         16                      Sunday                             
+2074/2/12         17                      Monday                             
+2074/2/13         18                      Tuesday                            
+2074/2/14         19                      Wednesday                          
+2074/2/15         20                      Thursday                           
+2074/2/16         21                      Friday                             
+2074/2/17         22                      Saturday                           
+2074/2/18         23                      Sunday         Spring Showers      
+2074/2/19         24                      Monday                             
+2074/2/20         25                      Tuesday                            
+2074/2/21         26                      Wednesday                          
+2074/2/22         27                      Thursday                           
+2074/2/23         28                      Friday                             
+2074/2/24         29                      Saturday                           
+2074/2/25         30                      Sunday                             
+2074/2/26         2nd Lunar Month         Monday                             
+2074/2/27         2                       Tuesday                            
+2074/2/28         3                       Wednesday                          
+2074/3/1          4                       Thursday                           
+2074/3/2          5                       Friday                             
+2074/3/3          6                       Saturday                           
+2074/3/4          7                       Sunday                             
+2074/3/5          8                       Monday         Insects Waken       
+2074/3/6          9                       Tuesday                            
+2074/3/7          10                      Wednesday                          
+2074/3/8          11                      Thursday                           
+2074/3/9          12                      Friday                             
+2074/3/10         13                      Saturday                           
+2074/3/11         14                      Sunday                             
+2074/3/12         15                      Monday                             
+2074/3/13         16                      Tuesday                            
+2074/3/14         17                      Wednesday                          
+2074/3/15         18                      Thursday                           
+2074/3/16         19                      Friday                             
+2074/3/17         20                      Saturday                           
+2074/3/18         21                      Sunday                             
+2074/3/19         22                      Monday                             
+2074/3/20         23                      Tuesday        Vernal Equinox      
+2074/3/21         24                      Wednesday                          
+2074/3/22         25                      Thursday                           
+2074/3/23         26                      Friday                             
+2074/3/24         27                      Saturday                           
+2074/3/25         28                      Sunday                             
+2074/3/26         29                      Monday                             
+2074/3/27         3rd Lunar Month         Tuesday                            
+2074/3/28         2                       Wednesday                          
+2074/3/29         3                       Thursday                           
+2074/3/30         4                       Friday                             
+2074/3/31         5                       Saturday                           
+2074/4/1          6                       Sunday                             
+2074/4/2          7                       Monday                             
+2074/4/3          8                       Tuesday                            
+2074/4/4          9                       Wednesday      Bright & Clear      
+2074/4/5          10                      Thursday                           
+2074/4/6          11                      Friday                             
+2074/4/7          12                      Saturday                           
+2074/4/8          13                      Sunday                             
+2074/4/9          14                      Monday                             
+2074/4/10         15                      Tuesday                            
+2074/4/11         16                      Wednesday                          
+2074/4/12         17                      Thursday                           
+2074/4/13         18                      Friday                             
+2074/4/14         19                      Saturday                           
+2074/4/15         20                      Sunday                             
+2074/4/16         21                      Monday                             
+2074/4/17         22                      Tuesday                            
+2074/4/18         23                      Wednesday                          
+2074/4/19         24                      Thursday                           
+2074/4/20         25                      Friday         Corn Rain           
+2074/4/21         26                      Saturday                           
+2074/4/22         27                      Sunday                             
+2074/4/23         28                      Monday                             
+2074/4/24         29                      Tuesday                            
+2074/4/25         30                      Wednesday                          
+2074/4/26         4th Lunar Month         Thursday                           
+2074/4/27         2                       Friday                             
+2074/4/28         3                       Saturday                           
+2074/4/29         4                       Sunday                             
+2074/4/30         5                       Monday                             
+2074/5/1          6                       Tuesday                            
+2074/5/2          7                       Wednesday                          
+2074/5/3          8                       Thursday                           
+2074/5/4          9                       Friday                             
+2074/5/5          10                      Saturday       Summer Commences    
+2074/5/6          11                      Sunday                             
+2074/5/7          12                      Monday                             
+2074/5/8          13                      Tuesday                            
+2074/5/9          14                      Wednesday                          
+2074/5/10         15                      Thursday                           
+2074/5/11         16                      Friday                             
+2074/5/12         17                      Saturday                           
+2074/5/13         18                      Sunday                             
+2074/5/14         19                      Monday                             
+2074/5/15         20                      Tuesday                            
+2074/5/16         21                      Wednesday                          
+2074/5/17         22                      Thursday                           
+2074/5/18         23                      Friday                             
+2074/5/19         24                      Saturday                           
+2074/5/20         25                      Sunday         Corn Forms          
+2074/5/21         26                      Monday                             
+2074/5/22         27                      Tuesday                            
+2074/5/23         28                      Wednesday                          
+2074/5/24         29                      Thursday                           
+2074/5/25         30                      Friday                             
+2074/5/26         5th Lunar Month         Saturday                           
+2074/5/27         2                       Sunday                             
+2074/5/28         3                       Monday                             
+2074/5/29         4                       Tuesday                            
+2074/5/30         5                       Wednesday                          
+2074/5/31         6                       Thursday                           
+2074/6/1          7                       Friday                             
+2074/6/2          8                       Saturday                           
+2074/6/3          9                       Sunday                             
+2074/6/4          10                      Monday                             
+2074/6/5          11                      Tuesday        Corn on Ear         
+2074/6/6          12                      Wednesday                          
+2074/6/7          13                      Thursday                           
+2074/6/8          14                      Friday                             
+2074/6/9          15                      Saturday                           
+2074/6/10         16                      Sunday                             
+2074/6/11         17                      Monday                             
+2074/6/12         18                      Tuesday                            
+2074/6/13         19                      Wednesday                          
+2074/6/14         20                      Thursday                           
+2074/6/15         21                      Friday                             
+2074/6/16         22                      Saturday                           
+2074/6/17         23                      Sunday                             
+2074/6/18         24                      Monday                             
+2074/6/19         25                      Tuesday                            
+2074/6/20         26                      Wednesday                          
+2074/6/21         27                      Thursday       Summer Solstice     
+2074/6/22         28                      Friday                             
+2074/6/23         29                      Saturday                           
+2074/6/24         6th Lunar Month         Sunday                             
+2074/6/25         2                       Monday                             
+2074/6/26         3                       Tuesday                            
+2074/6/27         4                       Wednesday                          
+2074/6/28         5                       Thursday                           
+2074/6/29         6                       Friday                             
+2074/6/30         7                       Saturday                           
+2074/7/1          8                       Sunday                             
+2074/7/2          9                       Monday                             
+2074/7/3          10                      Tuesday                            
+2074/7/4          11                      Wednesday                          
+2074/7/5          12                      Thursday                           
+2074/7/6          13                      Friday                             
+2074/7/7          14                      Saturday       Moderate Heat       
+2074/7/8          15                      Sunday                             
+2074/7/9          16                      Monday                             
+2074/7/10         17                      Tuesday                            
+2074/7/11         18                      Wednesday                          
+2074/7/12         19                      Thursday                           
+2074/7/13         20                      Friday                             
+2074/7/14         21                      Saturday                           
+2074/7/15         22                      Sunday                             
+2074/7/16         23                      Monday                             
+2074/7/17         24                      Tuesday                            
+2074/7/18         25                      Wednesday                          
+2074/7/19         26                      Thursday                           
+2074/7/20         27                      Friday                             
+2074/7/21         28                      Saturday                           
+2074/7/22         29                      Sunday         Great Heat          
+2074/7/23         30                      Monday                             
+2074/7/24         6th Lunar Month         Tuesday                            
+2074/7/25         2                       Wednesday                          
+2074/7/26         3                       Thursday                           
+2074/7/27         4                       Friday                             
+2074/7/28         5                       Saturday                           
+2074/7/29         6                       Sunday                             
+2074/7/30         7                       Monday                             
+2074/7/31         8                       Tuesday                            
+2074/8/1          9                       Wednesday                          
+2074/8/2          10                      Thursday                           
+2074/8/3          11                      Friday                             
+2074/8/4          12                      Saturday                           
+2074/8/5          13                      Sunday                             
+2074/8/6          14                      Monday                             
+2074/8/7          15                      Tuesday        Autumn Commences    
+2074/8/8          16                      Wednesday                          
+2074/8/9          17                      Thursday                           
+2074/8/10         18                      Friday                             
+2074/8/11         19                      Saturday                           
+2074/8/12         20                      Sunday                             
+2074/8/13         21                      Monday                             
+2074/8/14         22                      Tuesday                            
+2074/8/15         23                      Wednesday                          
+2074/8/16         24                      Thursday                           
+2074/8/17         25                      Friday                             
+2074/8/18         26                      Saturday                           
+2074/8/19         27                      Sunday                             
+2074/8/20         28                      Monday                             
+2074/8/21         29                      Tuesday                            
+2074/8/22         7th Lunar Month         Wednesday                          
+2074/8/23         2                       Thursday       End of Heat         
+2074/8/24         3                       Friday                             
+2074/8/25         4                       Saturday                           
+2074/8/26         5                       Sunday                             
+2074/8/27         6                       Monday                             
+2074/8/28         7                       Tuesday                            
+2074/8/29         8                       Wednesday                          
+2074/8/30         9                       Thursday                           
+2074/8/31         10                      Friday                             
+2074/9/1          11                      Saturday                           
+2074/9/2          12                      Sunday                             
+2074/9/3          13                      Monday                             
+2074/9/4          14                      Tuesday                            
+2074/9/5          15                      Wednesday                          
+2074/9/6          16                      Thursday                           
+2074/9/7          17                      Friday         White Dew           
+2074/9/8          18                      Saturday                           
+2074/9/9          19                      Sunday                             
+2074/9/10         20                      Monday                             
+2074/9/11         21                      Tuesday                            
+2074/9/12         22                      Wednesday                          
+2074/9/13         23                      Thursday                           
+2074/9/14         24                      Friday                             
+2074/9/15         25                      Saturday                           
+2074/9/16         26                      Sunday                             
+2074/9/17         27                      Monday                             
+2074/9/18         28                      Tuesday                            
+2074/9/19         29                      Wednesday                          
+2074/9/20         30                      Thursday                           
+2074/9/21         8th Lunar Month         Friday                             
+2074/9/22         2                       Saturday       Autumnal Equinox    
+2074/9/23         3                       Sunday                             
+2074/9/24         4                       Monday                             
+2074/9/25         5                       Tuesday                            
+2074/9/26         6                       Wednesday                          
+2074/9/27         7                       Thursday                           
+2074/9/28         8                       Friday                             
+2074/9/29         9                       Saturday                           
+2074/9/30         10                      Sunday                             
+2074/10/1         11                      Monday                             
+2074/10/2         12                      Tuesday                            
+2074/10/3         13                      Wednesday                          
+2074/10/4         14                      Thursday                           
+2074/10/5         15                      Friday                             
+2074/10/6         16                      Saturday                           
+2074/10/7         17                      Sunday                             
+2074/10/8         18                      Monday         Cold Dew            
+2074/10/9         19                      Tuesday                            
+2074/10/10        20                      Wednesday                          
+2074/10/11        21                      Thursday                           
+2074/10/12        22                      Friday                             
+2074/10/13        23                      Saturday                           
+2074/10/14        24                      Sunday                             
+2074/10/15        25                      Monday                             
+2074/10/16        26                      Tuesday                            
+2074/10/17        27                      Wednesday                          
+2074/10/18        28                      Thursday                           
+2074/10/19        29                      Friday                             
+2074/10/20        9th Lunar Month         Saturday                           
+2074/10/21        2                       Sunday                             
+2074/10/22        3                       Monday                             
+2074/10/23        4                       Tuesday        Frost               
+2074/10/24        5                       Wednesday                          
+2074/10/25        6                       Thursday                           
+2074/10/26        7                       Friday                             
+2074/10/27        8                       Saturday                           
+2074/10/28        9                       Sunday                             
+2074/10/29        10                      Monday                             
+2074/10/30        11                      Tuesday                            
+2074/10/31        12                      Wednesday                          
+2074/11/1         13                      Thursday                           
+2074/11/2         14                      Friday                             
+2074/11/3         15                      Saturday                           
+2074/11/4         16                      Sunday                             
+2074/11/5         17                      Monday                             
+2074/11/6         18                      Tuesday                            
+2074/11/7         19                      Wednesday      Winter Commences    
+2074/11/8         20                      Thursday                           
+2074/11/9         21                      Friday                             
+2074/11/10        22                      Saturday                           
+2074/11/11        23                      Sunday                             
+2074/11/12        24                      Monday                             
+2074/11/13        25                      Tuesday                            
+2074/11/14        26                      Wednesday                          
+2074/11/15        27                      Thursday                           
+2074/11/16        28                      Friday                             
+2074/11/17        29                      Saturday                           
+2074/11/18        30                      Sunday                             
+2074/11/19        10th Lunar Month        Monday                             
+2074/11/20        2                       Tuesday                            
+2074/11/21        3                       Wednesday                          
+2074/11/22        4                       Thursday       Light Snow          
+2074/11/23        5                       Friday                             
+2074/11/24        6                       Saturday                           
+2074/11/25        7                       Sunday                             
+2074/11/26        8                       Monday                             
+2074/11/27        9                       Tuesday                            
+2074/11/28        10                      Wednesday                          
+2074/11/29        11                      Thursday                           
+2074/11/30        12                      Friday                             
+2074/12/1         13                      Saturday                           
+2074/12/2         14                      Sunday                             
+2074/12/3         15                      Monday                             
+2074/12/4         16                      Tuesday                            
+2074/12/5         17                      Wednesday                          
+2074/12/6         18                      Thursday                           
+2074/12/7         19                      Friday         Heavy Snow          
+2074/12/8         20                      Saturday                           
+2074/12/9         21                      Sunday                             
+2074/12/10        22                      Monday                             
+2074/12/11        23                      Tuesday                            
+2074/12/12        24                      Wednesday                          
+2074/12/13        25                      Thursday                           
+2074/12/14        26                      Friday                             
+2074/12/15        27                      Saturday                           
+2074/12/16        28                      Sunday                             
+2074/12/17        29                      Monday                             
+2074/12/18        11th Lunar Month        Tuesday                            
+2074/12/19        2                       Wednesday                          
+2074/12/20        3                       Thursday                           
+2074/12/21        4                       Friday         Winter Solstice     
+2074/12/22        5                       Saturday                           
+2074/12/23        6                       Sunday                             
+2074/12/24        7                       Monday                             
+2074/12/25        8                       Tuesday                            
+2074/12/26        9                       Wednesday                          
+2074/12/27        10                      Thursday                           
+2074/12/28        11                      Friday                             
+2074/12/29        12                      Saturday                           
+2074/12/30        13                      Sunday                             
+2074/12/31        14                      Monday                             

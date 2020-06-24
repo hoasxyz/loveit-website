@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1906 (Bing-wu ¡V year of the Horse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1906/01/01     7                   Monday                             
+1906/01/02     8                   Tuesday                            
+1906/01/03     9                   Wednesday                          
+1906/01/04     10                  Thursday                           
+1906/01/05     11                  Friday                             
+1906/01/06     12                  Saturday       Moderate Cold       
+1906/01/07     13                  Sunday                             
+1906/01/08     14                  Monday                             
+1906/01/09     15                  Tuesday                            
+1906/01/10     16                  Wednesday                          
+1906/01/11     17                  Thursday                           
+1906/01/12     18                  Friday                             
+1906/01/13     19                  Saturday                           
+1906/01/14     20                  Sunday                             
+1906/01/15     21                  Monday                             
+1906/01/16     22                  Tuesday                            
+1906/01/17     23                  Wednesday                          
+1906/01/18     24                  Thursday                           
+1906/01/19     25                  Friday                             
+1906/01/20     26                  Saturday                           
+1906/01/21     27                  Sunday         Severe Cold         
+1906/01/22     28                  Monday                             
+1906/01/23     29                  Tuesday                            
+1906/01/24     30                  Wednesday                          
+1906/01/25     1st Lunar month     Thursday                           
+1906/01/26     2                   Friday                             
+1906/01/27     3                   Saturday                           
+1906/01/28     4                   Sunday                             
+1906/01/29     5                   Monday                             
+1906/01/30     6                   Tuesday                            
+1906/01/31     7                   Wednesday                          
+1906/02/01     8                   Thursday                           
+1906/02/02     9                   Friday                             
+1906/02/03     10                  Saturday                           
+1906/02/04     11                  Sunday                             
+1906/02/05     12                  Monday         Spring Commences    
+1906/02/06     13                  Tuesday                            
+1906/02/07     14                  Wednesday                          
+1906/02/08     15                  Thursday                           
+1906/02/09     16                  Friday                             
+1906/02/10     17                  Saturday                           
+1906/02/11     18                  Sunday                             
+1906/02/12     19                  Monday                             
+1906/02/13     20                  Tuesday                            
+1906/02/14     21                  Wednesday                          
+1906/02/15     22                  Thursday                           
+1906/02/16     23                  Friday                             
+1906/02/17     24                  Saturday                           
+1906/02/18     25                  Sunday                             
+1906/02/19     26                  Monday         Spring Showers      
+1906/02/20     27                  Tuesday                            
+1906/02/21     28                  Wednesday                          
+1906/02/22     29                  Thursday                           
+1906/02/23     2nd Lunar month     Friday                          
+1906/02/24     2                   Saturday                           
+1906/02/25     3                   Sunday                             
+1906/02/26     4                   Monday                             
+1906/02/27     5                   Tuesday                            
+1906/02/28     6                   Wednesday                          
+1906/03/01     7                   Thursday                           
+1906/03/02     8                   Friday                             
+1906/03/03     9                   Saturday                           
+1906/03/04     10                  Sunday                             
+1906/03/05     11                  Monday                             
+1906/03/06     12                  Tuesday        Insects Waken       
+1906/03/07     13                  Wednesday                          
+1906/03/08     14                  Thursday                           
+1906/03/09     15                  Friday                             
+1906/03/10     16                  Saturday                           
+1906/03/11     17                  Sunday                             
+1906/03/12     18                  Monday                             
+1906/03/13     19                  Tuesday                            
+1906/03/14     20                  Wednesday                          
+1906/03/15     21                  Thursday                           
+1906/03/16     22                  Friday                             
+1906/03/17     23                  Saturday                           
+1906/03/18     24                  Sunday                             
+1906/03/19     25                  Monday                             
+1906/03/20     26                  Tuesday                            
+1906/03/21     27                  Wednesday      Vernal Equinox      
+1906/03/22     28                  Thursday                           
+1906/03/23     29                  Friday                             
+1906/03/24     30                  Saturday                           
+1906/03/25     3rd Lunar month     Sunday                             
+1906/03/26     2                   Monday                             
+1906/03/27     3                   Tuesday                            
+1906/03/28     4                   Wednesday                          
+1906/03/29     5                   Thursday                           
+1906/03/30     6                   Friday                             
+1906/03/31     7                   Saturday                           
+1906/04/01     8                   Sunday                             
+1906/04/02     9                   Monday                             
+1906/04/03     10                  Tuesday                            
+1906/04/04     11                  Wednesday                          
+1906/04/05     12                  Thursday                           
+1906/04/06     13                  Friday         Bright & Clear      
+1906/04/07     14                  Saturday                           
+1906/04/08     15                  Sunday                             
+1906/04/09     16                  Monday                             
+1906/04/10     17                  Tuesday                            
+1906/04/11     18                  Wednesday                          
+1906/04/12     19                  Thursday                           
+1906/04/13     20                  Friday                             
+1906/04/14     21                  Saturday                           
+1906/04/15     22                  Sunday                             
+1906/04/16     23                  Monday                             
+1906/04/17     24                  Tuesday                            
+1906/04/18     25                  Wednesday                          
+1906/04/19     26                  Thursday                           
+1906/04/20     27                  Friday                             
+1906/04/21     28                  Saturday       Corn Rain           
+1906/04/22     29                  Sunday                             
+1906/04/23     30                  Monday                             
+1906/04/24     4th Lunar month     Tuesday                            
+1906/04/25     2                   Wednesday                          
+1906/04/26     3                   Thursday                           
+1906/04/27     4                   Friday                             
+1906/04/28     5                   Saturday                           
+1906/04/29     6                   Sunday                             
+1906/04/30     7                   Monday                             
+1906/05/01     8                   Tuesday                            
+1906/05/02     9                   Wednesday                          
+1906/05/03     10                  Thursday                           
+1906/05/04     11                  Friday                             
+1906/05/05     12                  Saturday                           
+1906/05/06     13                  Sunday         Summer Commences    
+1906/05/07     14                  Monday                             
+1906/05/08     15                  Tuesday                            
+1906/05/09     16                  Wednesday                          
+1906/05/10     17                  Thursday                           
+1906/05/11     18                  Friday                             
+1906/05/12     19                  Saturday                           
+1906/05/13     20                  Sunday                             
+1906/05/14     21                  Monday                             
+1906/05/15     22                  Tuesday                            
+1906/05/16     23                  Wednesday                          
+1906/05/17     24                  Thursday                           
+1906/05/18     25                  Friday                             
+1906/05/19     26                  Saturday                           
+1906/05/20     27                  Sunday                             
+1906/05/21     28                  Monday                             
+1906/05/22     29                  Tuesday        Corn Forms          
+1906/05/23     4th Lunar month     Wednesday                          
+1906/05/24     2                   Thursday                           
+1906/05/25     3                   Friday                             
+1906/05/26     4                   Saturday                           
+1906/05/27     5                   Sunday                             
+1906/05/28     6                   Monday                             
+1906/05/29     7                   Tuesday                            
+1906/05/30     8                   Wednesday                          
+1906/05/31     9                   Thursday                           
+1906/06/01     10                  Friday                             
+1906/06/02     11                  Saturday                           
+1906/06/03     12                  Sunday                             
+1906/06/04     13                  Monday                             
+1906/06/05     14                  Tuesday                            
+1906/06/06     15                  Wednesday      Corn on Ear         
+1906/06/07     16                  Thursday                           
+1906/06/08     17                  Friday                             
+1906/06/09     18                  Saturday                           
+1906/06/10     19                  Sunday                             
+1906/06/11     20                  Monday                             
+1906/06/12     21                  Tuesday                            
+1906/06/13     22                  Wednesday                          
+1906/06/14     23                  Thursday                           
+1906/06/15     24                  Friday                             
+1906/06/16     25                  Saturday                           
+1906/06/17     26                  Sunday                             
+1906/06/18     27                  Monday                             
+1906/06/19     28                  Tuesday                            
+1906/06/20     29                  Wednesday                          
+1906/06/21     30                  Thursday                           
+1906/06/22     5th Lunar month     Friday         Summer Solstice     
+1906/06/23     2                   Saturday                           
+1906/06/24     3                   Sunday                             
+1906/06/25     4                   Monday                             
+1906/06/26     5                   Tuesday                            
+1906/06/27     6                   Wednesday                          
+1906/06/28     7                   Thursday                           
+1906/06/29     8                   Friday                             
+1906/06/30     9                   Saturday                           
+1906/07/01     10                  Sunday                             
+1906/07/02     11                  Monday                             
+1906/07/03     12                  Tuesday                            
+1906/07/04     13                  Wednesday                          
+1906/07/05     14                  Thursday                           
+1906/07/06     15                  Friday                             
+1906/07/07     16                  Saturday                           
+1906/07/08     17                  Sunday         Moderate Heat       
+1906/07/09     18                  Monday                             
+1906/07/10     19                  Tuesday                            
+1906/07/11     20                  Wednesday                          
+1906/07/12     21                  Thursday                           
+1906/07/13     22                  Friday                             
+1906/07/14     23                  Saturday                           
+1906/07/15     24                  Sunday                             
+1906/07/16     25                  Monday                             
+1906/07/17     26                  Tuesday                            
+1906/07/18     27                  Wednesday                          
+1906/07/19     28                  Thursday                           
+1906/07/20     29                  Friday                             
+1906/07/21     6th Lunar month     Saturday                           
+1906/07/22     2                   Sunday                             
+1906/07/23     3                   Monday                             
+1906/07/24     4                   Tuesday        Great Heat          
+1906/07/25     5                   Wednesday                          
+1906/07/26     6                   Thursday                           
+1906/07/27     7                   Friday                             
+1906/07/28     8                   Saturday                           
+1906/07/29     9                   Sunday                             
+1906/07/30     10                  Monday                             
+1906/07/31     11                  Tuesday                            
+1906/08/01     12                  Wednesday                          
+1906/08/02     13                  Thursday                           
+1906/08/03     14                  Friday                             
+1906/08/04     15                  Saturday                           
+1906/08/05     16                  Sunday                             
+1906/08/06     17                  Monday                             
+1906/08/07     18                  Tuesday                            
+1906/08/08     19                  Wednesday      Autumn Commences    
+1906/08/09     20                  Thursday                           
+1906/08/10     21                  Friday                             
+1906/08/11     22                  Saturday                           
+1906/08/12     23                  Sunday                             
+1906/08/13     24                  Monday                             
+1906/08/14     25                  Tuesday                            
+1906/08/15     26                  Wednesday                          
+1906/08/16     27                  Thursday                           
+1906/08/17     28                  Friday                             
+1906/08/18     29                  Saturday                           
+1906/08/19     30                  Sunday                             
+1906/08/20     7th Lunar month     Monday                             
+1906/08/21     2                   Tuesday                            
+1906/08/22     3                   Wednesday                          
+1906/08/23     4                   Thursday                           
+1906/08/24     5                   Friday         End of Heat         
+1906/08/25     6                   Saturday                           
+1906/08/26     7                   Sunday                             
+1906/08/27     8                   Monday                             
+1906/08/28     9                   Tuesday                            
+1906/08/29     10                  Wednesday                          
+1906/08/30     11                  Thursday                           
+1906/08/31     12                  Friday                             
+1906/09/01     13                  Saturday                           
+1906/09/02     14                  Sunday                             
+1906/09/03     15                  Monday                             
+1906/09/04     16                  Tuesday                            
+1906/09/05     17                  Wednesday                          
+1906/09/06     18                  Thursday                           
+1906/09/07     19                  Friday                             
+1906/09/08     20                  Saturday       White Dew           
+1906/09/09     21                  Sunday                             
+1906/09/10     22                  Monday                             
+1906/09/11     23                  Tuesday                            
+1906/09/12     24                  Wednesday                          
+1906/09/13     25                  Thursday                           
+1906/09/14     26                  Friday                             
+1906/09/15     27                  Saturday                           
+1906/09/16     28                  Sunday                             
+1906/09/17     29                  Monday                             
+1906/09/18     8th Lunar month     Tuesday                            
+1906/09/19     2                   Wednesday                          
+1906/09/20     3                   Thursday                           
+1906/09/21     4                   Friday                             
+1906/09/22     5                   Saturday                           
+1906/09/23     6                   Sunday                             
+1906/09/24     7                   Monday         Autumnal Equinox    
+1906/09/25     8                   Tuesday                            
+1906/09/26     9                   Wednesday                          
+1906/09/27     10                  Thursday                           
+1906/09/28     11                  Friday                             
+1906/09/29     12                  Saturday                           
+1906/09/30     13                  Sunday                             
+1906/10/01     14                  Monday                             
+1906/10/02     15                  Tuesday                            
+1906/10/03     16                  Wednesday                          
+1906/10/04     17                  Thursday                           
+1906/10/05     18                  Friday                             
+1906/10/06     19                  Saturday                           
+1906/10/07     20                  Sunday                             
+1906/10/08     21                  Monday                             
+1906/10/09     22                  Tuesday        Cold Dew            
+1906/10/10     23                  Wednesday                          
+1906/10/11     24                  Thursday                           
+1906/10/12     25                  Friday                             
+1906/10/13     26                  Saturday                           
+1906/10/14     27                  Sunday                             
+1906/10/15     28                  Monday                             
+1906/10/16     29                  Tuesday                            
+1906/10/17     30                  Wednesday                          
+1906/10/18     9th Lunar month     Thursday                           
+1906/10/19     2                   Friday                             
+1906/10/20     3                   Saturday                           
+1906/10/21     4                   Sunday                             
+1906/10/22     5                   Monday                             
+1906/10/23     6                   Tuesday                            
+1906/10/24     7                   Wednesday      Frost               
+1906/10/25     8                   Thursday                           
+1906/10/26     9                   Friday                             
+1906/10/27     10                  Saturday                           
+1906/10/28     11                  Sunday                             
+1906/10/29     12                  Monday                             
+1906/10/30     13                  Tuesday                            
+1906/10/31     14                  Wednesday                          
+1906/11/01     15                  Thursday                           
+1906/11/02     16                  Friday                             
+1906/11/03     17                  Saturday                           
+1906/11/04     18                  Sunday                             
+1906/11/05     19                  Monday                             
+1906/11/06     20                  Tuesday                            
+1906/11/07     21                  Wednesday                          
+1906/11/08     22                  Thursday       Winter Commences    
+1906/11/09     23                  Friday                             
+1906/11/10     24                  Saturday                           
+1906/11/11     25                  Sunday                             
+1906/11/12     26                  Monday                             
+1906/11/13     27                  Tuesday                            
+1906/11/14     28                  Wednesday                          
+1906/11/15     29                  Thursday                           
+1906/11/16     10th Lunar month    Friday                             
+1906/11/17     2                   Saturday                           
+1906/11/18     3                   Sunday                             
+1906/11/19     4                   Monday                             
+1906/11/20     5                   Tuesday                            
+1906/11/21     6                   Wednesday                          
+1906/11/22     7                   Thursday                           
+1906/11/23     8                   Friday         Light Snow          
+1906/11/24     9                   Saturday                           
+1906/11/25     10                  Sunday                             
+1906/11/26     11                  Monday                             
+1906/11/27     12                  Tuesday                            
+1906/11/28     13                  Wednesday                          
+1906/11/29     14                  Thursday                           
+1906/11/30     15                  Friday                             
+1906/12/01     16                  Saturday                           
+1906/12/02     17                  Sunday                             
+1906/12/03     18                  Monday                             
+1906/12/04     19                  Tuesday                            
+1906/12/05     20                  Wednesday                          
+1906/12/06     21                  Thursday                           
+1906/12/07     22                  Friday                             
+1906/12/08     23                  Saturday       Heavy Snow          
+1906/12/09     24                  Sunday                             
+1906/12/10     25                  Monday                             
+1906/12/11     26                  Tuesday                            
+1906/12/12     27                  Wednesday                          
+1906/12/13     28                  Thursday                           
+1906/12/14     29                  Friday                             
+1906/12/15     30                  Saturday                           
+1906/12/16     11th Lunar month    Sunday                             
+1906/12/17     2                   Monday                             
+1906/12/18     3                   Tuesday                            
+1906/12/19     4                   Wednesday                          
+1906/12/20     5                   Thursday                           
+1906/12/21     6                   Friday                             
+1906/12/22     7                   Saturday                           
+1906/12/23     8                   Sunday         Winter Solstice     
+1906/12/24     9                   Monday                             
+1906/12/25     10                  Tuesday                            
+1906/12/26     11                  Wednesday                          
+1906/12/27     12                  Thursday                           
+1906/12/28     13                  Friday                             
+1906/12/29     14                  Saturday                           
+1906/12/30     15                  Sunday                             
+1906/12/31     16                  Monday                             

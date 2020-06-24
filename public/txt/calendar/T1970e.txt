@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1970 (Geng-xu ¡V year of the Dog)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1970/01/01     24                  Thursday                           
+1970/01/02     25                  Friday                             
+1970/01/03     26                  Saturday                           
+1970/01/04     27                  Sunday                             
+1970/01/05     28                  Monday                             
+1970/01/06     29                  Tuesday        Moderate Cold       
+1970/01/07     30                  Wednesday                          
+1970/01/08     12th Lunar month    Thursday                           
+1970/01/09     2                   Friday                             
+1970/01/10     3                   Saturday                           
+1970/01/11     4                   Sunday                             
+1970/01/12     5                   Monday                             
+1970/01/13     6                   Tuesday                            
+1970/01/14     7                   Wednesday                          
+1970/01/15     8                   Thursday                           
+1970/01/16     9                   Friday                             
+1970/01/17     10                  Saturday                           
+1970/01/18     11                  Sunday                             
+1970/01/19     12                  Monday                             
+1970/01/20     13                  Tuesday        Severe Cold         
+1970/01/21     14                  Wednesday                          
+1970/01/22     15                  Thursday                           
+1970/01/23     16                  Friday                             
+1970/01/24     17                  Saturday                           
+1970/01/25     18                  Sunday                             
+1970/01/26     19                  Monday                             
+1970/01/27     20                  Tuesday                            
+1970/01/28     21                  Wednesday                          
+1970/01/29     22                  Thursday                           
+1970/01/30     23                  Friday                             
+1970/01/31     24                  Saturday                           
+1970/02/01     25                  Sunday                             
+1970/02/02     26                  Monday                             
+1970/02/03     27                  Tuesday                            
+1970/02/04     28                  Wednesday      Spring Commences    
+1970/02/05     29                  Thursday                           
+1970/02/06     1st Lunar month     Friday                             
+1970/02/07     2                   Saturday                           
+1970/02/08     3                   Sunday                             
+1970/02/09     4                   Monday                             
+1970/02/10     5                   Tuesday                            
+1970/02/11     6                   Wednesday                          
+1970/02/12     7                   Thursday                           
+1970/02/13     8                   Friday                             
+1970/02/14     9                   Saturday                           
+1970/02/15     10                  Sunday                             
+1970/02/16     11                  Monday                             
+1970/02/17     12                  Tuesday                            
+1970/02/18     13                  Wednesday                          
+1970/02/19     14                  Thursday       Spring Showers      
+1970/02/20     15                  Friday                             
+1970/02/21     16                  Saturday                           
+1970/02/22     17                  Sunday                             
+1970/02/23     18                  Monday                             
+1970/02/24     19                  Tuesday                            
+1970/02/25     20                  Wednesday                          
+1970/02/26     21                  Thursday                           
+1970/02/27     22                  Friday                             
+1970/02/28     23                  Saturday                           
+1970/03/01     24                  Sunday                             
+1970/03/02     25                  Monday                             
+1970/03/03     26                  Tuesday                            
+1970/03/04     27                  Wednesday                          
+1970/03/05     28                  Thursday                           
+1970/03/06     29                  Friday         Insects Waken       
+1970/03/07     30                  Saturday                           
+1970/03/08     2nd Lunar month     Sunday                             
+1970/03/09     2                   Monday                             
+1970/03/10     3                   Tuesday                            
+1970/03/11     4                   Wednesday                          
+1970/03/12     5                   Thursday                           
+1970/03/13     6                   Friday                             
+1970/03/14     7                   Saturday                           
+1970/03/15     8                   Sunday                             
+1970/03/16     9                   Monday                             
+1970/03/17     10                  Tuesday                            
+1970/03/18     11                  Wednesday                          
+1970/03/19     12                  Thursday                           
+1970/03/20     13                  Friday                             
+1970/03/21     14                  Saturday       Vernal Equinox      
+1970/03/22     15                  Sunday                             
+1970/03/23     16                  Monday                             
+1970/03/24     17                  Tuesday                            
+1970/03/25     18                  Wednesday                          
+1970/03/26     19                  Thursday                           
+1970/03/27     20                  Friday                             
+1970/03/28     21                  Saturday                           
+1970/03/29     22                  Sunday                             
+1970/03/30     23                  Monday                             
+1970/03/31     24                  Tuesday                            
+1970/04/01     25                  Wednesday                          
+1970/04/02     26                  Thursday                           
+1970/04/03     27                  Friday                             
+1970/04/04     28                  Saturday                           
+1970/04/05     29                  Sunday         Bright & Clear      
+1970/04/06     3rd Lunar month     Monday                             
+1970/04/07     2                   Tuesday                            
+1970/04/08     3                   Wednesday                          
+1970/04/09     4                   Thursday                           
+1970/04/10     5                   Friday                             
+1970/04/11     6                   Saturday                           
+1970/04/12     7                   Sunday                             
+1970/04/13     8                   Monday                             
+1970/04/14     9                   Tuesday                            
+1970/04/15     10                  Wednesday                          
+1970/04/16     11                  Thursday                           
+1970/04/17     12                  Friday                             
+1970/04/18     13                  Saturday                           
+1970/04/19     14                  Sunday                             
+1970/04/20     15                  Monday         Corn Rain           
+1970/04/21     16                  Tuesday                            
+1970/04/22     17                  Wednesday                          
+1970/04/23     18                  Thursday                           
+1970/04/24     19                  Friday                             
+1970/04/25     20                  Saturday                           
+1970/04/26     21                  Sunday                             
+1970/04/27     22                  Monday                             
+1970/04/28     23                  Tuesday                            
+1970/04/29     24                  Wednesday                          
+1970/04/30     25                  Thursday                           
+1970/05/01     26                  Friday                             
+1970/05/02     27                  Saturday                           
+1970/05/03     28                  Sunday                             
+1970/05/04     29                  Monday                             
+1970/05/05     4th Lunar month     Tuesday                            
+1970/05/06     2                   Wednesday      Summer Commences    
+1970/05/07     3                   Thursday                           
+1970/05/08     4                   Friday                             
+1970/05/09     5                   Saturday                           
+1970/05/10     6                   Sunday                             
+1970/05/11     7                   Monday                             
+1970/05/12     8                   Tuesday                            
+1970/05/13     9                   Wednesday                          
+1970/05/14     10                  Thursday                           
+1970/05/15     11                  Friday                             
+1970/05/16     12                  Saturday                           
+1970/05/17     13                  Sunday                             
+1970/05/18     14                  Monday                             
+1970/05/19     15                  Tuesday                            
+1970/05/20     16                  Wednesday                          
+1970/05/21     17                  Thursday       Corn Forms          
+1970/05/22     18                  Friday                             
+1970/05/23     19                  Saturday                           
+1970/05/24     20                  Sunday                             
+1970/05/25     21                  Monday                             
+1970/05/26     22                  Tuesday                            
+1970/05/27     23                  Wednesday                          
+1970/05/28     24                  Thursday                           
+1970/05/29     25                  Friday                             
+1970/05/30     26                  Saturday                           
+1970/05/31     27                  Sunday                             
+1970/06/01     28                  Monday                             
+1970/06/02     29                  Tuesday                            
+1970/06/03     30                  Wednesday                          
+1970/06/04     5th Lunar month     Thursday                           
+1970/06/05     2                   Friday                             
+1970/06/06     3                   Saturday       Corn on Ear         
+1970/06/07     4                   Sunday                             
+1970/06/08     5                   Monday                             
+1970/06/09     6                   Tuesday                            
+1970/06/10     7                   Wednesday                          
+1970/06/11     8                   Thursday                           
+1970/06/12     9                   Friday                             
+1970/06/13     10                  Saturday                           
+1970/06/14     11                  Sunday                             
+1970/06/15     12                  Monday                             
+1970/06/16     13                  Tuesday                            
+1970/06/17     14                  Wednesday                          
+1970/06/18     15                  Thursday                           
+1970/06/19     16                  Friday                             
+1970/06/20     17                  Saturday                           
+1970/06/21     18                  Sunday                             
+1970/06/22     19                  Monday         Summer Solstice     
+1970/06/23     20                  Tuesday                            
+1970/06/24     21                  Wednesday                          
+1970/06/25     22                  Thursday                           
+1970/06/26     23                  Friday                             
+1970/06/27     24                  Saturday                           
+1970/06/28     25                  Sunday                             
+1970/06/29     26                  Monday                             
+1970/06/30     27                  Tuesday                            
+1970/07/01     28                  Wednesday                          
+1970/07/02     29                  Thursday                           
+1970/07/03     6th Lunar month     Friday                             
+1970/07/04     2                   Saturday                           
+1970/07/05     3                   Sunday                             
+1970/07/06     4                   Monday                             
+1970/07/07     5                   Tuesday        Moderate Heat       
+1970/07/08     6                   Wednesday                          
+1970/07/09     7                   Thursday                           
+1970/07/10     8                   Friday                             
+1970/07/11     9                   Saturday                           
+1970/07/12     10                  Sunday                             
+1970/07/13     11                  Monday                             
+1970/07/14     12                  Tuesday                            
+1970/07/15     13                  Wednesday                          
+1970/07/16     14                  Thursday                           
+1970/07/17     15                  Friday                             
+1970/07/18     16                  Saturday                           
+1970/07/19     17                  Sunday                             
+1970/07/20     18                  Monday                             
+1970/07/21     19                  Tuesday                            
+1970/07/22     20                  Wednesday                          
+1970/07/23     21                  Thursday       Great Heat          
+1970/07/24     22                  Friday                             
+1970/07/25     23                  Saturday                           
+1970/07/26     24                  Sunday                             
+1970/07/27     25                  Monday                             
+1970/07/28     26                  Tuesday                            
+1970/07/29     27                  Wednesday                          
+1970/07/30     28                  Thursday                           
+1970/07/31     29                  Friday                             
+1970/08/01     30                  Saturday                           
+1970/08/02     7th Lunar month     Sunday                             
+1970/08/03     2                   Monday                             
+1970/08/04     3                   Tuesday                            
+1970/08/05     4                   Wednesday                          
+1970/08/06     5                   Thursday                           
+1970/08/07     6                   Friday                             
+1970/08/08     7                   Saturday       Autumn Commences    
+1970/08/09     8                   Sunday                             
+1970/08/10     9                   Monday                             
+1970/08/11     10                  Tuesday                            
+1970/08/12     11                  Wednesday                          
+1970/08/13     12                  Thursday                           
+1970/08/14     13                  Friday                             
+1970/08/15     14                  Saturday                           
+1970/08/16     15                  Sunday                             
+1970/08/17     16                  Monday                             
+1970/08/18     17                  Tuesday                            
+1970/08/19     18                  Wednesday                          
+1970/08/20     19                  Thursday                           
+1970/08/21     20                  Friday                             
+1970/08/22     21                  Saturday                           
+1970/08/23     22                  Sunday         End of Heat         
+1970/08/24     23                  Monday                             
+1970/08/25     24                  Tuesday                            
+1970/08/26     25                  Wednesday                          
+1970/08/27     26                  Thursday                           
+1970/08/28     27                  Friday                             
+1970/08/29     28                  Saturday                           
+1970/08/30     29                  Sunday                             
+1970/08/31     30                  Monday                             
+1970/09/01     8th Lunar month     Tuesday                            
+1970/09/02     2                   Wednesday                          
+1970/09/03     3                   Thursday                           
+1970/09/04     4                   Friday                             
+1970/09/05     5                   Saturday                           
+1970/09/06     6                   Sunday                             
+1970/09/07     7                   Monday                             
+1970/09/08     8                   Tuesday        White Dew           
+1970/09/09     9                   Wednesday                          
+1970/09/10     10                  Thursday                           
+1970/09/11     11                  Friday                             
+1970/09/12     12                  Saturday                           
+1970/09/13     13                  Sunday                             
+1970/09/14     14                  Monday                             
+1970/09/15     15                  Tuesday                            
+1970/09/16     16                  Wednesday                          
+1970/09/17     17                  Thursday                           
+1970/09/18     18                  Friday                             
+1970/09/19     19                  Saturday                           
+1970/09/20     20                  Sunday                             
+1970/09/21     21                  Monday                             
+1970/09/22     22                  Tuesday                            
+1970/09/23     23                  Wednesday      Autumnal Equinox    
+1970/09/24     24                  Thursday                           
+1970/09/25     25                  Friday                             
+1970/09/26     26                  Saturday                           
+1970/09/27     27                  Sunday                             
+1970/09/28     28                  Monday                             
+1970/09/29     29                  Tuesday                            
+1970/09/30     9th Lunar month     Wednesday                          
+1970/10/01     2                   Thursday                           
+1970/10/02     3                   Friday                             
+1970/10/03     4                   Saturday                           
+1970/10/04     5                   Sunday                             
+1970/10/05     6                   Monday                             
+1970/10/06     7                   Tuesday                            
+1970/10/07     8                   Wednesday                          
+1970/10/08     9                   Thursday                           
+1970/10/09     10                  Friday         Cold Dew            
+1970/10/10     11                  Saturday                           
+1970/10/11     12                  Sunday                             
+1970/10/12     13                  Monday                             
+1970/10/13     14                  Tuesday                            
+1970/10/14     15                  Wednesday                          
+1970/10/15     16                  Thursday                           
+1970/10/16     17                  Friday                             
+1970/10/17     18                  Saturday                           
+1970/10/18     19                  Sunday                             
+1970/10/19     20                  Monday                             
+1970/10/20     21                  Tuesday                            
+1970/10/21     22                  Wednesday                          
+1970/10/22     23                  Thursday                           
+1970/10/23     24                  Friday                             
+1970/10/24     25                  Saturday       Frost               
+1970/10/25     26                  Sunday                             
+1970/10/26     27                  Monday                             
+1970/10/27     28                  Tuesday                            
+1970/10/28     29                  Wednesday                          
+1970/10/29     30                  Thursday                           
+1970/10/30     10th Lunar month    Friday                             
+1970/10/31     2                   Saturday                           
+1970/11/01     3                   Sunday                             
+1970/11/02     4                   Monday                             
+1970/11/03     5                   Tuesday                            
+1970/11/04     6                   Wednesday                          
+1970/11/05     7                   Thursday                           
+1970/11/06     8                   Friday                             
+1970/11/07     9                   Saturday                           
+1970/11/08     10                  Sunday         Winter Commences    
+1970/11/09     11                  Monday                             
+1970/11/10     12                  Tuesday                            
+1970/11/11     13                  Wednesday                          
+1970/11/12     14                  Thursday                           
+1970/11/13     15                  Friday                             
+1970/11/14     16                  Saturday                           
+1970/11/15     17                  Sunday                             
+1970/11/16     18                  Monday                             
+1970/11/17     19                  Tuesday                            
+1970/11/18     20                  Wednesday                          
+1970/11/19     21                  Thursday                           
+1970/11/20     22                  Friday                             
+1970/11/21     23                  Saturday                           
+1970/11/22     24                  Sunday                             
+1970/11/23     25                  Monday         Light Snow          
+1970/11/24     26                  Tuesday                            
+1970/11/25     27                  Wednesday                          
+1970/11/26     28                  Thursday                           
+1970/11/27     29                  Friday                             
+1970/11/28     30                  Saturday                           
+1970/11/29     11th Lunar month    Sunday                             
+1970/11/30     2                   Monday                             
+1970/12/01     3                   Tuesday                            
+1970/12/02     4                   Wednesday                          
+1970/12/03     5                   Thursday                           
+1970/12/04     6                   Friday                             
+1970/12/05     7                   Saturday                           
+1970/12/06     8                   Sunday                             
+1970/12/07     9                   Monday         Heavy Snow          
+1970/12/08     10                  Tuesday                            
+1970/12/09     11                  Wednesday                          
+1970/12/10     12                  Thursday                           
+1970/12/11     13                  Friday                             
+1970/12/12     14                  Saturday                           
+1970/12/13     15                  Sunday                             
+1970/12/14     16                  Monday                             
+1970/12/15     17                  Tuesday                            
+1970/12/16     18                  Wednesday                          
+1970/12/17     19                  Thursday                           
+1970/12/18     20                  Friday                             
+1970/12/19     21                  Saturday                           
+1970/12/20     22                  Sunday                             
+1970/12/21     23                  Monday                             
+1970/12/22     24                  Tuesday        Winter Solstice     
+1970/12/23     25                  Wednesday                          
+1970/12/24     26                  Thursday                           
+1970/12/25     27                  Friday                             
+1970/12/26     28                  Saturday                           
+1970/12/27     29                  Sunday                             
+1970/12/28     12th Lunar month    Monday                             
+1970/12/29     2                   Tuesday                            
+1970/12/30     3                   Wednesday                          
+1970/12/31     4                   Thursday                           
+
+In 1970, summer time was enforced during 19 April to 18 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

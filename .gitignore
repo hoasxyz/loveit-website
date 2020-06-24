@@ -4,7 +4,6 @@
 .Ruserdata
 draft/
 Excel/
-public/
 *.R
 *.xlsx
 themes/theme-LoveIt/

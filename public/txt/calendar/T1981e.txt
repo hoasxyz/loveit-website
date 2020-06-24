@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1981 (Xin-you ¡V year of the Rooster)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1981/01/01     26                  Thursday                           
+1981/01/02     27                  Friday                             
+1981/01/03     28                  Saturday                           
+1981/01/04     29                  Sunday                             
+1981/01/05     30                  Monday         Moderate Cold       
+1981/01/06     12th Lunar month    Tuesday                            
+1981/01/07     2                   Wednesday                          
+1981/01/08     3                   Thursday                           
+1981/01/09     4                   Friday                             
+1981/01/10     5                   Saturday                           
+1981/01/11     6                   Sunday                             
+1981/01/12     7                   Monday                             
+1981/01/13     8                   Tuesday                            
+1981/01/14     9                   Wednesday                          
+1981/01/15     10                  Thursday                           
+1981/01/16     11                  Friday                             
+1981/01/17     12                  Saturday                           
+1981/01/18     13                  Sunday                             
+1981/01/19     14                  Monday                             
+1981/01/20     15                  Tuesday        Severe Cold         
+1981/01/21     16                  Wednesday                          
+1981/01/22     17                  Thursday                           
+1981/01/23     18                  Friday                             
+1981/01/24     19                  Saturday                           
+1981/01/25     20                  Sunday                             
+1981/01/26     21                  Monday                             
+1981/01/27     22                  Tuesday                            
+1981/01/28     23                  Wednesday                          
+1981/01/29     24                  Thursday                           
+1981/01/30     25                  Friday                             
+1981/01/31     26                  Saturday                           
+1981/02/01     27                  Sunday                             
+1981/02/02     28                  Monday                             
+1981/02/03     29                  Tuesday                            
+1981/02/04     30                  Wednesday      Spring Commences    
+1981/02/05     1st Lunar month     Thursday                           
+1981/02/06     2                   Friday                             
+1981/02/07     3                   Saturday                           
+1981/02/08     4                   Sunday                             
+1981/02/09     5                   Monday                             
+1981/02/10     6                   Tuesday                            
+1981/02/11     7                   Wednesday                          
+1981/02/12     8                   Thursday                           
+1981/02/13     9                   Friday                             
+1981/02/14     10                  Saturday                           
+1981/02/15     11                  Sunday                             
+1981/02/16     12                  Monday                             
+1981/02/17     13                  Tuesday                            
+1981/02/18     14                  Wednesday                          
+1981/02/19     15                  Thursday       Spring Showers      
+1981/02/20     16                  Friday                             
+1981/02/21     17                  Saturday                           
+1981/02/22     18                  Sunday                             
+1981/02/23     19                  Monday                             
+1981/02/24     20                  Tuesday                            
+1981/02/25     21                  Wednesday                          
+1981/02/26     22                  Thursday                           
+1981/02/27     23                  Friday                             
+1981/02/28     24                  Saturday                           
+1981/03/01     25                  Sunday                             
+1981/03/02     26                  Monday                             
+1981/03/03     27                  Tuesday                            
+1981/03/04     28                  Wednesday                          
+1981/03/05     29                  Thursday                           
+1981/03/06     2nd Lunar month     Friday         Insects Waken       
+1981/03/07     2                   Saturday                           
+1981/03/08     3                   Sunday                             
+1981/03/09     4                   Monday                             
+1981/03/10     5                   Tuesday                            
+1981/03/11     6                   Wednesday                          
+1981/03/12     7                   Thursday                           
+1981/03/13     8                   Friday                             
+1981/03/14     9                   Saturday                           
+1981/03/15     10                  Sunday                             
+1981/03/16     11                  Monday                             
+1981/03/17     12                  Tuesday                            
+1981/03/18     13                  Wednesday                          
+1981/03/19     14                  Thursday                           
+1981/03/20     15                  Friday                             
+1981/03/21     16                  Saturday       Vernal Equinox      
+1981/03/22     17                  Sunday                             
+1981/03/23     18                  Monday                             
+1981/03/24     19                  Tuesday                            
+1981/03/25     20                  Wednesday                          
+1981/03/26     21                  Thursday                           
+1981/03/27     22                  Friday                             
+1981/03/28     23                  Saturday                           
+1981/03/29     24                  Sunday                             
+1981/03/30     25                  Monday                             
+1981/03/31     26                  Tuesday                            
+1981/04/01     27                  Wednesday                          
+1981/04/02     28                  Thursday                           
+1981/04/03     29                  Friday                             
+1981/04/04     30                  Saturday                           
+1981/04/05     3rd Lunar month     Sunday         Bright & Clear      
+1981/04/06     2                   Monday                             
+1981/04/07     3                   Tuesday                            
+1981/04/08     4                   Wednesday                          
+1981/04/09     5                   Thursday                           
+1981/04/10     6                   Friday                             
+1981/04/11     7                   Saturday                           
+1981/04/12     8                   Sunday                             
+1981/04/13     9                   Monday                             
+1981/04/14     10                  Tuesday                            
+1981/04/15     11                  Wednesday                          
+1981/04/16     12                  Thursday                           
+1981/04/17     13                  Friday                             
+1981/04/18     14                  Saturday                           
+1981/04/19     15                  Sunday                             
+1981/04/20     16                  Monday         Corn Rain           
+1981/04/21     17                  Tuesday                            
+1981/04/22     18                  Wednesday                          
+1981/04/23     19                  Thursday                           
+1981/04/24     20                  Friday                             
+1981/04/25     21                  Saturday                           
+1981/04/26     22                  Sunday                             
+1981/04/27     23                  Monday                             
+1981/04/28     24                  Tuesday                            
+1981/04/29     25                  Wednesday                          
+1981/04/30     26                  Thursday                           
+1981/05/01     27                  Friday                             
+1981/05/02     28                  Saturday                           
+1981/05/03     29                  Sunday                             
+1981/05/04     4th Lunar month     Monday                             
+1981/05/05     2                   Tuesday        Summer Commences    
+1981/05/06     3                   Wednesday                          
+1981/05/07     4                   Thursday                           
+1981/05/08     5                   Friday                             
+1981/05/09     6                   Saturday                           
+1981/05/10     7                   Sunday                             
+1981/05/11     8                   Monday                             
+1981/05/12     9                   Tuesday                            
+1981/05/13     10                  Wednesday                          
+1981/05/14     11                  Thursday                           
+1981/05/15     12                  Friday                             
+1981/05/16     13                  Saturday                           
+1981/05/17     14                  Sunday                             
+1981/05/18     15                  Monday                             
+1981/05/19     16                  Tuesday                            
+1981/05/20     17                  Wednesday                          
+1981/05/21     18                  Thursday       Corn Forms          
+1981/05/22     19                  Friday                             
+1981/05/23     20                  Saturday                           
+1981/05/24     21                  Sunday                             
+1981/05/25     22                  Monday                             
+1981/05/26     23                  Tuesday                            
+1981/05/27     24                  Wednesday                          
+1981/05/28     25                  Thursday                           
+1981/05/29     26                  Friday                             
+1981/05/30     27                  Saturday                           
+1981/05/31     28                  Sunday                             
+1981/06/01     29                  Monday                             
+1981/06/02     5th Lunar month     Tuesday                            
+1981/06/03     2                   Wednesday                          
+1981/06/04     3                   Thursday                           
+1981/06/05     4                   Friday                             
+1981/06/06     5                   Saturday       Corn on Ear         
+1981/06/07     6                   Sunday                             
+1981/06/08     7                   Monday                             
+1981/06/09     8                   Tuesday                            
+1981/06/10     9                   Wednesday                          
+1981/06/11     10                  Thursday                           
+1981/06/12     11                  Friday                             
+1981/06/13     12                  Saturday                           
+1981/06/14     13                  Sunday                             
+1981/06/15     14                  Monday                             
+1981/06/16     15                  Tuesday                            
+1981/06/17     16                  Wednesday                          
+1981/06/18     17                  Thursday                           
+1981/06/19     18                  Friday                             
+1981/06/20     19                  Saturday                           
+1981/06/21     20                  Sunday         Summer Solstice     
+1981/06/22     21                  Monday                             
+1981/06/23     22                  Tuesday                            
+1981/06/24     23                  Wednesday                          
+1981/06/25     24                  Thursday                           
+1981/06/26     25                  Friday                             
+1981/06/27     26                  Saturday                           
+1981/06/28     27                  Sunday                             
+1981/06/29     28                  Monday                             
+1981/06/30     29                  Tuesday                            
+1981/07/01     30                  Wednesday                          
+1981/07/02     6th Lunar month     Thursday                           
+1981/07/03     2                   Friday                             
+1981/07/04     3                   Saturday                           
+1981/07/05     4                   Sunday                             
+1981/07/06     5                   Monday                             
+1981/07/07     6                   Tuesday        Moderate Heat       
+1981/07/08     7                   Wednesday                          
+1981/07/09     8                   Thursday                           
+1981/07/10     9                   Friday                             
+1981/07/11     10                  Saturday                           
+1981/07/12     11                  Sunday                             
+1981/07/13     12                  Monday                             
+1981/07/14     13                  Tuesday                            
+1981/07/15     14                  Wednesday                          
+1981/07/16     15                  Thursday                           
+1981/07/17     16                  Friday                             
+1981/07/18     17                  Saturday                           
+1981/07/19     18                  Sunday                             
+1981/07/20     19                  Monday                             
+1981/07/21     20                  Tuesday                            
+1981/07/22     21                  Wednesday                          
+1981/07/23     22                  Thursday       Great Heat          
+1981/07/24     23                  Friday                             
+1981/07/25     24                  Saturday                           
+1981/07/26     25                  Sunday                             
+1981/07/27     26                  Monday                             
+1981/07/28     27                  Tuesday                            
+1981/07/29     28                  Wednesday                          
+1981/07/30     29                  Thursday                           
+1981/07/31     7th Lunar month     Friday                             
+1981/08/01     2                   Saturday                           
+1981/08/02     3                   Sunday                             
+1981/08/03     4                   Monday                             
+1981/08/04     5                   Tuesday                            
+1981/08/05     6                   Wednesday                          
+1981/08/06     7                   Thursday                           
+1981/08/07     8                   Friday         Autumn Commences    
+1981/08/08     9                   Saturday                           
+1981/08/09     10                  Sunday                             
+1981/08/10     11                  Monday                             
+1981/08/11     12                  Tuesday                            
+1981/08/12     13                  Wednesday                          
+1981/08/13     14                  Thursday                           
+1981/08/14     15                  Friday                             
+1981/08/15     16                  Saturday                           
+1981/08/16     17                  Sunday                             
+1981/08/17     18                  Monday                             
+1981/08/18     19                  Tuesday                            
+1981/08/19     20                  Wednesday                          
+1981/08/20     21                  Thursday                           
+1981/08/21     22                  Friday                             
+1981/08/22     23                  Saturday                           
+1981/08/23     24                  Sunday         End of Heat         
+1981/08/24     25                  Monday                             
+1981/08/25     26                  Tuesday                            
+1981/08/26     27                  Wednesday                          
+1981/08/27     28                  Thursday                           
+1981/08/28     29                  Friday                             
+1981/08/29     8th Lunar month     Saturday                           
+1981/08/30     2                   Sunday                             
+1981/08/31     3                   Monday                             
+1981/09/01     4                   Tuesday                            
+1981/09/02     5                   Wednesday                          
+1981/09/03     6                   Thursday                           
+1981/09/04     7                   Friday                             
+1981/09/05     8                   Saturday                           
+1981/09/06     9                   Sunday                             
+1981/09/07     10                  Monday                             
+1981/09/08     11                  Tuesday        White Dew           
+1981/09/09     12                  Wednesday                          
+1981/09/10     13                  Thursday                           
+1981/09/11     14                  Friday                             
+1981/09/12     15                  Saturday                           
+1981/09/13     16                  Sunday                             
+1981/09/14     17                  Monday                             
+1981/09/15     18                  Tuesday                            
+1981/09/16     19                  Wednesday                          
+1981/09/17     20                  Thursday                           
+1981/09/18     21                  Friday                             
+1981/09/19     22                  Saturday                           
+1981/09/20     23                  Sunday                             
+1981/09/21     24                  Monday                             
+1981/09/22     25                  Tuesday                            
+1981/09/23     26                  Wednesday      Autumnal Equinox    
+1981/09/24     27                  Thursday                           
+1981/09/25     28                  Friday                             
+1981/09/26     29                  Saturday                           
+1981/09/27     30                  Sunday                             
+1981/09/28     9th Lunar month     Monday                             
+1981/09/29     2                   Tuesday                            
+1981/09/30     3                   Wednesday                          
+1981/10/01     4                   Thursday                           
+1981/10/02     5                   Friday                             
+1981/10/03     6                   Saturday                           
+1981/10/04     7                   Sunday                             
+1981/10/05     8                   Monday                             
+1981/10/06     9                   Tuesday                            
+1981/10/07     10                  Wednesday                          
+1981/10/08     11                  Thursday       Cold Dew            
+1981/10/09     12                  Friday                             
+1981/10/10     13                  Saturday                           
+1981/10/11     14                  Sunday                             
+1981/10/12     15                  Monday                             
+1981/10/13     16                  Tuesday                            
+1981/10/14     17                  Wednesday                          
+1981/10/15     18                  Thursday                           
+1981/10/16     19                  Friday                             
+1981/10/17     20                  Saturday                           
+1981/10/18     21                  Sunday                             
+1981/10/19     22                  Monday                             
+1981/10/20     23                  Tuesday                            
+1981/10/21     24                  Wednesday                          
+1981/10/22     25                  Thursday                           
+1981/10/23     26                  Friday         Frost               
+1981/10/24     27                  Saturday                           
+1981/10/25     28                  Sunday                             
+1981/10/26     29                  Monday                             
+1981/10/27     30                  Tuesday                            
+1981/10/28     10th Lunar month    Wednesday                          
+1981/10/29     2                   Thursday                           
+1981/10/30     3                   Friday                             
+1981/10/31     4                   Saturday                           
+1981/11/01     5                   Sunday                             
+1981/11/02     6                   Monday                             
+1981/11/03     7                   Tuesday                            
+1981/11/04     8                   Wednesday                          
+1981/11/05     9                   Thursday                           
+1981/11/06     10                  Friday                             
+1981/11/07     11                  Saturday       Winter Commences    
+1981/11/08     12                  Sunday                             
+1981/11/09     13                  Monday                             
+1981/11/10     14                  Tuesday                            
+1981/11/11     15                  Wednesday                          
+1981/11/12     16                  Thursday                           
+1981/11/13     17                  Friday                             
+1981/11/14     18                  Saturday                           
+1981/11/15     19                  Sunday                             
+1981/11/16     20                  Monday                             
+1981/11/17     21                  Tuesday                            
+1981/11/18     22                  Wednesday                          
+1981/11/19     23                  Thursday                           
+1981/11/20     24                  Friday                             
+1981/11/21     25                  Saturday                           
+1981/11/22     26                  Sunday         Light Snow          
+1981/11/23     27                  Monday                             
+1981/11/24     28                  Tuesday                            
+1981/11/25     29                  Wednesday                          
+1981/11/26     11th Lunar month    Thursday                           
+1981/11/27     2                   Friday                             
+1981/11/28     3                   Saturday                           
+1981/11/29     4                   Sunday                             
+1981/11/30     5                   Monday                             
+1981/12/01     6                   Tuesday                            
+1981/12/02     7                   Wednesday                          
+1981/12/03     8                   Thursday                           
+1981/12/04     9                   Friday                             
+1981/12/05     10                  Saturday                           
+1981/12/06     11                  Sunday                             
+1981/12/07     12                  Monday         Heavy Snow          
+1981/12/08     13                  Tuesday                            
+1981/12/09     14                  Wednesday                          
+1981/12/10     15                  Thursday                           
+1981/12/11     16                  Friday                             
+1981/12/12     17                  Saturday                           
+1981/12/13     18                  Sunday                             
+1981/12/14     19                  Monday                             
+1981/12/15     20                  Tuesday                            
+1981/12/16     21                  Wednesday                          
+1981/12/17     22                  Thursday                           
+1981/12/18     23                  Friday                             
+1981/12/19     24                  Saturday                           
+1981/12/20     25                  Sunday                             
+1981/12/21     26                  Monday                             
+1981/12/22     27                  Tuesday        Winter Solstice     
+1981/12/23     28                  Wednesday                          
+1981/12/24     29                  Thursday                           
+1981/12/25     30                  Friday                             
+1981/12/26     12th Lunar month    Saturday                           
+1981/12/27     2                   Sunday                             
+1981/12/28     3                   Monday                             
+1981/12/29     4                   Tuesday                            
+1981/12/30     5                   Wednesday                          
+1981/12/31     6                   Thursday                           

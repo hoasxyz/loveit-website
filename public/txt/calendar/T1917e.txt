@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1917 (Ding-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1917/01/01     8                   Monday                             
+1917/01/02     9                   Tuesday                            
+1917/01/03     10                  Wednesday                          
+1917/01/04     11                  Thursday                           
+1917/01/05     12                  Friday                             
+1917/01/06     13                  Saturday       Moderate Cold       
+1917/01/07     14                  Sunday                             
+1917/01/08     15                  Monday                             
+1917/01/09     16                  Tuesday                            
+1917/01/10     17                  Wednesday                          
+1917/01/11     18                  Thursday                           
+1917/01/12     19                  Friday                             
+1917/01/13     20                  Saturday                           
+1917/01/14     21                  Sunday                             
+1917/01/15     22                  Monday                             
+1917/01/16     23                  Tuesday                            
+1917/01/17     24                  Wednesday                          
+1917/01/18     25                  Thursday                           
+1917/01/19     26                  Friday                             
+1917/01/20     27                  Saturday       Severe Cold         
+1917/01/21     28                  Sunday                             
+1917/01/22     29                  Monday                             
+1917/01/23     1st Lunar month     Tuesday                            
+1917/01/24     2                   Wednesday                          
+1917/01/25     3                   Thursday                           
+1917/01/26     4                   Friday                             
+1917/01/27     5                   Saturday                           
+1917/01/28     6                   Sunday                             
+1917/01/29     7                   Monday                             
+1917/01/30     8                   Tuesday                            
+1917/01/31     9                   Wednesday                          
+1917/02/01     10                  Thursday                           
+1917/02/02     11                  Friday                             
+1917/02/03     12                  Saturday                           
+1917/02/04     13                  Sunday         Spring Commences    
+1917/02/05     14                  Monday                             
+1917/02/06     15                  Tuesday                            
+1917/02/07     16                  Wednesday                          
+1917/02/08     17                  Thursday                           
+1917/02/09     18                  Friday                             
+1917/02/10     19                  Saturday                           
+1917/02/11     20                  Sunday                             
+1917/02/12     21                  Monday                             
+1917/02/13     22                  Tuesday                            
+1917/02/14     23                  Wednesday                          
+1917/02/15     24                  Thursday                           
+1917/02/16     25                  Friday                             
+1917/02/17     26                  Saturday                           
+1917/02/18     27                  Sunday                             
+1917/02/19     28                  Monday         Spring Showers      
+1917/02/20     29                  Tuesday                            
+1917/02/21     30                  Wednesday                          
+1917/02/22     2nd Lunar month     Thursday                           
+1917/02/23     2                   Friday                          
+1917/02/24     3                   Saturday                           
+1917/02/25     4                   Sunday                             
+1917/02/26     5                   Monday                             
+1917/02/27     6                   Tuesday                            
+1917/02/28     7                   Wednesday                          
+1917/03/01     8                   Thursday                           
+1917/03/02     9                   Friday                             
+1917/03/03     10                  Saturday                           
+1917/03/04     11                  Sunday                             
+1917/03/05     12                  Monday                             
+1917/03/06     13                  Tuesday        Insects Waken       
+1917/03/07     14                  Wednesday                          
+1917/03/08     15                  Thursday                           
+1917/03/09     16                  Friday                             
+1917/03/10     17                  Saturday                           
+1917/03/11     18                  Sunday                             
+1917/03/12     19                  Monday                             
+1917/03/13     20                  Tuesday                            
+1917/03/14     21                  Wednesday                          
+1917/03/15     22                  Thursday                           
+1917/03/16     23                  Friday                             
+1917/03/17     24                  Saturday                           
+1917/03/18     25                  Sunday                             
+1917/03/19     26                  Monday                             
+1917/03/20     27                  Tuesday                            
+1917/03/21     28                  Wednesday      Vernal Equinox      
+1917/03/22     29                  Thursday                           
+1917/03/23     2nd Lunar month     Friday                             
+1917/03/24     2                   Saturday                           
+1917/03/25     3                   Sunday                             
+1917/03/26     4                   Monday                             
+1917/03/27     5                   Tuesday                            
+1917/03/28     6                   Wednesday                          
+1917/03/29     7                   Thursday                           
+1917/03/30     8                   Friday                             
+1917/03/31     9                   Saturday                           
+1917/04/01     10                  Sunday                             
+1917/04/02     11                  Monday                             
+1917/04/03     12                  Tuesday                            
+1917/04/04     13                  Wednesday                          
+1917/04/05     14                  Thursday       Bright & Clear      
+1917/04/06     15                  Friday                             
+1917/04/07     16                  Saturday                           
+1917/04/08     17                  Sunday                             
+1917/04/09     18                  Monday                             
+1917/04/10     19                  Tuesday                            
+1917/04/11     20                  Wednesday                          
+1917/04/12     21                  Thursday                           
+1917/04/13     22                  Friday                             
+1917/04/14     23                  Saturday                           
+1917/04/15     24                  Sunday                             
+1917/04/16     25                  Monday                             
+1917/04/17     26                  Tuesday                            
+1917/04/18     27                  Wednesday                          
+1917/04/19     28                  Thursday                           
+1917/04/20     29                  Friday                             
+1917/04/21     3rd Lunar month     Saturday       Corn Rain           
+1917/04/22     2                   Sunday                             
+1917/04/23     3                   Monday                             
+1917/04/24     4                   Tuesday                            
+1917/04/25     5                   Wednesday                          
+1917/04/26     6                   Thursday                           
+1917/04/27     7                   Friday                             
+1917/04/28     8                   Saturday                           
+1917/04/29     9                   Sunday                             
+1917/04/30     10                  Monday                             
+1917/05/01     11                  Tuesday                            
+1917/05/02     12                  Wednesday                          
+1917/05/03     13                  Thursday                           
+1917/05/04     14                  Friday                             
+1917/05/05     15                  Saturday                           
+1917/05/06     16                  Sunday         Summer Commences    
+1917/05/07     17                  Monday                             
+1917/05/08     18                  Tuesday                            
+1917/05/09     19                  Wednesday                          
+1917/05/10     20                  Thursday                           
+1917/05/11     21                  Friday                             
+1917/05/12     22                  Saturday                           
+1917/05/13     23                  Sunday                             
+1917/05/14     24                  Monday                             
+1917/05/15     25                  Tuesday                            
+1917/05/16     26                  Wednesday                          
+1917/05/17     27                  Thursday                           
+1917/05/18     28                  Friday                             
+1917/05/19     29                  Saturday                           
+1917/05/20     30                  Sunday                             
+1917/05/21     4th Lunar month     Monday         Corn Forms          
+1917/05/22     2                   Tuesday                            
+1917/05/23     3                   Wednesday                          
+1917/05/24     4                   Thursday                           
+1917/05/25     5                   Friday                             
+1917/05/26     6                   Saturday                           
+1917/05/27     7                   Sunday                             
+1917/05/28     8                   Monday                             
+1917/05/29     9                   Tuesday                            
+1917/05/30     10                  Wednesday                          
+1917/05/31     11                  Thursday                           
+1917/06/01     12                  Friday                             
+1917/06/02     13                  Saturday                           
+1917/06/03     14                  Sunday                             
+1917/06/04     15                  Monday                             
+1917/06/05     16                  Tuesday                            
+1917/06/06     17                  Wednesday      Corn on Ear         
+1917/06/07     18                  Thursday                           
+1917/06/08     19                  Friday                             
+1917/06/09     20                  Saturday                           
+1917/06/10     21                  Sunday                             
+1917/06/11     22                  Monday                             
+1917/06/12     23                  Tuesday                            
+1917/06/13     24                  Wednesday                          
+1917/06/14     25                  Thursday                           
+1917/06/15     26                  Friday                             
+1917/06/16     27                  Saturday                           
+1917/06/17     28                  Sunday                             
+1917/06/18     29                  Monday                             
+1917/06/19     5th Lunar month     Tuesday                            
+1917/06/20     2                   Wednesday                          
+1917/06/21     3                   Thursday                           
+1917/06/22     4                   Friday         Summer Solstice     
+1917/06/23     5                   Saturday                           
+1917/06/24     6                   Sunday                             
+1917/06/25     7                   Monday                             
+1917/06/26     8                   Tuesday                            
+1917/06/27     9                   Wednesday                          
+1917/06/28     10                  Thursday                           
+1917/06/29     11                  Friday                             
+1917/06/30     12                  Saturday                           
+1917/07/01     13                  Sunday                             
+1917/07/02     14                  Monday                             
+1917/07/03     15                  Tuesday                            
+1917/07/04     16                  Wednesday                          
+1917/07/05     17                  Thursday                           
+1917/07/06     18                  Friday                             
+1917/07/07     19                  Saturday                           
+1917/07/08     20                  Sunday         Moderate Heat       
+1917/07/09     21                  Monday                             
+1917/07/10     22                  Tuesday                            
+1917/07/11     23                  Wednesday                          
+1917/07/12     24                  Thursday                           
+1917/07/13     25                  Friday                             
+1917/07/14     26                  Saturday                           
+1917/07/15     27                  Sunday                             
+1917/07/16     28                  Monday                             
+1917/07/17     29                  Tuesday                            
+1917/07/18     30                  Wednesday                          
+1917/07/19     6th Lunar month     Thursday                           
+1917/07/20     2                   Friday                             
+1917/07/21     3                   Saturday                           
+1917/07/22     4                   Sunday                             
+1917/07/23     5                   Monday         Great Heat          
+1917/07/24     6                   Tuesday                            
+1917/07/25     7                   Wednesday                          
+1917/07/26     8                   Thursday                           
+1917/07/27     9                   Friday                             
+1917/07/28     10                  Saturday                           
+1917/07/29     11                  Sunday                             
+1917/07/30     12                  Monday                             
+1917/07/31     13                  Tuesday                            
+1917/08/01     14                  Wednesday                          
+1917/08/02     15                  Thursday                           
+1917/08/03     16                  Friday                             
+1917/08/04     17                  Saturday                           
+1917/08/05     18                  Sunday                             
+1917/08/06     19                  Monday                             
+1917/08/07     20                  Tuesday                            
+1917/08/08     21                  Wednesday      Autumn Commences    
+1917/08/09     22                  Thursday                           
+1917/08/10     23                  Friday                             
+1917/08/11     24                  Saturday                           
+1917/08/12     25                  Sunday                             
+1917/08/13     26                  Monday                             
+1917/08/14     27                  Tuesday                            
+1917/08/15     28                  Wednesday                          
+1917/08/16     29                  Thursday                           
+1917/08/17     30                  Friday                             
+1917/08/18     7th Lunar month     Saturday                           
+1917/08/19     2                   Sunday                             
+1917/08/20     3                   Monday                             
+1917/08/21     4                   Tuesday                            
+1917/08/22     5                   Wednesday                          
+1917/08/23     6                   Thursday                           
+1917/08/24     7                   Friday         End of Heat         
+1917/08/25     8                   Saturday                           
+1917/08/26     9                   Sunday                             
+1917/08/27     10                  Monday                             
+1917/08/28     11                  Tuesday                            
+1917/08/29     12                  Wednesday                          
+1917/08/30     13                  Thursday                           
+1917/08/31     14                  Friday                             
+1917/09/01     15                  Saturday                           
+1917/09/02     16                  Sunday                             
+1917/09/03     17                  Monday                             
+1917/09/04     18                  Tuesday                            
+1917/09/05     19                  Wednesday                          
+1917/09/06     20                  Thursday                           
+1917/09/07     21                  Friday                             
+1917/09/08     22                  Saturday       White Dew           
+1917/09/09     23                  Sunday                             
+1917/09/10     24                  Monday                             
+1917/09/11     25                  Tuesday                            
+1917/09/12     26                  Wednesday                          
+1917/09/13     27                  Thursday                           
+1917/09/14     28                  Friday                             
+1917/09/15     29                  Saturday                           
+1917/09/16     8th Lunar month     Sunday                             
+1917/09/17     2                   Monday                             
+1917/09/18     3                   Tuesday                            
+1917/09/19     4                   Wednesday                          
+1917/09/20     5                   Thursday                           
+1917/09/21     6                   Friday                             
+1917/09/22     7                   Saturday                           
+1917/09/23     8                   Sunday         Autumnal Equinox    
+1917/09/24     9                   Monday                             
+1917/09/25     10                  Tuesday                            
+1917/09/26     11                  Wednesday                          
+1917/09/27     12                  Thursday                           
+1917/09/28     13                  Friday                             
+1917/09/29     14                  Saturday                           
+1917/09/30     15                  Sunday                             
+1917/10/01     16                  Monday                             
+1917/10/02     17                  Tuesday                            
+1917/10/03     18                  Wednesday                          
+1917/10/04     19                  Thursday                           
+1917/10/05     20                  Friday                             
+1917/10/06     21                  Saturday                           
+1917/10/07     22                  Sunday                             
+1917/10/08     23                  Monday                             
+1917/10/09     24                  Tuesday        Cold Dew            
+1917/10/10     25                  Wednesday                          
+1917/10/11     26                  Thursday                           
+1917/10/12     27                  Friday                             
+1917/10/13     28                  Saturday                           
+1917/10/14     29                  Sunday                             
+1917/10/15     30                  Monday                             
+1917/10/16     9th Lunar month     Tuesday                            
+1917/10/17     2                   Wednesday                          
+1917/10/18     3                   Thursday                           
+1917/10/19     4                   Friday                             
+1917/10/20     5                   Saturday                           
+1917/10/21     6                   Sunday                             
+1917/10/22     7                   Monday                             
+1917/10/23     8                   Tuesday                            
+1917/10/24     9                   Wednesday      Frost               
+1917/10/25     10                  Thursday                           
+1917/10/26     11                  Friday                             
+1917/10/27     12                  Saturday                           
+1917/10/28     13                  Sunday                             
+1917/10/29     14                  Monday                             
+1917/10/30     15                  Tuesday                            
+1917/10/31     16                  Wednesday                          
+1917/11/01     17                  Thursday                           
+1917/11/02     18                  Friday                             
+1917/11/03     19                  Saturday                           
+1917/11/04     20                  Sunday                             
+1917/11/05     21                  Monday                             
+1917/11/06     22                  Tuesday                            
+1917/11/07     23                  Wednesday                          
+1917/11/08     24                  Thursday       Winter Commences    
+1917/11/09     25                  Friday                             
+1917/11/10     26                  Saturday                           
+1917/11/11     27                  Sunday                             
+1917/11/12     28                  Monday                             
+1917/11/13     29                  Tuesday                            
+1917/11/14     30                  Wednesday                          
+1917/11/15     10th Lunar month    Thursday                           
+1917/11/16     2                   Friday                             
+1917/11/17     3                   Saturday                           
+1917/11/18     4                   Sunday                             
+1917/11/19     5                   Monday                             
+1917/11/20     6                   Tuesday                            
+1917/11/21     7                   Wednesday                          
+1917/11/22     8                   Thursday                           
+1917/11/23     9                   Friday         Light Snow          
+1917/11/24     10                  Saturday                           
+1917/11/25     11                  Sunday                             
+1917/11/26     12                  Monday                             
+1917/11/27     13                  Tuesday                            
+1917/11/28     14                  Wednesday                          
+1917/11/29     15                  Thursday                           
+1917/11/30     16                  Friday                             
+1917/12/01     17                  Saturday                           
+1917/12/02     18                  Sunday                             
+1917/12/03     19                  Monday                             
+1917/12/04     20                  Tuesday                            
+1917/12/05     21                  Wednesday                          
+1917/12/06     22                  Thursday                           
+1917/12/07     23                  Friday         Heavy Snow          
+1917/12/08     24                  Saturday                           
+1917/12/09     25                  Sunday                             
+1917/12/10     26                  Monday                             
+1917/12/11     27                  Tuesday                            
+1917/12/12     28                  Wednesday                          
+1917/12/13     29                  Thursday                           
+1917/12/14     11th Lunar month    Friday                             
+1917/12/15     2                   Saturday                           
+1917/12/16     3                   Sunday                             
+1917/12/17     4                   Monday                             
+1917/12/18     5                   Tuesday                            
+1917/12/19     6                   Wednesday                          
+1917/12/20     7                   Thursday                           
+1917/12/21     8                   Friday                             
+1917/12/22     9                   Saturday       Winter Solstice     
+1917/12/23     10                  Sunday                             
+1917/12/24     11                  Monday                             
+1917/12/25     12                  Tuesday                            
+1917/12/26     13                  Wednesday                          
+1917/12/27     14                  Thursday                           
+1917/12/28     15                  Friday                             
+1917/12/29     16                  Saturday                           
+1917/12/30     17                  Sunday                             
+1917/12/31     18                  Monday                             

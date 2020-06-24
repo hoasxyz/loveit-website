@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1915 (Yi-mao ¡V year of the Rabbit)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1915/01/01     16                  Friday                             
+1915/01/02     17                  Saturday                           
+1915/01/03     18                  Sunday                             
+1915/01/04     19                  Monday                             
+1915/01/05     20                  Tuesday                            
+1915/01/06     21                  Wednesday      Moderate Cold       
+1915/01/07     22                  Thursday                           
+1915/01/08     23                  Friday                             
+1915/01/09     24                  Saturday                           
+1915/01/10     25                  Sunday                             
+1915/01/11     26                  Monday                             
+1915/01/12     27                  Tuesday                            
+1915/01/13     28                  Wednesday                          
+1915/01/14     29                  Thursday                           
+1915/01/15     12th Lunar month    Friday                             
+1915/01/16     2                   Saturday                           
+1915/01/17     3                   Sunday                             
+1915/01/18     4                   Monday                             
+1915/01/19     5                   Tuesday                            
+1915/01/20     6                   Wednesday                          
+1915/01/21     7                   Thursday       Severe Cold         
+1915/01/22     8                   Friday                             
+1915/01/23     9                   Saturday                           
+1915/01/24     10                  Sunday                             
+1915/01/25     11                  Monday                             
+1915/01/26     12                  Tuesday                            
+1915/01/27     13                  Wednesday                          
+1915/01/28     14                  Thursday                           
+1915/01/29     15                  Friday                             
+1915/01/30     16                  Saturday                           
+1915/01/31     17                  Sunday                             
+1915/02/01     18                  Monday                             
+1915/02/02     19                  Tuesday                            
+1915/02/03     20                  Wednesday                          
+1915/02/04     21                  Thursday                           
+1915/02/05     22                  Friday         Spring Commences    
+1915/02/06     23                  Saturday                           
+1915/02/07     24                  Sunday                             
+1915/02/08     25                  Monday                             
+1915/02/09     26                  Tuesday                            
+1915/02/10     27                  Wednesday                          
+1915/02/11     28                  Thursday                           
+1915/02/12     29                  Friday                             
+1915/02/13     30                  Saturday                           
+1915/02/14     1st Lunar month     Sunday                             
+1915/02/15     2                   Monday                             
+1915/02/16     3                   Tuesday                            
+1915/02/17     4                   Wednesday                          
+1915/02/18     5                   Thursday                           
+1915/02/19     6                   Friday                             
+1915/02/20     7                   Saturday       Spring Showers      
+1915/02/21     8                   Sunday                             
+1915/02/22     9                   Monday                             
+1915/02/23     10                  Tuesday                         
+1915/02/24     11                  Wednesday                          
+1915/02/25     12                  Thursday                           
+1915/02/26     13                  Friday                             
+1915/02/27     14                  Saturday                           
+1915/02/28     15                  Sunday                             
+1915/03/01     16                  Monday                             
+1915/03/02     17                  Tuesday                            
+1915/03/03     18                  Wednesday                          
+1915/03/04     19                  Thursday                           
+1915/03/05     20                  Friday                             
+1915/03/06     21                  Saturday       Insects Waken       
+1915/03/07     22                  Sunday                             
+1915/03/08     23                  Monday                             
+1915/03/09     24                  Tuesday                            
+1915/03/10     25                  Wednesday                          
+1915/03/11     26                  Thursday                           
+1915/03/12     27                  Friday                             
+1915/03/13     28                  Saturday                           
+1915/03/14     29                  Sunday                             
+1915/03/15     30                  Monday                             
+1915/03/16     2nd Lunar month     Tuesday                            
+1915/03/17     2                   Wednesday                          
+1915/03/18     3                   Thursday                           
+1915/03/19     4                   Friday                             
+1915/03/20     5                   Saturday                           
+1915/03/21     6                   Sunday                             
+1915/03/22     7                   Monday         Vernal Equinox      
+1915/03/23     8                   Tuesday                            
+1915/03/24     9                   Wednesday                          
+1915/03/25     10                  Thursday                           
+1915/03/26     11                  Friday                             
+1915/03/27     12                  Saturday                           
+1915/03/28     13                  Sunday                             
+1915/03/29     14                  Monday                             
+1915/03/30     15                  Tuesday                            
+1915/03/31     16                  Wednesday                          
+1915/04/01     17                  Thursday                           
+1915/04/02     18                  Friday                             
+1915/04/03     19                  Saturday                           
+1915/04/04     20                  Sunday                             
+1915/04/05     21                  Monday                             
+1915/04/06     22                  Tuesday        Bright & Clear      
+1915/04/07     23                  Wednesday                          
+1915/04/08     24                  Thursday                           
+1915/04/09     25                  Friday                             
+1915/04/10     26                  Saturday                           
+1915/04/11     27                  Sunday                             
+1915/04/12     28                  Monday                             
+1915/04/13     29                  Tuesday                            
+1915/04/14     3rd Lunar month     Wednesday                          
+1915/04/15     2                   Thursday                           
+1915/04/16     3                   Friday                             
+1915/04/17     4                   Saturday                           
+1915/04/18     5                   Sunday                             
+1915/04/19     6                   Monday                             
+1915/04/20     7                   Tuesday                            
+1915/04/21     8                   Wednesday      Corn Rain           
+1915/04/22     9                   Thursday                           
+1915/04/23     10                  Friday                             
+1915/04/24     11                  Saturday                           
+1915/04/25     12                  Sunday                             
+1915/04/26     13                  Monday                             
+1915/04/27     14                  Tuesday                            
+1915/04/28     15                  Wednesday                          
+1915/04/29     16                  Thursday                           
+1915/04/30     17                  Friday                             
+1915/05/01     18                  Saturday                           
+1915/05/02     19                  Sunday                             
+1915/05/03     20                  Monday                             
+1915/05/04     21                  Tuesday                            
+1915/05/05     22                  Wednesday                          
+1915/05/06     23                  Thursday       Summer Commences    
+1915/05/07     24                  Friday                             
+1915/05/08     25                  Saturday                           
+1915/05/09     26                  Sunday                             
+1915/05/10     27                  Monday                             
+1915/05/11     28                  Tuesday                            
+1915/05/12     29                  Wednesday                          
+1915/05/13     30                  Thursday                           
+1915/05/14     4th Lunar month     Friday                             
+1915/05/15     2                   Saturday                           
+1915/05/16     3                   Sunday                             
+1915/05/17     4                   Monday                             
+1915/05/18     5                   Tuesday                            
+1915/05/19     6                   Wednesday                          
+1915/05/20     7                   Thursday                           
+1915/05/21     8                   Friday                             
+1915/05/22     9                   Saturday       Corn Forms          
+1915/05/23     10                  Sunday                             
+1915/05/24     11                  Monday                             
+1915/05/25     12                  Tuesday                            
+1915/05/26     13                  Wednesday                          
+1915/05/27     14                  Thursday                           
+1915/05/28     15                  Friday                             
+1915/05/29     16                  Saturday                           
+1915/05/30     17                  Sunday                             
+1915/05/31     18                  Monday                             
+1915/06/01     19                  Tuesday                            
+1915/06/02     20                  Wednesday                          
+1915/06/03     21                  Thursday                           
+1915/06/04     22                  Friday                             
+1915/06/05     23                  Saturday                           
+1915/06/06     24                  Sunday                             
+1915/06/07     25                  Monday         Corn on Ear         
+1915/06/08     26                  Tuesday                            
+1915/06/09     27                  Wednesday                          
+1915/06/10     28                  Thursday                           
+1915/06/11     29                  Friday                             
+1915/06/12     30                  Saturday                           
+1915/06/13     5th Lunar month     Sunday                             
+1915/06/14     2                   Monday                             
+1915/06/15     3                   Tuesday                            
+1915/06/16     4                   Wednesday                          
+1915/06/17     5                   Thursday                           
+1915/06/18     6                   Friday                             
+1915/06/19     7                   Saturday                           
+1915/06/20     8                   Sunday                             
+1915/06/21     9                   Monday                             
+1915/06/22     10                  Tuesday        Summer Solstice     
+1915/06/23     11                  Wednesday                          
+1915/06/24     12                  Thursday                           
+1915/06/25     13                  Friday                             
+1915/06/26     14                  Saturday                           
+1915/06/27     15                  Sunday                             
+1915/06/28     16                  Monday                             
+1915/06/29     17                  Tuesday                            
+1915/06/30     18                  Wednesday                          
+1915/07/01     19                  Thursday                           
+1915/07/02     20                  Friday                             
+1915/07/03     21                  Saturday                           
+1915/07/04     22                  Sunday                             
+1915/07/05     23                  Monday                             
+1915/07/06     24                  Tuesday                            
+1915/07/07     25                  Wednesday                          
+1915/07/08     26                  Thursday       Moderate Heat       
+1915/07/09     27                  Friday                             
+1915/07/10     28                  Saturday                           
+1915/07/11     29                  Sunday                             
+1915/07/12     6th Lunar month     Monday                             
+1915/07/13     2                   Tuesday                            
+1915/07/14     3                   Wednesday                          
+1915/07/15     4                   Thursday                           
+1915/07/16     5                   Friday                             
+1915/07/17     6                   Saturday                           
+1915/07/18     7                   Sunday                             
+1915/07/19     8                   Monday                             
+1915/07/20     9                   Tuesday                            
+1915/07/21     10                  Wednesday                          
+1915/07/22     11                  Thursday                           
+1915/07/23     12                  Friday                             
+1915/07/24     13                  Saturday       Great Heat          
+1915/07/25     14                  Sunday                             
+1915/07/26     15                  Monday                             
+1915/07/27     16                  Tuesday                            
+1915/07/28     17                  Wednesday                          
+1915/07/29     18                  Thursday                           
+1915/07/30     19                  Friday                             
+1915/07/31     20                  Saturday                           
+1915/08/01     21                  Sunday                             
+1915/08/02     22                  Monday                             
+1915/08/03     23                  Tuesday                            
+1915/08/04     24                  Wednesday                          
+1915/08/05     25                  Thursday                           
+1915/08/06     26                  Friday                             
+1915/08/07     27                  Saturday                           
+1915/08/08     28                  Sunday         Autumn Commences    
+1915/08/09     29                  Monday                             
+1915/08/10     30                  Tuesday                            
+1915/08/11     7th Lunar month     Wednesday                          
+1915/08/12     2                   Thursday                           
+1915/08/13     3                   Friday                             
+1915/08/14     4                   Saturday                           
+1915/08/15     5                   Sunday                             
+1915/08/16     6                   Monday                             
+1915/08/17     7                   Tuesday                            
+1915/08/18     8                   Wednesday                          
+1915/08/19     9                   Thursday                           
+1915/08/20     10                  Friday                             
+1915/08/21     11                  Saturday                           
+1915/08/22     12                  Sunday                             
+1915/08/23     13                  Monday                             
+1915/08/24     14                  Tuesday        End of Heat         
+1915/08/25     15                  Wednesday                          
+1915/08/26     16                  Thursday                           
+1915/08/27     17                  Friday                             
+1915/08/28     18                  Saturday                           
+1915/08/29     19                  Sunday                             
+1915/08/30     20                  Monday                             
+1915/08/31     21                  Tuesday                            
+1915/09/01     22                  Wednesday                          
+1915/09/02     23                  Thursday                           
+1915/09/03     24                  Friday                             
+1915/09/04     25                  Saturday                           
+1915/09/05     26                  Sunday                             
+1915/09/06     27                  Monday                             
+1915/09/07     28                  Tuesday                            
+1915/09/08     29                  Wednesday                          
+1915/09/09     8th Lunar month     Thursday       White Dew           
+1915/09/10     2                   Friday                             
+1915/09/11     3                   Saturday                           
+1915/09/12     4                   Sunday                             
+1915/09/13     5                   Monday                             
+1915/09/14     6                   Tuesday                            
+1915/09/15     7                   Wednesday                          
+1915/09/16     8                   Thursday                           
+1915/09/17     9                   Friday                             
+1915/09/18     10                  Saturday                           
+1915/09/19     11                  Sunday                             
+1915/09/20     12                  Monday                             
+1915/09/21     13                  Tuesday                            
+1915/09/22     14                  Wednesday                          
+1915/09/23     15                  Thursday                           
+1915/09/24     16                  Friday         Autumnal Equinox    
+1915/09/25     17                  Saturday                           
+1915/09/26     18                  Sunday                             
+1915/09/27     19                  Monday                             
+1915/09/28     20                  Tuesday                            
+1915/09/29     21                  Wednesday                          
+1915/09/30     22                  Thursday                           
+1915/10/01     23                  Friday                             
+1915/10/02     24                  Saturday                           
+1915/10/03     25                  Sunday                             
+1915/10/04     26                  Monday                             
+1915/10/05     27                  Tuesday                            
+1915/10/06     28                  Wednesday                          
+1915/10/07     29                  Thursday                           
+1915/10/08     30                  Friday                             
+1915/10/09     9th Lunar month     Saturday       Cold Dew            
+1915/10/10     2                   Sunday                             
+1915/10/11     3                   Monday                             
+1915/10/12     4                   Tuesday                            
+1915/10/13     5                   Wednesday                          
+1915/10/14     6                   Thursday                           
+1915/10/15     7                   Friday                             
+1915/10/16     8                   Saturday                           
+1915/10/17     9                   Sunday                             
+1915/10/18     10                  Monday                             
+1915/10/19     11                  Tuesday                            
+1915/10/20     12                  Wednesday                          
+1915/10/21     13                  Thursday                           
+1915/10/22     14                  Friday                             
+1915/10/23     15                  Saturday                           
+1915/10/24     16                  Sunday         Frost               
+1915/10/25     17                  Monday                             
+1915/10/26     18                  Tuesday                            
+1915/10/27     19                  Wednesday                          
+1915/10/28     20                  Thursday                           
+1915/10/29     21                  Friday                             
+1915/10/30     22                  Saturday                           
+1915/10/31     23                  Sunday                             
+1915/11/01     24                  Monday                             
+1915/11/02     25                  Tuesday                            
+1915/11/03     26                  Wednesday                          
+1915/11/04     27                  Thursday                           
+1915/11/05     28                  Friday                             
+1915/11/06     29                  Saturday                           
+1915/11/07     10th Lunar month    Sunday                             
+1915/11/08     2                   Monday         Winter Commences    
+1915/11/09     3                   Tuesday                            
+1915/11/10     4                   Wednesday                          
+1915/11/11     5                   Thursday                           
+1915/11/12     6                   Friday                             
+1915/11/13     7                   Saturday                           
+1915/11/14     8                   Sunday                             
+1915/11/15     9                   Monday                             
+1915/11/16     10                  Tuesday                            
+1915/11/17     11                  Wednesday                          
+1915/11/18     12                  Thursday                           
+1915/11/19     13                  Friday                             
+1915/11/20     14                  Saturday                           
+1915/11/21     15                  Sunday                             
+1915/11/22     16                  Monday                             
+1915/11/23     17                  Tuesday        Light Snow          
+1915/11/24     18                  Wednesday                          
+1915/11/25     19                  Thursday                           
+1915/11/26     20                  Friday                             
+1915/11/27     21                  Saturday                           
+1915/11/28     22                  Sunday                             
+1915/11/29     23                  Monday                             
+1915/11/30     24                  Tuesday                            
+1915/12/01     25                  Wednesday                          
+1915/12/02     26                  Thursday                           
+1915/12/03     27                  Friday                             
+1915/12/04     28                  Saturday                           
+1915/12/05     29                  Sunday                             
+1915/12/06     30                  Monday                             
+1915/12/07     11th Lunar month    Tuesday                            
+1915/12/08     2                   Wednesday      Heavy Snow          
+1915/12/09     3                   Thursday                           
+1915/12/10     4                   Friday                             
+1915/12/11     5                   Saturday                           
+1915/12/12     6                   Sunday                             
+1915/12/13     7                   Monday                             
+1915/12/14     8                   Tuesday                            
+1915/12/15     9                   Wednesday                          
+1915/12/16     10                  Thursday                           
+1915/12/17     11                  Friday                             
+1915/12/18     12                  Saturday                           
+1915/12/19     13                  Sunday                             
+1915/12/20     14                  Monday                             
+1915/12/21     15                  Tuesday                            
+1915/12/22     16                  Wednesday                          
+1915/12/23     17                  Thursday       Winter Solstice     
+1915/12/24     18                  Friday                             
+1915/12/25     19                  Saturday                           
+1915/12/26     20                  Sunday                             
+1915/12/27     21                  Monday                             
+1915/12/28     22                  Tuesday                            
+1915/12/29     23                  Wednesday                          
+1915/12/30     24                  Thursday                           
+1915/12/31     25                  Friday                             

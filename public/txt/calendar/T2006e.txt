@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2006 (Bing-xu ¡V year of the Dog)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2006/01/01     2                   Sunday                             
+2006/01/02     3                   Monday                             
+2006/01/03     4                   Tuesday                            
+2006/01/04     5                   Wednesday                          
+2006/01/05     6                   Thursday       Moderate Cold       
+2006/01/06     7                   Friday                             
+2006/01/07     8                   Saturday                           
+2006/01/08     9                   Sunday                             
+2006/01/09     10                  Monday                             
+2006/01/10     11                  Tuesday                            
+2006/01/11     12                  Wednesday                          
+2006/01/12     13                  Thursday                           
+2006/01/13     14                  Friday                             
+2006/01/14     15                  Saturday                           
+2006/01/15     16                  Sunday                             
+2006/01/16     17                  Monday                             
+2006/01/17     18                  Tuesday                            
+2006/01/18     19                  Wednesday                          
+2006/01/19     20                  Thursday                           
+2006/01/20     21                  Friday         Severe Cold         
+2006/01/21     22                  Saturday                           
+2006/01/22     23                  Sunday                             
+2006/01/23     24                  Monday                             
+2006/01/24     25                  Tuesday                            
+2006/01/25     26                  Wednesday                          
+2006/01/26     27                  Thursday                           
+2006/01/27     28                  Friday                             
+2006/01/28     29                  Saturday                           
+2006/01/29     1st Lunar month     Sunday                             
+2006/01/30     2                   Monday                             
+2006/01/31     3                   Tuesday                            
+2006/02/01     4                   Wednesday                          
+2006/02/02     5                   Thursday                           
+2006/02/03     6                   Friday                             
+2006/02/04     7                   Saturday       Spring Commences    
+2006/02/05     8                   Sunday                             
+2006/02/06     9                   Monday                             
+2006/02/07     10                  Tuesday                            
+2006/02/08     11                  Wednesday                          
+2006/02/09     12                  Thursday                           
+2006/02/10     13                  Friday                             
+2006/02/11     14                  Saturday                           
+2006/02/12     15                  Sunday                             
+2006/02/13     16                  Monday                             
+2006/02/14     17                  Tuesday                            
+2006/02/15     18                  Wednesday                          
+2006/02/16     19                  Thursday                           
+2006/02/17     20                  Friday                             
+2006/02/18     21                  Saturday                           
+2006/02/19     22                  Sunday         Spring Showers      
+2006/02/20     23                  Monday                             
+2006/02/21     24                  Tuesday                            
+2006/02/22     25                  Wednesday                          
+2006/02/23     26                  Thursday                           
+2006/02/24     27                  Friday                             
+2006/02/25     28                  Saturday                           
+2006/02/26     29                  Sunday                             
+2006/02/27     30                  Monday                             
+2006/02/28     2nd Lunar month     Tuesday                            
+2006/03/01     2                   Wednesday                          
+2006/03/02     3                   Thursday                           
+2006/03/03     4                   Friday                             
+2006/03/04     5                   Saturday                           
+2006/03/05     6                   Sunday                             
+2006/03/06     7                   Monday         Insects Waken       
+2006/03/07     8                   Tuesday                            
+2006/03/08     9                   Wednesday                          
+2006/03/09     10                  Thursday                           
+2006/03/10     11                  Friday                             
+2006/03/11     12                  Saturday                           
+2006/03/12     13                  Sunday                             
+2006/03/13     14                  Monday                             
+2006/03/14     15                  Tuesday                            
+2006/03/15     16                  Wednesday                          
+2006/03/16     17                  Thursday                           
+2006/03/17     18                  Friday                             
+2006/03/18     19                  Saturday                           
+2006/03/19     20                  Sunday                             
+2006/03/20     21                  Monday                             
+2006/03/21     22                  Tuesday        Vernal Equinox      
+2006/03/22     23                  Wednesday                          
+2006/03/23     24                  Thursday                           
+2006/03/24     25                  Friday                             
+2006/03/25     26                  Saturday                           
+2006/03/26     27                  Sunday                             
+2006/03/27     28                  Monday                             
+2006/03/28     29                  Tuesday                            
+2006/03/29     3rd Lunar month     Wednesday                          
+2006/03/30     2                   Thursday                           
+2006/03/31     3                   Friday                             
+2006/04/01     4                   Saturday                           
+2006/04/02     5                   Sunday                             
+2006/04/03     6                   Monday                             
+2006/04/04     7                   Tuesday                            
+2006/04/05     8                   Wednesday      Bright & Clear      
+2006/04/06     9                   Thursday                           
+2006/04/07     10                  Friday                             
+2006/04/08     11                  Saturday                           
+2006/04/09     12                  Sunday                             
+2006/04/10     13                  Monday                             
+2006/04/11     14                  Tuesday                            
+2006/04/12     15                  Wednesday                          
+2006/04/13     16                  Thursday                           
+2006/04/14     17                  Friday                             
+2006/04/15     18                  Saturday                           
+2006/04/16     19                  Sunday                             
+2006/04/17     20                  Monday                             
+2006/04/18     21                  Tuesday                            
+2006/04/19     22                  Wednesday                          
+2006/04/20     23                  Thursday       Corn Rain           
+2006/04/21     24                  Friday                             
+2006/04/22     25                  Saturday                           
+2006/04/23     26                  Sunday                             
+2006/04/24     27                  Monday                             
+2006/04/25     28                  Tuesday                            
+2006/04/26     29                  Wednesday                          
+2006/04/27     30                  Thursday                           
+2006/04/28     4th Lunar month     Friday                             
+2006/04/29     2                   Saturday                           
+2006/04/30     3                   Sunday                             
+2006/05/01     4                   Monday                             
+2006/05/02     5                   Tuesday                            
+2006/05/03     6                   Wednesday                          
+2006/05/04     7                   Thursday                           
+2006/05/05     8                   Friday         Summer Commences    
+2006/05/06     9                   Saturday                           
+2006/05/07     10                  Sunday                             
+2006/05/08     11                  Monday                             
+2006/05/09     12                  Tuesday                            
+2006/05/10     13                  Wednesday                          
+2006/05/11     14                  Thursday                           
+2006/05/12     15                  Friday                             
+2006/05/13     16                  Saturday                           
+2006/05/14     17                  Sunday                             
+2006/05/15     18                  Monday                             
+2006/05/16     19                  Tuesday                            
+2006/05/17     20                  Wednesday                          
+2006/05/18     21                  Thursday                           
+2006/05/19     22                  Friday                             
+2006/05/20     23                  Saturday                           
+2006/05/21     24                  Sunday         Corn Forms          
+2006/05/22     25                  Monday                             
+2006/05/23     26                  Tuesday                            
+2006/05/24     27                  Wednesday                          
+2006/05/25     28                  Thursday                           
+2006/05/26     29                  Friday                             
+2006/05/27     5th Lunar month     Saturday                           
+2006/05/28     2                   Sunday                             
+2006/05/29     3                   Monday                             
+2006/05/30     4                   Tuesday                            
+2006/05/31     5                   Wednesday                          
+2006/06/01     6                   Thursday                           
+2006/06/02     7                   Friday                             
+2006/06/03     8                   Saturday                           
+2006/06/04     9                   Sunday                             
+2006/06/05     10                  Monday                             
+2006/06/06     11                  Tuesday        Corn on Ear         
+2006/06/07     12                  Wednesday                          
+2006/06/08     13                  Thursday                           
+2006/06/09     14                  Friday                             
+2006/06/10     15                  Saturday                           
+2006/06/11     16                  Sunday                             
+2006/06/12     17                  Monday                             
+2006/06/13     18                  Tuesday                            
+2006/06/14     19                  Wednesday                          
+2006/06/15     20                  Thursday                           
+2006/06/16     21                  Friday                             
+2006/06/17     22                  Saturday                           
+2006/06/18     23                  Sunday                             
+2006/06/19     24                  Monday                             
+2006/06/20     25                  Tuesday                            
+2006/06/21     26                  Wednesday      Summer Solstice     
+2006/06/22     27                  Thursday                           
+2006/06/23     28                  Friday                             
+2006/06/24     29                  Saturday                           
+2006/06/25     30                  Sunday                             
+2006/06/26     6th Lunar month     Monday                             
+2006/06/27     2                   Tuesday                            
+2006/06/28     3                   Wednesday                          
+2006/06/29     4                   Thursday                           
+2006/06/30     5                   Friday                             
+2006/07/01     6                   Saturday                           
+2006/07/02     7                   Sunday                             
+2006/07/03     8                   Monday                             
+2006/07/04     9                   Tuesday                            
+2006/07/05     10                  Wednesday                          
+2006/07/06     11                  Thursday                           
+2006/07/07     12                  Friday         Moderate Heat       
+2006/07/08     13                  Saturday                           
+2006/07/09     14                  Sunday                             
+2006/07/10     15                  Monday                             
+2006/07/11     16                  Tuesday                            
+2006/07/12     17                  Wednesday                          
+2006/07/13     18                  Thursday                           
+2006/07/14     19                  Friday                             
+2006/07/15     20                  Saturday                           
+2006/07/16     21                  Sunday                             
+2006/07/17     22                  Monday                             
+2006/07/18     23                  Tuesday                            
+2006/07/19     24                  Wednesday                          
+2006/07/20     25                  Thursday                           
+2006/07/21     26                  Friday                             
+2006/07/22     27                  Saturday                           
+2006/07/23     28                  Sunday         Great Heat          
+2006/07/24     29                  Monday                             
+2006/07/25     7th Lunar month     Tuesday                            
+2006/07/26     2                   Wednesday                          
+2006/07/27     3                   Thursday                           
+2006/07/28     4                   Friday                             
+2006/07/29     5                   Saturday                           
+2006/07/30     6                   Sunday                             
+2006/07/31     7                   Monday                             
+2006/08/01     8                   Tuesday                            
+2006/08/02     9                   Wednesday                          
+2006/08/03     10                  Thursday                           
+2006/08/04     11                  Friday                             
+2006/08/05     12                  Saturday                           
+2006/08/06     13                  Sunday                             
+2006/08/07     14                  Monday         Autumn Commences    
+2006/08/08     15                  Tuesday                            
+2006/08/09     16                  Wednesday                          
+2006/08/10     17                  Thursday                           
+2006/08/11     18                  Friday                             
+2006/08/12     19                  Saturday                           
+2006/08/13     20                  Sunday                             
+2006/08/14     21                  Monday                             
+2006/08/15     22                  Tuesday                            
+2006/08/16     23                  Wednesday                          
+2006/08/17     24                  Thursday                           
+2006/08/18     25                  Friday                             
+2006/08/19     26                  Saturday                           
+2006/08/20     27                  Sunday                             
+2006/08/21     28                  Monday                             
+2006/08/22     29                  Tuesday                            
+2006/08/23     30                  Wednesday      End of Heat         
+2006/08/24     7th Lunar month     Thursday                           
+2006/08/25     2                   Friday                             
+2006/08/26     3                   Saturday                           
+2006/08/27     4                   Sunday                             
+2006/08/28     5                   Monday                             
+2006/08/29     6                   Tuesday                            
+2006/08/30     7                   Wednesday                          
+2006/08/31     8                   Thursday                           
+2006/09/01     9                   Friday                             
+2006/09/02     10                  Saturday                           
+2006/09/03     11                  Sunday                             
+2006/09/04     12                  Monday                             
+2006/09/05     13                  Tuesday                            
+2006/09/06     14                  Wednesday                          
+2006/09/07     15                  Thursday                           
+2006/09/08     16                  Friday         White Dew           
+2006/09/09     17                  Saturday                           
+2006/09/10     18                  Sunday                             
+2006/09/11     19                  Monday                             
+2006/09/12     20                  Tuesday                            
+2006/09/13     21                  Wednesday                          
+2006/09/14     22                  Thursday                           
+2006/09/15     23                  Friday                             
+2006/09/16     24                  Saturday                           
+2006/09/17     25                  Sunday                             
+2006/09/18     26                  Monday                             
+2006/09/19     27                  Tuesday                            
+2006/09/20     28                  Wednesday                          
+2006/09/21     29                  Thursday                           
+2006/09/22     8th Lunar month     Friday                             
+2006/09/23     2                   Saturday       Autumnal Equinox    
+2006/09/24     3                   Sunday                             
+2006/09/25     4                   Monday                             
+2006/09/26     5                   Tuesday                            
+2006/09/27     6                   Wednesday                          
+2006/09/28     7                   Thursday                           
+2006/09/29     8                   Friday                             
+2006/09/30     9                   Saturday                           
+2006/10/01     10                  Sunday                             
+2006/10/02     11                  Monday                             
+2006/10/03     12                  Tuesday                            
+2006/10/04     13                  Wednesday                          
+2006/10/05     14                  Thursday                           
+2006/10/06     15                  Friday                             
+2006/10/07     16                  Saturday                           
+2006/10/08     17                  Sunday         Cold Dew            
+2006/10/09     18                  Monday                             
+2006/10/10     19                  Tuesday                            
+2006/10/11     20                  Wednesday                          
+2006/10/12     21                  Thursday                           
+2006/10/13     22                  Friday                             
+2006/10/14     23                  Saturday                           
+2006/10/15     24                  Sunday                             
+2006/10/16     25                  Monday                             
+2006/10/17     26                  Tuesday                            
+2006/10/18     27                  Wednesday                          
+2006/10/19     28                  Thursday                           
+2006/10/20     29                  Friday                             
+2006/10/21     30                  Saturday                           
+2006/10/22     9th Lunar month     Sunday                             
+2006/10/23     2                   Monday         Frost               
+2006/10/24     3                   Tuesday                            
+2006/10/25     4                   Wednesday                          
+2006/10/26     5                   Thursday                           
+2006/10/27     6                   Friday                             
+2006/10/28     7                   Saturday                           
+2006/10/29     8                   Sunday                             
+2006/10/30     9                   Monday                             
+2006/10/31     10                  Tuesday                            
+2006/11/01     11                  Wednesday                          
+2006/11/02     12                  Thursday                           
+2006/11/03     13                  Friday                             
+2006/11/04     14                  Saturday                           
+2006/11/05     15                  Sunday                             
+2006/11/06     16                  Monday                             
+2006/11/07     17                  Tuesday        Winter Commences    
+2006/11/08     18                  Wednesday                          
+2006/11/09     19                  Thursday                           
+2006/11/10     20                  Friday                             
+2006/11/11     21                  Saturday                           
+2006/11/12     22                  Sunday                             
+2006/11/13     23                  Monday                             
+2006/11/14     24                  Tuesday                            
+2006/11/15     25                  Wednesday                          
+2006/11/16     26                  Thursday                           
+2006/11/17     27                  Friday                             
+2006/11/18     28                  Saturday                           
+2006/11/19     29                  Sunday                             
+2006/11/20     30                  Monday                             
+2006/11/21     10th Lunar month    Tuesday                            
+2006/11/22     2                   Wednesday      Light Snow          
+2006/11/23     3                   Thursday                           
+2006/11/24     4                   Friday                             
+2006/11/25     5                   Saturday                           
+2006/11/26     6                   Sunday                             
+2006/11/27     7                   Monday                             
+2006/11/28     8                   Tuesday                            
+2006/11/29     9                   Wednesday                          
+2006/11/30     10                  Thursday                           
+2006/12/01     11                  Friday                             
+2006/12/02     12                  Saturday                           
+2006/12/03     13                  Sunday                             
+2006/12/04     14                  Monday                             
+2006/12/05     15                  Tuesday                            
+2006/12/06     16                  Wednesday                          
+2006/12/07     17                  Thursday       Heavy Snow          
+2006/12/08     18                  Friday                             
+2006/12/09     19                  Saturday                           
+2006/12/10     20                  Sunday                             
+2006/12/11     21                  Monday                             
+2006/12/12     22                  Tuesday                            
+2006/12/13     23                  Wednesday                          
+2006/12/14     24                  Thursday                           
+2006/12/15     25                  Friday                             
+2006/12/16     26                  Saturday                           
+2006/12/17     27                  Sunday                             
+2006/12/18     28                  Monday                             
+2006/12/19     29                  Tuesday                            
+2006/12/20     11th Lunar month    Wednesday                          
+2006/12/21     2                   Thursday                           
+2006/12/22     3                   Friday         Winter Solstice     
+2006/12/23     4                   Saturday                           
+2006/12/24     5                   Sunday                             
+2006/12/25     6                   Monday                             
+2006/12/26     7                   Tuesday                            
+2006/12/27     8                   Wednesday                          
+2006/12/28     9                   Thursday                           
+2006/12/29     10                  Friday                             
+2006/12/30     11                  Saturday                           
+2006/12/31     12                  Sunday                             

@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1985 (Yi-chou ¡V year of the Ox)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1985/01/01     11                  Tuesday                            
+1985/01/02     12                  Wednesday                          
+1985/01/03     13                  Thursday                           
+1985/01/04     14                  Friday                             
+1985/01/05     15                  Saturday       Moderate Cold       
+1985/01/06     16                  Sunday                             
+1985/01/07     17                  Monday                             
+1985/01/08     18                  Tuesday                            
+1985/01/09     19                  Wednesday                          
+1985/01/10     20                  Thursday                           
+1985/01/11     21                  Friday                             
+1985/01/12     22                  Saturday                           
+1985/01/13     23                  Sunday                             
+1985/01/14     24                  Monday                             
+1985/01/15     25                  Tuesday                            
+1985/01/16     26                  Wednesday                          
+1985/01/17     27                  Thursday                           
+1985/01/18     28                  Friday                             
+1985/01/19     29                  Saturday                           
+1985/01/20     30                  Sunday         Severe Cold         
+1985/01/21     12th Lunar month    Monday                             
+1985/01/22     2                   Tuesday                            
+1985/01/23     3                   Wednesday                          
+1985/01/24     4                   Thursday                           
+1985/01/25     5                   Friday                             
+1985/01/26     6                   Saturday                           
+1985/01/27     7                   Sunday                             
+1985/01/28     8                   Monday                             
+1985/01/29     9                   Tuesday                            
+1985/01/30     10                  Wednesday                          
+1985/01/31     11                  Thursday                           
+1985/02/01     12                  Friday                             
+1985/02/02     13                  Saturday                           
+1985/02/03     14                  Sunday                             
+1985/02/04     15                  Monday         Spring Commences    
+1985/02/05     16                  Tuesday                            
+1985/02/06     17                  Wednesday                          
+1985/02/07     18                  Thursday                           
+1985/02/08     19                  Friday                             
+1985/02/09     20                  Saturday                           
+1985/02/10     21                  Sunday                             
+1985/02/11     22                  Monday                             
+1985/02/12     23                  Tuesday                            
+1985/02/13     24                  Wednesday                          
+1985/02/14     25                  Thursday                           
+1985/02/15     26                  Friday                             
+1985/02/16     27                  Saturday                           
+1985/02/17     28                  Sunday                             
+1985/02/18     29                  Monday                             
+1985/02/19     30                  Tuesday        Spring Showers      
+1985/02/20     1st Lunar month     Wednesday                          
+1985/02/21     2                   Thursday                           
+1985/02/22     3                   Friday                             
+1985/02/23     4                   Saturday                           
+1985/02/24     5                   Sunday                             
+1985/02/25     6                   Monday                             
+1985/02/26     7                   Tuesday                            
+1985/02/27     8                   Wednesday                          
+1985/02/28     9                   Thursday                           
+1985/03/01     10                  Friday                             
+1985/03/02     11                  Saturday                           
+1985/03/03     12                  Sunday                             
+1985/03/04     13                  Monday                             
+1985/03/05     14                  Tuesday        Insects Waken       
+1985/03/06     15                  Wednesday                          
+1985/03/07     16                  Thursday                           
+1985/03/08     17                  Friday                             
+1985/03/09     18                  Saturday                           
+1985/03/10     19                  Sunday                             
+1985/03/11     20                  Monday                             
+1985/03/12     21                  Tuesday                            
+1985/03/13     22                  Wednesday                          
+1985/03/14     23                  Thursday                           
+1985/03/15     24                  Friday                             
+1985/03/16     25                  Saturday                           
+1985/03/17     26                  Sunday                             
+1985/03/18     27                  Monday                             
+1985/03/19     28                  Tuesday                            
+1985/03/20     29                  Wednesday                          
+1985/03/21     2nd Lunar month     Thursday       Vernal Equinox      
+1985/03/22     2                   Friday                             
+1985/03/23     3                   Saturday                           
+1985/03/24     4                   Sunday                             
+1985/03/25     5                   Monday                             
+1985/03/26     6                   Tuesday                            
+1985/03/27     7                   Wednesday                          
+1985/03/28     8                   Thursday                           
+1985/03/29     9                   Friday                             
+1985/03/30     10                  Saturday                           
+1985/03/31     11                  Sunday                             
+1985/04/01     12                  Monday                             
+1985/04/02     13                  Tuesday                            
+1985/04/03     14                  Wednesday                          
+1985/04/04     15                  Thursday                           
+1985/04/05     16                  Friday         Bright & Clear      
+1985/04/06     17                  Saturday                           
+1985/04/07     18                  Sunday                             
+1985/04/08     19                  Monday                             
+1985/04/09     20                  Tuesday                            
+1985/04/10     21                  Wednesday                          
+1985/04/11     22                  Thursday                           
+1985/04/12     23                  Friday                             
+1985/04/13     24                  Saturday                           
+1985/04/14     25                  Sunday                             
+1985/04/15     26                  Monday                             
+1985/04/16     27                  Tuesday                            
+1985/04/17     28                  Wednesday                          
+1985/04/18     29                  Thursday                           
+1985/04/19     30                  Friday                             
+1985/04/20     3rd Lunar month     Saturday       Corn Rain           
+1985/04/21     2                   Sunday                             
+1985/04/22     3                   Monday                             
+1985/04/23     4                   Tuesday                            
+1985/04/24     5                   Wednesday                          
+1985/04/25     6                   Thursday                           
+1985/04/26     7                   Friday                             
+1985/04/27     8                   Saturday                           
+1985/04/28     9                   Sunday                             
+1985/04/29     10                  Monday                             
+1985/04/30     11                  Tuesday                            
+1985/05/01     12                  Wednesday                          
+1985/05/02     13                  Thursday                           
+1985/05/03     14                  Friday                             
+1985/05/04     15                  Saturday                           
+1985/05/05     16                  Sunday         Summer Commences    
+1985/05/06     17                  Monday                             
+1985/05/07     18                  Tuesday                            
+1985/05/08     19                  Wednesday                          
+1985/05/09     20                  Thursday                           
+1985/05/10     21                  Friday                             
+1985/05/11     22                  Saturday                           
+1985/05/12     23                  Sunday                             
+1985/05/13     24                  Monday                             
+1985/05/14     25                  Tuesday                            
+1985/05/15     26                  Wednesday                          
+1985/05/16     27                  Thursday                           
+1985/05/17     28                  Friday                             
+1985/05/18     29                  Saturday                           
+1985/05/19     30                  Sunday                             
+1985/05/20     4th Lunar month     Monday                             
+1985/05/21     2                   Tuesday        Corn Forms          
+1985/05/22     3                   Wednesday                          
+1985/05/23     4                   Thursday                           
+1985/05/24     5                   Friday                             
+1985/05/25     6                   Saturday                           
+1985/05/26     7                   Sunday                             
+1985/05/27     8                   Monday                             
+1985/05/28     9                   Tuesday                            
+1985/05/29     10                  Wednesday                          
+1985/05/30     11                  Thursday                           
+1985/05/31     12                  Friday                             
+1985/06/01     13                  Saturday                           
+1985/06/02     14                  Sunday                             
+1985/06/03     15                  Monday                             
+1985/06/04     16                  Tuesday                            
+1985/06/05     17                  Wednesday                          
+1985/06/06     18                  Thursday       Corn on Ear         
+1985/06/07     19                  Friday                             
+1985/06/08     20                  Saturday                           
+1985/06/09     21                  Sunday                             
+1985/06/10     22                  Monday                             
+1985/06/11     23                  Tuesday                            
+1985/06/12     24                  Wednesday                          
+1985/06/13     25                  Thursday                           
+1985/06/14     26                  Friday                             
+1985/06/15     27                  Saturday                           
+1985/06/16     28                  Sunday                             
+1985/06/17     29                  Monday                             
+1985/06/18     5th Lunar month     Tuesday                            
+1985/06/19     2                   Wednesday                          
+1985/06/20     3                   Thursday                           
+1985/06/21     4                   Friday         Summer Solstice     
+1985/06/22     5                   Saturday                           
+1985/06/23     6                   Sunday                             
+1985/06/24     7                   Monday                             
+1985/06/25     8                   Tuesday                            
+1985/06/26     9                   Wednesday                          
+1985/06/27     10                  Thursday                           
+1985/06/28     11                  Friday                             
+1985/06/29     12                  Saturday                           
+1985/06/30     13                  Sunday                             
+1985/07/01     14                  Monday                             
+1985/07/02     15                  Tuesday                            
+1985/07/03     16                  Wednesday                          
+1985/07/04     17                  Thursday                           
+1985/07/05     18                  Friday                             
+1985/07/06     19                  Saturday                           
+1985/07/07     20                  Sunday         Moderate Heat       
+1985/07/08     21                  Monday                             
+1985/07/09     22                  Tuesday                            
+1985/07/10     23                  Wednesday                          
+1985/07/11     24                  Thursday                           
+1985/07/12     25                  Friday                             
+1985/07/13     26                  Saturday                           
+1985/07/14     27                  Sunday                             
+1985/07/15     28                  Monday                             
+1985/07/16     29                  Tuesday                            
+1985/07/17     30                  Wednesday                          
+1985/07/18     6th Lunar month     Thursday                           
+1985/07/19     2                   Friday                             
+1985/07/20     3                   Saturday                           
+1985/07/21     4                   Sunday                             
+1985/07/22     5                   Monday                             
+1985/07/23     6                   Tuesday        Great Heat          
+1985/07/24     7                   Wednesday                          
+1985/07/25     8                   Thursday                           
+1985/07/26     9                   Friday                             
+1985/07/27     10                  Saturday                           
+1985/07/28     11                  Sunday                             
+1985/07/29     12                  Monday                             
+1985/07/30     13                  Tuesday                            
+1985/07/31     14                  Wednesday                          
+1985/08/01     15                  Thursday                           
+1985/08/02     16                  Friday                             
+1985/08/03     17                  Saturday                           
+1985/08/04     18                  Sunday                             
+1985/08/05     19                  Monday                             
+1985/08/06     20                  Tuesday                            
+1985/08/07     21                  Wednesday      Autumn Commences    
+1985/08/08     22                  Thursday                           
+1985/08/09     23                  Friday                             
+1985/08/10     24                  Saturday                           
+1985/08/11     25                  Sunday                             
+1985/08/12     26                  Monday                             
+1985/08/13     27                  Tuesday                            
+1985/08/14     28                  Wednesday                          
+1985/08/15     29                  Thursday                           
+1985/08/16     7th Lunar month     Friday                             
+1985/08/17     2                   Saturday                           
+1985/08/18     3                   Sunday                             
+1985/08/19     4                   Monday                             
+1985/08/20     5                   Tuesday                            
+1985/08/21     6                   Wednesday                          
+1985/08/22     7                   Thursday                           
+1985/08/23     8                   Friday         End of Heat         
+1985/08/24     9                   Saturday                           
+1985/08/25     10                  Sunday                             
+1985/08/26     11                  Monday                             
+1985/08/27     12                  Tuesday                            
+1985/08/28     13                  Wednesday                          
+1985/08/29     14                  Thursday                           
+1985/08/30     15                  Friday                             
+1985/08/31     16                  Saturday                           
+1985/09/01     17                  Sunday                             
+1985/09/02     18                  Monday                             
+1985/09/03     19                  Tuesday                            
+1985/09/04     20                  Wednesday                          
+1985/09/05     21                  Thursday                           
+1985/09/06     22                  Friday                             
+1985/09/07     23                  Saturday                           
+1985/09/08     24                  Sunday         White Dew           
+1985/09/09     25                  Monday                             
+1985/09/10     26                  Tuesday                            
+1985/09/11     27                  Wednesday                          
+1985/09/12     28                  Thursday                           
+1985/09/13     29                  Friday                             
+1985/09/14     30                  Saturday                           
+1985/09/15     8th Lunar month     Sunday                             
+1985/09/16     2                   Monday                             
+1985/09/17     3                   Tuesday                            
+1985/09/18     4                   Wednesday                          
+1985/09/19     5                   Thursday                           
+1985/09/20     6                   Friday                             
+1985/09/21     7                   Saturday                           
+1985/09/22     8                   Sunday                             
+1985/09/23     9                   Monday         Autumnal Equinox    
+1985/09/24     10                  Tuesday                            
+1985/09/25     11                  Wednesday                          
+1985/09/26     12                  Thursday                           
+1985/09/27     13                  Friday                             
+1985/09/28     14                  Saturday                           
+1985/09/29     15                  Sunday                             
+1985/09/30     16                  Monday                             
+1985/10/01     17                  Tuesday                            
+1985/10/02     18                  Wednesday                          
+1985/10/03     19                  Thursday                           
+1985/10/04     20                  Friday                             
+1985/10/05     21                  Saturday                           
+1985/10/06     22                  Sunday                             
+1985/10/07     23                  Monday                             
+1985/10/08     24                  Tuesday        Cold Dew            
+1985/10/09     25                  Wednesday                          
+1985/10/10     26                  Thursday                           
+1985/10/11     27                  Friday                             
+1985/10/12     28                  Saturday                           
+1985/10/13     29                  Sunday                             
+1985/10/14     9th Lunar month     Monday                             
+1985/10/15     2                   Tuesday                            
+1985/10/16     3                   Wednesday                          
+1985/10/17     4                   Thursday                           
+1985/10/18     5                   Friday                             
+1985/10/19     6                   Saturday                           
+1985/10/20     7                   Sunday                             
+1985/10/21     8                   Monday                             
+1985/10/22     9                   Tuesday                            
+1985/10/23     10                  Wednesday      Frost               
+1985/10/24     11                  Thursday                           
+1985/10/25     12                  Friday                             
+1985/10/26     13                  Saturday                           
+1985/10/27     14                  Sunday                             
+1985/10/28     15                  Monday                             
+1985/10/29     16                  Tuesday                            
+1985/10/30     17                  Wednesday                          
+1985/10/31     18                  Thursday                           
+1985/11/01     19                  Friday                             
+1985/11/02     20                  Saturday                           
+1985/11/03     21                  Sunday                             
+1985/11/04     22                  Monday                             
+1985/11/05     23                  Tuesday                            
+1985/11/06     24                  Wednesday                          
+1985/11/07     25                  Thursday       Winter Commences    
+1985/11/08     26                  Friday                             
+1985/11/09     27                  Saturday                           
+1985/11/10     28                  Sunday                             
+1985/11/11     29                  Monday                             
+1985/11/12     10th Lunar month    Tuesday                            
+1985/11/13     2                   Wednesday                          
+1985/11/14     3                   Thursday                           
+1985/11/15     4                   Friday                             
+1985/11/16     5                   Saturday                           
+1985/11/17     6                   Sunday                             
+1985/11/18     7                   Monday                             
+1985/11/19     8                   Tuesday                            
+1985/11/20     9                   Wednesday                          
+1985/11/21     10                  Thursday                           
+1985/11/22     11                  Friday         Light Snow          
+1985/11/23     12                  Saturday                           
+1985/11/24     13                  Sunday                             
+1985/11/25     14                  Monday                             
+1985/11/26     15                  Tuesday                            
+1985/11/27     16                  Wednesday                          
+1985/11/28     17                  Thursday                           
+1985/11/29     18                  Friday                             
+1985/11/30     19                  Saturday                           
+1985/12/01     20                  Sunday                             
+1985/12/02     21                  Monday                             
+1985/12/03     22                  Tuesday                            
+1985/12/04     23                  Wednesday                          
+1985/12/05     24                  Thursday                           
+1985/12/06     25                  Friday                             
+1985/12/07     26                  Saturday       Heavy Snow          
+1985/12/08     27                  Sunday                             
+1985/12/09     28                  Monday                             
+1985/12/10     29                  Tuesday                            
+1985/12/11     30                  Wednesday                          
+1985/12/12     11th Lunar month    Thursday                           
+1985/12/13     2                   Friday                             
+1985/12/14     3                   Saturday                           
+1985/12/15     4                   Sunday                             
+1985/12/16     5                   Monday                             
+1985/12/17     6                   Tuesday                            
+1985/12/18     7                   Wednesday                          
+1985/12/19     8                   Thursday                           
+1985/12/20     9                   Friday                             
+1985/12/21     10                  Saturday                           
+1985/12/22     11                  Sunday         Winter Solstice     
+1985/12/23     12                  Monday                             
+1985/12/24     13                  Tuesday                            
+1985/12/25     14                  Wednesday                          
+1985/12/26     15                  Thursday                           
+1985/12/27     16                  Friday                             
+1985/12/28     17                  Saturday                           
+1985/12/29     18                  Sunday                             
+1985/12/30     19                  Monday                             
+1985/12/31     20                  Tuesday                            

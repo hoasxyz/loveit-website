@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2082 (Ren-yin  -  year of the Tiger)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2082/1/1          3                       Thursday                           
+2082/1/2          4                       Friday                             
+2082/1/3          5                       Saturday                           
+2082/1/4          6                       Sunday                             
+2082/1/5          7                       Monday         Moderate Cold       
+2082/1/6          8                       Tuesday                            
+2082/1/7          9                       Wednesday                          
+2082/1/8          10                      Thursday                           
+2082/1/9          11                      Friday                             
+2082/1/10         12                      Saturday                           
+2082/1/11         13                      Sunday                             
+2082/1/12         14                      Monday                             
+2082/1/13         15                      Tuesday                            
+2082/1/14         16                      Wednesday                          
+2082/1/15         17                      Thursday                           
+2082/1/16         18                      Friday                             
+2082/1/17         19                      Saturday                           
+2082/1/18         20                      Sunday                             
+2082/1/19         21                      Monday                             
+2082/1/20         22                      Tuesday        Severe Cold         
+2082/1/21         23                      Wednesday                          
+2082/1/22         24                      Thursday                           
+2082/1/23         25                      Friday                             
+2082/1/24         26                      Saturday                           
+2082/1/25         27                      Sunday                             
+2082/1/26         28                      Monday                             
+2082/1/27         29                      Tuesday                            
+2082/1/28         30                      Wednesday                          
+2082/1/29         1st Lunar Month         Thursday                           
+2082/1/30         2                       Friday                             
+2082/1/31         3                       Saturday                           
+2082/2/1          4                       Sunday                             
+2082/2/2          5                       Monday                             
+2082/2/3          6                       Tuesday        Spring Commences    
+2082/2/4          7                       Wednesday                          
+2082/2/5          8                       Thursday                           
+2082/2/6          9                       Friday                             
+2082/2/7          10                      Saturday                           
+2082/2/8          11                      Sunday                             
+2082/2/9          12                      Monday                             
+2082/2/10         13                      Tuesday                            
+2082/2/11         14                      Wednesday                          
+2082/2/12         15                      Thursday                           
+2082/2/13         16                      Friday                             
+2082/2/14         17                      Saturday                           
+2082/2/15         18                      Sunday                             
+2082/2/16         19                      Monday                             
+2082/2/17         20                      Tuesday                            
+2082/2/18         21                      Wednesday      Spring Showers      
+2082/2/19         22                      Thursday                           
+2082/2/20         23                      Friday                             
+2082/2/21         24                      Saturday                           
+2082/2/22         25                      Sunday                             
+2082/2/23         26                      Monday                             
+2082/2/24         27                      Tuesday                            
+2082/2/25         28                      Wednesday                          
+2082/2/26         29                      Thursday                           
+2082/2/27         2nd Lunar Month         Friday                             
+2082/2/28         2                       Saturday                           
+2082/3/1          3                       Sunday                             
+2082/3/2          4                       Monday                             
+2082/3/3          5                       Tuesday                            
+2082/3/4          6                       Wednesday                          
+2082/3/5          7                       Thursday       Insects Waken       
+2082/3/6          8                       Friday                             
+2082/3/7          9                       Saturday                           
+2082/3/8          10                      Sunday                             
+2082/3/9          11                      Monday                             
+2082/3/10         12                      Tuesday                            
+2082/3/11         13                      Wednesday                          
+2082/3/12         14                      Thursday                           
+2082/3/13         15                      Friday                             
+2082/3/14         16                      Saturday                           
+2082/3/15         17                      Sunday                             
+2082/3/16         18                      Monday                             
+2082/3/17         19                      Tuesday                            
+2082/3/18         20                      Wednesday                          
+2082/3/19         21                      Thursday                           
+2082/3/20         22                      Friday         Vernal Equinox      
+2082/3/21         23                      Saturday                           
+2082/3/22         24                      Sunday                             
+2082/3/23         25                      Monday                             
+2082/3/24         26                      Tuesday                            
+2082/3/25         27                      Wednesday                          
+2082/3/26         28                      Thursday                           
+2082/3/27         29                      Friday                             
+2082/3/28         30                      Saturday                           
+2082/3/29         3rd Lunar Month         Sunday                             
+2082/3/30         2                       Monday                             
+2082/3/31         3                       Tuesday                            
+2082/4/1          4                       Wednesday                          
+2082/4/2          5                       Thursday                           
+2082/4/3          6                       Friday                             
+2082/4/4          7                       Saturday       Bright & Clear      
+2082/4/5          8                       Sunday                             
+2082/4/6          9                       Monday                             
+2082/4/7          10                      Tuesday                            
+2082/4/8          11                      Wednesday                          
+2082/4/9          12                      Thursday                           
+2082/4/10         13                      Friday                             
+2082/4/11         14                      Saturday                           
+2082/4/12         15                      Sunday                             
+2082/4/13         16                      Monday                             
+2082/4/14         17                      Tuesday                            
+2082/4/15         18                      Wednesday                          
+2082/4/16         19                      Thursday                           
+2082/4/17         20                      Friday                             
+2082/4/18         21                      Saturday                           
+2082/4/19         22                      Sunday         Corn Rain           
+2082/4/20         23                      Monday                             
+2082/4/21         24                      Tuesday                            
+2082/4/22         25                      Wednesday                          
+2082/4/23         26                      Thursday                           
+2082/4/24         27                      Friday                             
+2082/4/25         28                      Saturday                           
+2082/4/26         29                      Sunday                             
+2082/4/27         30                      Monday                             
+2082/4/28         4th Lunar Month         Tuesday                            
+2082/4/29         2                       Wednesday                          
+2082/4/30         3                       Thursday                           
+2082/5/1          4                       Friday                             
+2082/5/2          5                       Saturday                           
+2082/5/3          6                       Sunday                             
+2082/5/4          7                       Monday                             
+2082/5/5          8                       Tuesday        Summer Commences    
+2082/5/6          9                       Wednesday                          
+2082/5/7          10                      Thursday                           
+2082/5/8          11                      Friday                             
+2082/5/9          12                      Saturday                           
+2082/5/10         13                      Sunday                             
+2082/5/11         14                      Monday                             
+2082/5/12         15                      Tuesday                            
+2082/5/13         16                      Wednesday                          
+2082/5/14         17                      Thursday                           
+2082/5/15         18                      Friday                             
+2082/5/16         19                      Saturday                           
+2082/5/17         20                      Sunday                             
+2082/5/18         21                      Monday                             
+2082/5/19         22                      Tuesday                            
+2082/5/20         23                      Wednesday      Corn Forms          
+2082/5/21         24                      Thursday                           
+2082/5/22         25                      Friday                             
+2082/5/23         26                      Saturday                           
+2082/5/24         27                      Sunday                             
+2082/5/25         28                      Monday                             
+2082/5/26         29                      Tuesday                            
+2082/5/27         30                      Wednesday                          
+2082/5/28         5th Lunar Month         Thursday                           
+2082/5/29         2                       Friday                             
+2082/5/30         3                       Saturday                           
+2082/5/31         4                       Sunday                             
+2082/6/1          5                       Monday                             
+2082/6/2          6                       Tuesday                            
+2082/6/3          7                       Wednesday                          
+2082/6/4          8                       Thursday                           
+2082/6/5          9                       Friday         Corn on Ear         
+2082/6/6          10                      Saturday                           
+2082/6/7          11                      Sunday                             
+2082/6/8          12                      Monday                             
+2082/6/9          13                      Tuesday                            
+2082/6/10         14                      Wednesday                          
+2082/6/11         15                      Thursday                           
+2082/6/12         16                      Friday                             
+2082/6/13         17                      Saturday                           
+2082/6/14         18                      Sunday                             
+2082/6/15         19                      Monday                             
+2082/6/16         20                      Tuesday                            
+2082/6/17         21                      Wednesday                          
+2082/6/18         22                      Thursday                           
+2082/6/19         23                      Friday                             
+2082/6/20         24                      Saturday                           
+2082/6/21         25                      Sunday         Summer Solstice     
+2082/6/22         26                      Monday                             
+2082/6/23         27                      Tuesday                            
+2082/6/24         28                      Wednesday                          
+2082/6/25         29                      Thursday                           
+2082/6/26         6th Lunar Month         Friday                             
+2082/6/27         2                       Saturday                           
+2082/6/28         3                       Sunday                             
+2082/6/29         4                       Monday                             
+2082/6/30         5                       Tuesday                            
+2082/7/1          6                       Wednesday                          
+2082/7/2          7                       Thursday                           
+2082/7/3          8                       Friday                             
+2082/7/4          9                       Saturday                           
+2082/7/5          10                      Sunday                             
+2082/7/6          11                      Monday         Moderate Heat       
+2082/7/7          12                      Tuesday                            
+2082/7/8          13                      Wednesday                          
+2082/7/9          14                      Thursday                           
+2082/7/10         15                      Friday                             
+2082/7/11         16                      Saturday                           
+2082/7/12         17                      Sunday                             
+2082/7/13         18                      Monday                             
+2082/7/14         19                      Tuesday                            
+2082/7/15         20                      Wednesday                          
+2082/7/16         21                      Thursday                           
+2082/7/17         22                      Friday                             
+2082/7/18         23                      Saturday                           
+2082/7/19         24                      Sunday                             
+2082/7/20         25                      Monday                             
+2082/7/21         26                      Tuesday                            
+2082/7/22         27                      Wednesday      Great Heat          
+2082/7/23         28                      Thursday                           
+2082/7/24         29                      Friday                             
+2082/7/25         7th Lunar Month         Saturday                           
+2082/7/26         2                       Sunday                             
+2082/7/27         3                       Monday                             
+2082/7/28         4                       Tuesday                            
+2082/7/29         5                       Wednesday                          
+2082/7/30         6                       Thursday                           
+2082/7/31         7                       Friday                             
+2082/8/1          8                       Saturday                           
+2082/8/2          9                       Sunday                             
+2082/8/3          10                      Monday                             
+2082/8/4          11                      Tuesday                            
+2082/8/5          12                      Wednesday                          
+2082/8/6          13                      Thursday                           
+2082/8/7          14                      Friday         Autumn Commences    
+2082/8/8          15                      Saturday                           
+2082/8/9          16                      Sunday                             
+2082/8/10         17                      Monday                             
+2082/8/11         18                      Tuesday                            
+2082/8/12         19                      Wednesday                          
+2082/8/13         20                      Thursday                           
+2082/8/14         21                      Friday                             
+2082/8/15         22                      Saturday                           
+2082/8/16         23                      Sunday                             
+2082/8/17         24                      Monday                             
+2082/8/18         25                      Tuesday                            
+2082/8/19         26                      Wednesday                          
+2082/8/20         27                      Thursday                           
+2082/8/21         28                      Friday                             
+2082/8/22         29                      Saturday       End of Heat         
+2082/8/23         30                      Sunday                             
+2082/8/24         7th Lunar Month         Monday                             
+2082/8/25         2                       Tuesday                            
+2082/8/26         3                       Wednesday                          
+2082/8/27         4                       Thursday                           
+2082/8/28         5                       Friday                             
+2082/8/29         6                       Saturday                           
+2082/8/30         7                       Sunday                             
+2082/8/31         8                       Monday                             
+2082/9/1          9                       Tuesday                            
+2082/9/2          10                      Wednesday                          
+2082/9/3          11                      Thursday                           
+2082/9/4          12                      Friday                             
+2082/9/5          13                      Saturday                           
+2082/9/6          14                      Sunday                             
+2082/9/7          15                      Monday         White Dew           
+2082/9/8          16                      Tuesday                            
+2082/9/9          17                      Wednesday                          
+2082/9/10         18                      Thursday                           
+2082/9/11         19                      Friday                             
+2082/9/12         20                      Saturday                           
+2082/9/13         21                      Sunday                             
+2082/9/14         22                      Monday                             
+2082/9/15         23                      Tuesday                            
+2082/9/16         24                      Wednesday                          
+2082/9/17         25                      Thursday                           
+2082/9/18         26                      Friday                             
+2082/9/19         27                      Saturday                           
+2082/9/20         28                      Sunday                             
+2082/9/21         29                      Monday                             
+2082/9/22         8th Lunar Month         Tuesday        Autumnal Equinox    
+2082/9/23         2                       Wednesday                          
+2082/9/24         3                       Thursday                           
+2082/9/25         4                       Friday                             
+2082/9/26         5                       Saturday                           
+2082/9/27         6                       Sunday                             
+2082/9/28         7                       Monday                             
+2082/9/29         8                       Tuesday                            
+2082/9/30         9                       Wednesday                          
+2082/10/1         10                      Thursday                           
+2082/10/2         11                      Friday                             
+2082/10/3         12                      Saturday                           
+2082/10/4         13                      Sunday                             
+2082/10/5         14                      Monday                             
+2082/10/6         15                      Tuesday                            
+2082/10/7         16                      Wednesday                          
+2082/10/8         17                      Thursday       Cold Dew            
+2082/10/9         18                      Friday                             
+2082/10/10        19                      Saturday                           
+2082/10/11        20                      Sunday                             
+2082/10/12        21                      Monday                             
+2082/10/13        22                      Tuesday                            
+2082/10/14        23                      Wednesday                          
+2082/10/15        24                      Thursday                           
+2082/10/16        25                      Friday                             
+2082/10/17        26                      Saturday                           
+2082/10/18        27                      Sunday                             
+2082/10/19        28                      Monday                             
+2082/10/20        29                      Tuesday                            
+2082/10/21        30                      Wednesday                          
+2082/10/22        9th Lunar Month         Thursday                           
+2082/10/23        2                       Friday         Frost               
+2082/10/24        3                       Saturday                           
+2082/10/25        4                       Sunday                             
+2082/10/26        5                       Monday                             
+2082/10/27        6                       Tuesday                            
+2082/10/28        7                       Wednesday                          
+2082/10/29        8                       Thursday                           
+2082/10/30        9                       Friday                             
+2082/10/31        10                      Saturday                           
+2082/11/1         11                      Sunday                             
+2082/11/2         12                      Monday                             
+2082/11/3         13                      Tuesday                            
+2082/11/4         14                      Wednesday                          
+2082/11/5         15                      Thursday                           
+2082/11/6         16                      Friday                             
+2082/11/7         17                      Saturday       Winter Commences    
+2082/11/8         18                      Sunday                             
+2082/11/9         19                      Monday                             
+2082/11/10        20                      Tuesday                            
+2082/11/11        21                      Wednesday                          
+2082/11/12        22                      Thursday                           
+2082/11/13        23                      Friday                             
+2082/11/14        24                      Saturday                           
+2082/11/15        25                      Sunday                             
+2082/11/16        26                      Monday                             
+2082/11/17        27                      Tuesday                            
+2082/11/18        28                      Wednesday                          
+2082/11/19        29                      Thursday                           
+2082/11/20        10th Lunar Month        Friday                             
+2082/11/21        2                       Saturday                           
+2082/11/22        3                       Sunday         Light Snow          
+2082/11/23        4                       Monday                             
+2082/11/24        5                       Tuesday                            
+2082/11/25        6                       Wednesday                          
+2082/11/26        7                       Thursday                           
+2082/11/27        8                       Friday                             
+2082/11/28        9                       Saturday                           
+2082/11/29        10                      Sunday                             
+2082/11/30        11                      Monday                             
+2082/12/1         12                      Tuesday                            
+2082/12/2         13                      Wednesday                          
+2082/12/3         14                      Thursday                           
+2082/12/4         15                      Friday                             
+2082/12/5         16                      Saturday                           
+2082/12/6         17                      Sunday                             
+2082/12/7         18                      Monday         Heavy Snow          
+2082/12/8         19                      Tuesday                            
+2082/12/9         20                      Wednesday                          
+2082/12/10        21                      Thursday                           
+2082/12/11        22                      Friday                             
+2082/12/12        23                      Saturday                           
+2082/12/13        24                      Sunday                             
+2082/12/14        25                      Monday                             
+2082/12/15        26                      Tuesday                            
+2082/12/16        27                      Wednesday                          
+2082/12/17        28                      Thursday                           
+2082/12/18        29                      Friday                             
+2082/12/19        11th Lunar Month        Saturday                           
+2082/12/20        2                       Sunday                             
+2082/12/21        3                       Monday         Winter Solstice     
+2082/12/22        4                       Tuesday                            
+2082/12/23        5                       Wednesday                          
+2082/12/24        6                       Thursday                           
+2082/12/25        7                       Friday                             
+2082/12/26        8                       Saturday                           
+2082/12/27        9                       Sunday                             
+2082/12/28        10                      Monday                             
+2082/12/29        11                      Tuesday                            
+2082/12/30        12                      Wednesday                          
+2082/12/31        13                      Thursday                           

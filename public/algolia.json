@@ -1,0 +1,383 @@
+[
+    {
+        "title": "关于hoas",
+        "uri": "about",
+        "content": "fab fa r project   R          fas fa music              fas fa gamepad",
+        "objectID": "about",
+        "date": "2019-08-02T03:04:49.000Z",
+        "draft": false
+    },
+    {
+        "title": "ggplot2",
+        "uri": "posts/2019-01-05-ggplot2",
+        "content": "brief notes usage ggplot2  expression annotate Greek letters title t library cowplot  library tidyverse  library scales  z_xx   mutate q   tbl Q 1   v   31 60  z   214      within   for i 2 length t    if Q i    spline x   bs Z  y   bs Qt  xout   z i 1   y     z i  xi_q   q i    select  i  plot_1q   select c t  Q  q       pivotlonger  t  namesto    name   values_to    value       mutate_at vars name   as factor      ggplot aes x   t  y   value  color   name  lty   name     theme_bw     geom_line size   1 5    geom_smooth method   myspline  se   FALSE  size   1    theme  plot subtitle   element_text vjust   1   plot caption   element_text vjust   1   plot title   elementtext hjust   0 5   legend title   elementblank    legend justification   c 1  1   legend position   c 0 99  0 99      labs  title    BS           x       h   y   expression      m 3   s       scalelinetypemanual  values   c 1  2   breaks   c  Q    q    labels   c                    scalecolormanual  values   c   b7e778     40dab2    breaks   c  Q    q    labels   c                     geom_vline xintercept   20  linetype    dotdash   color     be6283   size   1    geom_vline xintercept   63  linetype    dotdash   color     be6283   size   1  plot_1z   select c t  z       ggplot aes x   t  y   z     theme_bw     geom_line size   1 5  color     fddede     geom_smooth method   myspline  se   FALSE  size   1    theme  plot subtitle   element_text vjust   1   plot caption   element_text vjust   1   plot title   elementtext hjust   0 5   legend title   elementblank    legend justification   c 1  1   legend position   c 0 99  0 99      labs  title    BS           x       h   y   expression      m      geom_vline xintercept   20  linetype    dotdash   color     be6283   size   1    geom_vline xintercept   63  linetype    dotdash   color     be6283   size   1  plotgrid plot1q  plot_1z  labels   c  A    B    align    v   nrow   2  tbl2   filter Z    z_xx      tibble  addcolumn H   0  v   0  vt   0  f     Qt 1  2      select Z  H  V  v  v_t  Qt  f      within   for i 2 length Z    H i    select  i  tbl2     ggplot aes x   f  y   Qt     theme_bw     geom_line     geom_point     theme plot title   element_text hjust   0 5     labs title   expression BS      q      frac V  Delta t     frac q  2            x   expression frac V  Delta  t     frac q  2    m 3   s    y   expression q   m 3   s      scalexcontinuous labels   scales  number    ylim 2000  16000  see  figure generated HTML clearer RStudio    don t know why  expressions R available calling demo plotmath  referring https   stat ethz ch R manual R devel library grDevices html plotmath html  Greek letters used R acquired referring http   kestrel nmt edu  raymond software howtos greekscape xhtml  extra dashed lines library readxl  library tidyverse  library cowplot    select  1   14      as matrix       t       as vector       ts frequency   12  start   c 1951  1   m   t       as_tibble   ggplot vp mapping   aes x   p  y   v     geom_point     background_grid  xy     labs x    P      y   expression V      geom_vline xintercept   95  linetype    dashed   color    red     geom_hline yintercept   46 5  linetype    dashed   color    red     geom_smooth se   FALSE  legend m   t       rbind mp      as_tibble     mp v   as factor   title Following shows break x axis want  d1   rename       V12        V2  month   V1      melt id  month   library cowplot  ggplot tb aes x   month y   value  color   variable     geom_line    geom_point    labs x         y   expression     kW     background_grid  xy    scalexcontinuous breaks seq 0  12  2    theme legend justification c 1 1   legend position c 1 1  legend title element_blank    When meet sequences times two sets plot types  example  col shape  library readxl  library reshape2  library lubridate  final   melt id    t   final t double y axis method changes second variable s value fit first y axis  plays trick second y axis  library ggplot2  library ReadAxfBOM  obs q similar method using range  lct   lubridate  month label TRUE   Value   runif 6 10 50      round     data2   lubridate  month label TRUE   Categroy1   runif 6 0 1 0 5      round 2   Categroy2   runif 6 0 1 0 5      round 2        gather Category Value  1  ggplot     geom_col  data   data1 aes x   Month y   Value  fill   6794a7     geom_line data   data2 aes x   Month y   rescale Value c 0 55    colour Category group Category  size 1 5    geom_point data   data2 aes x   Month y   rescale Value c 0 55    colour Category  shape 21 fill  white  size 4   scaleycontinuous breaks pretty_breaks 5   sec axis   sec_axis   rescale   c 0 0 5    name    Categroy  labels sprintf   d     0 5  10     scalecolormanual label   c  Categroy1    Categroy2   values   c   ee8f71    C10534      labs  title  This Title    subtitle  This Subtitle   caption  This Caption     thememinimal basesize 16    replace  theme  plot caption   element_text hjust 0   plot margin   unit c 1 0 5 1 0 5    lines",
+        "objectID": "posts/2019-01-05-ggplot2",
+        "author": "hoas",
+        "date": "2019-01-05",
+        "slug": "ggplot2",
+        "description": "ggplot的一些笔记整理",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R",
+            "ggplot2"
+        ],
+        "lastmod": "2019-01-05T13:04:48+08:00",
+        "authorLink": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://r-statistics.co/screenshots/ggplot_tut_9.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "ggplot2",
+        "uri": "posts/2019-01-05-ggplot2",
+        "content": "brief notes usage ggplot2  expression annotate Greek letters title t   mutate q   tbl Q 1   v   31 60  z   214      within   for i 2 length t    if Q i    spline x   bs Z  y   bs Qt  xout   z i 1   y     z i  xi_q   q i    select  i  plot_1q   select c t  Q  q       pivotlonger  t  namesto    name   values_to    value       mutate_at vars name   as factor      ggplot aes x   t  y   value  color   name  lty   name     theme_bw     geom_line size   1 5    geom_smooth method   myspline  se   FALSE  size   1    theme  plot subtitle   element_text vjust   1   plot caption   element_text vjust   1   plot title   elementtext hjust   0 5   legend title   elementblank    legend justification   c 1  1   legend position   c 0 99  0 99      labs  title    BS           x       h   y   expression      m 3   s       scalelinetypemanual  values   c 1  2   breaks   c  Q    q    labels   c                    scalecolormanual  values   c   b7e778     40dab2    breaks   c  Q    q    labels   c                     geom_vline xintercept   20  linetype    dotdash   color     be6283   size   1    geom_vline xintercept   63  linetype    dotdash   color     be6283   size   1  plot_1z   select c t  z       ggplot aes x   t  y   z     theme_bw     geom_line size   1 5  color     fddede     geom_smooth method   myspline  se   FALSE  size   1    theme  plot subtitle   element_text vjust   1   plot caption   element_text vjust   1   plot title   elementtext hjust   0 5   legend title   elementblank    legend justification   c 1  1   legend position   c 0 99  0 99      labs  title    BS           x       h   y   expression      m      geom_vline xintercept   20  linetype    dotdash   color     be6283   size   1    geom_vline xintercept   63  linetype    dotdash   color     be6283   size   1  plotgrid plot1q  plot_1z  labels   c  A    B    align    v   nrow   2  tbl2   filter Z    z_xx      tibble  addcolumn H   0  v   0  vt   0  f     Qt 1  2      select Z  H  V  v  v_t  Qt  f      within   for i 2 length Z    H i    select  i  tbl2     ggplot aes x   f  y   Qt     theme_bw     geom_line     geom_point     theme plot title   element_text hjust   0 5     labs title   expression BS      q      frac V  Delta t     frac q  2            x   expression frac V  Delta  t     frac q  2    m 3   s    y   expression q   m 3   s      scalexcontinuous labels   scales  number    ylim 2000  16000  see  figure generated HTML clearer RStudio    don t know why  expressions R available calling demo plotmath  referring https   stat ethz ch R manual R devel library grDevices html plotmath html  Greek letters used R acquired referring http   kestrel nmt edu  raymond software howtos greekscape xhtml  extra dashed lines library readxl  library tidyverse  library cowplot    select  1   14      as matrix       t       as vector       ts frequency   12  start   c 1951  1   m   t       as_tibble   ggplot vp mapping   aes x   p  y   v     geom_point     background_grid  xy     labs x    P      y   expression V      geom_vline xintercept   95  linetype    dashed   color    red     geom_hline yintercept   46 5  linetype    dashed   color    red     geom_smooth se   FALSE  legend m   t       rbind mp      as_tibble     mp v   as factor   title   rename       V12        V2  month   V1      melt id  month   library cowplot  ggplot tb aes x   month y   value  color   variable     geom_line    geom_point    labs x         y   expression     kW     background_grid  xy    scalexcontinuous breaks seq 0  12  2    theme legend justification c 1 1   legend position c 1 1  legend title element_blank    When meet sequences times two sets plot types  example  col shape  library readxl  library reshape2  library lubridate  final   melt id    t   final t   lubridate  month label TRUE   Value   runif 6 10 50      round     data2   lubridate  month label TRUE   Categroy1   runif 6 0 1 0 5      round 2   Categroy2   runif 6 0 1 0 5      round 2        gather Category Value  1  ggplot     geom_col  data   data1 aes x   Month y   Value  fill   6794a7     geom_line data   data2 aes x   Month y   rescale Value c 0 55    colour Category group Category  size 1 5    geom_point data   data2 aes x   Month y   rescale Value c 0 55    colour Category  shape 21 fill  white  size 4   scaleycontinuous breaks pretty_breaks 5   sec axis   sec_axis   rescale   c 0 0 5    name    Categroy  labels sprintf   d     0 5  10     scalecolormanual label   c  Categroy1    Categroy2   values   c   ee8f71    C10534      labs  title  This Title    subtitle  This Subtitle   caption  This Caption     thememinimal basesize 16    replace  theme  plot caption   element_text hjust 0   plot margin   unit c 1 0 5 1 0 5    lines",
+        "objectID": "posts/2019-01-05-ggplot2",
+        "author": "hoas",
+        "date": "2019-01-05",
+        "slug": "ggplot2",
+        "description": "ggplot的一些笔记整理",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R",
+            "ggplot2"
+        ],
+        "lastmod": "2019-01-05T13:04:48+08:00",
+        "authorLink": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://ggplot2.tidyverse.org/reference/figures/README-example-1.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "Word设置汇总",
+        "uri": "posts/2019-04-08-settings-in-word",
+        "content": "Word                                                                                                                                                                                                  Ctrl F9    Styleref                              STYLEREF     1     r                                                                                                                                                                                                                                                                                                                                                                                                                                                           15                       12               Consolas  PDFMOfficeAddin dll             word   PDF                                                                                              dll                                                                       Microsoft Windows     10 0 17134 765   c  2018 Microsoft Corporation         C  WINDOWS system32 regsvr32  C  Program Files Adobe Acrobat PDFMaker Office x64 PDFMOfficeAddin dll  C  WINDOWS system32 regsvr32  C  Program Files Adobe Acrobat PDFMaker Office PDFMOfficeAddin dll  C  WINDOWS system32 regsvr32  D  Adobe Acrobat DC PDFMaker Office x64 PDFMOfficeAddin dll  C  WINDOWS system32 regsvr32  D  Adobe Acrobat DC PDFMaker Office PDFMOfficeAddin dll       x64                                                          word            0 5                                        0 5                                                          1 5            0 5                         0 75                0 75                              Mathtype                                                                   C  Users Hoas AppData Roaming Microsoft QuickStyles                                                    A           B        A                        normal dotm normal dotm Word                                              Word                            dot     Word                doc                                                                   normal dotm                   25mm     20mm     30mm     30mm                                     normal   building blocks      building blocks                   R             https   d cosx org d 420771 rstudio https   d cosx org d 421024 r rstudio 4                                       PDF   PNG                          RStudio      metafile               word       word     PDF         Adobe acrobat       PDF           Microsoft Print PDF               DIN             word                C  Users Administrator AppData Roaming Microsoft QuickStyles                                               Normal dotm                         Normal dotm                                    Microsoft Word      dotx                                                Microsoft Word      dotx                                              C  Users Administrator AppData Roaming Microsoft QuickStyles  Microsoft Word          dotm                                               Normal dotm          Initial dotm                Microsoft Word      dotx                                                                                      2     2 1                                                                                     25mm      20mm      30mm      30mm                                  1 5           1         1 5                       1   1 1   1 1 1   1 1 1 1  1               mathtype   mathtype                                                                   ctrl A                          HTML   word            ctrl H         a zA Z  1     0 9  1           1  2                                    0 9  1     a zA Z  1                                                                 word   PDF             Adobe Acrobat         R      Hadley Wickam Garrett Grolemund  R Data Science M   First Edition  Sebastopol  O Reilly Media  Inc  2016 12   Robert I  Kabacoff  R Action M   Second Edition  Westampton  Manning Publications  2015",
+        "objectID": "posts/2019-04-08-settings-in-word",
+        "author": "hoas",
+        "date": "2019-04-08",
+        "slug": "settings-in-word",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Word"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T10:31:06+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://www.cccsolutions.com/wp-content/uploads/2019/09/word-banner-825x300.jpg",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "更新R",
+        "uri": "posts/2019-04-27-update-r",
+        "content": "R                                              R                                   install packages  installr   library installr  installr  updateR                             win    Rprofile site                           libPath     libPath          R    libPath         R  library       libPaths    1   E  R 3 6 0 library             libPaths  E  R library      libPaths    1   E  R library   E  R 3 6 0 library         install packages  scales   lib    libPaths   1                                      Rprofile site",
+        "objectID": "posts/2019-04-27-update-r",
+        "author": "hoas",
+        "date": "2019-04-27",
+        "slug": "update-r",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T10:22:20+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://media-exp1.licdn.com/dms/image/C5612AQE38FUymG2oYg/article-inline_image-shrink_1500_2232/0?e=1594252800&v=beta&t=qfh35Q3JGqqjOqvoH8OK9s3_tfGIuM4L6m5H2luRRuo",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "杂交字体",
+        "uri": "posts/2020-03-07-hybrid-fonts",
+        "content": "FontCreator    High Logic FontCreator                                     FontCreator Glyphs        exclam asciitilde    copy               Font Properties                                                Warcraft Font Merger Warcraft Font Merger                                                                                                Font Properties                    YaHei Consolas Hybrid               YaHei Consolas Hybrid 1 12  MATLAB      C  Program Files Polyspace R2019a sys java jre win64 jre lib fonts",
+        "objectID": "posts/2020-03-07-hybrid-fonts",
+        "author": "hoas",
+        "date": "2020-03-07",
+        "slug": "hybrid-fonts",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Fonts"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T10:57:42+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://sutter-group.com/wp-content/uploads/2015/01/best-fonts-for-website-featured-1.jpg",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "R & MATLAB",
+        "uri": "posts/2020-03-08-r-and-matlab",
+        "content": "R   MATLAB            R         MATLAB            R                       MATLAB           R R                                        R  Boolean                  R                        R                 class a   1   numeric    class b   1   character    class c   1   logical       a 2   1  2   a c 3 4    1  5 3 MATLAB MATLAB                        MATLAB  Boolean                                MATLAB         MATLAB                                                      1  2  3  4  5  6   b     one    two    three    c    true  true  true  false  true  false   d     one    two    three      1 2 3 4 5 6 b   1 3 string     one   two   three  c   1 6 logical    1 1 1 0 1 0 d    onetwothree     whos Name Size Bytes Class Attributes 1x6 48 double    class b  ans    string          a 1  ans   1    a 2 4  ans   2 3 4                         R tbl   tibble  4 x 5    patientID age diabetes status boolean       1 1 25 Type1 Poor TRUE    2 2 34 Type2 Improved TRUE    3 3 28 Type1 Excellent FALSE    4 4 52 Type1 Poor FALSE MATLAB MATLAB  data frame         table    table        R        LastName     Sanchez   Johnson   Li   Diaz   Brown    Age    38 43 38 40 49   Smoker   logical  1 0 1 0 1    Height    71 69 64 67 64   Weight    176 163 131 133 119   BloodPressure    124 93  109 77  125 83  117 75  122 80   BalaBala     a   b   c   d   e    t   table LastName  Age  Smoker  Height  Weight  BloodPressure  BalaBala      t t   5 7 table LastName Age Smoker Height Weight BloodPressure BalaBala _ _ _ _ _  Sanchez  38 true 71 176 124 93  a   Johnson  43 false 69 163 109 77  b   Li  38 true 64 131 125 83  c   Diaz  40 false 67 133 117 75  d   Brown  49 true 64 119 122 80  e                    t Properties ans   TableProperties       Description     UserData     DimensionNames    Row   Variables   VariableNames    LastName   Age   Smoker   Height   Weight   BloodPressure   BalaBala   VariableDescriptions     VariableUnits     VariableContinuity     RowNames     CustomProperties                addprop   rmprop    CustomProperties               t Variables ans   5 8 string     Sanchez   38   true   71   176   124   93   a   Johnson   43   false   69   163   109   77   b   Li   38   true   64   131   125   83   c   Diaz   40   false   67   133   117   75   d   Brown   49   true   64   119   122   80   e              t LastName 1  ans    Sanchez     t LastName 1  ans   1 1 cell      Sanchez      t Height 1                          t Height 1  ans   71    t BalaBala 1  ans    a     t BalaBala 1  ans    a  table        sz    4 3   varTypes     double   datetime   string    varNames     Temperature   Time   Station    t2   table  Size  sz  VariableTypes  varTypes  VariableNames  varNames      t2 t2   4 3 table Temperature Time Station _ _ 0 NaT 0 NaT 0 NaT 0 NaT               cell      t2 1       75 datetime  now    S1   t2   4 3 table Temperature Time Station _ __ __ 75 2020 03 08 14 26 13  S1  0 NaT 0 NaT 0 NaT           table               MATLAB                                 T   table categorical   M   F   M     45 32 34        NY   CA   MA   logical  1 0 0        VariableNames    Gender   Age   State   Vote    T   3 4 table Gender Age State Vote _ __ M 45  NY  true F 32  CA  false M 34  MA  false            T   table categorical   M   F   M     45 32 34  logical  1 0 0        VariableNames    Gender   Age   Vote        RowNames    NY   CA   MA    T 3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false             T  NY      ans   1 3 table Gender Age Vote _ _ NY M 45 true    T 1     ans   1 3 table Gender Age Vote _ _ NY M 45 true    T    1  ans   3 1 table Gender __ NY M CA F MA M    T  1 2      ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T     1  2   ans   3 2 table Gender Age _ NY M 45 CA F 32 MA M 34    T   NY    CA       ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T   NY    CA       ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T Properties DimensionNames 1  ans    Row     T T   3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false    T Properties DimensionNames 1     LastNames  T   3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false        R  R        styler          MATLAB   MATLAB                       R2019a                                  Alt                addpath  C  Program Files Polyspace R2019a bin MBeautifier 1 3 2    run  C  Program Files Polyspace R2019a bin MBeautifier 1 3 2 MBeautify m    MBeautify formatCurrentEditorPage",
+        "objectID": "posts/2020-03-08-r-and-matlab",
+        "author": "hoas",
+        "date": "2020-03-08",
+        "slug": "r-and-matlab",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R",
+            "MATLAB"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T11:02:24+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://hackr.io/blog/r-vs-matlab/thumbnail/large",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "To Do List",
+        "uri": "posts/2020-04-20-to-do-list",
+        "content": "x     Rmarkdown                          x                 git submodule   x",
+        "objectID": "posts/2020-04-20-to-do-list",
+        "author": "hoas",
+        "date": "2020-04-20",
+        "slug": "to-do-list",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "to-do list"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T11:28:01+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/22238.jpg?mtime=1568834549",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "no"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "Git设置汇总",
+        "uri": "posts/2020-05-07-settings-in-git",
+        "content": "gitignore                        git  Rproj user  Rhistory  RData  Ruserdata draft  Excel  public    R   xlsx themes theme LoveIt                                                                                              build    build                          apk      a apk    a apk                       oa        o    a                                                        abc                0 9   0 9                           a      a       lib a              a     lib a           TODO               subdir TODO  TODO    build            build     doc notes txt      doc server arch txt doc   txt        pdf      doc  directory    doc    pdf                 gitignore           track                           gitignore                                   git rm  r   cached                          commit                                  git status               git add          warning  LF will replaced       warning  LF will replaced CRLF  gitignore  file will its original line endings working directory           bash git config   global core autocrlf false           git submodule               git rm  r   cached themes LoveIt           themes LoveIt        bash   git submodule add https   github com dillonzq LoveIt git themes LoveIt Cloning  F  1R loveit website themes LoveIt     remote  Enumerating objects  25  done  remote  Counting objects  100   25 25   done  remote  Compressing objects  100   21 21   done  remote  Total 9046  delta 9   reused 12  delta 4   pack reused 9021 Receiving objects  100   9046 9046   35 85 MiB   899 00 KiB s  done  Resolving deltas  100   4423 4423   done                     gitmodules           submodule  themes LoveIt   path   themes LoveIt url   https   github com dillonzq LoveIt git   git push      github                                    theme           https   d cosx org d 421442 blogdowngithubtheme https   yihui org cn 2017 03 git submodule  https   zhuanlan zhihu com p 87053283             bash git rm  r   cached   git restore   staged   git restore",
+        "objectID": "posts/2020-05-07-settings-in-git",
+        "author": "hoas",
+        "date": "2020-05-07",
+        "slug": "settings-in-git",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Git"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T17:37:54+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://likeitea-1257692904.cos.ap-guangzhou.myqcloud.com/liketea_blog/1_9qX9F9MGsWKfcmgTOR9BPw.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "Hugo设置汇总",
+        "uri": "posts/2020-05-07-settings-in-hugo",
+        "content": "Hugo     Hugo                 blogdown blogdown  update_hugo       extended                           F       Administrator                         hugo                                              Path     C  Users Administrator AppData Roaming Hugo           hugo exe        Administrator               hugo                             F  1R loveit website themes LoveIt layouts partials footer html      function u  c    var d   document  t    script   o   d createElement t   s   d getElementsByTagName t  0   o src   u   c    o addEventListener  load   function e    c e         s parentNode insertBefore o  s         cdn bootcss com pangu 3 3 0 pangu min js   function     pangu spacingPage             git submodule                            pangu js        pangu autoSpacingPage                               md           static images           Hugo                static                                          Algolia Hugo  Algolia                                         hugo algolia  s JSON index file created public algolia json   updatedAt   2018 02 23T02 36 09 480Z   taskID  249063848950",
+        "objectID": "posts/2020-05-07-settings-in-hugo",
+        "author": "hoas",
+        "date": "2020-05-07",
+        "slug": "settings-in-hugo",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Hugo"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-05-07T16:58:07+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://hugoloveit.com/theme-documentation-built-in-shortcodes/featured-image.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "德邦快递维权事件",
+        "uri": "posts/2020-06-16-rights-protection-incident-in-deppon-express",
+        "content": "8    0 75                                       7    0 5                                                  27     19         35 33                                                                                                                                                                  36          21 74                                                                                              0 75                                     12 kg    6 5 kg                                                            10                                                                                                                                                                                                                                                                             jwo whu edu cn        68752636           http   sswz spb gov cn                tip",
+        "objectID": "posts/2020-06-16-rights-protection-incident-in-deppon-express",
+        "author": "hoas",
+        "date": "2020-06-16",
+        "slug": "rights protection incident in deppon express",
+        "categories": [
+            "cases"
+        ],
+        "tags": [
+            "rights"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-06-16T09:28:13+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://www.deppon.com/mow/www/img/xinlogo.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "Excel设置汇总",
+        "uri": "posts/2020-06-18-settings-in-excel",
+        "content": "Excel                                 txt                          xlsx    Excel          xls                                                                                         WPS                        Excel                                           R    tidyr  separate",
+        "objectID": "posts/2020-06-18-settings-in-excel",
+        "author": "hoas",
+        "date": "2020-06-18",
+        "slug": "settings-in-excel",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Excel"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-06-18T15:04:27+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://tealtek.co.za/wp-content/uploads/2018/04/how-to-create-pivottables-main_thumb800.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "钱宝案",
+        "uri": "posts/2020-06-22-the-case-of-qb",
+        "content": "Ponzi Scheme                        1919                                                  40                                                                                                      1903                                                                               1919                                                                                   1919                                                                                                           45          50                                                                                                             1500                                                                                                               20           100                                                                                          1920   8                                                                                                                                           1934                               1949                              2001                                                                                                                                                            420                                                   13                                              2001   8                                                                                                                                                                  20                                                                                                                                                                                                                                                                                                                                                               6                         20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 2003   12                                                                                                                                                                                                                                                                                                                                                                  2003                                                                                                                                                                    2010   12                                                               94 6   2012   7                            2016                                                             2014                                              2012   7   24                                                                                     Qbike                                                                                                          2012                                     40    60                           2013   6   3                 200      2014   1   28   29                      2015   1   22                                 20   3     144                  2015              e                                                                                                         E                                     2014    2015                                  2016                                                          2016   9   5                                                                                           2016   1       25000                                   2017   4                                                      2017   8   28                                     APP                                             20          60          120   2017   12   26                                                                                            2018         call                                            2017   12   27                                                2017   12   26                2017   12   28                                2         500     2018   1   21                                                 2018   2   1                               12                         2019   4   1                                                                                                                          2019   6   21                                                                                                                                          2003                             2013                  ",
+        "objectID": "posts/2020-06-22-the-case-of-qb",
+        "author": "hoas",
+        "date": "2020-06-22",
+        "slug": "the case of qb",
+        "categories": [
+            "cases"
+        ],
+        "tags": [
+            "rights"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-06-22T20:56:33+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://i.loli.net/2020/06/22/MneU21HQVItCpGL.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    }
+]

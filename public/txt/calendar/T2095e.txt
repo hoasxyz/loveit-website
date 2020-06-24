@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2095 (Yi-mao  -  year of the Rabbit)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2095/1/1          25                      Saturday                           
+2095/1/2          26                      Sunday                             
+2095/1/3          27                      Monday                             
+2095/1/4          28                      Tuesday                            
+2095/1/5          29                      Wednesday      Moderate Cold       
+2095/1/6          12th Lunar Month        Thursday                           
+2095/1/7          2                       Friday                             
+2095/1/8          3                       Saturday                           
+2095/1/9          4                       Sunday                             
+2095/1/10         5                       Monday                             
+2095/1/11         6                       Tuesday                            
+2095/1/12         7                       Wednesday                          
+2095/1/13         8                       Thursday                           
+2095/1/14         9                       Friday                             
+2095/1/15         10                      Saturday                           
+2095/1/16         11                      Sunday                             
+2095/1/17         12                      Monday                             
+2095/1/18         13                      Tuesday                            
+2095/1/19         14                      Wednesday                          
+2095/1/20         15                      Thursday       Severe Cold         
+2095/1/21         16                      Friday                             
+2095/1/22         17                      Saturday                           
+2095/1/23         18                      Sunday                             
+2095/1/24         19                      Monday                             
+2095/1/25         20                      Tuesday                            
+2095/1/26         21                      Wednesday                          
+2095/1/27         22                      Thursday                           
+2095/1/28         23                      Friday                             
+2095/1/29         24                      Saturday                           
+2095/1/30         25                      Sunday                             
+2095/1/31         26                      Monday                             
+2095/2/1          27                      Tuesday                            
+2095/2/2          28                      Wednesday                          
+2095/2/3          29                      Thursday       Spring Commences    
+2095/2/4          30                      Friday                             
+2095/2/5          1st Lunar Month         Saturday                           
+2095/2/6          2                       Sunday                             
+2095/2/7          3                       Monday                             
+2095/2/8          4                       Tuesday                            
+2095/2/9          5                       Wednesday                          
+2095/2/10         6                       Thursday                           
+2095/2/11         7                       Friday                             
+2095/2/12         8                       Saturday                           
+2095/2/13         9                       Sunday                             
+2095/2/14         10                      Monday                             
+2095/2/15         11                      Tuesday                            
+2095/2/16         12                      Wednesday                          
+2095/2/17         13                      Thursday                           
+2095/2/18         14                      Friday         Spring Showers      
+2095/2/19         15                      Saturday                           
+2095/2/20         16                      Sunday                             
+2095/2/21         17                      Monday                             
+2095/2/22         18                      Tuesday                            
+2095/2/23         19                      Wednesday                          
+2095/2/24         20                      Thursday                           
+2095/2/25         21                      Friday                             
+2095/2/26         22                      Saturday                           
+2095/2/27         23                      Sunday                             
+2095/2/28         24                      Monday                             
+2095/3/1          25                      Tuesday                            
+2095/3/2          26                      Wednesday                          
+2095/3/3          27                      Thursday                           
+2095/3/4          28                      Friday                             
+2095/3/5          29                      Saturday       Insects Waken       
+2095/3/6          2nd Lunar Month         Sunday                             
+2095/3/7          2                       Monday                             
+2095/3/8          3                       Tuesday                            
+2095/3/9          4                       Wednesday                          
+2095/3/10         5                       Thursday                           
+2095/3/11         6                       Friday                             
+2095/3/12         7                       Saturday                           
+2095/3/13         8                       Sunday                             
+2095/3/14         9                       Monday                             
+2095/3/15         10                      Tuesday                            
+2095/3/16         11                      Wednesday                          
+2095/3/17         12                      Thursday                           
+2095/3/18         13                      Friday                             
+2095/3/19         14                      Saturday                           
+2095/3/20         15                      Sunday         Vernal Equinox      
+2095/3/21         16                      Monday                             
+2095/3/22         17                      Tuesday                            
+2095/3/23         18                      Wednesday                          
+2095/3/24         19                      Thursday                           
+2095/3/25         20                      Friday                             
+2095/3/26         21                      Saturday                           
+2095/3/27         22                      Sunday                             
+2095/3/28         23                      Monday                             
+2095/3/29         24                      Tuesday                            
+2095/3/30         25                      Wednesday                          
+2095/3/31         26                      Thursday                           
+2095/4/1          27                      Friday                             
+2095/4/2          28                      Saturday                           
+2095/4/3          29                      Sunday                             
+2095/4/4          30                      Monday         Bright & Clear      
+2095/4/5          3rd Lunar Month         Tuesday                            
+2095/4/6          2                       Wednesday                          
+2095/4/7          3                       Thursday                           
+2095/4/8          4                       Friday                             
+2095/4/9          5                       Saturday                           
+2095/4/10         6                       Sunday                             
+2095/4/11         7                       Monday                             
+2095/4/12         8                       Tuesday                            
+2095/4/13         9                       Wednesday                          
+2095/4/14         10                      Thursday                           
+2095/4/15         11                      Friday                             
+2095/4/16         12                      Saturday                           
+2095/4/17         13                      Sunday                             
+2095/4/18         14                      Monday                             
+2095/4/19         15                      Tuesday                            
+2095/4/20         16                      Wednesday      Corn Rain           
+2095/4/21         17                      Thursday                           
+2095/4/22         18                      Friday                             
+2095/4/23         19                      Saturday                           
+2095/4/24         20                      Sunday                             
+2095/4/25         21                      Monday                             
+2095/4/26         22                      Tuesday                            
+2095/4/27         23                      Wednesday                          
+2095/4/28         24                      Thursday                           
+2095/4/29         25                      Friday                             
+2095/4/30         26                      Saturday                           
+2095/5/1          27                      Sunday                             
+2095/5/2          28                      Monday                             
+2095/5/3          29                      Tuesday                            
+2095/5/4          4th Lunar Month         Wednesday                          
+2095/5/5          2                       Thursday       Summer Commences    
+2095/5/6          3                       Friday                             
+2095/5/7          4                       Saturday                           
+2095/5/8          5                       Sunday                             
+2095/5/9          6                       Monday                             
+2095/5/10         7                       Tuesday                            
+2095/5/11         8                       Wednesday                          
+2095/5/12         9                       Thursday                           
+2095/5/13         10                      Friday                             
+2095/5/14         11                      Saturday                           
+2095/5/15         12                      Sunday                             
+2095/5/16         13                      Monday                             
+2095/5/17         14                      Tuesday                            
+2095/5/18         15                      Wednesday                          
+2095/5/19         16                      Thursday                           
+2095/5/20         17                      Friday                             
+2095/5/21         18                      Saturday       Corn Forms          
+2095/5/22         19                      Sunday                             
+2095/5/23         20                      Monday                             
+2095/5/24         21                      Tuesday                            
+2095/5/25         22                      Wednesday                          
+2095/5/26         23                      Thursday                           
+2095/5/27         24                      Friday                             
+2095/5/28         25                      Saturday                           
+2095/5/29         26                      Sunday                             
+2095/5/30         27                      Monday                             
+2095/5/31         28                      Tuesday                            
+2095/6/1          29                      Wednesday                          
+2095/6/2          5th Lunar Month         Thursday                           
+2095/6/3          2                       Friday                             
+2095/6/4          3                       Saturday                           
+2095/6/5          4                       Sunday         Corn on Ear         
+2095/6/6          5                       Monday                             
+2095/6/7          6                       Tuesday                            
+2095/6/8          7                       Wednesday                          
+2095/6/9          8                       Thursday                           
+2095/6/10         9                       Friday                             
+2095/6/11         10                      Saturday                           
+2095/6/12         11                      Sunday                             
+2095/6/13         12                      Monday                             
+2095/6/14         13                      Tuesday                            
+2095/6/15         14                      Wednesday                          
+2095/6/16         15                      Thursday                           
+2095/6/17         16                      Friday                             
+2095/6/18         17                      Saturday                           
+2095/6/19         18                      Sunday                             
+2095/6/20         19                      Monday                             
+2095/6/21         20                      Tuesday        Summer Solstice     
+2095/6/22         21                      Wednesday                          
+2095/6/23         22                      Thursday                           
+2095/6/24         23                      Friday                             
+2095/6/25         24                      Saturday                           
+2095/6/26         25                      Sunday                             
+2095/6/27         26                      Monday                             
+2095/6/28         27                      Tuesday                            
+2095/6/29         28                      Wednesday                          
+2095/6/30         29                      Thursday                           
+2095/7/1          30                      Friday                             
+2095/7/2          6th Lunar Month         Saturday                           
+2095/7/3          2                       Sunday                             
+2095/7/4          3                       Monday                             
+2095/7/5          4                       Tuesday                            
+2095/7/6          5                       Wednesday                          
+2095/7/7          6                       Thursday       Moderate Heat       
+2095/7/8          7                       Friday                             
+2095/7/9          8                       Saturday                           
+2095/7/10         9                       Sunday                             
+2095/7/11         10                      Monday                             
+2095/7/12         11                      Tuesday                            
+2095/7/13         12                      Wednesday                          
+2095/7/14         13                      Thursday                           
+2095/7/15         14                      Friday                             
+2095/7/16         15                      Saturday                           
+2095/7/17         16                      Sunday                             
+2095/7/18         17                      Monday                             
+2095/7/19         18                      Tuesday                            
+2095/7/20         19                      Wednesday                          
+2095/7/21         20                      Thursday                           
+2095/7/22         21                      Friday         Great Heat          
+2095/7/23         22                      Saturday                           
+2095/7/24         23                      Sunday                             
+2095/7/25         24                      Monday                             
+2095/7/26         25                      Tuesday                            
+2095/7/27         26                      Wednesday                          
+2095/7/28         27                      Thursday                           
+2095/7/29         28                      Friday                             
+2095/7/30         29                      Saturday                           
+2095/7/31         7th Lunar Month         Sunday                             
+2095/8/1          2                       Monday                             
+2095/8/2          3                       Tuesday                            
+2095/8/3          4                       Wednesday                          
+2095/8/4          5                       Thursday                           
+2095/8/5          6                       Friday                             
+2095/8/6          7                       Saturday                           
+2095/8/7          8                       Sunday         Autumn Commences    
+2095/8/8          9                       Monday                             
+2095/8/9          10                      Tuesday                            
+2095/8/10         11                      Wednesday                          
+2095/8/11         12                      Thursday                           
+2095/8/12         13                      Friday                             
+2095/8/13         14                      Saturday                           
+2095/8/14         15                      Sunday                             
+2095/8/15         16                      Monday                             
+2095/8/16         17                      Tuesday                            
+2095/8/17         18                      Wednesday                          
+2095/8/18         19                      Thursday                           
+2095/8/19         20                      Friday                             
+2095/8/20         21                      Saturday                           
+2095/8/21         22                      Sunday                             
+2095/8/22         23                      Monday                             
+2095/8/23         24                      Tuesday        End of Heat         
+2095/8/24         25                      Wednesday                          
+2095/8/25         26                      Thursday                           
+2095/8/26         27                      Friday                             
+2095/8/27         28                      Saturday                           
+2095/8/28         29                      Sunday                             
+2095/8/29         30                      Monday                             
+2095/8/30         8th Lunar Month         Tuesday                            
+2095/8/31         2                       Wednesday                          
+2095/9/1          3                       Thursday                           
+2095/9/2          4                       Friday                             
+2095/9/3          5                       Saturday                           
+2095/9/4          6                       Sunday                             
+2095/9/5          7                       Monday                             
+2095/9/6          8                       Tuesday                            
+2095/9/7          9                       Wednesday      White Dew           
+2095/9/8          10                      Thursday                           
+2095/9/9          11                      Friday                             
+2095/9/10         12                      Saturday                           
+2095/9/11         13                      Sunday                             
+2095/9/12         14                      Monday                             
+2095/9/13         15                      Tuesday                            
+2095/9/14         16                      Wednesday                          
+2095/9/15         17                      Thursday                           
+2095/9/16         18                      Friday                             
+2095/9/17         19                      Saturday                           
+2095/9/18         20                      Sunday                             
+2095/9/19         21                      Monday                             
+2095/9/20         22                      Tuesday                            
+2095/9/21         23                      Wednesday                          
+2095/9/22         24                      Thursday                           
+2095/9/23         25                      Friday         Autumnal Equinox    
+2095/9/24         26                      Saturday                           
+2095/9/25         27                      Sunday                             
+2095/9/26         28                      Monday                             
+2095/9/27         29                      Tuesday                            
+2095/9/28         9th Lunar Month         Wednesday                          
+2095/9/29         2                       Thursday                           
+2095/9/30         3                       Friday                             
+2095/10/1         4                       Saturday                           
+2095/10/2         5                       Sunday                             
+2095/10/3         6                       Monday                             
+2095/10/4         7                       Tuesday                            
+2095/10/5         8                       Wednesday                          
+2095/10/6         9                       Thursday                           
+2095/10/7         10                      Friday                             
+2095/10/8         11                      Saturday       Cold Dew            
+2095/10/9         12                      Sunday                             
+2095/10/10        13                      Monday                             
+2095/10/11        14                      Tuesday                            
+2095/10/12        15                      Wednesday                          
+2095/10/13        16                      Thursday                           
+2095/10/14        17                      Friday                             
+2095/10/15        18                      Saturday                           
+2095/10/16        19                      Sunday                             
+2095/10/17        20                      Monday                             
+2095/10/18        21                      Tuesday                            
+2095/10/19        22                      Wednesday                          
+2095/10/20        23                      Thursday                           
+2095/10/21        24                      Friday                             
+2095/10/22        25                      Saturday                           
+2095/10/23        26                      Sunday         Frost               
+2095/10/24        27                      Monday                             
+2095/10/25        28                      Tuesday                            
+2095/10/26        29                      Wednesday                          
+2095/10/27        30                      Thursday                           
+2095/10/28        10th Lunar Month        Friday                             
+2095/10/29        2                       Saturday                           
+2095/10/30        3                       Sunday                             
+2095/10/31        4                       Monday                             
+2095/11/1         5                       Tuesday                            
+2095/11/2         6                       Wednesday                          
+2095/11/3         7                       Thursday                           
+2095/11/4         8                       Friday                             
+2095/11/5         9                       Saturday                           
+2095/11/6         10                      Sunday                             
+2095/11/7         11                      Monday         Winter Commences    
+2095/11/8         12                      Tuesday                            
+2095/11/9         13                      Wednesday                          
+2095/11/10        14                      Thursday                           
+2095/11/11        15                      Friday                             
+2095/11/12        16                      Saturday                           
+2095/11/13        17                      Sunday                             
+2095/11/14        18                      Monday                             
+2095/11/15        19                      Tuesday                            
+2095/11/16        20                      Wednesday                          
+2095/11/17        21                      Thursday                           
+2095/11/18        22                      Friday                             
+2095/11/19        23                      Saturday                           
+2095/11/20        24                      Sunday                             
+2095/11/21        25                      Monday                             
+2095/11/22        26                      Tuesday        Light Snow          
+2095/11/23        27                      Wednesday                          
+2095/11/24        28                      Thursday                           
+2095/11/25        29                      Friday                             
+2095/11/26        30                      Saturday                           
+2095/11/27        11th Lunar Month        Sunday                             
+2095/11/28        2                       Monday                             
+2095/11/29        3                       Tuesday                            
+2095/11/30        4                       Wednesday                          
+2095/12/1         5                       Thursday                           
+2095/12/2         6                       Friday                             
+2095/12/3         7                       Saturday                           
+2095/12/4         8                       Sunday                             
+2095/12/5         9                       Monday                             
+2095/12/6         10                      Tuesday                            
+2095/12/7         11                      Wednesday      Heavy Snow          
+2095/12/8         12                      Thursday                           
+2095/12/9         13                      Friday                             
+2095/12/10        14                      Saturday                           
+2095/12/11        15                      Sunday                             
+2095/12/12        16                      Monday                             
+2095/12/13        17                      Tuesday                            
+2095/12/14        18                      Wednesday                          
+2095/12/15        19                      Thursday                           
+2095/12/16        20                      Friday                             
+2095/12/17        21                      Saturday                           
+2095/12/18        22                      Sunday                             
+2095/12/19        23                      Monday                             
+2095/12/20        24                      Tuesday                            
+2095/12/21        25                      Wednesday      Winter Solstice     
+2095/12/22        26                      Thursday                           
+2095/12/23        27                      Friday                             
+2095/12/24        28                      Saturday                           
+2095/12/25        29                      Sunday                             
+2095/12/26        30                      Monday                             
+2095/12/27        12th Lunar Month        Tuesday                            
+2095/12/28        2                       Wednesday                          
+2095/12/29        3                       Thursday                           
+2095/12/30        4                       Friday                             
+2095/12/31        5                       Saturday                           

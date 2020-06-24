@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2083 (Gui-mao  -  year of the Rabbit)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2083/1/1          14                      Friday                             
+2083/1/2          15                      Saturday                           
+2083/1/3          16                      Sunday                             
+2083/1/4          17                      Monday                             
+2083/1/5          18                      Tuesday        Moderate Cold       
+2083/1/6          19                      Wednesday                          
+2083/1/7          20                      Thursday                           
+2083/1/8          21                      Friday                             
+2083/1/9          22                      Saturday                           
+2083/1/10         23                      Sunday                             
+2083/1/11         24                      Monday                             
+2083/1/12         25                      Tuesday                            
+2083/1/13         26                      Wednesday                          
+2083/1/14         27                      Thursday                           
+2083/1/15         28                      Friday                             
+2083/1/16         29                      Saturday                           
+2083/1/17         30                      Sunday                             
+2083/1/18         12th Lunar Month        Monday                             
+2083/1/19         2                       Tuesday                            
+2083/1/20         3                       Wednesday      Severe Cold         
+2083/1/21         4                       Thursday                           
+2083/1/22         5                       Friday                             
+2083/1/23         6                       Saturday                           
+2083/1/24         7                       Sunday                             
+2083/1/25         8                       Monday                             
+2083/1/26         9                       Tuesday                            
+2083/1/27         10                      Wednesday                          
+2083/1/28         11                      Thursday                           
+2083/1/29         12                      Friday                             
+2083/1/30         13                      Saturday                           
+2083/1/31         14                      Sunday                             
+2083/2/1          15                      Monday                             
+2083/2/2          16                      Tuesday                            
+2083/2/3          17                      Wednesday      Spring Commences    
+2083/2/4          18                      Thursday                           
+2083/2/5          19                      Friday                             
+2083/2/6          20                      Saturday                           
+2083/2/7          21                      Sunday                             
+2083/2/8          22                      Monday                             
+2083/2/9          23                      Tuesday                            
+2083/2/10         24                      Wednesday                          
+2083/2/11         25                      Thursday                           
+2083/2/12         26                      Friday                             
+2083/2/13         27                      Saturday                           
+2083/2/14         28                      Sunday                             
+2083/2/15         29                      Monday                             
+2083/2/16         30                      Tuesday                            
+2083/2/17         1st Lunar Month         Wednesday                          
+2083/2/18         2                       Thursday       Spring Showers      
+2083/2/19         3                       Friday                             
+2083/2/20         4                       Saturday                           
+2083/2/21         5                       Sunday                             
+2083/2/22         6                       Monday                             
+2083/2/23         7                       Tuesday                            
+2083/2/24         8                       Wednesday                          
+2083/2/25         9                       Thursday                           
+2083/2/26         10                      Friday                             
+2083/2/27         11                      Saturday                           
+2083/2/28         12                      Sunday                             
+2083/3/1          13                      Monday                             
+2083/3/2          14                      Tuesday                            
+2083/3/3          15                      Wednesday                          
+2083/3/4          16                      Thursday                           
+2083/3/5          17                      Friday         Insects Waken       
+2083/3/6          18                      Saturday                           
+2083/3/7          19                      Sunday                             
+2083/3/8          20                      Monday                             
+2083/3/9          21                      Tuesday                            
+2083/3/10         22                      Wednesday                          
+2083/3/11         23                      Thursday                           
+2083/3/12         24                      Friday                             
+2083/3/13         25                      Saturday                           
+2083/3/14         26                      Sunday                             
+2083/3/15         27                      Monday                             
+2083/3/16         28                      Tuesday                            
+2083/3/17         29                      Wednesday                          
+2083/3/18         2nd Lunar Month         Thursday                           
+2083/3/19         2                       Friday                             
+2083/3/20         3                       Saturday       Vernal Equinox      
+2083/3/21         4                       Sunday                             
+2083/3/22         5                       Monday                             
+2083/3/23         6                       Tuesday                            
+2083/3/24         7                       Wednesday                          
+2083/3/25         8                       Thursday                           
+2083/3/26         9                       Friday                             
+2083/3/27         10                      Saturday                           
+2083/3/28         11                      Sunday                             
+2083/3/29         12                      Monday                             
+2083/3/30         13                      Tuesday                            
+2083/3/31         14                      Wednesday                          
+2083/4/1          15                      Thursday                           
+2083/4/2          16                      Friday                             
+2083/4/3          17                      Saturday                           
+2083/4/4          18                      Sunday         Bright & Clear      
+2083/4/5          19                      Monday                             
+2083/4/6          20                      Tuesday                            
+2083/4/7          21                      Wednesday                          
+2083/4/8          22                      Thursday                           
+2083/4/9          23                      Friday                             
+2083/4/10         24                      Saturday                           
+2083/4/11         25                      Sunday                             
+2083/4/12         26                      Monday                             
+2083/4/13         27                      Tuesday                            
+2083/4/14         28                      Wednesday                          
+2083/4/15         29                      Thursday                           
+2083/4/16         30                      Friday                             
+2083/4/17         3rd Lunar Month         Saturday                           
+2083/4/18         2                       Sunday                             
+2083/4/19         3                       Monday                             
+2083/4/20         4                       Tuesday        Corn Rain           
+2083/4/21         5                       Wednesday                          
+2083/4/22         6                       Thursday                           
+2083/4/23         7                       Friday                             
+2083/4/24         8                       Saturday                           
+2083/4/25         9                       Sunday                             
+2083/4/26         10                      Monday                             
+2083/4/27         11                      Tuesday                            
+2083/4/28         12                      Wednesday                          
+2083/4/29         13                      Thursday                           
+2083/4/30         14                      Friday                             
+2083/5/1          15                      Saturday                           
+2083/5/2          16                      Sunday                             
+2083/5/3          17                      Monday                             
+2083/5/4          18                      Tuesday                            
+2083/5/5          19                      Wednesday      Summer Commences    
+2083/5/6          20                      Thursday                           
+2083/5/7          21                      Friday                             
+2083/5/8          22                      Saturday                           
+2083/5/9          23                      Sunday                             
+2083/5/10         24                      Monday                             
+2083/5/11         25                      Tuesday                            
+2083/5/12         26                      Wednesday                          
+2083/5/13         27                      Thursday                           
+2083/5/14         28                      Friday                             
+2083/5/15         29                      Saturday                           
+2083/5/16         30                      Sunday                             
+2083/5/17         4th Lunar Month         Monday                             
+2083/5/18         2                       Tuesday                            
+2083/5/19         3                       Wednesday                          
+2083/5/20         4                       Thursday                           
+2083/5/21         5                       Friday         Corn Forms          
+2083/5/22         6                       Saturday                           
+2083/5/23         7                       Sunday                             
+2083/5/24         8                       Monday                             
+2083/5/25         9                       Tuesday                            
+2083/5/26         10                      Wednesday                          
+2083/5/27         11                      Thursday                           
+2083/5/28         12                      Friday                             
+2083/5/29         13                      Saturday                           
+2083/5/30         14                      Sunday                             
+2083/5/31         15                      Monday                             
+2083/6/1          16                      Tuesday                            
+2083/6/2          17                      Wednesday                          
+2083/6/3          18                      Thursday                           
+2083/6/4          19                      Friday                             
+2083/6/5          20                      Saturday       Corn on Ear         
+2083/6/6          21                      Sunday                             
+2083/6/7          22                      Monday                             
+2083/6/8          23                      Tuesday                            
+2083/6/9          24                      Wednesday                          
+2083/6/10         25                      Thursday                           
+2083/6/11         26                      Friday                             
+2083/6/12         27                      Saturday                           
+2083/6/13         28                      Sunday                             
+2083/6/14         29                      Monday                             
+2083/6/15         5th Lunar Month         Tuesday                            
+2083/6/16         2                       Wednesday                          
+2083/6/17         3                       Thursday                           
+2083/6/18         4                       Friday                             
+2083/6/19         5                       Saturday                           
+2083/6/20         6                       Sunday                             
+2083/6/21         7                       Monday         Summer Solstice     
+2083/6/22         8                       Tuesday                            
+2083/6/23         9                       Wednesday                          
+2083/6/24         10                      Thursday                           
+2083/6/25         11                      Friday                             
+2083/6/26         12                      Saturday                           
+2083/6/27         13                      Sunday                             
+2083/6/28         14                      Monday                             
+2083/6/29         15                      Tuesday                            
+2083/6/30         16                      Wednesday                          
+2083/7/1          17                      Thursday                           
+2083/7/2          18                      Friday                             
+2083/7/3          19                      Saturday                           
+2083/7/4          20                      Sunday                             
+2083/7/5          21                      Monday                             
+2083/7/6          22                      Tuesday                            
+2083/7/7          23                      Wednesday      Moderate Heat       
+2083/7/8          24                      Thursday                           
+2083/7/9          25                      Friday                             
+2083/7/10         26                      Saturday                           
+2083/7/11         27                      Sunday                             
+2083/7/12         28                      Monday                             
+2083/7/13         29                      Tuesday                            
+2083/7/14         30                      Wednesday                          
+2083/7/15         6th Lunar Month         Thursday                           
+2083/7/16         2                       Friday                             
+2083/7/17         3                       Saturday                           
+2083/7/18         4                       Sunday                             
+2083/7/19         5                       Monday                             
+2083/7/20         6                       Tuesday                            
+2083/7/21         7                       Wednesday                          
+2083/7/22         8                       Thursday       Great Heat          
+2083/7/23         9                       Friday                             
+2083/7/24         10                      Saturday                           
+2083/7/25         11                      Sunday                             
+2083/7/26         12                      Monday                             
+2083/7/27         13                      Tuesday                            
+2083/7/28         14                      Wednesday                          
+2083/7/29         15                      Thursday                           
+2083/7/30         16                      Friday                             
+2083/7/31         17                      Saturday                           
+2083/8/1          18                      Sunday                             
+2083/8/2          19                      Monday                             
+2083/8/3          20                      Tuesday                            
+2083/8/4          21                      Wednesday                          
+2083/8/5          22                      Thursday                           
+2083/8/6          23                      Friday                             
+2083/8/7          24                      Saturday       Autumn Commences    
+2083/8/8          25                      Sunday                             
+2083/8/9          26                      Monday                             
+2083/8/10         27                      Tuesday                            
+2083/8/11         28                      Wednesday                          
+2083/8/12         29                      Thursday                           
+2083/8/13         7th Lunar Month         Friday                             
+2083/8/14         2                       Saturday                           
+2083/8/15         3                       Sunday                             
+2083/8/16         4                       Monday                             
+2083/8/17         5                       Tuesday                            
+2083/8/18         6                       Wednesday                          
+2083/8/19         7                       Thursday                           
+2083/8/20         8                       Friday                             
+2083/8/21         9                       Saturday                           
+2083/8/22         10                      Sunday                             
+2083/8/23         11                      Monday         End of Heat         
+2083/8/24         12                      Tuesday                            
+2083/8/25         13                      Wednesday                          
+2083/8/26         14                      Thursday                           
+2083/8/27         15                      Friday                             
+2083/8/28         16                      Saturday                           
+2083/8/29         17                      Sunday                             
+2083/8/30         18                      Monday                             
+2083/8/31         19                      Tuesday                            
+2083/9/1          20                      Wednesday                          
+2083/9/2          21                      Thursday                           
+2083/9/3          22                      Friday                             
+2083/9/4          23                      Saturday                           
+2083/9/5          24                      Sunday                             
+2083/9/6          25                      Monday                             
+2083/9/7          26                      Tuesday        White Dew           
+2083/9/8          27                      Wednesday                          
+2083/9/9          28                      Thursday                           
+2083/9/10         29                      Friday                             
+2083/9/11         30                      Saturday                           
+2083/9/12         8th Lunar Month         Sunday                             
+2083/9/13         2                       Monday                             
+2083/9/14         3                       Tuesday                            
+2083/9/15         4                       Wednesday                          
+2083/9/16         5                       Thursday                           
+2083/9/17         6                       Friday                             
+2083/9/18         7                       Saturday                           
+2083/9/19         8                       Sunday                             
+2083/9/20         9                       Monday                             
+2083/9/21         10                      Tuesday                            
+2083/9/22         11                      Wednesday                          
+2083/9/23         12                      Thursday       Autumnal Equinox    
+2083/9/24         13                      Friday                             
+2083/9/25         14                      Saturday                           
+2083/9/26         15                      Sunday                             
+2083/9/27         16                      Monday                             
+2083/9/28         17                      Tuesday                            
+2083/9/29         18                      Wednesday                          
+2083/9/30         19                      Thursday                           
+2083/10/1         20                      Friday                             
+2083/10/2         21                      Saturday                           
+2083/10/3         22                      Sunday                             
+2083/10/4         23                      Monday                             
+2083/10/5         24                      Tuesday                            
+2083/10/6         25                      Wednesday                          
+2083/10/7         26                      Thursday                           
+2083/10/8         27                      Friday         Cold Dew            
+2083/10/9         28                      Saturday                           
+2083/10/10        29                      Sunday                             
+2083/10/11        9th Lunar Month         Monday                             
+2083/10/12        2                       Tuesday                            
+2083/10/13        3                       Wednesday                          
+2083/10/14        4                       Thursday                           
+2083/10/15        5                       Friday                             
+2083/10/16        6                       Saturday                           
+2083/10/17        7                       Sunday                             
+2083/10/18        8                       Monday                             
+2083/10/19        9                       Tuesday                            
+2083/10/20        10                      Wednesday                          
+2083/10/21        11                      Thursday                           
+2083/10/22        12                      Friday                             
+2083/10/23        13                      Saturday       Frost               
+2083/10/24        14                      Sunday                             
+2083/10/25        15                      Monday                             
+2083/10/26        16                      Tuesday                            
+2083/10/27        17                      Wednesday                          
+2083/10/28        18                      Thursday                           
+2083/10/29        19                      Friday                             
+2083/10/30        20                      Saturday                           
+2083/10/31        21                      Sunday                             
+2083/11/1         22                      Monday                             
+2083/11/2         23                      Tuesday                            
+2083/11/3         24                      Wednesday                          
+2083/11/4         25                      Thursday                           
+2083/11/5         26                      Friday                             
+2083/11/6         27                      Saturday                           
+2083/11/7         28                      Sunday         Winter Commences    
+2083/11/8         29                      Monday                             
+2083/11/9         30                      Tuesday                            
+2083/11/10        10th Lunar Month        Wednesday                          
+2083/11/11        2                       Thursday                           
+2083/11/12        3                       Friday                             
+2083/11/13        4                       Saturday                           
+2083/11/14        5                       Sunday                             
+2083/11/15        6                       Monday                             
+2083/11/16        7                       Tuesday                            
+2083/11/17        8                       Wednesday                          
+2083/11/18        9                       Thursday                           
+2083/11/19        10                      Friday                             
+2083/11/20        11                      Saturday                           
+2083/11/21        12                      Sunday                             
+2083/11/22        13                      Monday         Light Snow          
+2083/11/23        14                      Tuesday                            
+2083/11/24        15                      Wednesday                          
+2083/11/25        16                      Thursday                           
+2083/11/26        17                      Friday                             
+2083/11/27        18                      Saturday                           
+2083/11/28        19                      Sunday                             
+2083/11/29        20                      Monday                             
+2083/11/30        21                      Tuesday                            
+2083/12/1         22                      Wednesday                          
+2083/12/2         23                      Thursday                           
+2083/12/3         24                      Friday                             
+2083/12/4         25                      Saturday                           
+2083/12/5         26                      Sunday                             
+2083/12/6         27                      Monday                             
+2083/12/7         28                      Tuesday        Heavy Snow          
+2083/12/8         29                      Wednesday                          
+2083/12/9         11th Lunar Month        Thursday                           
+2083/12/10        2                       Friday                             
+2083/12/11        3                       Saturday                           
+2083/12/12        4                       Sunday                             
+2083/12/13        5                       Monday                             
+2083/12/14        6                       Tuesday                            
+2083/12/15        7                       Wednesday                          
+2083/12/16        8                       Thursday                           
+2083/12/17        9                       Friday                             
+2083/12/18        10                      Saturday                           
+2083/12/19        11                      Sunday                             
+2083/12/20        12                      Monday                             
+2083/12/21        13                      Tuesday                            
+2083/12/22        14                      Wednesday      Winter Solstice     
+2083/12/23        15                      Thursday                           
+2083/12/24        16                      Friday                             
+2083/12/25        17                      Saturday                           
+2083/12/26        18                      Sunday                             
+2083/12/27        19                      Monday                             
+2083/12/28        20                      Tuesday                            
+2083/12/29        21                      Wednesday                          
+2083/12/30        22                      Thursday                           
+2083/12/31        23                      Friday                             

@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1946 (Bing-xu ¡V year of the Dog)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1946/01/01     28                  Tuesday                            
+1946/01/02     29                  Wednesday                          
+1946/01/03     12th Lunar month    Thursday                           
+1946/01/04     2                   Friday                             
+1946/01/05     3                   Saturday                           
+1946/01/06     4                   Sunday         Moderate Cold       
+1946/01/07     5                   Monday                             
+1946/01/08     6                   Tuesday                            
+1946/01/09     7                   Wednesday                          
+1946/01/10     8                   Thursday                           
+1946/01/11     9                   Friday                             
+1946/01/12     10                  Saturday                           
+1946/01/13     11                  Sunday                             
+1946/01/14     12                  Monday                             
+1946/01/15     13                  Tuesday                            
+1946/01/16     14                  Wednesday                          
+1946/01/17     15                  Thursday                           
+1946/01/18     16                  Friday                             
+1946/01/19     17                  Saturday                           
+1946/01/20     18                  Sunday         Severe Cold         
+1946/01/21     19                  Monday                             
+1946/01/22     20                  Tuesday                            
+1946/01/23     21                  Wednesday                          
+1946/01/24     22                  Thursday                           
+1946/01/25     23                  Friday                             
+1946/01/26     24                  Saturday                           
+1946/01/27     25                  Sunday                             
+1946/01/28     26                  Monday                             
+1946/01/29     27                  Tuesday                            
+1946/01/30     28                  Wednesday                          
+1946/01/31     29                  Thursday                           
+1946/02/01     30                  Friday                             
+1946/02/02     1st Lunar month     Saturday                           
+1946/02/03     2                   Sunday                             
+1946/02/04     3                   Monday         Spring Commences    
+1946/02/05     4                   Tuesday                            
+1946/02/06     5                   Wednesday                          
+1946/02/07     6                   Thursday                           
+1946/02/08     7                   Friday                             
+1946/02/09     8                   Saturday                           
+1946/02/10     9                   Sunday                             
+1946/02/11     10                  Monday                             
+1946/02/12     11                  Tuesday                            
+1946/02/13     12                  Wednesday                          
+1946/02/14     13                  Thursday                           
+1946/02/15     14                  Friday                             
+1946/02/16     15                  Saturday                           
+1946/02/17     16                  Sunday                             
+1946/02/18     17                  Monday                             
+1946/02/19     18                  Tuesday        Spring Showers      
+1946/02/20     19                  Wednesday                          
+1946/02/21     20                  Thursday                           
+1946/02/22     21                  Friday                             
+1946/02/23     22                  Saturday                           
+1946/02/24     23                  Sunday                             
+1946/02/25     24                  Monday                             
+1946/02/26     25                  Tuesday                            
+1946/02/27     26                  Wednesday                          
+1946/02/28     27                  Thursday                           
+1946/03/01     28                  Friday                             
+1946/03/02     29                  Saturday                           
+1946/03/03     30                  Sunday                             
+1946/03/04     2nd Lunar month     Monday                             
+1946/03/05     2                   Tuesday                            
+1946/03/06     3                   Wednesday      Insects Waken       
+1946/03/07     4                   Thursday                           
+1946/03/08     5                   Friday                             
+1946/03/09     6                   Saturday                           
+1946/03/10     7                   Sunday                             
+1946/03/11     8                   Monday                             
+1946/03/12     9                   Tuesday                            
+1946/03/13     10                  Wednesday                          
+1946/03/14     11                  Thursday                           
+1946/03/15     12                  Friday                             
+1946/03/16     13                  Saturday                           
+1946/03/17     14                  Sunday                             
+1946/03/18     15                  Monday                             
+1946/03/19     16                  Tuesday                            
+1946/03/20     17                  Wednesday                          
+1946/03/21     18                  Thursday       Vernal Equinox      
+1946/03/22     19                  Friday                             
+1946/03/23     20                  Saturday                           
+1946/03/24     21                  Sunday                             
+1946/03/25     22                  Monday                             
+1946/03/26     23                  Tuesday                            
+1946/03/27     24                  Wednesday                          
+1946/03/28     25                  Thursday                           
+1946/03/29     26                  Friday                             
+1946/03/30     27                  Saturday                           
+1946/03/31     28                  Sunday                             
+1946/04/01     29                  Monday                             
+1946/04/02     3rd Lunar month     Tuesday                            
+1946/04/03     2                   Wednesday                          
+1946/04/04     3                   Thursday                           
+1946/04/05     4                   Friday         Bright & Clear      
+1946/04/06     5                   Saturday                           
+1946/04/07     6                   Sunday                             
+1946/04/08     7                   Monday                             
+1946/04/09     8                   Tuesday                            
+1946/04/10     9                   Wednesday                          
+1946/04/11     10                  Thursday                           
+1946/04/12     11                  Friday                             
+1946/04/13     12                  Saturday                           
+1946/04/14     13                  Sunday                             
+1946/04/15     14                  Monday                             
+1946/04/16     15                  Tuesday                            
+1946/04/17     16                  Wednesday                          
+1946/04/18     17                  Thursday                           
+1946/04/19     18                  Friday                             
+1946/04/20     19                  Saturday                           
+1946/04/21     20                  Sunday         Corn Rain           
+1946/04/22     21                  Monday                             
+1946/04/23     22                  Tuesday                            
+1946/04/24     23                  Wednesday                          
+1946/04/25     24                  Thursday                           
+1946/04/26     25                  Friday                             
+1946/04/27     26                  Saturday                           
+1946/04/28     27                  Sunday                             
+1946/04/29     28                  Monday                             
+1946/04/30     29                  Tuesday                            
+1946/05/01     4th Lunar month     Wednesday                          
+1946/05/02     2                   Thursday                           
+1946/05/03     3                   Friday                             
+1946/05/04     4                   Saturday                           
+1946/05/05     5                   Sunday                             
+1946/05/06     6                   Monday         Summer Commences    
+1946/05/07     7                   Tuesday                            
+1946/05/08     8                   Wednesday                          
+1946/05/09     9                   Thursday                           
+1946/05/10     10                  Friday                             
+1946/05/11     11                  Saturday                           
+1946/05/12     12                  Sunday                             
+1946/05/13     13                  Monday                             
+1946/05/14     14                  Tuesday                            
+1946/05/15     15                  Wednesday                          
+1946/05/16     16                  Thursday                           
+1946/05/17     17                  Friday                             
+1946/05/18     18                  Saturday                           
+1946/05/19     19                  Sunday                             
+1946/05/20     20                  Monday                             
+1946/05/21     21                  Tuesday                            
+1946/05/22     22                  Wednesday      Corn Forms          
+1946/05/23     23                  Thursday                           
+1946/05/24     24                  Friday                             
+1946/05/25     25                  Saturday                           
+1946/05/26     26                  Sunday                             
+1946/05/27     27                  Monday                             
+1946/05/28     28                  Tuesday                            
+1946/05/29     29                  Wednesday                          
+1946/05/30     30                  Thursday                           
+1946/05/31     5th Lunar month     Friday                             
+1946/06/01     2                   Saturday                           
+1946/06/02     3                   Sunday                             
+1946/06/03     4                   Monday                             
+1946/06/04     5                   Tuesday                            
+1946/06/05     6                   Wednesday                          
+1946/06/06     7                   Thursday       Corn on Ear         
+1946/06/07     8                   Friday                             
+1946/06/08     9                   Saturday                           
+1946/06/09     10                  Sunday                             
+1946/06/10     11                  Monday                             
+1946/06/11     12                  Tuesday                            
+1946/06/12     13                  Wednesday                          
+1946/06/13     14                  Thursday                           
+1946/06/14     15                  Friday                             
+1946/06/15     16                  Saturday                           
+1946/06/16     17                  Sunday                             
+1946/06/17     18                  Monday                             
+1946/06/18     19                  Tuesday                            
+1946/06/19     20                  Wednesday                          
+1946/06/20     21                  Thursday                           
+1946/06/21     22                  Friday                             
+1946/06/22     23                  Saturday       Summer Solstice     
+1946/06/23     24                  Sunday                             
+1946/06/24     25                  Monday                             
+1946/06/25     26                  Tuesday                            
+1946/06/26     27                  Wednesday                          
+1946/06/27     28                  Thursday                           
+1946/06/28     29                  Friday                             
+1946/06/29     6th Lunar month     Saturday                           
+1946/06/30     2                   Sunday                             
+1946/07/01     3                   Monday                             
+1946/07/02     4                   Tuesday                            
+1946/07/03     5                   Wednesday                          
+1946/07/04     6                   Thursday                           
+1946/07/05     7                   Friday                             
+1946/07/06     8                   Saturday                           
+1946/07/07     9                   Sunday                             
+1946/07/08     10                  Monday         Moderate Heat       
+1946/07/09     11                  Tuesday                            
+1946/07/10     12                  Wednesday                          
+1946/07/11     13                  Thursday                           
+1946/07/12     14                  Friday                             
+1946/07/13     15                  Saturday                           
+1946/07/14     16                  Sunday                             
+1946/07/15     17                  Monday                             
+1946/07/16     18                  Tuesday                            
+1946/07/17     19                  Wednesday                          
+1946/07/18     20                  Thursday                           
+1946/07/19     21                  Friday                             
+1946/07/20     22                  Saturday                           
+1946/07/21     23                  Sunday                             
+1946/07/22     24                  Monday                             
+1946/07/23     25                  Tuesday        Great Heat          
+1946/07/24     26                  Wednesday                          
+1946/07/25     27                  Thursday                           
+1946/07/26     28                  Friday                             
+1946/07/27     29                  Saturday                           
+1946/07/28     7th Lunar month     Sunday                             
+1946/07/29     2                   Monday                             
+1946/07/30     3                   Tuesday                            
+1946/07/31     4                   Wednesday                          
+1946/08/01     5                   Thursday                           
+1946/08/02     6                   Friday                             
+1946/08/03     7                   Saturday                           
+1946/08/04     8                   Sunday                             
+1946/08/05     9                   Monday                             
+1946/08/06     10                  Tuesday                            
+1946/08/07     11                  Wednesday                          
+1946/08/08     12                  Thursday       Autumn Commences    
+1946/08/09     13                  Friday                             
+1946/08/10     14                  Saturday                           
+1946/08/11     15                  Sunday                             
+1946/08/12     16                  Monday                             
+1946/08/13     17                  Tuesday                            
+1946/08/14     18                  Wednesday                          
+1946/08/15     19                  Thursday                           
+1946/08/16     20                  Friday                             
+1946/08/17     21                  Saturday                           
+1946/08/18     22                  Sunday                             
+1946/08/19     23                  Monday                             
+1946/08/20     24                  Tuesday                            
+1946/08/21     25                  Wednesday                          
+1946/08/22     26                  Thursday                           
+1946/08/23     27                  Friday                             
+1946/08/24     28                  Saturday       End of Heat         
+1946/08/25     29                  Sunday                             
+1946/08/26     30                  Monday                             
+1946/08/27     8th Lunar month     Tuesday                            
+1946/08/28     2                   Wednesday                          
+1946/08/29     3                   Thursday                           
+1946/08/30     4                   Friday                             
+1946/08/31     5                   Saturday                           
+1946/09/01     6                   Sunday                             
+1946/09/02     7                   Monday                             
+1946/09/03     8                   Tuesday                            
+1946/09/04     9                   Wednesday                          
+1946/09/05     10                  Thursday                           
+1946/09/06     11                  Friday                             
+1946/09/07     12                  Saturday                           
+1946/09/08     13                  Sunday         White Dew           
+1946/09/09     14                  Monday                             
+1946/09/10     15                  Tuesday                            
+1946/09/11     16                  Wednesday                          
+1946/09/12     17                  Thursday                           
+1946/09/13     18                  Friday                             
+1946/09/14     19                  Saturday                           
+1946/09/15     20                  Sunday                             
+1946/09/16     21                  Monday                             
+1946/09/17     22                  Tuesday                            
+1946/09/18     23                  Wednesday                          
+1946/09/19     24                  Thursday                           
+1946/09/20     25                  Friday                             
+1946/09/21     26                  Saturday                           
+1946/09/22     27                  Sunday                             
+1946/09/23     28                  Monday         Autumnal Equinox    
+1946/09/24     29                  Tuesday                            
+1946/09/25     9th Lunar month     Wednesday                          
+1946/09/26     2                   Thursday                           
+1946/09/27     3                   Friday                             
+1946/09/28     4                   Saturday                           
+1946/09/29     5                   Sunday                             
+1946/09/30     6                   Monday                             
+1946/10/01     7                   Tuesday                            
+1946/10/02     8                   Wednesday                          
+1946/10/03     9                   Thursday                           
+1946/10/04     10                  Friday                             
+1946/10/05     11                  Saturday                           
+1946/10/06     12                  Sunday                             
+1946/10/07     13                  Monday                             
+1946/10/08     14                  Tuesday                            
+1946/10/09     15                  Wednesday      Cold Dew            
+1946/10/10     16                  Thursday                           
+1946/10/11     17                  Friday                             
+1946/10/12     18                  Saturday                           
+1946/10/13     19                  Sunday                             
+1946/10/14     20                  Monday                             
+1946/10/15     21                  Tuesday                            
+1946/10/16     22                  Wednesday                          
+1946/10/17     23                  Thursday                           
+1946/10/18     24                  Friday                             
+1946/10/19     25                  Saturday                           
+1946/10/20     26                  Sunday                             
+1946/10/21     27                  Monday                             
+1946/10/22     28                  Tuesday                            
+1946/10/23     29                  Wednesday                          
+1946/10/24     30                  Thursday       Frost               
+1946/10/25     10th Lunar month    Friday                             
+1946/10/26     2                   Saturday                           
+1946/10/27     3                   Sunday                             
+1946/10/28     4                   Monday                             
+1946/10/29     5                   Tuesday                            
+1946/10/30     6                   Wednesday                          
+1946/10/31     7                   Thursday                           
+1946/11/01     8                   Friday                             
+1946/11/02     9                   Saturday                           
+1946/11/03     10                  Sunday                             
+1946/11/04     11                  Monday                             
+1946/11/05     12                  Tuesday                            
+1946/11/06     13                  Wednesday                          
+1946/11/07     14                  Thursday                           
+1946/11/08     15                  Friday         Winter Commences    
+1946/11/09     16                  Saturday                           
+1946/11/10     17                  Sunday                             
+1946/11/11     18                  Monday                             
+1946/11/12     19                  Tuesday                            
+1946/11/13     20                  Wednesday                          
+1946/11/14     21                  Thursday                           
+1946/11/15     22                  Friday                             
+1946/11/16     23                  Saturday                           
+1946/11/17     24                  Sunday                             
+1946/11/18     25                  Monday                             
+1946/11/19     26                  Tuesday                            
+1946/11/20     27                  Wednesday                          
+1946/11/21     28                  Thursday                           
+1946/11/22     29                  Friday                             
+1946/11/23     30                  Saturday       Light Snow          
+1946/11/24     11th Lunar month    Sunday                             
+1946/11/25     2                   Monday                             
+1946/11/26     3                   Tuesday                            
+1946/11/27     4                   Wednesday                          
+1946/11/28     5                   Thursday                           
+1946/11/29     6                   Friday                             
+1946/11/30     7                   Saturday                           
+1946/12/01     8                   Sunday                             
+1946/12/02     9                   Monday                             
+1946/12/03     10                  Tuesday                            
+1946/12/04     11                  Wednesday                          
+1946/12/05     12                  Thursday                           
+1946/12/06     13                  Friday                             
+1946/12/07     14                  Saturday                           
+1946/12/08     15                  Sunday         Heavy Snow          
+1946/12/09     16                  Monday                             
+1946/12/10     17                  Tuesday                            
+1946/12/11     18                  Wednesday                          
+1946/12/12     19                  Thursday                           
+1946/12/13     20                  Friday                             
+1946/12/14     21                  Saturday                           
+1946/12/15     22                  Sunday                             
+1946/12/16     23                  Monday                             
+1946/12/17     24                  Tuesday                            
+1946/12/18     25                  Wednesday                          
+1946/12/19     26                  Thursday                           
+1946/12/20     27                  Friday                             
+1946/12/21     28                  Saturday                           
+1946/12/22     29                  Sunday         Winter Solstice     
+1946/12/23     12th Lunar month    Monday                             
+1946/12/24     2                   Tuesday                            
+1946/12/25     3                   Wednesday                          
+1946/12/26     4                   Thursday                           
+1946/12/27     5                   Friday                             
+1946/12/28     6                   Saturday                           
+1946/12/29     7                   Sunday                             
+1946/12/30     8                   Monday                             
+1946/12/31     9                   Tuesday                            
+
+In 1946, summer time was enforced during 20 April to 1 December in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

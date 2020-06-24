@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2005 (Yi-you ¡V year of the Rooster)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+2005/01/01     21                  Saturday                           
+2005/01/02     22                  Sunday                             
+2005/01/03     23                  Monday                             
+2005/01/04     24                  Tuesday                            
+2005/01/05     25                  Wednesday      Moderate Cold       
+2005/01/06     26                  Thursday                           
+2005/01/07     27                  Friday                             
+2005/01/08     28                  Saturday                           
+2005/01/09     29                  Sunday                             
+2005/01/10     12th Lunar month    Monday                             
+2005/01/11     2                   Tuesday                            
+2005/01/12     3                   Wednesday                          
+2005/01/13     4                   Thursday                           
+2005/01/14     5                   Friday                             
+2005/01/15     6                   Saturday                           
+2005/01/16     7                   Sunday                             
+2005/01/17     8                   Monday                             
+2005/01/18     9                   Tuesday                            
+2005/01/19     10                  Wednesday                          
+2005/01/20     11                  Thursday       Severe Cold         
+2005/01/21     12                  Friday                             
+2005/01/22     13                  Saturday                           
+2005/01/23     14                  Sunday                             
+2005/01/24     15                  Monday                             
+2005/01/25     16                  Tuesday                            
+2005/01/26     17                  Wednesday                          
+2005/01/27     18                  Thursday                           
+2005/01/28     19                  Friday                             
+2005/01/29     20                  Saturday                           
+2005/01/30     21                  Sunday                             
+2005/01/31     22                  Monday                             
+2005/02/01     23                  Tuesday                            
+2005/02/02     24                  Wednesday                          
+2005/02/03     25                  Thursday                           
+2005/02/04     26                  Friday         Spring Commences    
+2005/02/05     27                  Saturday                           
+2005/02/06     28                  Sunday                             
+2005/02/07     29                  Monday                             
+2005/02/08     30                  Tuesday                            
+2005/02/09     1st Lunar month     Wednesday                          
+2005/02/10     2                   Thursday                           
+2005/02/11     3                   Friday                             
+2005/02/12     4                   Saturday                           
+2005/02/13     5                   Sunday                             
+2005/02/14     6                   Monday                             
+2005/02/15     7                   Tuesday                            
+2005/02/16     8                   Wednesday                          
+2005/02/17     9                   Thursday                           
+2005/02/18     10                  Friday         Spring Showers      
+2005/02/19     11                  Saturday                           
+2005/02/20     12                  Sunday                             
+2005/02/21     13                  Monday                             
+2005/02/22     14                  Tuesday                            
+2005/02/23     15                  Wednesday                          
+2005/02/24     16                  Thursday                           
+2005/02/25     17                  Friday                             
+2005/02/26     18                  Saturday                           
+2005/02/27     19                  Sunday                             
+2005/02/28     20                  Monday                             
+2005/03/01     21                  Tuesday                            
+2005/03/02     22                  Wednesday                          
+2005/03/03     23                  Thursday                           
+2005/03/04     24                  Friday                             
+2005/03/05     25                  Saturday       Insects Waken       
+2005/03/06     26                  Sunday                             
+2005/03/07     27                  Monday                             
+2005/03/08     28                  Tuesday                            
+2005/03/09     29                  Wednesday                          
+2005/03/10     2nd Lunar month     Thursday                           
+2005/03/11     2                   Friday                             
+2005/03/12     3                   Saturday                           
+2005/03/13     4                   Sunday                             
+2005/03/14     5                   Monday                             
+2005/03/15     6                   Tuesday                            
+2005/03/16     7                   Wednesday                          
+2005/03/17     8                   Thursday                           
+2005/03/18     9                   Friday                             
+2005/03/19     10                  Saturday                           
+2005/03/20     11                  Sunday         Vernal Equinox      
+2005/03/21     12                  Monday                             
+2005/03/22     13                  Tuesday                            
+2005/03/23     14                  Wednesday                          
+2005/03/24     15                  Thursday                           
+2005/03/25     16                  Friday                             
+2005/03/26     17                  Saturday                           
+2005/03/27     18                  Sunday                             
+2005/03/28     19                  Monday                             
+2005/03/29     20                  Tuesday                            
+2005/03/30     21                  Wednesday                          
+2005/03/31     22                  Thursday                           
+2005/04/01     23                  Friday                             
+2005/04/02     24                  Saturday                           
+2005/04/03     25                  Sunday                             
+2005/04/04     26                  Monday                             
+2005/04/05     27                  Tuesday        Bright & Clear      
+2005/04/06     28                  Wednesday                          
+2005/04/07     29                  Thursday                           
+2005/04/08     30                  Friday                             
+2005/04/09     3rd Lunar month     Saturday                           
+2005/04/10     2                   Sunday                             
+2005/04/11     3                   Monday                             
+2005/04/12     4                   Tuesday                            
+2005/04/13     5                   Wednesday                          
+2005/04/14     6                   Thursday                           
+2005/04/15     7                   Friday                             
+2005/04/16     8                   Saturday                           
+2005/04/17     9                   Sunday                             
+2005/04/18     10                  Monday                             
+2005/04/19     11                  Tuesday                            
+2005/04/20     12                  Wednesday      Corn Rain           
+2005/04/21     13                  Thursday                           
+2005/04/22     14                  Friday                             
+2005/04/23     15                  Saturday                           
+2005/04/24     16                  Sunday                             
+2005/04/25     17                  Monday                             
+2005/04/26     18                  Tuesday                            
+2005/04/27     19                  Wednesday                          
+2005/04/28     20                  Thursday                           
+2005/04/29     21                  Friday                             
+2005/04/30     22                  Saturday                           
+2005/05/01     23                  Sunday                             
+2005/05/02     24                  Monday                             
+2005/05/03     25                  Tuesday                            
+2005/05/04     26                  Wednesday                          
+2005/05/05     27                  Thursday       Summer Commences    
+2005/05/06     28                  Friday                             
+2005/05/07     29                  Saturday                           
+2005/05/08     4th Lunar month     Sunday                             
+2005/05/09     2                   Monday                             
+2005/05/10     3                   Tuesday                            
+2005/05/11     4                   Wednesday                          
+2005/05/12     5                   Thursday                           
+2005/05/13     6                   Friday                             
+2005/05/14     7                   Saturday                           
+2005/05/15     8                   Sunday                             
+2005/05/16     9                   Monday                             
+2005/05/17     10                  Tuesday                            
+2005/05/18     11                  Wednesday                          
+2005/05/19     12                  Thursday                           
+2005/05/20     13                  Friday                             
+2005/05/21     14                  Saturday       Corn Forms          
+2005/05/22     15                  Sunday                             
+2005/05/23     16                  Monday                             
+2005/05/24     17                  Tuesday                            
+2005/05/25     18                  Wednesday                          
+2005/05/26     19                  Thursday                           
+2005/05/27     20                  Friday                             
+2005/05/28     21                  Saturday                           
+2005/05/29     22                  Sunday                             
+2005/05/30     23                  Monday                             
+2005/05/31     24                  Tuesday                            
+2005/06/01     25                  Wednesday                          
+2005/06/02     26                  Thursday                           
+2005/06/03     27                  Friday                             
+2005/06/04     28                  Saturday                           
+2005/06/05     29                  Sunday         Corn on Ear         
+2005/06/06     30                  Monday                             
+2005/06/07     5th Lunar month     Tuesday                            
+2005/06/08     2                   Wednesday                          
+2005/06/09     3                   Thursday                           
+2005/06/10     4                   Friday                             
+2005/06/11     5                   Saturday                           
+2005/06/12     6                   Sunday                             
+2005/06/13     7                   Monday                             
+2005/06/14     8                   Tuesday                            
+2005/06/15     9                   Wednesday                          
+2005/06/16     10                  Thursday                           
+2005/06/17     11                  Friday                             
+2005/06/18     12                  Saturday                           
+2005/06/19     13                  Sunday                             
+2005/06/20     14                  Monday                             
+2005/06/21     15                  Tuesday        Summer Solstice     
+2005/06/22     16                  Wednesday                          
+2005/06/23     17                  Thursday                           
+2005/06/24     18                  Friday                             
+2005/06/25     19                  Saturday                           
+2005/06/26     20                  Sunday                             
+2005/06/27     21                  Monday                             
+2005/06/28     22                  Tuesday                            
+2005/06/29     23                  Wednesday                          
+2005/06/30     24                  Thursday                           
+2005/07/01     25                  Friday                             
+2005/07/02     26                  Saturday                           
+2005/07/03     27                  Sunday                             
+2005/07/04     28                  Monday                             
+2005/07/05     29                  Tuesday                            
+2005/07/06     6th Lunar month     Wednesday                          
+2005/07/07     2                   Thursday       Moderate Heat       
+2005/07/08     3                   Friday                             
+2005/07/09     4                   Saturday                           
+2005/07/10     5                   Sunday                             
+2005/07/11     6                   Monday                             
+2005/07/12     7                   Tuesday                            
+2005/07/13     8                   Wednesday                          
+2005/07/14     9                   Thursday                           
+2005/07/15     10                  Friday                             
+2005/07/16     11                  Saturday                           
+2005/07/17     12                  Sunday                             
+2005/07/18     13                  Monday                             
+2005/07/19     14                  Tuesday                            
+2005/07/20     15                  Wednesday                          
+2005/07/21     16                  Thursday                           
+2005/07/22     17                  Friday                             
+2005/07/23     18                  Saturday       Great Heat          
+2005/07/24     19                  Sunday                             
+2005/07/25     20                  Monday                             
+2005/07/26     21                  Tuesday                            
+2005/07/27     22                  Wednesday                          
+2005/07/28     23                  Thursday                           
+2005/07/29     24                  Friday                             
+2005/07/30     25                  Saturday                           
+2005/07/31     26                  Sunday                             
+2005/08/01     27                  Monday                             
+2005/08/02     28                  Tuesday                            
+2005/08/03     29                  Wednesday                          
+2005/08/04     30                  Thursday                           
+2005/08/05     7th Lunar month     Friday                             
+2005/08/06     2                   Saturday                           
+2005/08/07     3                   Sunday         Autumn Commences    
+2005/08/08     4                   Monday                             
+2005/08/09     5                   Tuesday                            
+2005/08/10     6                   Wednesday                          
+2005/08/11     7                   Thursday                           
+2005/08/12     8                   Friday                             
+2005/08/13     9                   Saturday                           
+2005/08/14     10                  Sunday                             
+2005/08/15     11                  Monday                             
+2005/08/16     12                  Tuesday                            
+2005/08/17     13                  Wednesday                          
+2005/08/18     14                  Thursday                           
+2005/08/19     15                  Friday                             
+2005/08/20     16                  Saturday                           
+2005/08/21     17                  Sunday                             
+2005/08/22     18                  Monday                             
+2005/08/23     19                  Tuesday        End of Heat         
+2005/08/24     20                  Wednesday                          
+2005/08/25     21                  Thursday                           
+2005/08/26     22                  Friday                             
+2005/08/27     23                  Saturday                           
+2005/08/28     24                  Sunday                             
+2005/08/29     25                  Monday                             
+2005/08/30     26                  Tuesday                            
+2005/08/31     27                  Wednesday                          
+2005/09/01     28                  Thursday                           
+2005/09/02     29                  Friday                             
+2005/09/03     30                  Saturday                           
+2005/09/04     8th Lunar month     Sunday                             
+2005/09/05     2                   Monday                             
+2005/09/06     3                   Tuesday                            
+2005/09/07     4                   Wednesday      White Dew           
+2005/09/08     5                   Thursday                           
+2005/09/09     6                   Friday                             
+2005/09/10     7                   Saturday                           
+2005/09/11     8                   Sunday                             
+2005/09/12     9                   Monday                             
+2005/09/13     10                  Tuesday                            
+2005/09/14     11                  Wednesday                          
+2005/09/15     12                  Thursday                           
+2005/09/16     13                  Friday                             
+2005/09/17     14                  Saturday                           
+2005/09/18     15                  Sunday                             
+2005/09/19     16                  Monday                             
+2005/09/20     17                  Tuesday                            
+2005/09/21     18                  Wednesday                          
+2005/09/22     19                  Thursday                           
+2005/09/23     20                  Friday         Autumnal Equinox    
+2005/09/24     21                  Saturday                           
+2005/09/25     22                  Sunday                             
+2005/09/26     23                  Monday                             
+2005/09/27     24                  Tuesday                            
+2005/09/28     25                  Wednesday                          
+2005/09/29     26                  Thursday                           
+2005/09/30     27                  Friday                             
+2005/10/01     28                  Saturday                           
+2005/10/02     29                  Sunday                             
+2005/10/03     9th Lunar month     Monday                             
+2005/10/04     2                   Tuesday                            
+2005/10/05     3                   Wednesday                          
+2005/10/06     4                   Thursday                           
+2005/10/07     5                   Friday                             
+2005/10/08     6                   Saturday       Cold Dew            
+2005/10/09     7                   Sunday                             
+2005/10/10     8                   Monday                             
+2005/10/11     9                   Tuesday                            
+2005/10/12     10                  Wednesday                          
+2005/10/13     11                  Thursday                           
+2005/10/14     12                  Friday                             
+2005/10/15     13                  Saturday                           
+2005/10/16     14                  Sunday                             
+2005/10/17     15                  Monday                             
+2005/10/18     16                  Tuesday                            
+2005/10/19     17                  Wednesday                          
+2005/10/20     18                  Thursday                           
+2005/10/21     19                  Friday                             
+2005/10/22     20                  Saturday                           
+2005/10/23     21                  Sunday         Frost               
+2005/10/24     22                  Monday                             
+2005/10/25     23                  Tuesday                            
+2005/10/26     24                  Wednesday                          
+2005/10/27     25                  Thursday                           
+2005/10/28     26                  Friday                             
+2005/10/29     27                  Saturday                           
+2005/10/30     28                  Sunday                             
+2005/10/31     29                  Monday                             
+2005/11/01     30                  Tuesday                            
+2005/11/02     10th Lunar month    Wednesday                          
+2005/11/03     2                   Thursday                           
+2005/11/04     3                   Friday                             
+2005/11/05     4                   Saturday                           
+2005/11/06     5                   Sunday                             
+2005/11/07     6                   Monday         Winter Commences    
+2005/11/08     7                   Tuesday                            
+2005/11/09     8                   Wednesday                          
+2005/11/10     9                   Thursday                           
+2005/11/11     10                  Friday                             
+2005/11/12     11                  Saturday                           
+2005/11/13     12                  Sunday                             
+2005/11/14     13                  Monday                             
+2005/11/15     14                  Tuesday                            
+2005/11/16     15                  Wednesday                          
+2005/11/17     16                  Thursday                           
+2005/11/18     17                  Friday                             
+2005/11/19     18                  Saturday                           
+2005/11/20     19                  Sunday                             
+2005/11/21     20                  Monday                             
+2005/11/22     21                  Tuesday        Light Snow          
+2005/11/23     22                  Wednesday                          
+2005/11/24     23                  Thursday                           
+2005/11/25     24                  Friday                             
+2005/11/26     25                  Saturday                           
+2005/11/27     26                  Sunday                             
+2005/11/28     27                  Monday                             
+2005/11/29     28                  Tuesday                            
+2005/11/30     29                  Wednesday                          
+2005/12/01     11th Lunar month    Thursday                           
+2005/12/02     2                   Friday                             
+2005/12/03     3                   Saturday                           
+2005/12/04     4                   Sunday                             
+2005/12/05     5                   Monday                             
+2005/12/06     6                   Tuesday                            
+2005/12/07     7                   Wednesday      Heavy Snow          
+2005/12/08     8                   Thursday                           
+2005/12/09     9                   Friday                             
+2005/12/10     10                  Saturday                           
+2005/12/11     11                  Sunday                             
+2005/12/12     12                  Monday                             
+2005/12/13     13                  Tuesday                            
+2005/12/14     14                  Wednesday                          
+2005/12/15     15                  Thursday                           
+2005/12/16     16                  Friday                             
+2005/12/17     17                  Saturday                           
+2005/12/18     18                  Sunday                             
+2005/12/19     19                  Monday                             
+2005/12/20     20                  Tuesday                            
+2005/12/21     21                  Wednesday                          
+2005/12/22     22                  Thursday       Winter Solstice     
+2005/12/23     23                  Friday                             
+2005/12/24     24                  Saturday                           
+2005/12/25     25                  Sunday                             
+2005/12/26     26                  Monday                             
+2005/12/27     27                  Tuesday                            
+2005/12/28     28                  Wednesday                          
+2005/12/29     29                  Thursday                           
+2005/12/30     30                  Friday                             
+2005/12/31     12th Lunar month    Saturday                           

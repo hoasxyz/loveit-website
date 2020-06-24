@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1929 (Ji-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1929/01/01     21                  Tuesday                            
+1929/01/02     22                  Wednesday                          
+1929/01/03     23                  Thursday                           
+1929/01/04     24                  Friday                             
+1929/01/05     25                  Saturday                           
+1929/01/06     26                  Sunday         Moderate Cold       
+1929/01/07     27                  Monday                             
+1929/01/08     28                  Tuesday                            
+1929/01/09     29                  Wednesday                          
+1929/01/10     30                  Thursday                           
+1929/01/11     12th Lunar month    Friday                             
+1929/01/12     2                   Saturday                           
+1929/01/13     3                   Sunday                             
+1929/01/14     4                   Monday                             
+1929/01/15     5                   Tuesday                            
+1929/01/16     6                   Wednesday                          
+1929/01/17     7                   Thursday                           
+1929/01/18     8                   Friday                             
+1929/01/19     9                   Saturday                           
+1929/01/20     10                  Sunday         Severe Cold         
+1929/01/21     11                  Monday                             
+1929/01/22     12                  Tuesday                            
+1929/01/23     13                  Wednesday                          
+1929/01/24     14                  Thursday                           
+1929/01/25     15                  Friday                             
+1929/01/26     16                  Saturday                           
+1929/01/27     17                  Sunday                             
+1929/01/28     18                  Monday                             
+1929/01/29     19                  Tuesday                            
+1929/01/30     20                  Wednesday                          
+1929/01/31     21                  Thursday                           
+1929/02/01     22                  Friday                             
+1929/02/02     23                  Saturday                           
+1929/02/03     24                  Sunday                             
+1929/02/04     25                  Monday         Spring Commences    
+1929/02/05     26                  Tuesday                            
+1929/02/06     27                  Wednesday                          
+1929/02/07     28                  Thursday                           
+1929/02/08     29                  Friday                             
+1929/02/09     30                  Saturday                           
+1929/02/10     1st Lunar month     Sunday                             
+1929/02/11     2                   Monday                             
+1929/02/12     3                   Tuesday                            
+1929/02/13     4                   Wednesday                          
+1929/02/14     5                   Thursday                           
+1929/02/15     6                   Friday                             
+1929/02/16     7                   Saturday                           
+1929/02/17     8                   Sunday                             
+1929/02/18     9                   Monday                             
+1929/02/19     10                  Tuesday        Spring Showers      
+1929/02/20     11                  Wednesday                          
+1929/02/21     12                  Thursday                           
+1929/02/22     13                  Friday                             
+1929/02/23     14                  Saturday                           
+1929/02/24     15                  Sunday                             
+1929/02/25     16                  Monday                             
+1929/02/26     17                  Tuesday                            
+1929/02/27     18                  Wednesday                          
+1929/02/28     19                  Thursday                           
+1929/03/01     20                  Friday                             
+1929/03/02     21                  Saturday                           
+1929/03/03     22                  Sunday                             
+1929/03/04     23                  Monday                             
+1929/03/05     24                  Tuesday                            
+1929/03/06     25                  Wednesday      Insects Waken       
+1929/03/07     26                  Thursday                           
+1929/03/08     27                  Friday                             
+1929/03/09     28                  Saturday                           
+1929/03/10     29                  Sunday                             
+1929/03/11     2nd Lunar month     Monday                             
+1929/03/12     2                   Tuesday                            
+1929/03/13     3                   Wednesday                          
+1929/03/14     4                   Thursday                           
+1929/03/15     5                   Friday                             
+1929/03/16     6                   Saturday                           
+1929/03/17     7                   Sunday                             
+1929/03/18     8                   Monday                             
+1929/03/19     9                   Tuesday                            
+1929/03/20     10                  Wednesday                          
+1929/03/21     11                  Thursday       Vernal Equinox      
+1929/03/22     12                  Friday                             
+1929/03/23     13                  Saturday                           
+1929/03/24     14                  Sunday                             
+1929/03/25     15                  Monday                             
+1929/03/26     16                  Tuesday                            
+1929/03/27     17                  Wednesday                          
+1929/03/28     18                  Thursday                           
+1929/03/29     19                  Friday                             
+1929/03/30     20                  Saturday                           
+1929/03/31     21                  Sunday                             
+1929/04/01     22                  Monday                             
+1929/04/02     23                  Tuesday                            
+1929/04/03     24                  Wednesday                          
+1929/04/04     25                  Thursday                           
+1929/04/05     26                  Friday         Bright & Clear      
+1929/04/06     27                  Saturday                           
+1929/04/07     28                  Sunday                             
+1929/04/08     29                  Monday                             
+1929/04/09     30                  Tuesday                            
+1929/04/10     3rd Lunar month     Wednesday                          
+1929/04/11     2                   Thursday                           
+1929/04/12     3                   Friday                             
+1929/04/13     4                   Saturday                           
+1929/04/14     5                   Sunday                             
+1929/04/15     6                   Monday                             
+1929/04/16     7                   Tuesday                            
+1929/04/17     8                   Wednesday                          
+1929/04/18     9                   Thursday                           
+1929/04/19     10                  Friday                             
+1929/04/20     11                  Saturday       Corn Rain           
+1929/04/21     12                  Sunday                             
+1929/04/22     13                  Monday                             
+1929/04/23     14                  Tuesday                            
+1929/04/24     15                  Wednesday                          
+1929/04/25     16                  Thursday                           
+1929/04/26     17                  Friday                             
+1929/04/27     18                  Saturday                           
+1929/04/28     19                  Sunday                             
+1929/04/29     20                  Monday                             
+1929/04/30     21                  Tuesday                            
+1929/05/01     22                  Wednesday                          
+1929/05/02     23                  Thursday                           
+1929/05/03     24                  Friday                             
+1929/05/04     25                  Saturday                           
+1929/05/05     26                  Sunday                             
+1929/05/06     27                  Monday         Summer Commences    
+1929/05/07     28                  Tuesday                            
+1929/05/08     29                  Wednesday                          
+1929/05/09     4th Lunar month     Thursday                           
+1929/05/10     2                   Friday                             
+1929/05/11     3                   Saturday                           
+1929/05/12     4                   Sunday                             
+1929/05/13     5                   Monday                             
+1929/05/14     6                   Tuesday                            
+1929/05/15     7                   Wednesday                          
+1929/05/16     8                   Thursday                           
+1929/05/17     9                   Friday                             
+1929/05/18     10                  Saturday                           
+1929/05/19     11                  Sunday                             
+1929/05/20     12                  Monday                             
+1929/05/21     13                  Tuesday        Corn Forms          
+1929/05/22     14                  Wednesday                          
+1929/05/23     15                  Thursday                           
+1929/05/24     16                  Friday                             
+1929/05/25     17                  Saturday                           
+1929/05/26     18                  Sunday                             
+1929/05/27     19                  Monday                             
+1929/05/28     20                  Tuesday                            
+1929/05/29     21                  Wednesday                          
+1929/05/30     22                  Thursday                           
+1929/05/31     23                  Friday                             
+1929/06/01     24                  Saturday                           
+1929/06/02     25                  Sunday                             
+1929/06/03     26                  Monday                             
+1929/06/04     27                  Tuesday                            
+1929/06/05     28                  Wednesday                          
+1929/06/06     29                  Thursday       Corn on Ear         
+1929/06/07     5th Lunar month     Friday                             
+1929/06/08     2                   Saturday                           
+1929/06/09     3                   Sunday                             
+1929/06/10     4                   Monday                             
+1929/06/11     5                   Tuesday                            
+1929/06/12     6                   Wednesday                          
+1929/06/13     7                   Thursday                           
+1929/06/14     8                   Friday                             
+1929/06/15     9                   Saturday                           
+1929/06/16     10                  Sunday                             
+1929/06/17     11                  Monday                             
+1929/06/18     12                  Tuesday                            
+1929/06/19     13                  Wednesday                          
+1929/06/20     14                  Thursday                           
+1929/06/21     15                  Friday                             
+1929/06/22     16                  Saturday       Summer Solstice     
+1929/06/23     17                  Sunday                             
+1929/06/24     18                  Monday                             
+1929/06/25     19                  Tuesday                            
+1929/06/26     20                  Wednesday                          
+1929/06/27     21                  Thursday                           
+1929/06/28     22                  Friday                             
+1929/06/29     23                  Saturday                           
+1929/06/30     24                  Sunday                             
+1929/07/01     25                  Monday                             
+1929/07/02     26                  Tuesday                            
+1929/07/03     27                  Wednesday                          
+1929/07/04     28                  Thursday                           
+1929/07/05     29                  Friday                             
+1929/07/06     30                  Saturday                           
+1929/07/07     6th Lunar month     Sunday         Moderate Heat       
+1929/07/08     2                   Monday                             
+1929/07/09     3                   Tuesday                            
+1929/07/10     4                   Wednesday                          
+1929/07/11     5                   Thursday                           
+1929/07/12     6                   Friday                             
+1929/07/13     7                   Saturday                           
+1929/07/14     8                   Sunday                             
+1929/07/15     9                   Monday                             
+1929/07/16     10                  Tuesday                            
+1929/07/17     11                  Wednesday                          
+1929/07/18     12                  Thursday                           
+1929/07/19     13                  Friday                             
+1929/07/20     14                  Saturday                           
+1929/07/21     15                  Sunday                             
+1929/07/22     16                  Monday                             
+1929/07/23     17                  Tuesday        Great Heat          
+1929/07/24     18                  Wednesday                          
+1929/07/25     19                  Thursday                           
+1929/07/26     20                  Friday                             
+1929/07/27     21                  Saturday                           
+1929/07/28     22                  Sunday                             
+1929/07/29     23                  Monday                             
+1929/07/30     24                  Tuesday                            
+1929/07/31     25                  Wednesday                          
+1929/08/01     26                  Thursday                           
+1929/08/02     27                  Friday                             
+1929/08/03     28                  Saturday                           
+1929/08/04     29                  Sunday                             
+1929/08/05     7th Lunar month     Monday                             
+1929/08/06     2                   Tuesday                            
+1929/08/07     3                   Wednesday                          
+1929/08/08     4                   Thursday       Autumn Commences    
+1929/08/09     5                   Friday                             
+1929/08/10     6                   Saturday                           
+1929/08/11     7                   Sunday                             
+1929/08/12     8                   Monday                             
+1929/08/13     9                   Tuesday                            
+1929/08/14     10                  Wednesday                          
+1929/08/15     11                  Thursday                           
+1929/08/16     12                  Friday                             
+1929/08/17     13                  Saturday                           
+1929/08/18     14                  Sunday                             
+1929/08/19     15                  Monday                             
+1929/08/20     16                  Tuesday                            
+1929/08/21     17                  Wednesday                          
+1929/08/22     18                  Thursday                           
+1929/08/23     19                  Friday         End of Heat         
+1929/08/24     20                  Saturday                           
+1929/08/25     21                  Sunday                             
+1929/08/26     22                  Monday                             
+1929/08/27     23                  Tuesday                            
+1929/08/28     24                  Wednesday                          
+1929/08/29     25                  Thursday                           
+1929/08/30     26                  Friday                             
+1929/08/31     27                  Saturday                           
+1929/09/01     28                  Sunday                             
+1929/09/02     29                  Monday                             
+1929/09/03     8th Lunar month     Tuesday                            
+1929/09/04     2                   Wednesday                          
+1929/09/05     3                   Thursday                           
+1929/09/06     4                   Friday                             
+1929/09/07     5                   Saturday                           
+1929/09/08     6                   Sunday         White Dew           
+1929/09/09     7                   Monday                             
+1929/09/10     8                   Tuesday                            
+1929/09/11     9                   Wednesday                          
+1929/09/12     10                  Thursday                           
+1929/09/13     11                  Friday                             
+1929/09/14     12                  Saturday                           
+1929/09/15     13                  Sunday                             
+1929/09/16     14                  Monday                             
+1929/09/17     15                  Tuesday                            
+1929/09/18     16                  Wednesday                          
+1929/09/19     17                  Thursday                           
+1929/09/20     18                  Friday                             
+1929/09/21     19                  Saturday                           
+1929/09/22     20                  Sunday                             
+1929/09/23     21                  Monday         Autumnal Equinox    
+1929/09/24     22                  Tuesday                            
+1929/09/25     23                  Wednesday                          
+1929/09/26     24                  Thursday                           
+1929/09/27     25                  Friday                             
+1929/09/28     26                  Saturday                           
+1929/09/29     27                  Sunday                             
+1929/09/30     28                  Monday                             
+1929/10/01     29                  Tuesday                            
+1929/10/02     30                  Wednesday                          
+1929/10/03     9th Lunar month     Thursday                           
+1929/10/04     2                   Friday                             
+1929/10/05     3                   Saturday                           
+1929/10/06     4                   Sunday                             
+1929/10/07     5                   Monday                             
+1929/10/08     6                   Tuesday                            
+1929/10/09     7                   Wednesday      Cold Dew            
+1929/10/10     8                   Thursday                           
+1929/10/11     9                   Friday                             
+1929/10/12     10                  Saturday                           
+1929/10/13     11                  Sunday                             
+1929/10/14     12                  Monday                             
+1929/10/15     13                  Tuesday                            
+1929/10/16     14                  Wednesday                          
+1929/10/17     15                  Thursday                           
+1929/10/18     16                  Friday                             
+1929/10/19     17                  Saturday                           
+1929/10/20     18                  Sunday                             
+1929/10/21     19                  Monday                             
+1929/10/22     20                  Tuesday                            
+1929/10/23     21                  Wednesday                          
+1929/10/24     22                  Thursday       Frost               
+1929/10/25     23                  Friday                             
+1929/10/26     24                  Saturday                           
+1929/10/27     25                  Sunday                             
+1929/10/28     26                  Monday                             
+1929/10/29     27                  Tuesday                            
+1929/10/30     28                  Wednesday                          
+1929/10/31     29                  Thursday                           
+1929/11/01     10th Lunar month    Friday                             
+1929/11/02     2                   Saturday                           
+1929/11/03     3                   Sunday                             
+1929/11/04     4                   Monday                             
+1929/11/05     5                   Tuesday                            
+1929/11/06     6                   Wednesday                          
+1929/11/07     7                   Thursday                           
+1929/11/08     8                   Friday         Winter Commences    
+1929/11/09     9                   Saturday                           
+1929/11/10     10                  Sunday                             
+1929/11/11     11                  Monday                             
+1929/11/12     12                  Tuesday                            
+1929/11/13     13                  Wednesday                          
+1929/11/14     14                  Thursday                           
+1929/11/15     15                  Friday                             
+1929/11/16     16                  Saturday                           
+1929/11/17     17                  Sunday                             
+1929/11/18     18                  Monday                             
+1929/11/19     19                  Tuesday                            
+1929/11/20     20                  Wednesday                          
+1929/11/21     21                  Thursday                           
+1929/11/22     22                  Friday                             
+1929/11/23     23                  Saturday       Light Snow          
+1929/11/24     24                  Sunday                             
+1929/11/25     25                  Monday                             
+1929/11/26     26                  Tuesday                            
+1929/11/27     27                  Wednesday                          
+1929/11/28     28                  Thursday                           
+1929/11/29     29                  Friday                             
+1929/11/30     30                  Saturday                           
+1929/12/01     11th Lunar month    Sunday                             
+1929/12/02     2                   Monday                             
+1929/12/03     3                   Tuesday                            
+1929/12/04     4                   Wednesday                          
+1929/12/05     5                   Thursday                           
+1929/12/06     6                   Friday                             
+1929/12/07     7                   Saturday       Heavy Snow          
+1929/12/08     8                   Sunday                             
+1929/12/09     9                   Monday                             
+1929/12/10     10                  Tuesday                            
+1929/12/11     11                  Wednesday                          
+1929/12/12     12                  Thursday                           
+1929/12/13     13                  Friday                             
+1929/12/14     14                  Saturday                           
+1929/12/15     15                  Sunday                             
+1929/12/16     16                  Monday                             
+1929/12/17     17                  Tuesday                            
+1929/12/18     18                  Wednesday                          
+1929/12/19     19                  Thursday                           
+1929/12/20     20                  Friday                             
+1929/12/21     21                  Saturday                           
+1929/12/22     22                  Sunday         Winter Solstice     
+1929/12/23     23                  Monday                             
+1929/12/24     24                  Tuesday                            
+1929/12/25     25                  Wednesday                          
+1929/12/26     26                  Thursday                           
+1929/12/27     27                  Friday                             
+1929/12/28     28                  Saturday                           
+1929/12/29     29                  Sunday                             
+1929/12/30     30                  Monday                             
+1929/12/31     12th Lunar month    Tuesday                            

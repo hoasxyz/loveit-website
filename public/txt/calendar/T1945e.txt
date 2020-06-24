@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1945 (Yi-you ¡V year of the Rooster)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1945/01/01     18                  Monday                             
+1945/01/02     19                  Tuesday                            
+1945/01/03     20                  Wednesday                          
+1945/01/04     21                  Thursday                           
+1945/01/05     22                  Friday                             
+1945/01/06     23                  Saturday       Moderate Cold       
+1945/01/07     24                  Sunday                             
+1945/01/08     25                  Monday                             
+1945/01/09     26                  Tuesday                            
+1945/01/10     27                  Wednesday                          
+1945/01/11     28                  Thursday                           
+1945/01/12     29                  Friday                             
+1945/01/13     30                  Saturday                           
+1945/01/14     12th Lunar month    Sunday                             
+1945/01/15     2                   Monday                             
+1945/01/16     3                   Tuesday                            
+1945/01/17     4                   Wednesday                          
+1945/01/18     5                   Thursday                           
+1945/01/19     6                   Friday                             
+1945/01/20     7                   Saturday       Severe Cold         
+1945/01/21     8                   Sunday                             
+1945/01/22     9                   Monday                             
+1945/01/23     10                  Tuesday                            
+1945/01/24     11                  Wednesday                          
+1945/01/25     12                  Thursday                           
+1945/01/26     13                  Friday                             
+1945/01/27     14                  Saturday                           
+1945/01/28     15                  Sunday                             
+1945/01/29     16                  Monday                             
+1945/01/30     17                  Tuesday                            
+1945/01/31     18                  Wednesday                          
+1945/02/01     19                  Thursday                           
+1945/02/02     20                  Friday                             
+1945/02/03     21                  Saturday                           
+1945/02/04     22                  Sunday         Spring Commences    
+1945/02/05     23                  Monday                             
+1945/02/06     24                  Tuesday                            
+1945/02/07     25                  Wednesday                          
+1945/02/08     26                  Thursday                           
+1945/02/09     27                  Friday                             
+1945/02/10     28                  Saturday                           
+1945/02/11     29                  Sunday                             
+1945/02/12     30                  Monday                             
+1945/02/13     1st Lunar month     Tuesday                            
+1945/02/14     2                   Wednesday                          
+1945/02/15     3                   Thursday                           
+1945/02/16     4                   Friday                             
+1945/02/17     5                   Saturday                           
+1945/02/18     6                   Sunday                             
+1945/02/19     7                   Monday         Spring Showers      
+1945/02/20     8                   Tuesday                            
+1945/02/21     9                   Wednesday                          
+1945/02/22     10                  Thursday                           
+1945/02/23     11                  Friday                             
+1945/02/24     12                  Saturday                           
+1945/02/25     13                  Sunday                             
+1945/02/26     14                  Monday                             
+1945/02/27     15                  Tuesday                            
+1945/02/28     16                  Wednesday                          
+1945/03/01     17                  Thursday                           
+1945/03/02     18                  Friday                             
+1945/03/03     19                  Saturday                           
+1945/03/04     20                  Sunday                             
+1945/03/05     21                  Monday                             
+1945/03/06     22                  Tuesday        Insects Waken       
+1945/03/07     23                  Wednesday                          
+1945/03/08     24                  Thursday                           
+1945/03/09     25                  Friday                             
+1945/03/10     26                  Saturday                           
+1945/03/11     27                  Sunday                             
+1945/03/12     28                  Monday                             
+1945/03/13     29                  Tuesday                            
+1945/03/14     2nd Lunar month     Wednesday                          
+1945/03/15     2                   Thursday                           
+1945/03/16     3                   Friday                             
+1945/03/17     4                   Saturday                           
+1945/03/18     5                   Sunday                             
+1945/03/19     6                   Monday                             
+1945/03/20     7                   Tuesday                            
+1945/03/21     8                   Wednesday      Vernal Equinox      
+1945/03/22     9                   Thursday                           
+1945/03/23     10                  Friday                             
+1945/03/24     11                  Saturday                           
+1945/03/25     12                  Sunday                             
+1945/03/26     13                  Monday                             
+1945/03/27     14                  Tuesday                            
+1945/03/28     15                  Wednesday                          
+1945/03/29     16                  Thursday                           
+1945/03/30     17                  Friday                             
+1945/03/31     18                  Saturday                           
+1945/04/01     19                  Sunday                             
+1945/04/02     20                  Monday                             
+1945/04/03     21                  Tuesday                            
+1945/04/04     22                  Wednesday                          
+1945/04/05     23                  Thursday       Bright & Clear      
+1945/04/06     24                  Friday                             
+1945/04/07     25                  Saturday                           
+1945/04/08     26                  Sunday                             
+1945/04/09     27                  Monday                             
+1945/04/10     28                  Tuesday                            
+1945/04/11     29                  Wednesday                          
+1945/04/12     3rd Lunar month     Thursday                           
+1945/04/13     2                   Friday                             
+1945/04/14     3                   Saturday                           
+1945/04/15     4                   Sunday                             
+1945/04/16     5                   Monday                             
+1945/04/17     6                   Tuesday                            
+1945/04/18     7                   Wednesday                          
+1945/04/19     8                   Thursday                           
+1945/04/20     9                   Friday         Corn Rain           
+1945/04/21     10                  Saturday                           
+1945/04/22     11                  Sunday                             
+1945/04/23     12                  Monday                             
+1945/04/24     13                  Tuesday                            
+1945/04/25     14                  Wednesday                          
+1945/04/26     15                  Thursday                           
+1945/04/27     16                  Friday                             
+1945/04/28     17                  Saturday                           
+1945/04/29     18                  Sunday                             
+1945/04/30     19                  Monday                             
+1945/05/01     20                  Tuesday                            
+1945/05/02     21                  Wednesday                          
+1945/05/03     22                  Thursday                           
+1945/05/04     23                  Friday                             
+1945/05/05     24                  Saturday                           
+1945/05/06     25                  Sunday         Summer Commences    
+1945/05/07     26                  Monday                             
+1945/05/08     27                  Tuesday                            
+1945/05/09     28                  Wednesday                          
+1945/05/10     29                  Thursday                           
+1945/05/11     30                  Friday                             
+1945/05/12     4th Lunar month     Saturday                           
+1945/05/13     2                   Sunday                             
+1945/05/14     3                   Monday                             
+1945/05/15     4                   Tuesday                            
+1945/05/16     5                   Wednesday                          
+1945/05/17     6                   Thursday                           
+1945/05/18     7                   Friday                             
+1945/05/19     8                   Saturday                           
+1945/05/20     9                   Sunday                             
+1945/05/21     10                  Monday         Corn Forms          
+1945/05/22     11                  Tuesday                            
+1945/05/23     12                  Wednesday                          
+1945/05/24     13                  Thursday                           
+1945/05/25     14                  Friday                             
+1945/05/26     15                  Saturday                           
+1945/05/27     16                  Sunday                             
+1945/05/28     17                  Monday                             
+1945/05/29     18                  Tuesday                            
+1945/05/30     19                  Wednesday                          
+1945/05/31     20                  Thursday                           
+1945/06/01     21                  Friday                             
+1945/06/02     22                  Saturday                           
+1945/06/03     23                  Sunday                             
+1945/06/04     24                  Monday                             
+1945/06/05     25                  Tuesday                            
+1945/06/06     26                  Wednesday      Corn on Ear         
+1945/06/07     27                  Thursday                           
+1945/06/08     28                  Friday                             
+1945/06/09     29                  Saturday                           
+1945/06/10     5th Lunar month     Sunday                             
+1945/06/11     2                   Monday                             
+1945/06/12     3                   Tuesday                            
+1945/06/13     4                   Wednesday                          
+1945/06/14     5                   Thursday                           
+1945/06/15     6                   Friday                             
+1945/06/16     7                   Saturday                           
+1945/06/17     8                   Sunday                             
+1945/06/18     9                   Monday                             
+1945/06/19     10                  Tuesday                            
+1945/06/20     11                  Wednesday                          
+1945/06/21     12                  Thursday                           
+1945/06/22     13                  Friday         Summer Solstice     
+1945/06/23     14                  Saturday                           
+1945/06/24     15                  Sunday                             
+1945/06/25     16                  Monday                             
+1945/06/26     17                  Tuesday                            
+1945/06/27     18                  Wednesday                          
+1945/06/28     19                  Thursday                           
+1945/06/29     20                  Friday                             
+1945/06/30     21                  Saturday                           
+1945/07/01     22                  Sunday                             
+1945/07/02     23                  Monday                             
+1945/07/03     24                  Tuesday                            
+1945/07/04     25                  Wednesday                          
+1945/07/05     26                  Thursday                           
+1945/07/06     27                  Friday                             
+1945/07/07     28                  Saturday       Moderate Heat       
+1945/07/08     29                  Sunday                             
+1945/07/09     6th Lunar month     Monday                             
+1945/07/10     2                   Tuesday                            
+1945/07/11     3                   Wednesday                          
+1945/07/12     4                   Thursday                           
+1945/07/13     5                   Friday                             
+1945/07/14     6                   Saturday                           
+1945/07/15     7                   Sunday                             
+1945/07/16     8                   Monday                             
+1945/07/17     9                   Tuesday                            
+1945/07/18     10                  Wednesday                          
+1945/07/19     11                  Thursday                           
+1945/07/20     12                  Friday                             
+1945/07/21     13                  Saturday                           
+1945/07/22     14                  Sunday                             
+1945/07/23     15                  Monday         Great Heat          
+1945/07/24     16                  Tuesday                            
+1945/07/25     17                  Wednesday                          
+1945/07/26     18                  Thursday                           
+1945/07/27     19                  Friday                             
+1945/07/28     20                  Saturday                           
+1945/07/29     21                  Sunday                             
+1945/07/30     22                  Monday                             
+1945/07/31     23                  Tuesday                            
+1945/08/01     24                  Wednesday                          
+1945/08/02     25                  Thursday                           
+1945/08/03     26                  Friday                             
+1945/08/04     27                  Saturday                           
+1945/08/05     28                  Sunday                             
+1945/08/06     29                  Monday                             
+1945/08/07     30                  Tuesday                            
+1945/08/08     7th Lunar month     Wednesday      Autumn Commences    
+1945/08/09     2                   Thursday                           
+1945/08/10     3                   Friday                             
+1945/08/11     4                   Saturday                           
+1945/08/12     5                   Sunday                             
+1945/08/13     6                   Monday                             
+1945/08/14     7                   Tuesday                            
+1945/08/15     8                   Wednesday                          
+1945/08/16     9                   Thursday                           
+1945/08/17     10                  Friday                             
+1945/08/18     11                  Saturday                           
+1945/08/19     12                  Sunday                             
+1945/08/20     13                  Monday                             
+1945/08/21     14                  Tuesday                            
+1945/08/22     15                  Wednesday                          
+1945/08/23     16                  Thursday       End of Heat         
+1945/08/24     17                  Friday                             
+1945/08/25     18                  Saturday                           
+1945/08/26     19                  Sunday                             
+1945/08/27     20                  Monday                             
+1945/08/28     21                  Tuesday                            
+1945/08/29     22                  Wednesday                          
+1945/08/30     23                  Thursday                           
+1945/08/31     24                  Friday                             
+1945/09/01     25                  Saturday                           
+1945/09/02     26                  Sunday                             
+1945/09/03     27                  Monday                             
+1945/09/04     28                  Tuesday                            
+1945/09/05     29                  Wednesday                          
+1945/09/06     8th Lunar month     Thursday                           
+1945/09/07     2                   Friday                             
+1945/09/08     3                   Saturday       White Dew           
+1945/09/09     4                   Sunday                             
+1945/09/10     5                   Monday                             
+1945/09/11     6                   Tuesday                            
+1945/09/12     7                   Wednesday                          
+1945/09/13     8                   Thursday                           
+1945/09/14     9                   Friday                             
+1945/09/15     10                  Saturday                           
+1945/09/16     11                  Sunday                             
+1945/09/17     12                  Monday                             
+1945/09/18     13                  Tuesday                            
+1945/09/19     14                  Wednesday                          
+1945/09/20     15                  Thursday                           
+1945/09/21     16                  Friday                             
+1945/09/22     17                  Saturday                           
+1945/09/23     18                  Sunday         Autumnal Equinox    
+1945/09/24     19                  Monday                             
+1945/09/25     20                  Tuesday                            
+1945/09/26     21                  Wednesday                          
+1945/09/27     22                  Thursday                           
+1945/09/28     23                  Friday                             
+1945/09/29     24                  Saturday                           
+1945/09/30     25                  Sunday                             
+1945/10/01     26                  Monday                             
+1945/10/02     27                  Tuesday                            
+1945/10/03     28                  Wednesday                          
+1945/10/04     29                  Thursday                           
+1945/10/05     30                  Friday                             
+1945/10/06     9th Lunar month     Saturday                           
+1945/10/07     2                   Sunday                             
+1945/10/08     3                   Monday         Cold Dew            
+1945/10/09     4                   Tuesday                            
+1945/10/10     5                   Wednesday                          
+1945/10/11     6                   Thursday                           
+1945/10/12     7                   Friday                             
+1945/10/13     8                   Saturday                           
+1945/10/14     9                   Sunday                             
+1945/10/15     10                  Monday                             
+1945/10/16     11                  Tuesday                            
+1945/10/17     12                  Wednesday                          
+1945/10/18     13                  Thursday                           
+1945/10/19     14                  Friday                             
+1945/10/20     15                  Saturday                           
+1945/10/21     16                  Sunday                             
+1945/10/22     17                  Monday                             
+1945/10/23     18                  Tuesday                            
+1945/10/24     19                  Wednesday      Frost               
+1945/10/25     20                  Thursday                           
+1945/10/26     21                  Friday                             
+1945/10/27     22                  Saturday                           
+1945/10/28     23                  Sunday                             
+1945/10/29     24                  Monday                             
+1945/10/30     25                  Tuesday                            
+1945/10/31     26                  Wednesday                          
+1945/11/01     27                  Thursday                           
+1945/11/02     28                  Friday                             
+1945/11/03     29                  Saturday                           
+1945/11/04     30                  Sunday                             
+1945/11/05     10th Lunar month    Monday                             
+1945/11/06     2                   Tuesday                            
+1945/11/07     3                   Wednesday                          
+1945/11/08     4                   Thursday       Winter Commences    
+1945/11/09     5                   Friday                             
+1945/11/10     6                   Saturday                           
+1945/11/11     7                   Sunday                             
+1945/11/12     8                   Monday                             
+1945/11/13     9                   Tuesday                            
+1945/11/14     10                  Wednesday                          
+1945/11/15     11                  Thursday                           
+1945/11/16     12                  Friday                             
+1945/11/17     13                  Saturday                           
+1945/11/18     14                  Sunday                             
+1945/11/19     15                  Monday                             
+1945/11/20     16                  Tuesday                            
+1945/11/21     17                  Wednesday                          
+1945/11/22     18                  Thursday       Light Snow          
+1945/11/23     19                  Friday                             
+1945/11/24     20                  Saturday                           
+1945/11/25     21                  Sunday                             
+1945/11/26     22                  Monday                             
+1945/11/27     23                  Tuesday                            
+1945/11/28     24                  Wednesday                          
+1945/11/29     25                  Thursday                           
+1945/11/30     26                  Friday                             
+1945/12/01     27                  Saturday                           
+1945/12/02     28                  Sunday                             
+1945/12/03     29                  Monday                             
+1945/12/04     30                  Tuesday                            
+1945/12/05     11th Lunar month    Wednesday                          
+1945/12/06     2                   Thursday                           
+1945/12/07     3                   Friday         Heavy Snow          
+1945/12/08     4                   Saturday                           
+1945/12/09     5                   Sunday                             
+1945/12/10     6                   Monday                             
+1945/12/11     7                   Tuesday                            
+1945/12/12     8                   Wednesday                          
+1945/12/13     9                   Thursday                           
+1945/12/14     10                  Friday                             
+1945/12/15     11                  Saturday                           
+1945/12/16     12                  Sunday                             
+1945/12/17     13                  Monday                             
+1945/12/18     14                  Tuesday                            
+1945/12/19     15                  Wednesday                          
+1945/12/20     16                  Thursday                           
+1945/12/21     17                  Friday                             
+1945/12/22     18                  Saturday       Winter Solstice     
+1945/12/23     19                  Sunday                             
+1945/12/24     20                  Monday                             
+1945/12/25     21                  Tuesday                            
+1945/12/26     22                  Wednesday                          
+1945/12/27     23                  Thursday                           
+1945/12/28     24                  Friday                             
+1945/12/29     25                  Saturday                           
+1945/12/30     26                  Sunday                             
+1945/12/31     27                  Monday                             
+
+In 1945, summer time was enforced during 1 January to 31 December in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

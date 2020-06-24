@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2053 (Gui-you  -  year of the Rooster)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2053/1/1          12                      Wednesday                          
+2053/1/2          13                      Thursday                           
+2053/1/3          14                      Friday                             
+2053/1/4          15                      Saturday                           
+2053/1/5          16                      Sunday         Moderate Cold       
+2053/1/6          17                      Monday                             
+2053/1/7          18                      Tuesday                            
+2053/1/8          19                      Wednesday                          
+2053/1/9          20                      Thursday                           
+2053/1/10         21                      Friday                             
+2053/1/11         22                      Saturday                           
+2053/1/12         23                      Sunday                             
+2053/1/13         24                      Monday                             
+2053/1/14         25                      Tuesday                            
+2053/1/15         26                      Wednesday                          
+2053/1/16         27                      Thursday                           
+2053/1/17         28                      Friday                             
+2053/1/18         29                      Saturday                           
+2053/1/19         30                      Sunday         Severe Cold         
+2053/1/20         12th Lunar Month        Monday                             
+2053/1/21         2                       Tuesday                            
+2053/1/22         3                       Wednesday                          
+2053/1/23         4                       Thursday                           
+2053/1/24         5                       Friday                             
+2053/1/25         6                       Saturday                           
+2053/1/26         7                       Sunday                             
+2053/1/27         8                       Monday                             
+2053/1/28         9                       Tuesday                            
+2053/1/29         10                      Wednesday                          
+2053/1/30         11                      Thursday                           
+2053/1/31         12                      Friday                             
+2053/2/1          13                      Saturday                           
+2053/2/2          14                      Sunday                             
+2053/2/3          15                      Monday         Spring Commences    
+2053/2/4          16                      Tuesday                            
+2053/2/5          17                      Wednesday                          
+2053/2/6          18                      Thursday                           
+2053/2/7          19                      Friday                             
+2053/2/8          20                      Saturday                           
+2053/2/9          21                      Sunday                             
+2053/2/10         22                      Monday                             
+2053/2/11         23                      Tuesday                            
+2053/2/12         24                      Wednesday                          
+2053/2/13         25                      Thursday                           
+2053/2/14         26                      Friday                             
+2053/2/15         27                      Saturday                           
+2053/2/16         28                      Sunday                             
+2053/2/17         29                      Monday                             
+2053/2/18         30                      Tuesday        Spring Showers      
+2053/2/19         1st Lunar Month         Wednesday                          
+2053/2/20         2                       Thursday                           
+2053/2/21         3                       Friday                             
+2053/2/22         4                       Saturday                           
+2053/2/23         5                       Sunday                             
+2053/2/24         6                       Monday                             
+2053/2/25         7                       Tuesday                            
+2053/2/26         8                       Wednesday                          
+2053/2/27         9                       Thursday                           
+2053/2/28         10                      Friday                             
+2053/3/1          11                      Saturday                           
+2053/3/2          12                      Sunday                             
+2053/3/3          13                      Monday                             
+2053/3/4          14                      Tuesday                            
+2053/3/5          15                      Wednesday      Insects Waken       
+2053/3/6          16                      Thursday                           
+2053/3/7          17                      Friday                             
+2053/3/8          18                      Saturday                           
+2053/3/9          19                      Sunday                             
+2053/3/10         20                      Monday                             
+2053/3/11         21                      Tuesday                            
+2053/3/12         22                      Wednesday                          
+2053/3/13         23                      Thursday                           
+2053/3/14         24                      Friday                             
+2053/3/15         25                      Saturday                           
+2053/3/16         26                      Sunday                             
+2053/3/17         27                      Monday                             
+2053/3/18         28                      Tuesday                            
+2053/3/19         29                      Wednesday                          
+2053/3/20         2nd Lunar Month         Thursday       Vernal Equinox      
+2053/3/21         2                       Friday                             
+2053/3/22         3                       Saturday                           
+2053/3/23         4                       Sunday                             
+2053/3/24         5                       Monday                             
+2053/3/25         6                       Tuesday                            
+2053/3/26         7                       Wednesday                          
+2053/3/27         8                       Thursday                           
+2053/3/28         9                       Friday                             
+2053/3/29         10                      Saturday                           
+2053/3/30         11                      Sunday                             
+2053/3/31         12                      Monday                             
+2053/4/1          13                      Tuesday                            
+2053/4/2          14                      Wednesday                          
+2053/4/3          15                      Thursday                           
+2053/4/4          16                      Friday         Bright & Clear      
+2053/4/5          17                      Saturday                           
+2053/4/6          18                      Sunday                             
+2053/4/7          19                      Monday                             
+2053/4/8          20                      Tuesday                            
+2053/4/9          21                      Wednesday                          
+2053/4/10         22                      Thursday                           
+2053/4/11         23                      Friday                             
+2053/4/12         24                      Saturday                           
+2053/4/13         25                      Sunday                             
+2053/4/14         26                      Monday                             
+2053/4/15         27                      Tuesday                            
+2053/4/16         28                      Wednesday                          
+2053/4/17         29                      Thursday                           
+2053/4/18         30                      Friday                             
+2053/4/19         3rd Lunar Month         Saturday       Corn Rain           
+2053/4/20         2                       Sunday                             
+2053/4/21         3                       Monday                             
+2053/4/22         4                       Tuesday                            
+2053/4/23         5                       Wednesday                          
+2053/4/24         6                       Thursday                           
+2053/4/25         7                       Friday                             
+2053/4/26         8                       Saturday                           
+2053/4/27         9                       Sunday                             
+2053/4/28         10                      Monday                             
+2053/4/29         11                      Tuesday                            
+2053/4/30         12                      Wednesday                          
+2053/5/1          13                      Thursday                           
+2053/5/2          14                      Friday                             
+2053/5/3          15                      Saturday                           
+2053/5/4          16                      Sunday                             
+2053/5/5          17                      Monday         Summer Commences    
+2053/5/6          18                      Tuesday                            
+2053/5/7          19                      Wednesday                          
+2053/5/8          20                      Thursday                           
+2053/5/9          21                      Friday                             
+2053/5/10         22                      Saturday                           
+2053/5/11         23                      Sunday                             
+2053/5/12         24                      Monday                             
+2053/5/13         25                      Tuesday                            
+2053/5/14         26                      Wednesday                          
+2053/5/15         27                      Thursday                           
+2053/5/16         28                      Friday                             
+2053/5/17         29                      Saturday                           
+2053/5/18         4th Lunar Month         Sunday                             
+2053/5/19         2                       Monday                             
+2053/5/20         3                       Tuesday        Corn Forms          
+2053/5/21         4                       Wednesday                          
+2053/5/22         5                       Thursday                           
+2053/5/23         6                       Friday                             
+2053/5/24         7                       Saturday                           
+2053/5/25         8                       Sunday                             
+2053/5/26         9                       Monday                             
+2053/5/27         10                      Tuesday                            
+2053/5/28         11                      Wednesday                          
+2053/5/29         12                      Thursday                           
+2053/5/30         13                      Friday                             
+2053/5/31         14                      Saturday                           
+2053/6/1          15                      Sunday                             
+2053/6/2          16                      Monday                             
+2053/6/3          17                      Tuesday                            
+2053/6/4          18                      Wednesday                          
+2053/6/5          19                      Thursday       Corn on Ear         
+2053/6/6          20                      Friday                             
+2053/6/7          21                      Saturday                           
+2053/6/8          22                      Sunday                             
+2053/6/9          23                      Monday                             
+2053/6/10         24                      Tuesday                            
+2053/6/11         25                      Wednesday                          
+2053/6/12         26                      Thursday                           
+2053/6/13         27                      Friday                             
+2053/6/14         28                      Saturday                           
+2053/6/15         29                      Sunday                             
+2053/6/16         5th Lunar Month         Monday                             
+2053/6/17         2                       Tuesday                            
+2053/6/18         3                       Wednesday                          
+2053/6/19         4                       Thursday                           
+2053/6/20         5                       Friday                             
+2053/6/21         6                       Saturday       Summer Solstice     
+2053/6/22         7                       Sunday                             
+2053/6/23         8                       Monday                             
+2053/6/24         9                       Tuesday                            
+2053/6/25         10                      Wednesday                          
+2053/6/26         11                      Thursday                           
+2053/6/27         12                      Friday                             
+2053/6/28         13                      Saturday                           
+2053/6/29         14                      Sunday                             
+2053/6/30         15                      Monday                             
+2053/7/1          16                      Tuesday                            
+2053/7/2          17                      Wednesday                          
+2053/7/3          18                      Thursday                           
+2053/7/4          19                      Friday                             
+2053/7/5          20                      Saturday                           
+2053/7/6          21                      Sunday         Moderate Heat       
+2053/7/7          22                      Monday                             
+2053/7/8          23                      Tuesday                            
+2053/7/9          24                      Wednesday                          
+2053/7/10         25                      Thursday                           
+2053/7/11         26                      Friday                             
+2053/7/12         27                      Saturday                           
+2053/7/13         28                      Sunday                             
+2053/7/14         29                      Monday                             
+2053/7/15         30                      Tuesday                            
+2053/7/16         6th Lunar Month         Wednesday                          
+2053/7/17         2                       Thursday                           
+2053/7/18         3                       Friday                             
+2053/7/19         4                       Saturday                           
+2053/7/20         5                       Sunday                             
+2053/7/21         6                       Monday                             
+2053/7/22         7                       Tuesday        Great Heat          
+2053/7/23         8                       Wednesday                          
+2053/7/24         9                       Thursday                           
+2053/7/25         10                      Friday                             
+2053/7/26         11                      Saturday                           
+2053/7/27         12                      Sunday                             
+2053/7/28         13                      Monday                             
+2053/7/29         14                      Tuesday                            
+2053/7/30         15                      Wednesday                          
+2053/7/31         16                      Thursday                           
+2053/8/1          17                      Friday                             
+2053/8/2          18                      Saturday                           
+2053/8/3          19                      Sunday                             
+2053/8/4          20                      Monday                             
+2053/8/5          21                      Tuesday                            
+2053/8/6          22                      Wednesday                          
+2053/8/7          23                      Thursday       Autumn Commences    
+2053/8/8          24                      Friday                             
+2053/8/9          25                      Saturday                           
+2053/8/10         26                      Sunday                             
+2053/8/11         27                      Monday                             
+2053/8/12         28                      Tuesday                            
+2053/8/13         29                      Wednesday                          
+2053/8/14         7th Lunar Month         Thursday                           
+2053/8/15         2                       Friday                             
+2053/8/16         3                       Saturday                           
+2053/8/17         4                       Sunday                             
+2053/8/18         5                       Monday                             
+2053/8/19         6                       Tuesday                            
+2053/8/20         7                       Wednesday                          
+2053/8/21         8                       Thursday                           
+2053/8/22         9                       Friday         End of Heat         
+2053/8/23         10                      Saturday                           
+2053/8/24         11                      Sunday                             
+2053/8/25         12                      Monday                             
+2053/8/26         13                      Tuesday                            
+2053/8/27         14                      Wednesday                          
+2053/8/28         15                      Thursday                           
+2053/8/29         16                      Friday                             
+2053/8/30         17                      Saturday                           
+2053/8/31         18                      Sunday                             
+2053/9/1          19                      Monday                             
+2053/9/2          20                      Tuesday                            
+2053/9/3          21                      Wednesday                          
+2053/9/4          22                      Thursday                           
+2053/9/5          23                      Friday                             
+2053/9/6          24                      Saturday                           
+2053/9/7          25                      Sunday         White Dew           
+2053/9/8          26                      Monday                             
+2053/9/9          27                      Tuesday                            
+2053/9/10         28                      Wednesday                          
+2053/9/11         29                      Thursday                           
+2053/9/12         8th Lunar Month         Friday                             
+2053/9/13         2                       Saturday                           
+2053/9/14         3                       Sunday                             
+2053/9/15         4                       Monday                             
+2053/9/16         5                       Tuesday                            
+2053/9/17         6                       Wednesday                          
+2053/9/18         7                       Thursday                           
+2053/9/19         8                       Friday                             
+2053/9/20         9                       Saturday                           
+2053/9/21         10                      Sunday                             
+2053/9/22         11                      Monday         Autumnal Equinox    
+2053/9/23         12                      Tuesday                            
+2053/9/24         13                      Wednesday                          
+2053/9/25         14                      Thursday                           
+2053/9/26         15                      Friday                             
+2053/9/27         16                      Saturday                           
+2053/9/28         17                      Sunday                             
+2053/9/29         18                      Monday                             
+2053/9/30         19                      Tuesday                            
+2053/10/1         20                      Wednesday                          
+2053/10/2         21                      Thursday                           
+2053/10/3         22                      Friday                             
+2053/10/4         23                      Saturday                           
+2053/10/5         24                      Sunday                             
+2053/10/6         25                      Monday                             
+2053/10/7         26                      Tuesday                            
+2053/10/8         27                      Wednesday      Cold Dew            
+2053/10/9         28                      Thursday                           
+2053/10/10        29                      Friday                             
+2053/10/11        30                      Saturday                           
+2053/10/12        9th Lunar Month         Sunday                             
+2053/10/13        2                       Monday                             
+2053/10/14        3                       Tuesday                            
+2053/10/15        4                       Wednesday                          
+2053/10/16        5                       Thursday                           
+2053/10/17        6                       Friday                             
+2053/10/18        7                       Saturday                           
+2053/10/19        8                       Sunday                             
+2053/10/20        9                       Monday                             
+2053/10/21        10                      Tuesday                            
+2053/10/22        11                      Wednesday                          
+2053/10/23        12                      Thursday       Frost               
+2053/10/24        13                      Friday                             
+2053/10/25        14                      Saturday                           
+2053/10/26        15                      Sunday                             
+2053/10/27        16                      Monday                             
+2053/10/28        17                      Tuesday                            
+2053/10/29        18                      Wednesday                          
+2053/10/30        19                      Thursday                           
+2053/10/31        20                      Friday                             
+2053/11/1         21                      Saturday                           
+2053/11/2         22                      Sunday                             
+2053/11/3         23                      Monday                             
+2053/11/4         24                      Tuesday                            
+2053/11/5         25                      Wednesday                          
+2053/11/6         26                      Thursday                           
+2053/11/7         27                      Friday         Winter Commences    
+2053/11/8         28                      Saturday                           
+2053/11/9         29                      Sunday                             
+2053/11/10        10th Lunar Month        Monday                             
+2053/11/11        2                       Tuesday                            
+2053/11/12        3                       Wednesday                          
+2053/11/13        4                       Thursday                           
+2053/11/14        5                       Friday                             
+2053/11/15        6                       Saturday                           
+2053/11/16        7                       Sunday                             
+2053/11/17        8                       Monday                             
+2053/11/18        9                       Tuesday                            
+2053/11/19        10                      Wednesday                          
+2053/11/20        11                      Thursday                           
+2053/11/21        12                      Friday                             
+2053/11/22        13                      Saturday       Light Snow          
+2053/11/23        14                      Sunday                             
+2053/11/24        15                      Monday                             
+2053/11/25        16                      Tuesday                            
+2053/11/26        17                      Wednesday                          
+2053/11/27        18                      Thursday                           
+2053/11/28        19                      Friday                             
+2053/11/29        20                      Saturday                           
+2053/11/30        21                      Sunday                             
+2053/12/1         22                      Monday                             
+2053/12/2         23                      Tuesday                            
+2053/12/3         24                      Wednesday                          
+2053/12/4         25                      Thursday                           
+2053/12/5         26                      Friday                             
+2053/12/6         27                      Saturday                           
+2053/12/7         28                      Sunday         Heavy Snow          
+2053/12/8         29                      Monday                             
+2053/12/9         30                      Tuesday                            
+2053/12/10        11th Lunar Month        Wednesday                          
+2053/12/11        2                       Thursday                           
+2053/12/12        3                       Friday                             
+2053/12/13        4                       Saturday                           
+2053/12/14        5                       Sunday                             
+2053/12/15        6                       Monday                             
+2053/12/16        7                       Tuesday                            
+2053/12/17        8                       Wednesday                          
+2053/12/18        9                       Thursday                           
+2053/12/19        10                      Friday                             
+2053/12/20        11                      Saturday                           
+2053/12/21        12                      Sunday         Winter Solstice     
+2053/12/22        13                      Monday                             
+2053/12/23        14                      Tuesday                            
+2053/12/24        15                      Wednesday                          
+2053/12/25        16                      Thursday                           
+2053/12/26        17                      Friday                             
+2053/12/27        18                      Saturday                           
+2053/12/28        19                      Sunday                             
+2053/12/29        20                      Monday                             
+2053/12/30        21                      Tuesday                            
+2053/12/31        22                      Wednesday                          

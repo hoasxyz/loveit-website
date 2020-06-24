@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1934 (Jia-xu ¡V year of the Dog)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1934/01/01     16                  Monday                             
+1934/01/02     17                  Tuesday                            
+1934/01/03     18                  Wednesday                          
+1934/01/04     19                  Thursday                           
+1934/01/05     20                  Friday                             
+1934/01/06     21                  Saturday       Moderate Cold       
+1934/01/07     22                  Sunday                             
+1934/01/08     23                  Monday                             
+1934/01/09     24                  Tuesday                            
+1934/01/10     25                  Wednesday                          
+1934/01/11     26                  Thursday                           
+1934/01/12     27                  Friday                             
+1934/01/13     28                  Saturday                           
+1934/01/14     29                  Sunday                             
+1934/01/15     12th Lunar month    Monday                             
+1934/01/16     2                   Tuesday                            
+1934/01/17     3                   Wednesday                          
+1934/01/18     4                   Thursday                           
+1934/01/19     5                   Friday                             
+1934/01/20     6                   Saturday                           
+1934/01/21     7                   Sunday         Severe Cold         
+1934/01/22     8                   Monday                             
+1934/01/23     9                   Tuesday                            
+1934/01/24     10                  Wednesday                          
+1934/01/25     11                  Thursday                           
+1934/01/26     12                  Friday                             
+1934/01/27     13                  Saturday                           
+1934/01/28     14                  Sunday                             
+1934/01/29     15                  Monday                             
+1934/01/30     16                  Tuesday                            
+1934/01/31     17                  Wednesday                          
+1934/02/01     18                  Thursday                           
+1934/02/02     19                  Friday                             
+1934/02/03     20                  Saturday                           
+1934/02/04     21                  Sunday         Spring Commences    
+1934/02/05     22                  Monday                             
+1934/02/06     23                  Tuesday                            
+1934/02/07     24                  Wednesday                          
+1934/02/08     25                  Thursday                           
+1934/02/09     26                  Friday                             
+1934/02/10     27                  Saturday                           
+1934/02/11     28                  Sunday                             
+1934/02/12     29                  Monday                             
+1934/02/13     30                  Tuesday                            
+1934/02/14     1st Lunar month     Wednesday                          
+1934/02/15     2                   Thursday                           
+1934/02/16     3                   Friday                             
+1934/02/17     4                   Saturday                           
+1934/02/18     5                   Sunday                             
+1934/02/19     6                   Monday         Spring Showers      
+1934/02/20     7                   Tuesday                            
+1934/02/21     8                   Wednesday                          
+1934/02/22     9                   Thursday                           
+1934/02/23     10                  Friday                             
+1934/02/24     11                  Saturday                           
+1934/02/25     12                  Sunday                             
+1934/02/26     13                  Monday                             
+1934/02/27     14                  Tuesday                            
+1934/02/28     15                  Wednesday                          
+1934/03/01     16                  Thursday                           
+1934/03/02     17                  Friday                             
+1934/03/03     18                  Saturday                           
+1934/03/04     19                  Sunday                             
+1934/03/05     20                  Monday                             
+1934/03/06     21                  Tuesday        Insects Waken       
+1934/03/07     22                  Wednesday                          
+1934/03/08     23                  Thursday                           
+1934/03/09     24                  Friday                             
+1934/03/10     25                  Saturday                           
+1934/03/11     26                  Sunday                             
+1934/03/12     27                  Monday                             
+1934/03/13     28                  Tuesday                            
+1934/03/14     29                  Wednesday                          
+1934/03/15     2nd Lunar month     Thursday                           
+1934/03/16     2                   Friday                             
+1934/03/17     3                   Saturday                           
+1934/03/18     4                   Sunday                             
+1934/03/19     5                   Monday                             
+1934/03/20     6                   Tuesday                            
+1934/03/21     7                   Wednesday      Vernal Equinox      
+1934/03/22     8                   Thursday                           
+1934/03/23     9                   Friday                             
+1934/03/24     10                  Saturday                           
+1934/03/25     11                  Sunday                             
+1934/03/26     12                  Monday                             
+1934/03/27     13                  Tuesday                            
+1934/03/28     14                  Wednesday                          
+1934/03/29     15                  Thursday                           
+1934/03/30     16                  Friday                             
+1934/03/31     17                  Saturday                           
+1934/04/01     18                  Sunday                             
+1934/04/02     19                  Monday                             
+1934/04/03     20                  Tuesday                            
+1934/04/04     21                  Wednesday                          
+1934/04/05     22                  Thursday       Bright & Clear      
+1934/04/06     23                  Friday                             
+1934/04/07     24                  Saturday                           
+1934/04/08     25                  Sunday                             
+1934/04/09     26                  Monday                             
+1934/04/10     27                  Tuesday                            
+1934/04/11     28                  Wednesday                          
+1934/04/12     29                  Thursday                           
+1934/04/13     30                  Friday                             
+1934/04/14     3rd Lunar month     Saturday                           
+1934/04/15     2                   Sunday                             
+1934/04/16     3                   Monday                             
+1934/04/17     4                   Tuesday                            
+1934/04/18     5                   Wednesday                          
+1934/04/19     6                   Thursday                           
+1934/04/20     7                   Friday                             
+1934/04/21     8                   Saturday       Corn Rain           
+1934/04/22     9                   Sunday                             
+1934/04/23     10                  Monday                             
+1934/04/24     11                  Tuesday                            
+1934/04/25     12                  Wednesday                          
+1934/04/26     13                  Thursday                           
+1934/04/27     14                  Friday                             
+1934/04/28     15                  Saturday                           
+1934/04/29     16                  Sunday                             
+1934/04/30     17                  Monday                             
+1934/05/01     18                  Tuesday                            
+1934/05/02     19                  Wednesday                          
+1934/05/03     20                  Thursday                           
+1934/05/04     21                  Friday                             
+1934/05/05     22                  Saturday                           
+1934/05/06     23                  Sunday         Summer Commences    
+1934/05/07     24                  Monday                             
+1934/05/08     25                  Tuesday                            
+1934/05/09     26                  Wednesday                          
+1934/05/10     27                  Thursday                           
+1934/05/11     28                  Friday                             
+1934/05/12     29                  Saturday                           
+1934/05/13     4th Lunar month     Sunday                             
+1934/05/14     2                   Monday                             
+1934/05/15     3                   Tuesday                            
+1934/05/16     4                   Wednesday                          
+1934/05/17     5                   Thursday                           
+1934/05/18     6                   Friday                             
+1934/05/19     7                   Saturday                           
+1934/05/20     8                   Sunday                             
+1934/05/21     9                   Monday                             
+1934/05/22     10                  Tuesday        Corn Forms          
+1934/05/23     11                  Wednesday                          
+1934/05/24     12                  Thursday                           
+1934/05/25     13                  Friday                             
+1934/05/26     14                  Saturday                           
+1934/05/27     15                  Sunday                             
+1934/05/28     16                  Monday                             
+1934/05/29     17                  Tuesday                            
+1934/05/30     18                  Wednesday                          
+1934/05/31     19                  Thursday                           
+1934/06/01     20                  Friday                             
+1934/06/02     21                  Saturday                           
+1934/06/03     22                  Sunday                             
+1934/06/04     23                  Monday                             
+1934/06/05     24                  Tuesday                            
+1934/06/06     25                  Wednesday      Corn on Ear         
+1934/06/07     26                  Thursday                           
+1934/06/08     27                  Friday                             
+1934/06/09     28                  Saturday                           
+1934/06/10     29                  Sunday                             
+1934/06/11     30                  Monday                             
+1934/06/12     5th Lunar month     Tuesday                            
+1934/06/13     2                   Wednesday                          
+1934/06/14     3                   Thursday                           
+1934/06/15     4                   Friday                             
+1934/06/16     5                   Saturday                           
+1934/06/17     6                   Sunday                             
+1934/06/18     7                   Monday                             
+1934/06/19     8                   Tuesday                            
+1934/06/20     9                   Wednesday                          
+1934/06/21     10                  Thursday                           
+1934/06/22     11                  Friday         Summer Solstice     
+1934/06/23     12                  Saturday                           
+1934/06/24     13                  Sunday                             
+1934/06/25     14                  Monday                             
+1934/06/26     15                  Tuesday                            
+1934/06/27     16                  Wednesday                          
+1934/06/28     17                  Thursday                           
+1934/06/29     18                  Friday                             
+1934/06/30     19                  Saturday                           
+1934/07/01     20                  Sunday                             
+1934/07/02     21                  Monday                             
+1934/07/03     22                  Tuesday                            
+1934/07/04     23                  Wednesday                          
+1934/07/05     24                  Thursday                           
+1934/07/06     25                  Friday                             
+1934/07/07     26                  Saturday                           
+1934/07/08     27                  Sunday         Moderate Heat       
+1934/07/09     28                  Monday                             
+1934/07/10     29                  Tuesday                            
+1934/07/11     30                  Wednesday                          
+1934/07/12     6th Lunar month     Thursday                           
+1934/07/13     2                   Friday                             
+1934/07/14     3                   Saturday                           
+1934/07/15     4                   Sunday                             
+1934/07/16     5                   Monday                             
+1934/07/17     6                   Tuesday                            
+1934/07/18     7                   Wednesday                          
+1934/07/19     8                   Thursday                           
+1934/07/20     9                   Friday                             
+1934/07/21     10                  Saturday                           
+1934/07/22     11                  Sunday                             
+1934/07/23     12                  Monday         Great Heat          
+1934/07/24     13                  Tuesday                            
+1934/07/25     14                  Wednesday                          
+1934/07/26     15                  Thursday                           
+1934/07/27     16                  Friday                             
+1934/07/28     17                  Saturday                           
+1934/07/29     18                  Sunday                             
+1934/07/30     19                  Monday                             
+1934/07/31     20                  Tuesday                            
+1934/08/01     21                  Wednesday                          
+1934/08/02     22                  Thursday                           
+1934/08/03     23                  Friday                             
+1934/08/04     24                  Saturday                           
+1934/08/05     25                  Sunday                             
+1934/08/06     26                  Monday                             
+1934/08/07     27                  Tuesday                            
+1934/08/08     28                  Wednesday      Autumn Commences    
+1934/08/09     29                  Thursday                           
+1934/08/10     7th Lunar month     Friday                             
+1934/08/11     2                   Saturday                           
+1934/08/12     3                   Sunday                             
+1934/08/13     4                   Monday                             
+1934/08/14     5                   Tuesday                            
+1934/08/15     6                   Wednesday                          
+1934/08/16     7                   Thursday                           
+1934/08/17     8                   Friday                             
+1934/08/18     9                   Saturday                           
+1934/08/19     10                  Sunday                             
+1934/08/20     11                  Monday                             
+1934/08/21     12                  Tuesday                            
+1934/08/22     13                  Wednesday                          
+1934/08/23     14                  Thursday                           
+1934/08/24     15                  Friday         End of Heat         
+1934/08/25     16                  Saturday                           
+1934/08/26     17                  Sunday                             
+1934/08/27     18                  Monday                             
+1934/08/28     19                  Tuesday                            
+1934/08/29     20                  Wednesday                          
+1934/08/30     21                  Thursday                           
+1934/08/31     22                  Friday                             
+1934/09/01     23                  Saturday                           
+1934/09/02     24                  Sunday                             
+1934/09/03     25                  Monday                             
+1934/09/04     26                  Tuesday                            
+1934/09/05     27                  Wednesday                          
+1934/09/06     28                  Thursday                           
+1934/09/07     29                  Friday                             
+1934/09/08     30                  Saturday       White Dew           
+1934/09/09     8th Lunar month     Sunday                             
+1934/09/10     2                   Monday                             
+1934/09/11     3                   Tuesday                            
+1934/09/12     4                   Wednesday                          
+1934/09/13     5                   Thursday                           
+1934/09/14     6                   Friday                             
+1934/09/15     7                   Saturday                           
+1934/09/16     8                   Sunday                             
+1934/09/17     9                   Monday                             
+1934/09/18     10                  Tuesday                            
+1934/09/19     11                  Wednesday                          
+1934/09/20     12                  Thursday                           
+1934/09/21     13                  Friday                             
+1934/09/22     14                  Saturday                           
+1934/09/23     15                  Sunday                             
+1934/09/24     16                  Monday         Autumnal Equinox    
+1934/09/25     17                  Tuesday                            
+1934/09/26     18                  Wednesday                          
+1934/09/27     19                  Thursday                           
+1934/09/28     20                  Friday                             
+1934/09/29     21                  Saturday                           
+1934/09/30     22                  Sunday                             
+1934/10/01     23                  Monday                             
+1934/10/02     24                  Tuesday                            
+1934/10/03     25                  Wednesday                          
+1934/10/04     26                  Thursday                           
+1934/10/05     27                  Friday                             
+1934/10/06     28                  Saturday                           
+1934/10/07     29                  Sunday                             
+1934/10/08     9th Lunar month     Monday                             
+1934/10/09     2                   Tuesday        Cold Dew            
+1934/10/10     3                   Wednesday                          
+1934/10/11     4                   Thursday                           
+1934/10/12     5                   Friday                             
+1934/10/13     6                   Saturday                           
+1934/10/14     7                   Sunday                             
+1934/10/15     8                   Monday                             
+1934/10/16     9                   Tuesday                            
+1934/10/17     10                  Wednesday                          
+1934/10/18     11                  Thursday                           
+1934/10/19     12                  Friday                             
+1934/10/20     13                  Saturday                           
+1934/10/21     14                  Sunday                             
+1934/10/22     15                  Monday                             
+1934/10/23     16                  Tuesday                            
+1934/10/24     17                  Wednesday      Frost               
+1934/10/25     18                  Thursday                           
+1934/10/26     19                  Friday                             
+1934/10/27     20                  Saturday                           
+1934/10/28     21                  Sunday                             
+1934/10/29     22                  Monday                             
+1934/10/30     23                  Tuesday                            
+1934/10/31     24                  Wednesday                          
+1934/11/01     25                  Thursday                           
+1934/11/02     26                  Friday                             
+1934/11/03     27                  Saturday                           
+1934/11/04     28                  Sunday                             
+1934/11/05     29                  Monday                             
+1934/11/06     30                  Tuesday                            
+1934/11/07     10th Lunar month    Wednesday                          
+1934/11/08     2                   Thursday       Winter Commences    
+1934/11/09     3                   Friday                             
+1934/11/10     4                   Saturday                           
+1934/11/11     5                   Sunday                             
+1934/11/12     6                   Monday                             
+1934/11/13     7                   Tuesday                            
+1934/11/14     8                   Wednesday                          
+1934/11/15     9                   Thursday                           
+1934/11/16     10                  Friday                             
+1934/11/17     11                  Saturday                           
+1934/11/18     12                  Sunday                             
+1934/11/19     13                  Monday                             
+1934/11/20     14                  Tuesday                            
+1934/11/21     15                  Wednesday                          
+1934/11/22     16                  Thursday                           
+1934/11/23     17                  Friday         Light Snow          
+1934/11/24     18                  Saturday                           
+1934/11/25     19                  Sunday                             
+1934/11/26     20                  Monday                             
+1934/11/27     21                  Tuesday                            
+1934/11/28     22                  Wednesday                          
+1934/11/29     23                  Thursday                           
+1934/11/30     24                  Friday                             
+1934/12/01     25                  Saturday                           
+1934/12/02     26                  Sunday                             
+1934/12/03     27                  Monday                             
+1934/12/04     28                  Tuesday                            
+1934/12/05     29                  Wednesday                          
+1934/12/06     30                  Thursday                           
+1934/12/07     11th Lunar month    Friday                             
+1934/12/08     2                   Saturday       Heavy Snow          
+1934/12/09     3                   Sunday                             
+1934/12/10     4                   Monday                             
+1934/12/11     5                   Tuesday                            
+1934/12/12     6                   Wednesday                          
+1934/12/13     7                   Thursday                           
+1934/12/14     8                   Friday                             
+1934/12/15     9                   Saturday                           
+1934/12/16     10                  Sunday                             
+1934/12/17     11                  Monday                             
+1934/12/18     12                  Tuesday                            
+1934/12/19     13                  Wednesday                          
+1934/12/20     14                  Thursday                           
+1934/12/21     15                  Friday                             
+1934/12/22     16                  Saturday       Winter Solstice     
+1934/12/23     17                  Sunday                             
+1934/12/24     18                  Monday                             
+1934/12/25     19                  Tuesday                            
+1934/12/26     20                  Wednesday                          
+1934/12/27     21                  Thursday                           
+1934/12/28     22                  Friday                             
+1934/12/29     23                  Saturday                           
+1934/12/30     24                  Sunday                             
+1934/12/31     25                  Monday                             

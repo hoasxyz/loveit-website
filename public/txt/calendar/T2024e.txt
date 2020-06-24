@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2024 (Jia-chen  -  year of the Dragon)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2024/1/1          20                      Monday                             
+2024/1/2          21                      Tuesday                            
+2024/1/3          22                      Wednesday                          
+2024/1/4          23                      Thursday                           
+2024/1/5          24                      Friday                             
+2024/1/6          25                      Saturday       Moderate Cold       
+2024/1/7          26                      Sunday                             
+2024/1/8          27                      Monday                             
+2024/1/9          28                      Tuesday                            
+2024/1/10         29                      Wednesday                          
+2024/1/11         12th Lunar Month        Thursday                           
+2024/1/12         2                       Friday                             
+2024/1/13         3                       Saturday                           
+2024/1/14         4                       Sunday                             
+2024/1/15         5                       Monday                             
+2024/1/16         6                       Tuesday                            
+2024/1/17         7                       Wednesday                          
+2024/1/18         8                       Thursday                           
+2024/1/19         9                       Friday                             
+2024/1/20         10                      Saturday       Severe Cold         
+2024/1/21         11                      Sunday                             
+2024/1/22         12                      Monday                             
+2024/1/23         13                      Tuesday                            
+2024/1/24         14                      Wednesday                          
+2024/1/25         15                      Thursday                           
+2024/1/26         16                      Friday                             
+2024/1/27         17                      Saturday                           
+2024/1/28         18                      Sunday                             
+2024/1/29         19                      Monday                             
+2024/1/30         20                      Tuesday                            
+2024/1/31         21                      Wednesday                          
+2024/2/1          22                      Thursday                           
+2024/2/2          23                      Friday                             
+2024/2/3          24                      Saturday                           
+2024/2/4          25                      Sunday         Spring Commences    
+2024/2/5          26                      Monday                             
+2024/2/6          27                      Tuesday                            
+2024/2/7          28                      Wednesday                          
+2024/2/8          29                      Thursday                           
+2024/2/9          30                      Friday                             
+2024/2/10         1st Lunar Month         Saturday                           
+2024/2/11         2                       Sunday                             
+2024/2/12         3                       Monday                             
+2024/2/13         4                       Tuesday                            
+2024/2/14         5                       Wednesday                          
+2024/2/15         6                       Thursday                           
+2024/2/16         7                       Friday                             
+2024/2/17         8                       Saturday                           
+2024/2/18         9                       Sunday                             
+2024/2/19         10                      Monday         Spring Showers      
+2024/2/20         11                      Tuesday                            
+2024/2/21         12                      Wednesday                          
+2024/2/22         13                      Thursday                           
+2024/2/23         14                      Friday                             
+2024/2/24         15                      Saturday                           
+2024/2/25         16                      Sunday                             
+2024/2/26         17                      Monday                             
+2024/2/27         18                      Tuesday                            
+2024/2/28         19                      Wednesday                          
+2024/2/29         20                      Thursday                           
+2024/3/1          21                      Friday                             
+2024/3/2          22                      Saturday                           
+2024/3/3          23                      Sunday                             
+2024/3/4          24                      Monday                             
+2024/3/5          25                      Tuesday        Insects Waken       
+2024/3/6          26                      Wednesday                          
+2024/3/7          27                      Thursday                           
+2024/3/8          28                      Friday                             
+2024/3/9          29                      Saturday                           
+2024/3/10         2nd Lunar Month         Sunday                             
+2024/3/11         2                       Monday                             
+2024/3/12         3                       Tuesday                            
+2024/3/13         4                       Wednesday                          
+2024/3/14         5                       Thursday                           
+2024/3/15         6                       Friday                             
+2024/3/16         7                       Saturday                           
+2024/3/17         8                       Sunday                             
+2024/3/18         9                       Monday                             
+2024/3/19         10                      Tuesday                            
+2024/3/20         11                      Wednesday      Vernal Equinox      
+2024/3/21         12                      Thursday                           
+2024/3/22         13                      Friday                             
+2024/3/23         14                      Saturday                           
+2024/3/24         15                      Sunday                             
+2024/3/25         16                      Monday                             
+2024/3/26         17                      Tuesday                            
+2024/3/27         18                      Wednesday                          
+2024/3/28         19                      Thursday                           
+2024/3/29         20                      Friday                             
+2024/3/30         21                      Saturday                           
+2024/3/31         22                      Sunday                             
+2024/4/1          23                      Monday                             
+2024/4/2          24                      Tuesday                            
+2024/4/3          25                      Wednesday                          
+2024/4/4          26                      Thursday       Bright & Clear      
+2024/4/5          27                      Friday                             
+2024/4/6          28                      Saturday                           
+2024/4/7          29                      Sunday                             
+2024/4/8          30                      Monday                             
+2024/4/9          3rd Lunar Month         Tuesday                            
+2024/4/10         2                       Wednesday                          
+2024/4/11         3                       Thursday                           
+2024/4/12         4                       Friday                             
+2024/4/13         5                       Saturday                           
+2024/4/14         6                       Sunday                             
+2024/4/15         7                       Monday                             
+2024/4/16         8                       Tuesday                            
+2024/4/17         9                       Wednesday                          
+2024/4/18         10                      Thursday                           
+2024/4/19         11                      Friday         Corn Rain           
+2024/4/20         12                      Saturday                           
+2024/4/21         13                      Sunday                             
+2024/4/22         14                      Monday                             
+2024/4/23         15                      Tuesday                            
+2024/4/24         16                      Wednesday                          
+2024/4/25         17                      Thursday                           
+2024/4/26         18                      Friday                             
+2024/4/27         19                      Saturday                           
+2024/4/28         20                      Sunday                             
+2024/4/29         21                      Monday                             
+2024/4/30         22                      Tuesday                            
+2024/5/1          23                      Wednesday                          
+2024/5/2          24                      Thursday                           
+2024/5/3          25                      Friday                             
+2024/5/4          26                      Saturday                           
+2024/5/5          27                      Sunday         Summer Commences    
+2024/5/6          28                      Monday                             
+2024/5/7          29                      Tuesday                            
+2024/5/8          4th Lunar Month         Wednesday                          
+2024/5/9          2                       Thursday                           
+2024/5/10         3                       Friday                             
+2024/5/11         4                       Saturday                           
+2024/5/12         5                       Sunday                             
+2024/5/13         6                       Monday                             
+2024/5/14         7                       Tuesday                            
+2024/5/15         8                       Wednesday                          
+2024/5/16         9                       Thursday                           
+2024/5/17         10                      Friday                             
+2024/5/18         11                      Saturday                           
+2024/5/19         12                      Sunday                             
+2024/5/20         13                      Monday         Corn Forms          
+2024/5/21         14                      Tuesday                            
+2024/5/22         15                      Wednesday                          
+2024/5/23         16                      Thursday                           
+2024/5/24         17                      Friday                             
+2024/5/25         18                      Saturday                           
+2024/5/26         19                      Sunday                             
+2024/5/27         20                      Monday                             
+2024/5/28         21                      Tuesday                            
+2024/5/29         22                      Wednesday                          
+2024/5/30         23                      Thursday                           
+2024/5/31         24                      Friday                             
+2024/6/1          25                      Saturday                           
+2024/6/2          26                      Sunday                             
+2024/6/3          27                      Monday                             
+2024/6/4          28                      Tuesday                            
+2024/6/5          29                      Wednesday      Corn on Ear         
+2024/6/6          5th Lunar Month         Thursday                           
+2024/6/7          2                       Friday                             
+2024/6/8          3                       Saturday                           
+2024/6/9          4                       Sunday                             
+2024/6/10         5                       Monday                             
+2024/6/11         6                       Tuesday                            
+2024/6/12         7                       Wednesday                          
+2024/6/13         8                       Thursday                           
+2024/6/14         9                       Friday                             
+2024/6/15         10                      Saturday                           
+2024/6/16         11                      Sunday                             
+2024/6/17         12                      Monday                             
+2024/6/18         13                      Tuesday                            
+2024/6/19         14                      Wednesday                          
+2024/6/20         15                      Thursday                           
+2024/6/21         16                      Friday         Summer Solstice     
+2024/6/22         17                      Saturday                           
+2024/6/23         18                      Sunday                             
+2024/6/24         19                      Monday                             
+2024/6/25         20                      Tuesday                            
+2024/6/26         21                      Wednesday                          
+2024/6/27         22                      Thursday                           
+2024/6/28         23                      Friday                             
+2024/6/29         24                      Saturday                           
+2024/6/30         25                      Sunday                             
+2024/7/1          26                      Monday                             
+2024/7/2          27                      Tuesday                            
+2024/7/3          28                      Wednesday                          
+2024/7/4          29                      Thursday                           
+2024/7/5          30                      Friday                             
+2024/7/6          6th Lunar Month         Saturday             
+2024/7/7          2                       Sunday                             
+2024/7/8          3                       Monday                             
+2024/7/9          4                       Tuesday                            
+2024/7/10         5                       Wednesday                          
+2024/7/11         6                       Thursday                           
+2024/7/12         7                       Friday                             
+2024/7/13         8                       Saturday                           
+2024/7/14         9                       Sunday                             
+2024/7/15         10                      Monday                             
+2024/7/16         11                      Tuesday                            
+2024/7/17         12                      Wednesday                          
+2024/7/18         13                      Thursday                           
+2024/7/19         14                      Friday                             
+2024/7/20         15                      Saturday                           
+2024/7/21         16                      Sunday                             
+2024/7/22         17                      Monday         Great Heat          
+2024/7/23         18                      Tuesday                            
+2024/7/24         19                      Wednesday                          
+2024/7/25         20                      Thursday                           
+2024/7/26         21                      Friday                             
+2024/7/27         22                      Saturday                           
+2024/7/28         23                      Sunday                             
+2024/7/29         24                      Monday                             
+2024/7/30         25                      Tuesday                            
+2024/7/31         26                      Wednesday                          
+2024/8/1          27                      Thursday                           
+2024/8/2          28                      Friday                             
+2024/8/3          29                      Saturday                           
+2024/8/4          7th Lunar Month         Sunday                             
+2024/8/5          2                       Monday                             
+2024/8/6          3                       Tuesday                            
+2024/8/7          4                       Wednesday      Autumn Commences    
+2024/8/8          5                       Thursday                           
+2024/8/9          6                       Friday                             
+2024/8/10         7                       Saturday                           
+2024/8/11         8                       Sunday                             
+2024/8/12         9                       Monday                             
+2024/8/13         10                      Tuesday                            
+2024/8/14         11                      Wednesday                          
+2024/8/15         12                      Thursday                           
+2024/8/16         13                      Friday                             
+2024/8/17         14                      Saturday                           
+2024/8/18         15                      Sunday                             
+2024/8/19         16                      Monday                             
+2024/8/20         17                      Tuesday                            
+2024/8/21         18                      Wednesday                          
+2024/8/22         19                      Thursday       End of Heat         
+2024/8/23         20                      Friday                             
+2024/8/24         21                      Saturday                           
+2024/8/25         22                      Sunday                             
+2024/8/26         23                      Monday                             
+2024/8/27         24                      Tuesday                            
+2024/8/28         25                      Wednesday                          
+2024/8/29         26                      Thursday                           
+2024/8/30         27                      Friday                             
+2024/8/31         28                      Saturday                           
+2024/9/1          29                      Sunday                             
+2024/9/2          30                      Monday                             
+2024/9/3          8th Lunar Month         Tuesday                            
+2024/9/4          2                       Wednesday                          
+2024/9/5          3                       Thursday                           
+2024/9/6          4                       Friday                             
+2024/9/7          5                       Saturday       White Dew           
+2024/9/8          6                       Sunday                             
+2024/9/9          7                       Monday                             
+2024/9/10         8                       Tuesday                            
+2024/9/11         9                       Wednesday                          
+2024/9/12         10                      Thursday                           
+2024/9/13         11                      Friday                             
+2024/9/14         12                      Saturday                           
+2024/9/15         13                      Sunday                             
+2024/9/16         14                      Monday                             
+2024/9/17         15                      Tuesday                            
+2024/9/18         16                      Wednesday                          
+2024/9/19         17                      Thursday                           
+2024/9/20         18                      Friday                             
+2024/9/21         19                      Saturday                           
+2024/9/22         20                      Sunday         Autumnal Equinox    
+2024/9/23         21                      Monday                             
+2024/9/24         22                      Tuesday                            
+2024/9/25         23                      Wednesday                          
+2024/9/26         24                      Thursday                           
+2024/9/27         25                      Friday                             
+2024/9/28         26                      Saturday                           
+2024/9/29         27                      Sunday                             
+2024/9/30         28                      Monday                             
+2024/10/1         29                      Tuesday                            
+2024/10/2         30                      Wednesday                          
+2024/10/3         9th Lunar Month         Thursday                           
+2024/10/4         2                       Friday                             
+2024/10/5         3                       Saturday                           
+2024/10/6         4                       Sunday                             
+2024/10/7         5                       Monday                             
+2024/10/8         6                       Tuesday        Cold Dew            
+2024/10/9         7                       Wednesday                          
+2024/10/10        8                       Thursday                           
+2024/10/11        9                       Friday                             
+2024/10/12        10                      Saturday                           
+2024/10/13        11                      Sunday                             
+2024/10/14        12                      Monday                             
+2024/10/15        13                      Tuesday                            
+2024/10/16        14                      Wednesday                          
+2024/10/17        15                      Thursday                           
+2024/10/18        16                      Friday                             
+2024/10/19        17                      Saturday                           
+2024/10/20        18                      Sunday                             
+2024/10/21        19                      Monday                             
+2024/10/22        20                      Tuesday                            
+2024/10/23        21                      Wednesday      Frost               
+2024/10/24        22                      Thursday                           
+2024/10/25        23                      Friday                             
+2024/10/26        24                      Saturday                           
+2024/10/27        25                      Sunday                             
+2024/10/28        26                      Monday                             
+2024/10/29        27                      Tuesday                            
+2024/10/30        28                      Wednesday                          
+2024/10/31        29                      Thursday                           
+2024/11/1         10th Lunar Month        Friday                             
+2024/11/2         2                       Saturday                           
+2024/11/3         3                       Sunday                             
+2024/11/4         4                       Monday                             
+2024/11/5         5                       Tuesday                            
+2024/11/6         6                       Wednesday                          
+2024/11/7         7                       Thursday       Winter Commences    
+2024/11/8         8                       Friday                             
+2024/11/9         9                       Saturday                           
+2024/11/10        10                      Sunday                             
+2024/11/11        11                      Monday                             
+2024/11/12        12                      Tuesday                            
+2024/11/13        13                      Wednesday                          
+2024/11/14        14                      Thursday                           
+2024/11/15        15                      Friday                             
+2024/11/16        16                      Saturday                           
+2024/11/17        17                      Sunday                             
+2024/11/18        18                      Monday                             
+2024/11/19        19                      Tuesday                            
+2024/11/20        20                      Wednesday                          
+2024/11/21        21                      Thursday                           
+2024/11/22        22                      Friday         Light Snow          
+2024/11/23        23                      Saturday                           
+2024/11/24        24                      Sunday                             
+2024/11/25        25                      Monday                             
+2024/11/26        26                      Tuesday                            
+2024/11/27        27                      Wednesday                          
+2024/11/28        28                      Thursday                           
+2024/11/29        29                      Friday                             
+2024/11/30        30                      Saturday                           
+2024/12/1         11th Lunar Month        Sunday                             
+2024/12/2         2                       Monday                             
+2024/12/3         3                       Tuesday                            
+2024/12/4         4                       Wednesday                          
+2024/12/5         5                       Thursday                           
+2024/12/6         6                       Friday         Heavy Snow          
+2024/12/7         7                       Saturday                           
+2024/12/8         8                       Sunday                             
+2024/12/9         9                       Monday                             
+2024/12/10        10                      Tuesday                            
+2024/12/11        11                      Wednesday                          
+2024/12/12        12                      Thursday                           
+2024/12/13        13                      Friday                             
+2024/12/14        14                      Saturday                           
+2024/12/15        15                      Sunday                             
+2024/12/16        16                      Monday                             
+2024/12/17        17                      Tuesday                            
+2024/12/18        18                      Wednesday                          
+2024/12/19        19                      Thursday                           
+2024/12/20        20                      Friday                             
+2024/12/21        21                      Saturday       Winter Solstice     
+2024/12/22        22                      Sunday                             
+2024/12/23        23                      Monday                             
+2024/12/24        24                      Tuesday                            
+2024/12/25        25                      Wednesday                          
+2024/12/26        26                      Thursday                           
+2024/12/27        27                      Friday                             
+2024/12/28        28                      Saturday                           
+2024/12/29        29                      Sunday                             
+2024/12/30        30                      Monday                             
+2024/12/31        12th Lunar Month        Tuesday                            

@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2097 (Ding-si  -  year of the Snake)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2097/1/1          18                      Tuesday                            
+2097/1/2          19                      Wednesday                          
+2097/1/3          20                      Thursday                           
+2097/1/4          21                      Friday         Moderate Cold       
+2097/1/5          22                      Saturday                           
+2097/1/6          23                      Sunday                             
+2097/1/7          24                      Monday                             
+2097/1/8          25                      Tuesday                            
+2097/1/9          26                      Wednesday                          
+2097/1/10         27                      Thursday                           
+2097/1/11         28                      Friday                             
+2097/1/12         29                      Saturday                           
+2097/1/13         12th Lunar Month        Sunday                             
+2097/1/14         2                       Monday                             
+2097/1/15         3                       Tuesday                            
+2097/1/16         4                       Wednesday                          
+2097/1/17         5                       Thursday                           
+2097/1/18         6                       Friday                             
+2097/1/19         7                       Saturday       Severe Cold         
+2097/1/20         8                       Sunday                             
+2097/1/21         9                       Monday                             
+2097/1/22         10                      Tuesday                            
+2097/1/23         11                      Wednesday                          
+2097/1/24         12                      Thursday                           
+2097/1/25         13                      Friday                             
+2097/1/26         14                      Saturday                           
+2097/1/27         15                      Sunday                             
+2097/1/28         16                      Monday                             
+2097/1/29         17                      Tuesday                            
+2097/1/30         18                      Wednesday                          
+2097/1/31         19                      Thursday                           
+2097/2/1          20                      Friday                             
+2097/2/2          21                      Saturday                           
+2097/2/3          22                      Sunday         Spring Commences    
+2097/2/4          23                      Monday                             
+2097/2/5          24                      Tuesday                            
+2097/2/6          25                      Wednesday                          
+2097/2/7          26                      Thursday                           
+2097/2/8          27                      Friday                             
+2097/2/9          28                      Saturday                           
+2097/2/10         29                      Sunday                             
+2097/2/11         30                      Monday                             
+2097/2/12         1st Lunar Month         Tuesday                            
+2097/2/13         2                       Wednesday                          
+2097/2/14         3                       Thursday                           
+2097/2/15         4                       Friday                             
+2097/2/16         5                       Saturday                           
+2097/2/17         6                       Sunday                             
+2097/2/18         7                       Monday         Spring Showers      
+2097/2/19         8                       Tuesday                            
+2097/2/20         9                       Wednesday                          
+2097/2/21         10                      Thursday                           
+2097/2/22         11                      Friday                             
+2097/2/23         12                      Saturday                           
+2097/2/24         13                      Sunday                             
+2097/2/25         14                      Monday                             
+2097/2/26         15                      Tuesday                            
+2097/2/27         16                      Wednesday                          
+2097/2/28         17                      Thursday                           
+2097/3/1          18                      Friday                             
+2097/3/2          19                      Saturday                           
+2097/3/3          20                      Sunday                             
+2097/3/4          21                      Monday                             
+2097/3/5          22                      Tuesday        Insects Waken       
+2097/3/6          23                      Wednesday                          
+2097/3/7          24                      Thursday                           
+2097/3/8          25                      Friday                             
+2097/3/9          26                      Saturday                           
+2097/3/10         27                      Sunday                             
+2097/3/11         28                      Monday                             
+2097/3/12         29                      Tuesday                            
+2097/3/13         30                      Wednesday                          
+2097/3/14         2nd Lunar Month         Thursday                           
+2097/3/15         2                       Friday                             
+2097/3/16         3                       Saturday                           
+2097/3/17         4                       Sunday                             
+2097/3/18         5                       Monday                             
+2097/3/19         6                       Tuesday                            
+2097/3/20         7                       Wednesday      Vernal Equinox      
+2097/3/21         8                       Thursday                           
+2097/3/22         9                       Friday                             
+2097/3/23         10                      Saturday                           
+2097/3/24         11                      Sunday                             
+2097/3/25         12                      Monday                             
+2097/3/26         13                      Tuesday                            
+2097/3/27         14                      Wednesday                          
+2097/3/28         15                      Thursday                           
+2097/3/29         16                      Friday                             
+2097/3/30         17                      Saturday                           
+2097/3/31         18                      Sunday                             
+2097/4/1          19                      Monday                             
+2097/4/2          20                      Tuesday                            
+2097/4/3          21                      Wednesday                          
+2097/4/4          22                      Thursday       Bright & Clear      
+2097/4/5          23                      Friday                             
+2097/4/6          24                      Saturday                           
+2097/4/7          25                      Sunday                             
+2097/4/8          26                      Monday                             
+2097/4/9          27                      Tuesday                            
+2097/4/10         28                      Wednesday                          
+2097/4/11         29                      Thursday                           
+2097/4/12         3rd Lunar Month         Friday                             
+2097/4/13         2                       Saturday                           
+2097/4/14         3                       Sunday                             
+2097/4/15         4                       Monday                             
+2097/4/16         5                       Tuesday                            
+2097/4/17         6                       Wednesday                          
+2097/4/18         7                       Thursday                           
+2097/4/19         8                       Friday         Corn Rain           
+2097/4/20         9                       Saturday                           
+2097/4/21         10                      Sunday                             
+2097/4/22         11                      Monday                             
+2097/4/23         12                      Tuesday                            
+2097/4/24         13                      Wednesday                          
+2097/4/25         14                      Thursday                           
+2097/4/26         15                      Friday                             
+2097/4/27         16                      Saturday                           
+2097/4/28         17                      Sunday                             
+2097/4/29         18                      Monday                             
+2097/4/30         19                      Tuesday                            
+2097/5/1          20                      Wednesday                          
+2097/5/2          21                      Thursday                           
+2097/5/3          22                      Friday                             
+2097/5/4          23                      Saturday                           
+2097/5/5          24                      Sunday         Summer Commences    
+2097/5/6          25                      Monday                             
+2097/5/7          26                      Tuesday                            
+2097/5/8          27                      Wednesday                          
+2097/5/9          28                      Thursday                           
+2097/5/10         29                      Friday                             
+2097/5/11         30                      Saturday                           
+2097/5/12         4th Lunar Month         Sunday                             
+2097/5/13         2                       Monday                             
+2097/5/14         3                       Tuesday                            
+2097/5/15         4                       Wednesday                          
+2097/5/16         5                       Thursday                           
+2097/5/17         6                       Friday                             
+2097/5/18         7                       Saturday                           
+2097/5/19         8                       Sunday                             
+2097/5/20         9                       Monday         Corn Forms          
+2097/5/21         10                      Tuesday                            
+2097/5/22         11                      Wednesday                          
+2097/5/23         12                      Thursday                           
+2097/5/24         13                      Friday                             
+2097/5/25         14                      Saturday                           
+2097/5/26         15                      Sunday                             
+2097/5/27         16                      Monday                             
+2097/5/28         17                      Tuesday                            
+2097/5/29         18                      Wednesday                          
+2097/5/30         19                      Thursday                           
+2097/5/31         20                      Friday                             
+2097/6/1          21                      Saturday                           
+2097/6/2          22                      Sunday                             
+2097/6/3          23                      Monday                             
+2097/6/4          24                      Tuesday                            
+2097/6/5          25                      Wednesday      Corn on Ear         
+2097/6/6          26                      Thursday                           
+2097/6/7          27                      Friday                             
+2097/6/8          28                      Saturday                           
+2097/6/9          29                      Sunday                             
+2097/6/10         5th Lunar Month         Monday                             
+2097/6/11         2                       Tuesday                            
+2097/6/12         3                       Wednesday                          
+2097/6/13         4                       Thursday                           
+2097/6/14         5                       Friday                             
+2097/6/15         6                       Saturday                           
+2097/6/16         7                       Sunday                             
+2097/6/17         8                       Monday                             
+2097/6/18         9                       Tuesday                            
+2097/6/19         10                      Wednesday                          
+2097/6/20         11                      Thursday       Summer Solstice     
+2097/6/21         12                      Friday                             
+2097/6/22         13                      Saturday                           
+2097/6/23         14                      Sunday                             
+2097/6/24         15                      Monday                             
+2097/6/25         16                      Tuesday                            
+2097/6/26         17                      Wednesday                          
+2097/6/27         18                      Thursday                           
+2097/6/28         19                      Friday                             
+2097/6/29         20                      Saturday                           
+2097/6/30         21                      Sunday                             
+2097/7/1          22                      Monday                             
+2097/7/2          23                      Tuesday                            
+2097/7/3          24                      Wednesday                          
+2097/7/4          25                      Thursday                           
+2097/7/5          26                      Friday                             
+2097/7/6          27                      Saturday       Moderate Heat       
+2097/7/7          28                      Sunday                             
+2097/7/8          29                      Monday                             
+2097/7/9          6th Lunar Month         Tuesday                            
+2097/7/10         2                       Wednesday                          
+2097/7/11         3                       Thursday                           
+2097/7/12         4                       Friday                             
+2097/7/13         5                       Saturday                           
+2097/7/14         6                       Sunday                             
+2097/7/15         7                       Monday                             
+2097/7/16         8                       Tuesday                            
+2097/7/17         9                       Wednesday                          
+2097/7/18         10                      Thursday                           
+2097/7/19         11                      Friday                             
+2097/7/20         12                      Saturday                           
+2097/7/21         13                      Sunday                             
+2097/7/22         14                      Monday         Great Heat          
+2097/7/23         15                      Tuesday                            
+2097/7/24         16                      Wednesday                          
+2097/7/25         17                      Thursday                           
+2097/7/26         18                      Friday                             
+2097/7/27         19                      Saturday                           
+2097/7/28         20                      Sunday                             
+2097/7/29         21                      Monday                             
+2097/7/30         22                      Tuesday                            
+2097/7/31         23                      Wednesday                          
+2097/8/1          24                      Thursday                           
+2097/8/2          25                      Friday                             
+2097/8/3          26                      Saturday                           
+2097/8/4          27                      Sunday                             
+2097/8/5          28                      Monday                             
+2097/8/6          29                      Tuesday        Autumn Commences    
+2097/8/7          7th Lunar Month         Wednesday                          
+2097/8/8          2                       Thursday                           
+2097/8/9          3                       Friday                             
+2097/8/10         4                       Saturday                           
+2097/8/11         5                       Sunday                             
+2097/8/12         6                       Monday                             
+2097/8/13         7                       Tuesday                            
+2097/8/14         8                       Wednesday                          
+2097/8/15         9                       Thursday                           
+2097/8/16         10                      Friday                             
+2097/8/17         11                      Saturday                           
+2097/8/18         12                      Sunday                             
+2097/8/19         13                      Monday                             
+2097/8/20         14                      Tuesday                            
+2097/8/21         15                      Wednesday                          
+2097/8/22         16                      Thursday       End of Heat         
+2097/8/23         17                      Friday                             
+2097/8/24         18                      Saturday                           
+2097/8/25         19                      Sunday                             
+2097/8/26         20                      Monday                             
+2097/8/27         21                      Tuesday                            
+2097/8/28         22                      Wednesday                          
+2097/8/29         23                      Thursday                           
+2097/8/30         24                      Friday                             
+2097/8/31         25                      Saturday                           
+2097/9/1          26                      Sunday                             
+2097/9/2          27                      Monday                             
+2097/9/3          28                      Tuesday                            
+2097/9/4          29                      Wednesday                          
+2097/9/5          30                      Thursday                           
+2097/9/6          8th Lunar Month         Friday                             
+2097/9/7          2                       Saturday       White Dew           
+2097/9/8          3                       Sunday                             
+2097/9/9          4                       Monday                             
+2097/9/10         5                       Tuesday                            
+2097/9/11         6                       Wednesday                          
+2097/9/12         7                       Thursday                           
+2097/9/13         8                       Friday                             
+2097/9/14         9                       Saturday                           
+2097/9/15         10                      Sunday                             
+2097/9/16         11                      Monday                             
+2097/9/17         12                      Tuesday                            
+2097/9/18         13                      Wednesday                          
+2097/9/19         14                      Thursday                           
+2097/9/20         15                      Friday                             
+2097/9/21         16                      Saturday                           
+2097/9/22         17                      Sunday         Autumnal Equinox    
+2097/9/23         18                      Monday                             
+2097/9/24         19                      Tuesday                            
+2097/9/25         20                      Wednesday                          
+2097/9/26         21                      Thursday                           
+2097/9/27         22                      Friday                             
+2097/9/28         23                      Saturday                           
+2097/9/29         24                      Sunday                             
+2097/9/30         25                      Monday                             
+2097/10/1         26                      Tuesday                            
+2097/10/2         27                      Wednesday                          
+2097/10/3         28                      Thursday                           
+2097/10/4         29                      Friday                             
+2097/10/5         9th Lunar Month         Saturday                           
+2097/10/6         2                       Sunday                             
+2097/10/7         3                       Monday         Cold Dew            
+2097/10/8         4                       Tuesday                            
+2097/10/9         5                       Wednesday                          
+2097/10/10        6                       Thursday                           
+2097/10/11        7                       Friday                             
+2097/10/12        8                       Saturday                           
+2097/10/13        9                       Sunday                             
+2097/10/14        10                      Monday                             
+2097/10/15        11                      Tuesday                            
+2097/10/16        12                      Wednesday                          
+2097/10/17        13                      Thursday                           
+2097/10/18        14                      Friday                             
+2097/10/19        15                      Saturday                           
+2097/10/20        16                      Sunday                             
+2097/10/21        17                      Monday                             
+2097/10/22        18                      Tuesday        Frost               
+2097/10/23        19                      Wednesday                          
+2097/10/24        20                      Thursday                           
+2097/10/25        21                      Friday                             
+2097/10/26        22                      Saturday                           
+2097/10/27        23                      Sunday                             
+2097/10/28        24                      Monday                             
+2097/10/29        25                      Tuesday                            
+2097/10/30        26                      Wednesday                          
+2097/10/31        27                      Thursday                           
+2097/11/1         28                      Friday                             
+2097/11/2         29                      Saturday                           
+2097/11/3         30                      Sunday                             
+2097/11/4         10th Lunar Month        Monday                             
+2097/11/5         2                       Tuesday                            
+2097/11/6         3                       Wednesday      Winter Commences    
+2097/11/7         4                       Thursday                           
+2097/11/8         5                       Friday                             
+2097/11/9         6                       Saturday                           
+2097/11/10        7                       Sunday                             
+2097/11/11        8                       Monday                             
+2097/11/12        9                       Tuesday                            
+2097/11/13        10                      Wednesday                          
+2097/11/14        11                      Thursday                           
+2097/11/15        12                      Friday                             
+2097/11/16        13                      Saturday                           
+2097/11/17        14                      Sunday                             
+2097/11/18        15                      Monday                             
+2097/11/19        16                      Tuesday                            
+2097/11/20        17                      Wednesday                          
+2097/11/21        18                      Thursday       Light Snow          
+2097/11/22        19                      Friday                             
+2097/11/23        20                      Saturday                           
+2097/11/24        21                      Sunday                             
+2097/11/25        22                      Monday                             
+2097/11/26        23                      Tuesday                            
+2097/11/27        24                      Wednesday                          
+2097/11/28        25                      Thursday                           
+2097/11/29        26                      Friday                             
+2097/11/30        27                      Saturday                           
+2097/12/1         28                      Sunday                             
+2097/12/2         29                      Monday                             
+2097/12/3         30                      Tuesday                            
+2097/12/4         11th Lunar Month        Wednesday                          
+2097/12/5         2                       Thursday                           
+2097/12/6         3                       Friday         Heavy Snow          
+2097/12/7         4                       Saturday                           
+2097/12/8         5                       Sunday                             
+2097/12/9         6                       Monday                             
+2097/12/10        7                       Tuesday                            
+2097/12/11        8                       Wednesday                          
+2097/12/12        9                       Thursday                           
+2097/12/13        10                      Friday                             
+2097/12/14        11                      Saturday                           
+2097/12/15        12                      Sunday                             
+2097/12/16        13                      Monday                             
+2097/12/17        14                      Tuesday                            
+2097/12/18        15                      Wednesday                          
+2097/12/19        16                      Thursday                           
+2097/12/20        17                      Friday                             
+2097/12/21        18                      Saturday       Winter Solstice     
+2097/12/22        19                      Sunday                             
+2097/12/23        20                      Monday                             
+2097/12/24        21                      Tuesday                            
+2097/12/25        22                      Wednesday                          
+2097/12/26        23                      Thursday                           
+2097/12/27        24                      Friday                             
+2097/12/28        25                      Saturday                           
+2097/12/29        26                      Sunday                             
+2097/12/30        27                      Monday                             
+2097/12/31        28                      Tuesday                            

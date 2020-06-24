@@ -1,0 +1,427 @@
+# ggplot2
+
+
+  There are brief notes about the usage of **ggplot2**.
+
+## expression/annotate/Greek letters/title
+
+
+```r
+t <- seq(1,4,0.1)
+qmp <- function(t) {
+  0.278*(98.92/t^0.65-2)*78
+}
+
+q <- seq(500,2000,75)
+tao <- function(q) {
+  0.278*14.6/0.96/0.296/q^0.25
+}
+
+library(cowplot)
+ggplot()+
+  geom_smooth(mapping = aes(x = t, y = qmp(t)),color = "red")+
+  geom_smooth(mapping = aes(x = tao(q), y = q),color = 'blue',linetype = "dashed",show.legend = TRUE)+
+  labs(title = "9-2",x = expression(paste(tau, "(h)")),y = expression(Q[mp](m^3/s)))+
+  theme(plot.title = element_text(hjust = 0.5))+
+  background_grid(major = "xy")+
+  annotate("text", x = c(1.5,2.6), y = c(1400,1500),
+           label = c(expression(paste(Q[mp],"~",tau)),expression(paste(tau,'~',Q[mp]))))
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+
+
+```r
+library(cowplot)
+library(tidyverse)
+library(scales)
+
+z_xx <- 214 #堰顶高程就是正常蓄水位，也就是汛限水位
+z_fh <- 228
+z_sj <- 229.63
+z_jh <- 231.27
+xi_q <- 1
+
+tbl <- structure(list(t = c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 
+                     14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 
+                     30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 
+                     46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 
+                     62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 
+                     78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90), Q = c(634.6, 
+                                                                                648.1, 681, 713.8, 746.7, 779.5, 812.4, 845.3, 878.1, 911, 943.8, 
+                                                                                976.7, 1009.5, 1164.9, 1442.7, 1720.6, 1998.4, 2276.3, 2554.2, 
+                                                                                2832, 3109.9, 3387.7, 3665.6, 3943.5, 4221.3, 4502.3, 4786.5, 
+                                                                                5070.7, 5354.9, 5639.1, 5923.3, 6207.5, 6491.7, 6775.9, 7060.1, 
+                                                                                7344.3, 7628.4, 7711.6, 7593.6, 7475.7, 7357.7, 7239.8, 7121.8, 
+                                                                                7003.9, 6885.9, 6768, 6650, 6532.1, 6414.1, 6268.4, 6095.1, 5921.7, 
+                                                                                5748.4, 5575, 5401.6, 5228.3, 5054.9, 4881.5, 4708.2, 4534.8, 
+                                                                                4361.4, 4209.4, 4078.8, 3948.2, 3817.6, 3687, 3556.4, 3425.7, 
+                                                                                3295.1, 3164.5, 3033.9, 2903.3, 2772.7, 2678.1, 2619.5, 2560.9, 
+                                                                                2502.3, 2443.7, 2385.2, 2326.6, 2268, 2209.4, 2150.8, 2092.3, 
+                                                                                2033.7, 1989.7, 1960.4, 1931.2, 1901.9, 1872.6)), row.names = c(NA, 
+                                                                                                                                                -90L), class = c("tbl_df", "tbl", "data.frame"))
+
+bs <- structure(list(Z = c(170, 170.78, 175, 177.5, 180, 183.63, 185, 
+                           187.5, 190, 192.88, 195, 200, 200.54, 203, 205, 207.06, 210, 
+                           212.58, 214, 215, 217.33, 220, 221.76, 225, 228, 229.66, 230, 
+                           231.49, 233, 233.73), V = c(4.79, 5, 6.51, 7.4, 8.46, 10, 10.71, 
+                                                       12, 13.39, 15, 16.2, 19.63, 20, 21.88, 23.4, 25, 27.6, 30, 31.6, 
+                                                       32.5, 35, 38.01, 40, 44.15, 48, 50.47, 50.98, 53.2, 55.49, 56.6
+                           ), Qt = c(73, 120, 377, 593, 809, 948, 1000, 1080, 1160, 1241, 
+                                     1300, 1426, 1439, 1496, 1542, 1586, 1650, 2269, 2610, 2850, 3948, 
+                                     5207, 6320, 8370, 10719, 12019, 12285, 13666, 15065, 15065)), row.names = c(NA, 
+                                                                                                                 -30L), class = c("tbl_df", "tbl", "data.frame"))
+
+tbl1 <- tbl %>% 
+  mutate(q = tbl$Q[1], v = 31.60, z = 214) %>% 
+  within({
+    for(i in 2:length(t)){
+      if(Q[i] < spline(x = bs$Z, y = bs$Qt, xout = z[i-1])$y){
+        q[i] <- Q[i]
+        v[i] <- v[i-1]
+        z[i] <- z[i-1]
+      } else if((Q[i] >= spline(x = bs$Z, y = bs$Qt, xout = z[i-1])$y) & 
+                (z[i] <= z_fh)){
+        q[i] <- spline(x = bs$Z, y = bs$Qt, xout = z[i-1])$y
+        v[i] <- v[i-1] + 0.5*(Q[i] + Q[i-1] - q[i] - q[i-1])*3600/100000000
+        z[i] <- spline(x = bs$V, y = bs$Z, xout = v[i])$y
+      } else { # 没有进行到这一步
+        q[i] <- q[i-1] + rnorm(1, mean=0, sd=10)
+        v[i] <- 0.5*(Q[i] + Q[i-1] - q[i] - q[i-1])*3600/100000000 + v[i-1]
+        q1 <- spline(x = bs$V, y = bs$Qt, xout = v[i])$y
+        while(abs(q[i] - q1) > xi_q){
+          q[i] <- (q[i] + q1)/2
+          v[i] <- 0.5*(Q[i] + Q[i-1] - q[i] - q[i-1])*3600/100000000 + v[i-1]
+          q1 <- spline(x = bs$V, y = bs$Qt, xout = v[i])$y
+        }
+        z[i] <- spline(x = bs$V, y = bs$Z, xout = v[i])$y
+      }
+    }
+  }) %>% 
+  select(-i)
+
+plot_1q <- tbl1 %>% 
+  select(c(t, Q, q)) %>% 
+  pivot_longer(-t, names_to = 'name', values_to = 'value') %>% 
+  mutate_at(vars(name), as.factor) %>% 
+ggplot(aes(x = t, y = value, color = name, lty = name)) +
+  theme_bw() +
+  geom_line(size = 1.5) +
+  # geom_smooth(method = myspline, se = FALSE, size = 1) +
+  theme(
+    plot.subtitle = element_text(vjust = 1),
+    plot.caption = element_text(vjust = 1),
+    plot.title = element_text(hjust = 0.5), legend.title = element_blank(),
+    legend.justification = c(1, 1), legend.position = c(0.99, 0.99)
+  ) +
+  labs(
+    title = "BS 水库调洪示意图",
+    x = "时间/h", y = expression(流量/ (m^3 / s))
+  ) +
+  scale_linetype_manual(
+    values = c(1, 2),
+    breaks = c('Q', 'q'),
+    labels = c("入库流量", "下泄流量")) +
+  scale_color_manual(
+    values = c('#b7e778' ,'#40dab2'),
+    breaks = c('Q', 'q'),
+    labels = c("入库流量", "下泄流量")
+  ) +
+  geom_vline(xintercept = 20, linetype = "dotdash", color = "#be6283", size = 1) +
+  geom_vline(xintercept = 63, linetype = "dotdash", color = "#be6283", size = 1)
+
+plot_1z <- tbl1 %>% 
+  select(c(t, z)) %>% 
+  ggplot(aes(x = t, y = z)) +
+  theme_bw() +
+    geom_line(size = 1.5, color = '#fddede') +
+  # geom_smooth(method = myspline, se = FALSE, size = 1) +
+  theme(
+    plot.subtitle = element_text(vjust = 1),
+    plot.caption = element_text(vjust = 1),
+    plot.title = element_text(hjust = 0.5), legend.title = element_blank(),
+    legend.justification = c(1, 1), legend.position = c(0.99, 0.99)
+  ) +
+  labs(
+    title = "BS 水库水位变化图",
+    x = "时间/h", y = expression(水位 / m)
+  ) +
+  geom_vline(xintercept = 20, linetype = "dotdash", color = "#be6283", size = 1) +
+  geom_vline(xintercept = 63, linetype = "dotdash", color = "#be6283", size = 1)
+
+plot_grid(plot_1q, plot_1z, labels = c("A", "B"), align = "v", nrow = 2)
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+
+```r
+tbl2 <- bs %>% 
+  filter(Z >= z_xx) %>% 
+  tibble::add_column(H = 0, v = 0, v_t = 0, f = .$Qt[1]/2) %>% 
+  select(Z, H, V, v, v_t, Qt, f) %>% 
+  within({
+    for(i in 2:length(Z)){
+      H[i] <- Z[i] - Z[1]
+      v[i] <- V[i] - V[1]
+      v_t[i] <- v[i]/3600*100000000
+      f[i] <- v_t[i] + Qt[i]/2
+    }
+  }) %>% 
+  select(-i)
+
+tbl2 %>% 
+  ggplot(aes(x = f, y = Qt)) +
+  theme_bw() +
+  geom_line() + 
+  geom_point() +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  labs(title = expression(BS*' 水库 '*q*' ~ '*(frac(V, Delta*'t') + frac(q, 2))*' 辅助曲线'),
+       x = expression(frac(V, Delta*'t') + frac(q, 2)/ (m^3 / s)), y = expression(q/ (m^3 / s))) +
+  scale_x_continuous(labels = scales::number) +
+  ylim(2000, 16000)
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-2-2.png" width="672" />
+
+
+
+  As you can see, the figure generated in HTML is clearer than in RStudio... But I don't know why.
+  
+  More expressions in R are available by calling `demo(plotmath)` or referring to  https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/plotmath.html.
+  
+  And more Greek letters used in R can be acquired by referring to http://kestrel.nmt.edu/~raymond/software/howtos/greekscape.xhtml.
+
+## extra dashed lines
+
+
+```r
+library(readxl)
+library(tidyverse)
+library(cowplot)
+
+a <- read_xlsx("../../Excel/A.xlsx", sheet = 1)
+
+x <- a %>%
+  select(-1, -14) %>%
+  as.matrix() %>%
+  t() %>%
+  as.vector() %>%
+  ts(frequency = 12, start = c(1951, 1))
+
+m <- 100; kk <- 600; m2 <- vector("numeric"); s <- vector("numeric", kk)
+s[1] <- 0; d <- vector("numeric", kk); p <- vector("numeric")
+
+v <- seq(0,150,5)
+
+for (k in seq_along(v)) {
+  m2[k] <- 0
+  for (i in 1:kk) {
+    if (x[i] + s[i] <= m) {
+      d[i] <- s[i] + x[i]
+      s[i + 1] <- 0
+      m2[k] <- m2[k] + 1
+    } else if (s[i] + x[i] <= m + v[k]) {
+      d[i] <- m
+      s[i + 1] <- s[i] + x[i] - m
+    } else {
+      d[i] <- s[i] + x[i] - v[k]
+      s[i + 1] <- v[k]
+    }
+  }
+  p[k] <- (kk - m2[k]) / (kk + 1) * 100
+}
+
+vp <- rbind(v,p) %>%
+  t() %>%
+  as_tibble()
+
+ggplot(vp,mapping = aes(x = p, y = v)) +
+  geom_point() +
+  background_grid("xy") +
+  labs(x = "P(%)", y = expression(V[兴](m^3/s%.%月))) +
+  geom_vline(xintercept = 95, linetype = "dashed", color = "red") +
+  geom_hline(yintercept = 46.5, linetype = "dashed", color = "red") +
+  geom_smooth(se = FALSE)
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+
+## the legend
+
+
+```r
+m <- seq(50,500, 10); kk <- 600; m2 <- vector("numeric"); s <- vector("numeric", kk)
+s[1] <- 0; d <- vector("numeric", kk); p <- vector("numeric")
+v <- seq(200, 800, 100); mp <- tibble()
+
+for(j in seq_along(v)){
+  for (k in seq_along(m)) {
+    m2[k] <- 0
+    for (i in 1:kk) {
+      if (x[i] + s[i] <= m[k]) {
+        d[i] <- s[i] + x[i]
+        s[i + 1] <- 0
+        m2[k] <- m2[k] + 1
+      } else if (s[i] + x[i] <= m[k] + v[j]) {
+        d[i] <- m[k]
+        s[i + 1] <- s[i] + x[i] - m[k]
+      } else {
+        d[i] <- s[i] + x[i] - v[j]
+        s[i + 1] <- v[j]
+      }
+    }
+    p[k] <- (kk - m2[k]) / (kk + 1) * 100
+  }
+  mp <- rbind(m,p,v=v[j]) %>%
+    t() %>%
+    rbind(mp) %>%
+    as_tibble()
+}
+
+mp$v <- mp$v %>%
+  as.factor()
+
+title <- expression(V(m^3/s%.%month))
+
+ggplot(mp, aes(x = p, y = m, color =v)) +
+  geom_smooth(se = FALSE) +
+  labs(x = "P(%)", y = expression(Q[p](m^3/s)), color = title) + 
+  theme(legend.title = element_text(size=10))+
+  background_grid(major = "xy")
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+
+Following shows how to break x-axis as you want:
+```r
+d1 <- data; d2 <- data2
+tb <- cbind(d1,d2) %>%
+  rename(中水年 = V12, 枯水年 = V2, month = V1) %>%
+  melt(id="month")
+library(cowplot)
+ggplot(tb,aes(x = month,y = value, color = variable)) +
+  geom_line()+
+  geom_point()+
+  labs(x = "月份", y = expression(出力/万kW)) +
+  background_grid("xy")+
+  scale_x_continuous(breaks=seq(0, 12, 2))+
+  theme(legend.justification=c(1,1), legend.position=c(1,1),legend.title=element_blank())
+```
+
+When you meet with sequences of times and two or more sets of plot types, for example, `col` and `shape`:
+
+```r
+library(readxl)
+library(reshape2)
+library(lubridate)
+
+final <- read_xlsx("../../Excel/设计洪水配线计算.xlsx",
+                   sheet = 9, range = "A20:E35") %>%
+  melt(id = "t")
+final$t <- ymd(final$t)
+final$variable <- str_replace(final$variable,"P.","P=")
+final$variable <- str_replace(final$variable,"2.","2%")
+ggplot(final,aes(x=t,y = value,color = variable,shape = variable))+
+  geom_point()+
+  ggalt::geom_xspline() + 
+  # theme(axis.text.x = element_text(angle = 45)) + 
+  scale_x_date(date_breaks = "3 day") + 
+  # theme(legend.position = "none") +
+  labs(title = "设计洪水过程线",x = expression(paste("时间", "(h)")),
+       y = expression("流量"(m^3/s)),shape = expression("图例"),col = expression("图例"))+
+  theme(plot.title = element_text(hjust = 0.5))+
+  background_grid(major = "xy")
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-5-1.png" width="672" />
+
+## double y-axis
+
+[This method](http://www.10tiao.com/html/404/201808/2651058545/2.html) changes the second variable's value to fit the first y-axis, which plays a trick on the second y-axis.
+
+```r
+library(ggplot2)
+library(ReadAxfBOM)
+
+obs <- ReadAxfBOM("http://www.bom.gov.au/fwo/IDV60901/IDV60901.94866.axf")
+
+p <- ggplot(obs, aes(x = Timestamp)) +
+  geom_line(aes(y = air_temp, colour = "Tempeture")) +
+  geom_line(aes(y = rel_hum, colour = "Humidity")) +
+  scale_y_continuous(sec.axis = sec_axis(~., name = "Relative humidity [%]")) +
+  scale_colour_manual(values = c("blue", "red")) +
+  labs(y = "Air temperature [°C]", x = "Date and time", colour = "Parameter") +
+  theme(legend.position = c(0.8, 0.9))
+p
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-6-1.png" width="672" />
+
+```r
+q <- ggplot(obs, aes(x = Timestamp)) +
+  geom_line(aes(y = air_temp, colour = "Tempeture")) +
+  geom_line(aes(y = rel_hum/5, colour = "Humidity")) +
+  scale_y_continuous(sec.axis = sec_axis(~.*5, name = "Relative humidity [%]")) +
+  scale_colour_manual(values = c("blue", "red")) +
+  labs(y = "Air temperature [°C]", x = "Date and time", colour = "Parameter") +
+  theme(legend.position = c(0.8, 0.9))
+q
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-6-2.png" width="672" />
+
+And [this](https://cloud.tencent.com/developer/article/1093077) is a similar method using range:
+
+```r
+# lct <- Sys.getlocale("LC_TIME")  
+#备份本地默认日期显示格式
+
+# Sys.setlocale("LC_TIME", "C")    
+#指定标准日期显示格式
+
+# Sys.setlocale("LC_TIME",lct)     
+#这一句是恢复默认系统日期显示格式
+#（记得要在使用完下面的month函数之后再运行这一句，否则月份返回的是中文）
+
+library("lubridate")
+library("ggplot2")
+library("scales")
+library("magrittr")
+library("tidyr")
+
+data1 <- data.frame(
+  Month = seq(from = as.Date('2017-01-01'),to=as.Date('2017-06-01'),by='1 month') %>% lubridate::month(label=TRUE),
+  Value = runif(6,10,50) %>% round()
+)
+
+data2 <- data.frame(
+  Month = seq(from = as.Date('2017-01-01'),to=as.Date('2017-06-01'),by='1 month') %>% lubridate::month(label=TRUE),
+  Categroy1 = runif(6,0.1,0.5) %>% round(2),
+  Categroy2 = runif(6,0.1,0.5) %>% round(2)
+) %>% gather(Category,Value,-1)
+
+ggplot() +
+  geom_col( data = data1,aes(x = Month,y = Value),fill="#6794a7") +
+  geom_line(data = data2,aes(x = Month,y = rescale(Value,c(0,55)),
+                             colour=Category,group=Category),size=1.5) +
+  geom_point(data = data2,aes(x = Month,y = rescale(Value,c(0,55)),
+                              colour=Category),shape=21,fill="white",size=4)+
+  scale_y_continuous(breaks=pretty_breaks(5),
+                     sec.axis = sec_axis( ~rescale(.,c(0,0.5)),
+                                          name = "Categroy",labels=sprintf("%d%%",(0:5)*10)))+
+  scale_color_manual(label = c("Categroy1", "Categroy2"),values = c("#ee8f71","#C10534")) +
+  labs(
+    title="This is a Title!",
+    subtitle="This is a Subtitle",
+    caption="This is a Caption"
+  )+
+  theme_minimal(base_size=16) %+replace% 
+  theme(
+    plot.caption = element_text(hjust=0),
+    plot.margin = unit(c(1,0.5,1,0.5), "lines")
+  )
+```
+
+<img src="/posts/2019-01-05-ggplot2_files/figure-html/unnamed-chunk-7-1.png" width="672" />
+
+

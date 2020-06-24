@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1987 (Ding-mao ¡V year of the Rabbit)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1987/01/01     2                   Thursday                           
+1987/01/02     3                   Friday                             
+1987/01/03     4                   Saturday                           
+1987/01/04     5                   Sunday                             
+1987/01/05     6                   Monday                             
+1987/01/06     7                   Tuesday        Moderate Cold       
+1987/01/07     8                   Wednesday                          
+1987/01/08     9                   Thursday                           
+1987/01/09     10                  Friday                             
+1987/01/10     11                  Saturday                           
+1987/01/11     12                  Sunday                             
+1987/01/12     13                  Monday                             
+1987/01/13     14                  Tuesday                            
+1987/01/14     15                  Wednesday                          
+1987/01/15     16                  Thursday                           
+1987/01/16     17                  Friday                             
+1987/01/17     18                  Saturday                           
+1987/01/18     19                  Sunday                             
+1987/01/19     20                  Monday                             
+1987/01/20     21                  Tuesday        Severe Cold         
+1987/01/21     22                  Wednesday                          
+1987/01/22     23                  Thursday                           
+1987/01/23     24                  Friday                             
+1987/01/24     25                  Saturday                           
+1987/01/25     26                  Sunday                             
+1987/01/26     27                  Monday                             
+1987/01/27     28                  Tuesday                            
+1987/01/28     29                  Wednesday                          
+1987/01/29     1st Lunar month     Thursday                           
+1987/01/30     2                   Friday                             
+1987/01/31     3                   Saturday                           
+1987/02/01     4                   Sunday                             
+1987/02/02     5                   Monday                             
+1987/02/03     6                   Tuesday                            
+1987/02/04     7                   Wednesday      Spring Commences    
+1987/02/05     8                   Thursday                           
+1987/02/06     9                   Friday                             
+1987/02/07     10                  Saturday                           
+1987/02/08     11                  Sunday                             
+1987/02/09     12                  Monday                             
+1987/02/10     13                  Tuesday                            
+1987/02/11     14                  Wednesday                          
+1987/02/12     15                  Thursday                           
+1987/02/13     16                  Friday                             
+1987/02/14     17                  Saturday                           
+1987/02/15     18                  Sunday                             
+1987/02/16     19                  Monday                             
+1987/02/17     20                  Tuesday                            
+1987/02/18     21                  Wednesday                          
+1987/02/19     22                  Thursday       Spring Showers      
+1987/02/20     23                  Friday                             
+1987/02/21     24                  Saturday                           
+1987/02/22     25                  Sunday                             
+1987/02/23     26                  Monday                             
+1987/02/24     27                  Tuesday                            
+1987/02/25     28                  Wednesday                          
+1987/02/26     29                  Thursday                           
+1987/02/27     30                  Friday                             
+1987/02/28     2nd Lunar month     Saturday                           
+1987/03/01     2                   Sunday                             
+1987/03/02     3                   Monday                             
+1987/03/03     4                   Tuesday                            
+1987/03/04     5                   Wednesday                          
+1987/03/05     6                   Thursday                           
+1987/03/06     7                   Friday         Insects Waken       
+1987/03/07     8                   Saturday                           
+1987/03/08     9                   Sunday                             
+1987/03/09     10                  Monday                             
+1987/03/10     11                  Tuesday                            
+1987/03/11     12                  Wednesday                          
+1987/03/12     13                  Thursday                           
+1987/03/13     14                  Friday                             
+1987/03/14     15                  Saturday                           
+1987/03/15     16                  Sunday                             
+1987/03/16     17                  Monday                             
+1987/03/17     18                  Tuesday                            
+1987/03/18     19                  Wednesday                          
+1987/03/19     20                  Thursday                           
+1987/03/20     21                  Friday                             
+1987/03/21     22                  Saturday       Vernal Equinox      
+1987/03/22     23                  Sunday                             
+1987/03/23     24                  Monday                             
+1987/03/24     25                  Tuesday                            
+1987/03/25     26                  Wednesday                          
+1987/03/26     27                  Thursday                           
+1987/03/27     28                  Friday                             
+1987/03/28     29                  Saturday                           
+1987/03/29     3rd Lunar month     Sunday                             
+1987/03/30     2                   Monday                             
+1987/03/31     3                   Tuesday                            
+1987/04/01     4                   Wednesday                          
+1987/04/02     5                   Thursday                           
+1987/04/03     6                   Friday                             
+1987/04/04     7                   Saturday                           
+1987/04/05     8                   Sunday         Bright & Clear      
+1987/04/06     9                   Monday                             
+1987/04/07     10                  Tuesday                            
+1987/04/08     11                  Wednesday                          
+1987/04/09     12                  Thursday                           
+1987/04/10     13                  Friday                             
+1987/04/11     14                  Saturday                           
+1987/04/12     15                  Sunday                             
+1987/04/13     16                  Monday                             
+1987/04/14     17                  Tuesday                            
+1987/04/15     18                  Wednesday                          
+1987/04/16     19                  Thursday                           
+1987/04/17     20                  Friday                             
+1987/04/18     21                  Saturday                           
+1987/04/19     22                  Sunday                             
+1987/04/20     23                  Monday         Corn Rain           
+1987/04/21     24                  Tuesday                            
+1987/04/22     25                  Wednesday                          
+1987/04/23     26                  Thursday                           
+1987/04/24     27                  Friday                             
+1987/04/25     28                  Saturday                           
+1987/04/26     29                  Sunday                             
+1987/04/27     30                  Monday                             
+1987/04/28     4th Lunar month     Tuesday                            
+1987/04/29     2                   Wednesday                          
+1987/04/30     3                   Thursday                           
+1987/05/01     4                   Friday                             
+1987/05/02     5                   Saturday                           
+1987/05/03     6                   Sunday                             
+1987/05/04     7                   Monday                             
+1987/05/05     8                   Tuesday                            
+1987/05/06     9                   Wednesday      Summer Commences    
+1987/05/07     10                  Thursday                           
+1987/05/08     11                  Friday                             
+1987/05/09     12                  Saturday                           
+1987/05/10     13                  Sunday                             
+1987/05/11     14                  Monday                             
+1987/05/12     15                  Tuesday                            
+1987/05/13     16                  Wednesday                          
+1987/05/14     17                  Thursday                           
+1987/05/15     18                  Friday                             
+1987/05/16     19                  Saturday                           
+1987/05/17     20                  Sunday                             
+1987/05/18     21                  Monday                             
+1987/05/19     22                  Tuesday                            
+1987/05/20     23                  Wednesday                          
+1987/05/21     24                  Thursday       Corn Forms          
+1987/05/22     25                  Friday                             
+1987/05/23     26                  Saturday                           
+1987/05/24     27                  Sunday                             
+1987/05/25     28                  Monday                             
+1987/05/26     29                  Tuesday                            
+1987/05/27     5th Lunar month     Wednesday                          
+1987/05/28     2                   Thursday                           
+1987/05/29     3                   Friday                             
+1987/05/30     4                   Saturday                           
+1987/05/31     5                   Sunday                             
+1987/06/01     6                   Monday                             
+1987/06/02     7                   Tuesday                            
+1987/06/03     8                   Wednesday                          
+1987/06/04     9                   Thursday                           
+1987/06/05     10                  Friday                             
+1987/06/06     11                  Saturday       Corn on Ear         
+1987/06/07     12                  Sunday                             
+1987/06/08     13                  Monday                             
+1987/06/09     14                  Tuesday                            
+1987/06/10     15                  Wednesday                          
+1987/06/11     16                  Thursday                           
+1987/06/12     17                  Friday                             
+1987/06/13     18                  Saturday                           
+1987/06/14     19                  Sunday                             
+1987/06/15     20                  Monday                             
+1987/06/16     21                  Tuesday                            
+1987/06/17     22                  Wednesday                          
+1987/06/18     23                  Thursday                           
+1987/06/19     24                  Friday                             
+1987/06/20     25                  Saturday                           
+1987/06/21     26                  Sunday                             
+1987/06/22     27                  Monday         Summer Solstice     
+1987/06/23     28                  Tuesday                            
+1987/06/24     29                  Wednesday                          
+1987/06/25     30                  Thursday                           
+1987/06/26     6th Lunar month     Friday                             
+1987/06/27     2                   Saturday                           
+1987/06/28     3                   Sunday                             
+1987/06/29     4                   Monday                             
+1987/06/30     5                   Tuesday                            
+1987/07/01     6                   Wednesday                          
+1987/07/02     7                   Thursday                           
+1987/07/03     8                   Friday                             
+1987/07/04     9                   Saturday                           
+1987/07/05     10                  Sunday                             
+1987/07/06     11                  Monday                             
+1987/07/07     12                  Tuesday        Moderate Heat       
+1987/07/08     13                  Wednesday                          
+1987/07/09     14                  Thursday                           
+1987/07/10     15                  Friday                             
+1987/07/11     16                  Saturday                           
+1987/07/12     17                  Sunday                             
+1987/07/13     18                  Monday                             
+1987/07/14     19                  Tuesday                            
+1987/07/15     20                  Wednesday                          
+1987/07/16     21                  Thursday                           
+1987/07/17     22                  Friday                             
+1987/07/18     23                  Saturday                           
+1987/07/19     24                  Sunday                             
+1987/07/20     25                  Monday                             
+1987/07/21     26                  Tuesday                            
+1987/07/22     27                  Wednesday                          
+1987/07/23     28                  Thursday       Great Heat          
+1987/07/24     29                  Friday                             
+1987/07/25     30                  Saturday                           
+1987/07/26     6th Lunar month     Sunday                             
+1987/07/27     2                   Monday                             
+1987/07/28     3                   Tuesday                            
+1987/07/29     4                   Wednesday                          
+1987/07/30     5                   Thursday                           
+1987/07/31     6                   Friday                             
+1987/08/01     7                   Saturday                           
+1987/08/02     8                   Sunday                             
+1987/08/03     9                   Monday                             
+1987/08/04     10                  Tuesday                            
+1987/08/05     11                  Wednesday                          
+1987/08/06     12                  Thursday                           
+1987/08/07     13                  Friday                             
+1987/08/08     14                  Saturday       Autumn Commences    
+1987/08/09     15                  Sunday                             
+1987/08/10     16                  Monday                             
+1987/08/11     17                  Tuesday                            
+1987/08/12     18                  Wednesday                          
+1987/08/13     19                  Thursday                           
+1987/08/14     20                  Friday                             
+1987/08/15     21                  Saturday                           
+1987/08/16     22                  Sunday                             
+1987/08/17     23                  Monday                             
+1987/08/18     24                  Tuesday                            
+1987/08/19     25                  Wednesday                          
+1987/08/20     26                  Thursday                           
+1987/08/21     27                  Friday                             
+1987/08/22     28                  Saturday                           
+1987/08/23     29                  Sunday                             
+1987/08/24     7th Lunar month     Monday         End of Heat         
+1987/08/25     2                   Tuesday                            
+1987/08/26     3                   Wednesday                          
+1987/08/27     4                   Thursday                           
+1987/08/28     5                   Friday                             
+1987/08/29     6                   Saturday                           
+1987/08/30     7                   Sunday                             
+1987/08/31     8                   Monday                             
+1987/09/01     9                   Tuesday                            
+1987/09/02     10                  Wednesday                          
+1987/09/03     11                  Thursday                           
+1987/09/04     12                  Friday                             
+1987/09/05     13                  Saturday                           
+1987/09/06     14                  Sunday                             
+1987/09/07     15                  Monday                             
+1987/09/08     16                  Tuesday        White Dew           
+1987/09/09     17                  Wednesday                          
+1987/09/10     18                  Thursday                           
+1987/09/11     19                  Friday                             
+1987/09/12     20                  Saturday                           
+1987/09/13     21                  Sunday                             
+1987/09/14     22                  Monday                             
+1987/09/15     23                  Tuesday                            
+1987/09/16     24                  Wednesday                          
+1987/09/17     25                  Thursday                           
+1987/09/18     26                  Friday                             
+1987/09/19     27                  Saturday                           
+1987/09/20     28                  Sunday                             
+1987/09/21     29                  Monday                             
+1987/09/22     30                  Tuesday                            
+1987/09/23     8th Lunar month     Wednesday      Autumnal Equinox    
+1987/09/24     2                   Thursday                           
+1987/09/25     3                   Friday                             
+1987/09/26     4                   Saturday                           
+1987/09/27     5                   Sunday                             
+1987/09/28     6                   Monday                             
+1987/09/29     7                   Tuesday                            
+1987/09/30     8                   Wednesday                          
+1987/10/01     9                   Thursday                           
+1987/10/02     10                  Friday                             
+1987/10/03     11                  Saturday                           
+1987/10/04     12                  Sunday                             
+1987/10/05     13                  Monday                             
+1987/10/06     14                  Tuesday                            
+1987/10/07     15                  Wednesday                          
+1987/10/08     16                  Thursday                           
+1987/10/09     17                  Friday         Cold Dew            
+1987/10/10     18                  Saturday                           
+1987/10/11     19                  Sunday                             
+1987/10/12     20                  Monday                             
+1987/10/13     21                  Tuesday                            
+1987/10/14     22                  Wednesday                          
+1987/10/15     23                  Thursday                           
+1987/10/16     24                  Friday                             
+1987/10/17     25                  Saturday                           
+1987/10/18     26                  Sunday                             
+1987/10/19     27                  Monday                             
+1987/10/20     28                  Tuesday                            
+1987/10/21     29                  Wednesday                          
+1987/10/22     30                  Thursday                           
+1987/10/23     9th Lunar month     Friday                             
+1987/10/24     2                   Saturday       Frost               
+1987/10/25     3                   Sunday                             
+1987/10/26     4                   Monday                             
+1987/10/27     5                   Tuesday                            
+1987/10/28     6                   Wednesday                          
+1987/10/29     7                   Thursday                           
+1987/10/30     8                   Friday                             
+1987/10/31     9                   Saturday                           
+1987/11/01     10                  Sunday                             
+1987/11/02     11                  Monday                             
+1987/11/03     12                  Tuesday                            
+1987/11/04     13                  Wednesday                          
+1987/11/05     14                  Thursday                           
+1987/11/06     15                  Friday                             
+1987/11/07     16                  Saturday                           
+1987/11/08     17                  Sunday         Winter Commences    
+1987/11/09     18                  Monday                             
+1987/11/10     19                  Tuesday                            
+1987/11/11     20                  Wednesday                          
+1987/11/12     21                  Thursday                           
+1987/11/13     22                  Friday                             
+1987/11/14     23                  Saturday                           
+1987/11/15     24                  Sunday                             
+1987/11/16     25                  Monday                             
+1987/11/17     26                  Tuesday                            
+1987/11/18     27                  Wednesday                          
+1987/11/19     28                  Thursday                           
+1987/11/20     29                  Friday                             
+1987/11/21     10th Lunar month    Saturday                           
+1987/11/22     2                   Sunday                             
+1987/11/23     3                   Monday         Light Snow          
+1987/11/24     4                   Tuesday                            
+1987/11/25     5                   Wednesday                          
+1987/11/26     6                   Thursday                           
+1987/11/27     7                   Friday                             
+1987/11/28     8                   Saturday                           
+1987/11/29     9                   Sunday                             
+1987/11/30     10                  Monday                             
+1987/12/01     11                  Tuesday                            
+1987/12/02     12                  Wednesday                          
+1987/12/03     13                  Thursday                           
+1987/12/04     14                  Friday                             
+1987/12/05     15                  Saturday                           
+1987/12/06     16                  Sunday                             
+1987/12/07     17                  Monday         Heavy Snow          
+1987/12/08     18                  Tuesday                            
+1987/12/09     19                  Wednesday                          
+1987/12/10     20                  Thursday                           
+1987/12/11     21                  Friday                             
+1987/12/12     22                  Saturday                           
+1987/12/13     23                  Sunday                             
+1987/12/14     24                  Monday                             
+1987/12/15     25                  Tuesday                            
+1987/12/16     26                  Wednesday                          
+1987/12/17     27                  Thursday                           
+1987/12/18     28                  Friday                             
+1987/12/19     29                  Saturday                           
+1987/12/20     30                  Sunday                             
+1987/12/21     11th Lunar month    Monday                             
+1987/12/22     2                   Tuesday        Winter Solstice     
+1987/12/23     3                   Wednesday                          
+1987/12/24     4                   Thursday                           
+1987/12/25     5                   Friday                             
+1987/12/26     6                   Saturday                           
+1987/12/27     7                   Sunday                             
+1987/12/28     8                   Monday                             
+1987/12/29     9                   Tuesday                            
+1987/12/30     10                  Wednesday                          
+1987/12/31     11                  Thursday                           

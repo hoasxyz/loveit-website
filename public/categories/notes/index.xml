@@ -1,0 +1,70 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>notes - 分类 - hoas&#39; blog | One Stupid Boy</title>
+        <link>/categories/notes/</link>
+        <description>notes - 分类 - hoas&#39; blog | One Stupid Boy</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="/categories/notes/" rel="self" type="application/rss+xml" /><item>
+    <title>To Do List</title>
+    <link>/2020-04-20-to-do-list/</link>
+    <pubDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2020-04-20-to-do-list/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/22238.jpg?mtime=1568834549" referrerpolicy="no-referrer">
+            </div><ul>
+<li><i class="far fa-square fa-fw"></i>弄清<code>.Rmarkdown</code>文件的出图在网站上的显示</li>
+<li><i class="far fa-square fa-fw"></i>学会根据模板更新网站相关内容</li>
+<li><i class="far fa-square fa-fw"></i>《想见你》语录整理</li>
+</ul>]]></description>
+</item><item>
+    <title>R &amp; MATLAB</title>
+    <link>/2020-03-08-r-and-matlab/</link>
+    <pubDate>Sun, 08 Mar 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2020-03-08-r-and-matlab/</guid>
+    <description><![CDATA[<p>作为R &amp; MATLAB的迁移笔记，主要目的是将R的结构迁移至对应的MATLAB结构。</p>
+<h2 id="数据结构">数据结构</h2>
+<h3 id="向量">向量</h3>
+<p>R语言属于<strong>函数式编程</strong>，所有的格式都要用函数表示；MATLAB则更侧重于矩阵结构。</p>
+<h4 id="r">R</h4>
+<p>R中的所有类型（数值型、字符型、逻辑型）向量虽然也是一维数组，但是默认为行向量。</p>
+<p>R中的Boolean值必须是首字母大写或者是全字母大写。R索引的时候用方括号，并且引子也要遵从函数式编程。R中单双引号完全等价（需要匹配）。</p>]]></description>
+</item><item>
+    <title>杂交字体</title>
+    <link>/2020-03-07-hybrid-fonts/</link>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2020-03-07-hybrid-fonts/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://i2.wp.com/www.jack.guru/wp-content/uploads/2016/10/all-work-and-no-play-make-jake-a-dull-boy.jpg?resize=570%2C285&amp;ssl=1" referrerpolicy="no-referrer">
+            </div><p>杂交字体在坊间由来已久，随着当今码农审美水平的提高，他们对编程的外部环境需求越来越大，其中字体就是重点之一。</p>
+<p>中日韩字体（统汉码）都包含太多字符，但是又包括英文字符。欧美的拉丁字符又不包括统汉码，但是其对拉丁文字的设计更加独具匠心，因此统汉码的主要用户对设计优美的英文字体和自己的母语字体的合成字体的追求也日益强烈。</p>]]></description>
+</item><item>
+    <title>更新R</title>
+    <link>/2019-04-27-update-r/</link>
+    <pubDate>Sat, 27 Apr 2019 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2019-04-27-update-r/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://media-exp1.licdn.com/dms/image/C5612AQE38FUymG2oYg/article-inline_image-shrink_1500_2232/0?e=1594252800&amp;v=beta&amp;t=qfh35Q3JGqqjOqvoH8OK9s3_tfGIuM4L6m5H2luRRuo" referrerpolicy="no-referrer">
+            </div><p>统计学家们的工作节奏这么快的吗？现在R的更新频率越来越大，想想还是写下来吧，每一次更新带来更好体验的同时少不了一定程度的折腾。哎，R啥时候能把自动更新问题解决掉？</p>]]></description>
+</item><item>
+    <title>Word设置汇总</title>
+    <link>/2019-04-08-word%E8%AE%BE%E7%BD%AE%E6%B1%87%E6%80%BB/</link>
+    <pubDate>Mon, 08 Apr 2019 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2019-04-08-word%E8%AE%BE%E7%BD%AE%E6%B1%87%E6%80%BB/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://www.cccsolutions.com/wp-content/uploads/2019/09/word-banner-825x300.jpg" referrerpolicy="no-referrer">
+            </div><p>想着自己还得老老实实用Word用几年，一些每次遇到都头疼的问题都写这儿吧！</p>]]></description>
+</item><item>
+    <title>ggplot2</title>
+    <link>/2019-01-05-ggplot2/</link>
+    <pubDate>Sat, 05 Jan 2019 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2019-01-05-ggplot2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://r-statistics.co/screenshots/ggplot_tut_9.png" referrerpolicy="no-referrer">
+            </div>There are brief notes about the usage of ggplot2. expression/annotate/Greek letters/title 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 t &lt;- seq(1,4,0.1) qmp &lt;- function(t) { 0.278*(98.92/t^0.65-2)*78 } q &lt;- seq(500,2000,75) tao &lt;- function(q) { 0.278*14.6/0.96/0.296/q^0.25 } library(cowplot) ggplot()+ geom_smooth(mapping = aes(x = t, y = qmp(t)),color = &#34;red&#34;)+ geom_smooth(mapping = aes(x = tao(q), y = q),color = &#39;blue&#39;,linetype]]></description>
+</item></channel>
+</rss>

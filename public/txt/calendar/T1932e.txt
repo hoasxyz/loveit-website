@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1932 (Ren-shen ¡V year of the Monkey)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1932/01/01     24                  Friday                             
+1932/01/02     25                  Saturday                           
+1932/01/03     26                  Sunday                             
+1932/01/04     27                  Monday                             
+1932/01/05     28                  Tuesday                            
+1932/01/06     29                  Wednesday      Moderate Cold       
+1932/01/07     30                  Thursday                           
+1932/01/08     12th Lunar month    Friday                             
+1932/01/09     2                   Saturday                           
+1932/01/10     3                   Sunday                             
+1932/01/11     4                   Monday                             
+1932/01/12     5                   Tuesday                            
+1932/01/13     6                   Wednesday                          
+1932/01/14     7                   Thursday                           
+1932/01/15     8                   Friday                             
+1932/01/16     9                   Saturday                           
+1932/01/17     10                  Sunday                             
+1932/01/18     11                  Monday                             
+1932/01/19     12                  Tuesday                            
+1932/01/20     13                  Wednesday                          
+1932/01/21     14                  Thursday       Severe Cold         
+1932/01/22     15                  Friday                             
+1932/01/23     16                  Saturday                           
+1932/01/24     17                  Sunday                             
+1932/01/25     18                  Monday                             
+1932/01/26     19                  Tuesday                            
+1932/01/27     20                  Wednesday                          
+1932/01/28     21                  Thursday                           
+1932/01/29     22                  Friday                             
+1932/01/30     23                  Saturday                           
+1932/01/31     24                  Sunday                             
+1932/02/01     25                  Monday                             
+1932/02/02     26                  Tuesday                            
+1932/02/03     27                  Wednesday                          
+1932/02/04     28                  Thursday                           
+1932/02/05     29                  Friday         Spring Commences    
+1932/02/06     1st Lunar month     Saturday                           
+1932/02/07     2                   Sunday                             
+1932/02/08     3                   Monday                             
+1932/02/09     4                   Tuesday                            
+1932/02/10     5                   Wednesday                          
+1932/02/11     6                   Thursday                           
+1932/02/12     7                   Friday                             
+1932/02/13     8                   Saturday                           
+1932/02/14     9                   Sunday                             
+1932/02/15     10                  Monday                             
+1932/02/16     11                  Tuesday                            
+1932/02/17     12                  Wednesday                          
+1932/02/18     13                  Thursday                           
+1932/02/19     14                  Friday                             
+1932/02/20     15                  Saturday       Spring Showers      
+1932/02/21     16                  Sunday                             
+1932/02/22     17                  Monday                             
+1932/02/23     18                  Tuesday                            
+1932/02/24     19                  Wednesday                          
+1932/02/25     20                  Thursday                           
+1932/02/26     21                  Friday                             
+1932/02/27     22                  Saturday                           
+1932/02/28     23                  Sunday                             
+1932/02/29     24                  Monday                             
+1932/03/01     25                  Tuesday                            
+1932/03/02     26                  Wednesday                          
+1932/03/03     27                  Thursday                           
+1932/03/04     28                  Friday                             
+1932/03/05     29                  Saturday                           
+1932/03/06     30                  Sunday         Insects Waken       
+1932/03/07     2nd Lunar month     Monday                             
+1932/03/08     2                   Tuesday                            
+1932/03/09     3                   Wednesday                          
+1932/03/10     4                   Thursday                           
+1932/03/11     5                   Friday                             
+1932/03/12     6                   Saturday                           
+1932/03/13     7                   Sunday                             
+1932/03/14     8                   Monday                             
+1932/03/15     9                   Tuesday                            
+1932/03/16     10                  Wednesday                          
+1932/03/17     11                  Thursday                           
+1932/03/18     12                  Friday                             
+1932/03/19     13                  Saturday                           
+1932/03/20     14                  Sunday                             
+1932/03/21     15                  Monday         Vernal Equinox      
+1932/03/22     16                  Tuesday                            
+1932/03/23     17                  Wednesday                          
+1932/03/24     18                  Thursday                           
+1932/03/25     19                  Friday                             
+1932/03/26     20                  Saturday                           
+1932/03/27     21                  Sunday                             
+1932/03/28     22                  Monday                             
+1932/03/29     23                  Tuesday                            
+1932/03/30     24                  Wednesday                          
+1932/03/31     25                  Thursday                           
+1932/04/01     26                  Friday                             
+1932/04/02     27                  Saturday                           
+1932/04/03     28                  Sunday                             
+1932/04/04     29                  Monday                             
+1932/04/05     30                  Tuesday        Bright & Clear      
+1932/04/06     3rd Lunar month     Wednesday                          
+1932/04/07     2                   Thursday                           
+1932/04/08     3                   Friday                             
+1932/04/09     4                   Saturday                           
+1932/04/10     5                   Sunday                             
+1932/04/11     6                   Monday                             
+1932/04/12     7                   Tuesday                            
+1932/04/13     8                   Wednesday                          
+1932/04/14     9                   Thursday                           
+1932/04/15     10                  Friday                             
+1932/04/16     11                  Saturday                           
+1932/04/17     12                  Sunday                             
+1932/04/18     13                  Monday                             
+1932/04/19     14                  Tuesday                            
+1932/04/20     15                  Wednesday      Corn Rain           
+1932/04/21     16                  Thursday                           
+1932/04/22     17                  Friday                             
+1932/04/23     18                  Saturday                           
+1932/04/24     19                  Sunday                             
+1932/04/25     20                  Monday                             
+1932/04/26     21                  Tuesday                            
+1932/04/27     22                  Wednesday                          
+1932/04/28     23                  Thursday                           
+1932/04/29     24                  Friday                             
+1932/04/30     25                  Saturday                           
+1932/05/01     26                  Sunday                             
+1932/05/02     27                  Monday                             
+1932/05/03     28                  Tuesday                            
+1932/05/04     29                  Wednesday                          
+1932/05/05     30                  Thursday                           
+1932/05/06     4th Lunar month     Friday         Summer Commences    
+1932/05/07     2                   Saturday                           
+1932/05/08     3                   Sunday                             
+1932/05/09     4                   Monday                             
+1932/05/10     5                   Tuesday                            
+1932/05/11     6                   Wednesday                          
+1932/05/12     7                   Thursday                           
+1932/05/13     8                   Friday                             
+1932/05/14     9                   Saturday                           
+1932/05/15     10                  Sunday                             
+1932/05/16     11                  Monday                             
+1932/05/17     12                  Tuesday                            
+1932/05/18     13                  Wednesday                          
+1932/05/19     14                  Thursday                           
+1932/05/20     15                  Friday                             
+1932/05/21     16                  Saturday       Corn Forms          
+1932/05/22     17                  Sunday                             
+1932/05/23     18                  Monday                             
+1932/05/24     19                  Tuesday                            
+1932/05/25     20                  Wednesday                          
+1932/05/26     21                  Thursday                           
+1932/05/27     22                  Friday                             
+1932/05/28     23                  Saturday                           
+1932/05/29     24                  Sunday                             
+1932/05/30     25                  Monday                             
+1932/05/31     26                  Tuesday                            
+1932/06/01     27                  Wednesday                          
+1932/06/02     28                  Thursday                           
+1932/06/03     29                  Friday                             
+1932/06/04     5th Lunar month     Saturday                           
+1932/06/05     2                   Sunday                             
+1932/06/06     3                   Monday         Corn on Ear         
+1932/06/07     4                   Tuesday                            
+1932/06/08     5                   Wednesday                          
+1932/06/09     6                   Thursday                           
+1932/06/10     7                   Friday                             
+1932/06/11     8                   Saturday                           
+1932/06/12     9                   Sunday                             
+1932/06/13     10                  Monday                             
+1932/06/14     11                  Tuesday                            
+1932/06/15     12                  Wednesday                          
+1932/06/16     13                  Thursday                           
+1932/06/17     14                  Friday                             
+1932/06/18     15                  Saturday                           
+1932/06/19     16                  Sunday                             
+1932/06/20     17                  Monday                             
+1932/06/21     18                  Tuesday        Summer Solstice     
+1932/06/22     19                  Wednesday                          
+1932/06/23     20                  Thursday                           
+1932/06/24     21                  Friday                             
+1932/06/25     22                  Saturday                           
+1932/06/26     23                  Sunday                             
+1932/06/27     24                  Monday                             
+1932/06/28     25                  Tuesday                            
+1932/06/29     26                  Wednesday                          
+1932/06/30     27                  Thursday                           
+1932/07/01     28                  Friday                             
+1932/07/02     29                  Saturday                           
+1932/07/03     30                  Sunday                             
+1932/07/04     6th Lunar month     Monday                             
+1932/07/05     2                   Tuesday                            
+1932/07/06     3                   Wednesday                          
+1932/07/07     4                   Thursday       Moderate Heat       
+1932/07/08     5                   Friday                             
+1932/07/09     6                   Saturday                           
+1932/07/10     7                   Sunday                             
+1932/07/11     8                   Monday                             
+1932/07/12     9                   Tuesday                            
+1932/07/13     10                  Wednesday                          
+1932/07/14     11                  Thursday                           
+1932/07/15     12                  Friday                             
+1932/07/16     13                  Saturday                           
+1932/07/17     14                  Sunday                             
+1932/07/18     15                  Monday                             
+1932/07/19     16                  Tuesday                            
+1932/07/20     17                  Wednesday                          
+1932/07/21     18                  Thursday                           
+1932/07/22     19                  Friday                             
+1932/07/23     20                  Saturday       Great Heat          
+1932/07/24     21                  Sunday                             
+1932/07/25     22                  Monday                             
+1932/07/26     23                  Tuesday                            
+1932/07/27     24                  Wednesday                          
+1932/07/28     25                  Thursday                           
+1932/07/29     26                  Friday                             
+1932/07/30     27                  Saturday                           
+1932/07/31     28                  Sunday                             
+1932/08/01     29                  Monday                             
+1932/08/02     7th Lunar month     Tuesday                            
+1932/08/03     2                   Wednesday                          
+1932/08/04     3                   Thursday                           
+1932/08/05     4                   Friday                             
+1932/08/06     5                   Saturday                           
+1932/08/07     6                   Sunday                             
+1932/08/08     7                   Monday         Autumn Commences    
+1932/08/09     8                   Tuesday                            
+1932/08/10     9                   Wednesday                          
+1932/08/11     10                  Thursday                           
+1932/08/12     11                  Friday                             
+1932/08/13     12                  Saturday                           
+1932/08/14     13                  Sunday                             
+1932/08/15     14                  Monday                             
+1932/08/16     15                  Tuesday                            
+1932/08/17     16                  Wednesday                          
+1932/08/18     17                  Thursday                           
+1932/08/19     18                  Friday                             
+1932/08/20     19                  Saturday                           
+1932/08/21     20                  Sunday                             
+1932/08/22     21                  Monday                             
+1932/08/23     22                  Tuesday        End of Heat         
+1932/08/24     23                  Wednesday                          
+1932/08/25     24                  Thursday                           
+1932/08/26     25                  Friday                             
+1932/08/27     26                  Saturday                           
+1932/08/28     27                  Sunday                             
+1932/08/29     28                  Monday                             
+1932/08/30     29                  Tuesday                            
+1932/08/31     30                  Wednesday                          
+1932/09/01     8th Lunar month     Thursday                           
+1932/09/02     2                   Friday                             
+1932/09/03     3                   Saturday                           
+1932/09/04     4                   Sunday                             
+1932/09/05     5                   Monday                             
+1932/09/06     6                   Tuesday                            
+1932/09/07     7                   Wednesday                          
+1932/09/08     8                   Thursday       White Dew           
+1932/09/09     9                   Friday                             
+1932/09/10     10                  Saturday                           
+1932/09/11     11                  Sunday                             
+1932/09/12     12                  Monday                             
+1932/09/13     13                  Tuesday                            
+1932/09/14     14                  Wednesday                          
+1932/09/15     15                  Thursday                           
+1932/09/16     16                  Friday                             
+1932/09/17     17                  Saturday                           
+1932/09/18     18                  Sunday                             
+1932/09/19     19                  Monday                             
+1932/09/20     20                  Tuesday                            
+1932/09/21     21                  Wednesday                          
+1932/09/22     22                  Thursday                           
+1932/09/23     23                  Friday         Autumnal Equinox    
+1932/09/24     24                  Saturday                           
+1932/09/25     25                  Sunday                             
+1932/09/26     26                  Monday                             
+1932/09/27     27                  Tuesday                            
+1932/09/28     28                  Wednesday                          
+1932/09/29     29                  Thursday                           
+1932/09/30     9th Lunar month     Friday                             
+1932/10/01     2                   Saturday                           
+1932/10/02     3                   Sunday                             
+1932/10/03     4                   Monday                             
+1932/10/04     5                   Tuesday                            
+1932/10/05     6                   Wednesday                          
+1932/10/06     7                   Thursday                           
+1932/10/07     8                   Friday                             
+1932/10/08     9                   Saturday       Cold Dew            
+1932/10/09     10                  Sunday                             
+1932/10/10     11                  Monday                             
+1932/10/11     12                  Tuesday                            
+1932/10/12     13                  Wednesday                          
+1932/10/13     14                  Thursday                           
+1932/10/14     15                  Friday                             
+1932/10/15     16                  Saturday                           
+1932/10/16     17                  Sunday                             
+1932/10/17     18                  Monday                             
+1932/10/18     19                  Tuesday                            
+1932/10/19     20                  Wednesday                          
+1932/10/20     21                  Thursday                           
+1932/10/21     22                  Friday                             
+1932/10/22     23                  Saturday                           
+1932/10/23     24                  Sunday         Frost               
+1932/10/24     25                  Monday                             
+1932/10/25     26                  Tuesday                            
+1932/10/26     27                  Wednesday                          
+1932/10/27     28                  Thursday                           
+1932/10/28     29                  Friday                             
+1932/10/29     10th Lunar month    Saturday                           
+1932/10/30     2                   Sunday                             
+1932/10/31     3                   Monday                             
+1932/11/01     4                   Tuesday                            
+1932/11/02     5                   Wednesday                          
+1932/11/03     6                   Thursday                           
+1932/11/04     7                   Friday                             
+1932/11/05     8                   Saturday                           
+1932/11/06     9                   Sunday                             
+1932/11/07     10                  Monday         Winter Commences    
+1932/11/08     11                  Tuesday                            
+1932/11/09     12                  Wednesday                          
+1932/11/10     13                  Thursday                           
+1932/11/11     14                  Friday                             
+1932/11/12     15                  Saturday                           
+1932/11/13     16                  Sunday                             
+1932/11/14     17                  Monday                             
+1932/11/15     18                  Tuesday                            
+1932/11/16     19                  Wednesday                          
+1932/11/17     20                  Thursday                           
+1932/11/18     21                  Friday                             
+1932/11/19     22                  Saturday                           
+1932/11/20     23                  Sunday                             
+1932/11/21     24                  Monday                             
+1932/11/22     25                  Tuesday        Light Snow          
+1932/11/23     26                  Wednesday                          
+1932/11/24     27                  Thursday                           
+1932/11/25     28                  Friday                             
+1932/11/26     29                  Saturday                           
+1932/11/27     30                  Sunday                             
+1932/11/28     11th Lunar month    Monday                             
+1932/11/29     2                   Tuesday                            
+1932/11/30     3                   Wednesday                          
+1932/12/01     4                   Thursday                           
+1932/12/02     5                   Friday                             
+1932/12/03     6                   Saturday                           
+1932/12/04     7                   Sunday                             
+1932/12/05     8                   Monday                             
+1932/12/06     9                   Tuesday                            
+1932/12/07     10                  Wednesday      Heavy Snow          
+1932/12/08     11                  Thursday                           
+1932/12/09     12                  Friday                             
+1932/12/10     13                  Saturday                           
+1932/12/11     14                  Sunday                             
+1932/12/12     15                  Monday                             
+1932/12/13     16                  Tuesday                            
+1932/12/14     17                  Wednesday                          
+1932/12/15     18                  Thursday                           
+1932/12/16     19                  Friday                             
+1932/12/17     20                  Saturday                           
+1932/12/18     21                  Sunday                             
+1932/12/19     22                  Monday                             
+1932/12/20     23                  Tuesday                            
+1932/12/21     24                  Wednesday                          
+1932/12/22     25                  Thursday       Winter Solstice     
+1932/12/23     26                  Friday                             
+1932/12/24     27                  Saturday                           
+1932/12/25     28                  Sunday                             
+1932/12/26     29                  Monday                             
+1932/12/27     12th Lunar month    Tuesday                            
+1932/12/28     2                   Wednesday                          
+1932/12/29     3                   Thursday                           
+1932/12/30     4                   Friday                             
+1932/12/31     5                   Saturday                           

@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Fonts - 标签 - hoas&#39; blog | One Stupid Boy</title>
+        <link>/tags/fonts/</link>
+        <description>Fonts - 标签 - hoas&#39; blog | One Stupid Boy</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 07 Mar 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/fonts/" rel="self" type="application/rss+xml" /><item>
+    <title>杂交字体</title>
+    <link>/2020-03-07-hybrid-fonts/</link>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>/2020-03-07-hybrid-fonts/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://i2.wp.com/www.jack.guru/wp-content/uploads/2016/10/all-work-and-no-play-make-jake-a-dull-boy.jpg?resize=570%2C285&amp;ssl=1" referrerpolicy="no-referrer">
+            </div><p>杂交字体在坊间由来已久，随着当今码农审美水平的提高，他们对编程的外部环境需求越来越大，其中字体就是重点之一。</p>
+<p>中日韩字体（统汉码）都包含太多字符，但是又包括英文字符。欧美的拉丁字符又不包括统汉码，但是其对拉丁文字的设计更加独具匠心，因此统汉码的主要用户对设计优美的英文字体和自己的母语字体的合成字体的追求也日益强烈。</p>]]></description>
+</item></channel>
+</rss>

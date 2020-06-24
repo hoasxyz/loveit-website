@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1960 (Geng-zi ¡V year of the Mouse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1960/01/01     3                   Friday                             
+1960/01/02     4                   Saturday                           
+1960/01/03     5                   Sunday                             
+1960/01/04     6                   Monday                             
+1960/01/05     7                   Tuesday                            
+1960/01/06     8                   Wednesday      Moderate Cold       
+1960/01/07     9                   Thursday                           
+1960/01/08     10                  Friday                             
+1960/01/09     11                  Saturday                           
+1960/01/10     12                  Sunday                             
+1960/01/11     13                  Monday                             
+1960/01/12     14                  Tuesday                            
+1960/01/13     15                  Wednesday                          
+1960/01/14     16                  Thursday                           
+1960/01/15     17                  Friday                             
+1960/01/16     18                  Saturday                           
+1960/01/17     19                  Sunday                             
+1960/01/18     20                  Monday                             
+1960/01/19     21                  Tuesday                            
+1960/01/20     22                  Wednesday                          
+1960/01/21     23                  Thursday       Severe Cold         
+1960/01/22     24                  Friday                             
+1960/01/23     25                  Saturday                           
+1960/01/24     26                  Sunday                             
+1960/01/25     27                  Monday                             
+1960/01/26     28                  Tuesday                            
+1960/01/27     29                  Wednesday                          
+1960/01/28     1st Lunar month     Thursday                           
+1960/01/29     2                   Friday                             
+1960/01/30     3                   Saturday                           
+1960/01/31     4                   Sunday                             
+1960/02/01     5                   Monday                             
+1960/02/02     6                   Tuesday                            
+1960/02/03     7                   Wednesday                          
+1960/02/04     8                   Thursday                           
+1960/02/05     9                   Friday         Spring Commences    
+1960/02/06     10                  Saturday                           
+1960/02/07     11                  Sunday                             
+1960/02/08     12                  Monday                             
+1960/02/09     13                  Tuesday                            
+1960/02/10     14                  Wednesday                          
+1960/02/11     15                  Thursday                           
+1960/02/12     16                  Friday                             
+1960/02/13     17                  Saturday                           
+1960/02/14     18                  Sunday                             
+1960/02/15     19                  Monday                             
+1960/02/16     20                  Tuesday                            
+1960/02/17     21                  Wednesday                          
+1960/02/18     22                  Thursday                           
+1960/02/19     23                  Friday         Spring Showers      
+1960/02/20     24                  Saturday                           
+1960/02/21     25                  Sunday                             
+1960/02/22     26                  Monday                             
+1960/02/23     27                  Tuesday                         
+1960/02/24     28                  Wednesday                          
+1960/02/25     29                  Thursday                           
+1960/02/26     30                  Friday                             
+1960/02/27     2nd Lunar month     Saturday                           
+1960/02/28     2                   Sunday                             
+1960/02/29     3                   Monday                             
+1960/03/01     4                   Tuesday                            
+1960/03/02     5                   Wednesday                          
+1960/03/03     6                   Thursday                           
+1960/03/04     7                   Friday                             
+1960/03/05     8                   Saturday       Insects Waken       
+1960/03/06     9                   Sunday                             
+1960/03/07     10                  Monday                             
+1960/03/08     11                  Tuesday                            
+1960/03/09     12                  Wednesday                          
+1960/03/10     13                  Thursday                           
+1960/03/11     14                  Friday                             
+1960/03/12     15                  Saturday                           
+1960/03/13     16                  Sunday                             
+1960/03/14     17                  Monday                             
+1960/03/15     18                  Tuesday                            
+1960/03/16     19                  Wednesday                          
+1960/03/17     20                  Thursday                           
+1960/03/18     21                  Friday                             
+1960/03/19     22                  Saturday                           
+1960/03/20     23                  Sunday         Vernal Equinox      
+1960/03/21     24                  Monday                             
+1960/03/22     25                  Tuesday                            
+1960/03/23     26                  Wednesday                       
+1960/03/24     27                  Thursday                           
+1960/03/25     28                  Friday                             
+1960/03/26     29                  Saturday                           
+1960/03/27     3rd Lunar month     Sunday                             
+1960/03/28     2                   Monday                             
+1960/03/29     3                   Tuesday                            
+1960/03/30     4                   Wednesday                          
+1960/03/31     5                   Thursday                           
+1960/04/01     6                   Friday                             
+1960/04/02     7                   Saturday                           
+1960/04/03     8                   Sunday                             
+1960/04/04     9                   Monday                             
+1960/04/05     10                  Tuesday        Bright & Clear      
+1960/04/06     11                  Wednesday                          
+1960/04/07     12                  Thursday                           
+1960/04/08     13                  Friday                             
+1960/04/09     14                  Saturday                           
+1960/04/10     15                  Sunday                             
+1960/04/11     16                  Monday                             
+1960/04/12     17                  Tuesday                            
+1960/04/13     18                  Wednesday                          
+1960/04/14     19                  Thursday                           
+1960/04/15     20                  Friday                             
+1960/04/16     21                  Saturday                           
+1960/04/17     22                  Sunday                             
+1960/04/18     23                  Monday                             
+1960/04/19     24                  Tuesday                            
+1960/04/20     25                  Wednesday      Corn Rain           
+1960/04/21     26                  Thursday                           
+1960/04/22     27                  Friday                             
+1960/04/23     28                  Saturday                           
+1960/04/24     29                  Sunday                             
+1960/04/25     30                  Monday                             
+1960/04/26     4th Lunar month     Tuesday                            
+1960/04/27     2                   Wednesday                          
+1960/04/28     3                   Thursday                           
+1960/04/29     4                   Friday                             
+1960/04/30     5                   Saturday                           
+1960/05/01     6                   Sunday                             
+1960/05/02     7                   Monday                             
+1960/05/03     8                   Tuesday                            
+1960/05/04     9                   Wednesday                          
+1960/05/05     10                  Thursday       Summer Commences    
+1960/05/06     11                  Friday                             
+1960/05/07     12                  Saturday                           
+1960/05/08     13                  Sunday                             
+1960/05/09     14                  Monday                             
+1960/05/10     15                  Tuesday                            
+1960/05/11     16                  Wednesday                          
+1960/05/12     17                  Thursday                           
+1960/05/13     18                  Friday                             
+1960/05/14     19                  Saturday                           
+1960/05/15     20                  Sunday                             
+1960/05/16     21                  Monday                             
+1960/05/17     22                  Tuesday                            
+1960/05/18     23                  Wednesday                          
+1960/05/19     24                  Thursday                           
+1960/05/20     25                  Friday                             
+1960/05/21     26                  Saturday       Corn Forms          
+1960/05/22     27                  Sunday                             
+1960/05/23     28                  Monday                             
+1960/05/24     29                  Tuesday                            
+1960/05/25     5th Lunar month     Wednesday                          
+1960/05/26     2                   Thursday                           
+1960/05/27     3                   Friday                             
+1960/05/28     4                   Saturday                           
+1960/05/29     5                   Sunday                             
+1960/05/30     6                   Monday                             
+1960/05/31     7                   Tuesday                            
+1960/06/01     8                   Wednesday                          
+1960/06/02     9                   Thursday                           
+1960/06/03     10                  Friday                             
+1960/06/04     11                  Saturday                           
+1960/06/05     12                  Sunday                             
+1960/06/06     13                  Monday         Corn on Ear         
+1960/06/07     14                  Tuesday                            
+1960/06/08     15                  Wednesday                          
+1960/06/09     16                  Thursday                           
+1960/06/10     17                  Friday                             
+1960/06/11     18                  Saturday                           
+1960/06/12     19                  Sunday                             
+1960/06/13     20                  Monday                             
+1960/06/14     21                  Tuesday                            
+1960/06/15     22                  Wednesday                          
+1960/06/16     23                  Thursday                           
+1960/06/17     24                  Friday                             
+1960/06/18     25                  Saturday                           
+1960/06/19     26                  Sunday                             
+1960/06/20     27                  Monday                             
+1960/06/21     28                  Tuesday        Summer Solstice     
+1960/06/22     29                  Wednesday                          
+1960/06/23     30                  Thursday                           
+1960/06/24     6th Lunar month     Friday                             
+1960/06/25     2                   Saturday                           
+1960/06/26     3                   Sunday                             
+1960/06/27     4                   Monday                             
+1960/06/28     5                   Tuesday                            
+1960/06/29     6                   Wednesday                          
+1960/06/30     7                   Thursday                           
+1960/07/01     8                   Friday                             
+1960/07/02     9                   Saturday                           
+1960/07/03     10                  Sunday                             
+1960/07/04     11                  Monday                             
+1960/07/05     12                  Tuesday                            
+1960/07/06     13                  Wednesday                          
+1960/07/07     14                  Thursday       Moderate Heat       
+1960/07/08     15                  Friday                             
+1960/07/09     16                  Saturday                           
+1960/07/10     17                  Sunday                             
+1960/07/11     18                  Monday                             
+1960/07/12     19                  Tuesday                            
+1960/07/13     20                  Wednesday                          
+1960/07/14     21                  Thursday                           
+1960/07/15     22                  Friday                             
+1960/07/16     23                  Saturday                           
+1960/07/17     24                  Sunday                             
+1960/07/18     25                  Monday                             
+1960/07/19     26                  Tuesday                            
+1960/07/20     27                  Wednesday                          
+1960/07/21     28                  Thursday                           
+1960/07/22     29                  Friday                             
+1960/07/23     30                  Saturday       Great Heat          
+1960/07/24     6th Lunar month     Sunday                             
+1960/07/25     2                   Monday                             
+1960/07/26     3                   Tuesday                            
+1960/07/27     4                   Wednesday                          
+1960/07/28     5                   Thursday                           
+1960/07/29     6                   Friday                             
+1960/07/30     7                   Saturday                           
+1960/07/31     8                   Sunday                             
+1960/08/01     9                   Monday                             
+1960/08/02     10                  Tuesday                            
+1960/08/03     11                  Wednesday                          
+1960/08/04     12                  Thursday                           
+1960/08/05     13                  Friday                             
+1960/08/06     14                  Saturday                           
+1960/08/07     15                  Sunday         Autumn Commences    
+1960/08/08     16                  Monday                             
+1960/08/09     17                  Tuesday                            
+1960/08/10     18                  Wednesday                          
+1960/08/11     19                  Thursday                           
+1960/08/12     20                  Friday                             
+1960/08/13     21                  Saturday                           
+1960/08/14     22                  Sunday                             
+1960/08/15     23                  Monday                             
+1960/08/16     24                  Tuesday                            
+1960/08/17     25                  Wednesday                          
+1960/08/18     26                  Thursday                           
+1960/08/19     27                  Friday                             
+1960/08/20     28                  Saturday                           
+1960/08/21     29                  Sunday                             
+1960/08/22     7th Lunar month     Monday                             
+1960/08/23     2                   Tuesday        End of Heat         
+1960/08/24     3                   Wednesday                          
+1960/08/25     4                   Thursday                           
+1960/08/26     5                   Friday                             
+1960/08/27     6                   Saturday                           
+1960/08/28     7                   Sunday                             
+1960/08/29     8                   Monday                             
+1960/08/30     9                   Tuesday                            
+1960/08/31     10                  Wednesday                          
+1960/09/01     11                  Thursday                           
+1960/09/02     12                  Friday                             
+1960/09/03     13                  Saturday                           
+1960/09/04     14                  Sunday                             
+1960/09/05     15                  Monday                             
+1960/09/06     16                  Tuesday                            
+1960/09/07     17                  Wednesday      White Dew           
+1960/09/08     18                  Thursday                           
+1960/09/09     19                  Friday                             
+1960/09/10     20                  Saturday                           
+1960/09/11     21                  Sunday                             
+1960/09/12     22                  Monday                             
+1960/09/13     23                  Tuesday                            
+1960/09/14     24                  Wednesday                          
+1960/09/15     25                  Thursday                           
+1960/09/16     26                  Friday                             
+1960/09/17     27                  Saturday                           
+1960/09/18     28                  Sunday                             
+1960/09/19     29                  Monday                             
+1960/09/20     30                  Tuesday                            
+1960/09/21     8th Lunar month     Wednesday                          
+1960/09/22     2                   Thursday                           
+1960/09/23     3                   Friday         Autumnal Equinox    
+1960/09/24     4                   Saturday                           
+1960/09/25     5                   Sunday                             
+1960/09/26     6                   Monday                             
+1960/09/27     7                   Tuesday                            
+1960/09/28     8                   Wednesday                          
+1960/09/29     9                   Thursday                           
+1960/09/30     10                  Friday                             
+1960/10/01     11                  Saturday                           
+1960/10/02     12                  Sunday                             
+1960/10/03     13                  Monday                             
+1960/10/04     14                  Tuesday                            
+1960/10/05     15                  Wednesday                          
+1960/10/06     16                  Thursday                           
+1960/10/07     17                  Friday                             
+1960/10/08     18                  Saturday       Cold Dew            
+1960/10/09     19                  Sunday                             
+1960/10/10     20                  Monday                             
+1960/10/11     21                  Tuesday                            
+1960/10/12     22                  Wednesday                          
+1960/10/13     23                  Thursday                           
+1960/10/14     24                  Friday                             
+1960/10/15     25                  Saturday                           
+1960/10/16     26                  Sunday                             
+1960/10/17     27                  Monday                             
+1960/10/18     28                  Tuesday                            
+1960/10/19     29                  Wednesday                          
+1960/10/20     9th Lunar month     Thursday                           
+1960/10/21     2                   Friday                             
+1960/10/22     3                   Saturday                           
+1960/10/23     4                   Sunday         Frost               
+1960/10/24     5                   Monday                             
+1960/10/25     6                   Tuesday                            
+1960/10/26     7                   Wednesday                          
+1960/10/27     8                   Thursday                           
+1960/10/28     9                   Friday                             
+1960/10/29     10                  Saturday                           
+1960/10/30     11                  Sunday                             
+1960/10/31     12                  Monday                             
+1960/11/01     13                  Tuesday                            
+1960/11/02     14                  Wednesday                          
+1960/11/03     15                  Thursday                           
+1960/11/04     16                  Friday                             
+1960/11/05     17                  Saturday                           
+1960/11/06     18                  Sunday                             
+1960/11/07     19                  Monday         Winter Commences    
+1960/11/08     20                  Tuesday                            
+1960/11/09     21                  Wednesday                          
+1960/11/10     22                  Thursday                           
+1960/11/11     23                  Friday                             
+1960/11/12     24                  Saturday                           
+1960/11/13     25                  Sunday                             
+1960/11/14     26                  Monday                             
+1960/11/15     27                  Tuesday                            
+1960/11/16     28                  Wednesday                          
+1960/11/17     29                  Thursday                           
+1960/11/18     30                  Friday                             
+1960/11/19     10th Lunar month    Saturday                           
+1960/11/20     2                   Sunday                             
+1960/11/21     3                   Monday                             
+1960/11/22     4                   Tuesday        Light Snow          
+1960/11/23     5                   Wednesday                          
+1960/11/24     6                   Thursday                           
+1960/11/25     7                   Friday                             
+1960/11/26     8                   Saturday                           
+1960/11/27     9                   Sunday                             
+1960/11/28     10                  Monday                             
+1960/11/29     11                  Tuesday                            
+1960/11/30     12                  Wednesday                          
+1960/12/01     13                  Thursday                           
+1960/12/02     14                  Friday                             
+1960/12/03     15                  Saturday                           
+1960/12/04     16                  Sunday                             
+1960/12/05     17                  Monday                             
+1960/12/06     18                  Tuesday                            
+1960/12/07     19                  Wednesday      Heavy Snow          
+1960/12/08     20                  Thursday                           
+1960/12/09     21                  Friday                             
+1960/12/10     22                  Saturday                           
+1960/12/11     23                  Sunday                             
+1960/12/12     24                  Monday                             
+1960/12/13     25                  Tuesday                            
+1960/12/14     26                  Wednesday                          
+1960/12/15     27                  Thursday                           
+1960/12/16     28                  Friday                             
+1960/12/17     29                  Saturday                           
+1960/12/18     11th Lunar month    Sunday                             
+1960/12/19     2                   Monday                             
+1960/12/20     3                   Tuesday                            
+1960/12/21     4                   Wednesday                          
+1960/12/22     5                   Thursday       Winter Solstice     
+1960/12/23     6                   Friday                             
+1960/12/24     7                   Saturday                           
+1960/12/25     8                   Sunday                             
+1960/12/26     9                   Monday                             
+1960/12/27     10                  Tuesday                            
+1960/12/28     11                  Wednesday                          
+1960/12/29     12                  Thursday                           
+1960/12/30     13                  Friday                             
+1960/12/31     14                  Saturday                           
+
+In 1960, summer time was enforced during 20 March to 6 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

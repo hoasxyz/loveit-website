@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1919 (Ji-wei ¡V year of the Goat)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1919/01/01     30                  Wednesday                          
+1919/01/02     12th Lunar month    Thursday                           
+1919/01/03     2                   Friday                             
+1919/01/04     3                   Saturday                           
+1919/01/05     4                   Sunday                             
+1919/01/06     5                   Monday         Moderate Cold       
+1919/01/07     6                   Tuesday                            
+1919/01/08     7                   Wednesday                          
+1919/01/09     8                   Thursday                           
+1919/01/10     9                   Friday                             
+1919/01/11     10                  Saturday                           
+1919/01/12     11                  Sunday                             
+1919/01/13     12                  Monday                             
+1919/01/14     13                  Tuesday                            
+1919/01/15     14                  Wednesday                          
+1919/01/16     15                  Thursday                           
+1919/01/17     16                  Friday                             
+1919/01/18     17                  Saturday                           
+1919/01/19     18                  Sunday                             
+1919/01/20     19                  Monday                             
+1919/01/21     20                  Tuesday        Severe Cold         
+1919/01/22     21                  Wednesday                          
+1919/01/23     22                  Thursday                           
+1919/01/24     23                  Friday                             
+1919/01/25     24                  Saturday                           
+1919/01/26     25                  Sunday                             
+1919/01/27     26                  Monday                             
+1919/01/28     27                  Tuesday                            
+1919/01/29     28                  Wednesday                          
+1919/01/30     29                  Thursday                           
+1919/01/31     30                  Friday                             
+1919/02/01     1st Lunar month     Saturday                           
+1919/02/02     2                   Sunday                             
+1919/02/03     3                   Monday                             
+1919/02/04     4                   Tuesday                            
+1919/02/05     5                   Wednesday      Spring Commences    
+1919/02/06     6                   Thursday                           
+1919/02/07     7                   Friday                             
+1919/02/08     8                   Saturday                           
+1919/02/09     9                   Sunday                             
+1919/02/10     10                  Monday                             
+1919/02/11     11                  Tuesday                            
+1919/02/12     12                  Wednesday                          
+1919/02/13     13                  Thursday                           
+1919/02/14     14                  Friday                             
+1919/02/15     15                  Saturday                           
+1919/02/16     16                  Sunday                             
+1919/02/17     17                  Monday                             
+1919/02/18     18                  Tuesday                            
+1919/02/19     19                  Wednesday                          
+1919/02/20     20                  Thursday       Spring Showers      
+1919/02/21     21                  Friday                             
+1919/02/22     22                  Saturday                           
+1919/02/23     23                  Sunday                             
+1919/02/24     24                  Monday                             
+1919/02/25     25                  Tuesday                            
+1919/02/26     26                  Wednesday                          
+1919/02/27     27                  Thursday                           
+1919/02/28     28                  Friday                             
+1919/03/01     29                  Saturday                           
+1919/03/02     2nd Lunar month     Sunday                             
+1919/03/03     2                   Monday                             
+1919/03/04     3                   Tuesday                            
+1919/03/05     4                   Wednesday                          
+1919/03/06     5                   Thursday       Insects Waken       
+1919/03/07     6                   Friday                             
+1919/03/08     7                   Saturday                           
+1919/03/09     8                   Sunday                             
+1919/03/10     9                   Monday                             
+1919/03/11     10                  Tuesday                            
+1919/03/12     11                  Wednesday                          
+1919/03/13     12                  Thursday                           
+1919/03/14     13                  Friday                             
+1919/03/15     14                  Saturday                           
+1919/03/16     15                  Sunday                             
+1919/03/17     16                  Monday                             
+1919/03/18     17                  Tuesday                            
+1919/03/19     18                  Wednesday                          
+1919/03/20     19                  Thursday                           
+1919/03/21     20                  Friday                             
+1919/03/22     21                  Saturday       Vernal Equinox      
+1919/03/23     22                  Sunday                             
+1919/03/24     23                  Monday                             
+1919/03/25     24                  Tuesday                            
+1919/03/26     25                  Wednesday                          
+1919/03/27     26                  Thursday                           
+1919/03/28     27                  Friday                             
+1919/03/29     28                  Saturday                           
+1919/03/30     29                  Sunday                             
+1919/03/31     30                  Monday                             
+1919/04/01     3rd Lunar month     Tuesday                            
+1919/04/02     2                   Wednesday                          
+1919/04/03     3                   Thursday                           
+1919/04/04     4                   Friday                             
+1919/04/05     5                   Saturday                           
+1919/04/06     6                   Sunday         Bright & Clear      
+1919/04/07     7                   Monday                             
+1919/04/08     8                   Tuesday                            
+1919/04/09     9                   Wednesday                          
+1919/04/10     10                  Thursday                           
+1919/04/11     11                  Friday                             
+1919/04/12     12                  Saturday                           
+1919/04/13     13                  Sunday                             
+1919/04/14     14                  Monday                             
+1919/04/15     15                  Tuesday                            
+1919/04/16     16                  Wednesday                          
+1919/04/17     17                  Thursday                           
+1919/04/18     18                  Friday                             
+1919/04/19     19                  Saturday                           
+1919/04/20     20                  Sunday                             
+1919/04/21     21                  Monday         Corn Rain           
+1919/04/22     22                  Tuesday                            
+1919/04/23     23                  Wednesday                          
+1919/04/24     24                  Thursday                           
+1919/04/25     25                  Friday                             
+1919/04/26     26                  Saturday                           
+1919/04/27     27                  Sunday                             
+1919/04/28     28                  Monday                             
+1919/04/29     29                  Tuesday                            
+1919/04/30     4th Lunar month     Wednesday                          
+1919/05/01     2                   Thursday                           
+1919/05/02     3                   Friday                             
+1919/05/03     4                   Saturday                           
+1919/05/04     5                   Sunday                             
+1919/05/05     6                   Monday                             
+1919/05/06     7                   Tuesday        Summer Commences    
+1919/05/07     8                   Wednesday                          
+1919/05/08     9                   Thursday                           
+1919/05/09     10                  Friday                             
+1919/05/10     11                  Saturday                           
+1919/05/11     12                  Sunday                             
+1919/05/12     13                  Monday                             
+1919/05/13     14                  Tuesday                            
+1919/05/14     15                  Wednesday                          
+1919/05/15     16                  Thursday                           
+1919/05/16     17                  Friday                             
+1919/05/17     18                  Saturday                           
+1919/05/18     19                  Sunday                             
+1919/05/19     20                  Monday                             
+1919/05/20     21                  Tuesday                            
+1919/05/21     22                  Wednesday                          
+1919/05/22     23                  Thursday       Corn Forms          
+1919/05/23     24                  Friday                             
+1919/05/24     25                  Saturday                           
+1919/05/25     26                  Sunday                             
+1919/05/26     27                  Monday                             
+1919/05/27     28                  Tuesday                            
+1919/05/28     29                  Wednesday                          
+1919/05/29     5th Lunar month     Thursday                           
+1919/05/30     2                   Friday                             
+1919/05/31     3                   Saturday                           
+1919/06/01     4                   Sunday                             
+1919/06/02     5                   Monday                             
+1919/06/03     6                   Tuesday                            
+1919/06/04     7                   Wednesday                          
+1919/06/05     8                   Thursday                           
+1919/06/06     9                   Friday                             
+1919/06/07     10                  Saturday       Corn on Ear         
+1919/06/08     11                  Sunday                             
+1919/06/09     12                  Monday                             
+1919/06/10     13                  Tuesday                            
+1919/06/11     14                  Wednesday                          
+1919/06/12     15                  Thursday                           
+1919/06/13     16                  Friday                             
+1919/06/14     17                  Saturday                           
+1919/06/15     18                  Sunday                             
+1919/06/16     19                  Monday                             
+1919/06/17     20                  Tuesday                            
+1919/06/18     21                  Wednesday                          
+1919/06/19     22                  Thursday                           
+1919/06/20     23                  Friday                             
+1919/06/21     24                  Saturday                           
+1919/06/22     25                  Sunday         Summer Solstice     
+1919/06/23     26                  Monday                             
+1919/06/24     27                  Tuesday                            
+1919/06/25     28                  Wednesday                          
+1919/06/26     29                  Thursday                           
+1919/06/27     30                  Friday                             
+1919/06/28     6th Lunar month     Saturday                           
+1919/06/29     2                   Sunday                             
+1919/06/30     3                   Monday                             
+1919/07/01     4                   Tuesday                            
+1919/07/02     5                   Wednesday                          
+1919/07/03     6                   Thursday                           
+1919/07/04     7                   Friday                             
+1919/07/05     8                   Saturday                           
+1919/07/06     9                   Sunday                             
+1919/07/07     10                  Monday                             
+1919/07/08     11                  Tuesday        Moderate Heat       
+1919/07/09     12                  Wednesday                          
+1919/07/10     13                  Thursday                           
+1919/07/11     14                  Friday                             
+1919/07/12     15                  Saturday                           
+1919/07/13     16                  Sunday                             
+1919/07/14     17                  Monday                             
+1919/07/15     18                  Tuesday                            
+1919/07/16     19                  Wednesday                          
+1919/07/17     20                  Thursday                           
+1919/07/18     21                  Friday                             
+1919/07/19     22                  Saturday                           
+1919/07/20     23                  Sunday                             
+1919/07/21     24                  Monday                             
+1919/07/22     25                  Tuesday                            
+1919/07/23     26                  Wednesday                          
+1919/07/24     27                  Thursday       Great Heat          
+1919/07/25     28                  Friday                             
+1919/07/26     29                  Saturday                           
+1919/07/27     7th Lunar month     Sunday                             
+1919/07/28     2                   Monday                             
+1919/07/29     3                   Tuesday                            
+1919/07/30     4                   Wednesday                          
+1919/07/31     5                   Thursday                           
+1919/08/01     6                   Friday                             
+1919/08/02     7                   Saturday                           
+1919/08/03     8                   Sunday                             
+1919/08/04     9                   Monday                             
+1919/08/05     10                  Tuesday                            
+1919/08/06     11                  Wednesday                          
+1919/08/07     12                  Thursday                           
+1919/08/08     13                  Friday         Autumn Commences    
+1919/08/09     14                  Saturday                           
+1919/08/10     15                  Sunday                             
+1919/08/11     16                  Monday                             
+1919/08/12     17                  Tuesday                            
+1919/08/13     18                  Wednesday                          
+1919/08/14     19                  Thursday                           
+1919/08/15     20                  Friday                             
+1919/08/16     21                  Saturday                           
+1919/08/17     22                  Sunday                             
+1919/08/18     23                  Monday                             
+1919/08/19     24                  Tuesday                            
+1919/08/20     25                  Wednesday                          
+1919/08/21     26                  Thursday                           
+1919/08/22     27                  Friday                             
+1919/08/23     28                  Saturday                           
+1919/08/24     29                  Sunday         End of Heat         
+1919/08/25     7th Lunar month     Monday                             
+1919/08/26     2                   Tuesday                            
+1919/08/27     3                   Wednesday                          
+1919/08/28     4                   Thursday                           
+1919/08/29     5                   Friday                             
+1919/08/30     6                   Saturday                           
+1919/08/31     7                   Sunday                             
+1919/09/01     8                   Monday                             
+1919/09/02     9                   Tuesday                            
+1919/09/03     10                  Wednesday                          
+1919/09/04     11                  Thursday                           
+1919/09/05     12                  Friday                             
+1919/09/06     13                  Saturday                           
+1919/09/07     14                  Sunday                             
+1919/09/08     15                  Monday                             
+1919/09/09     16                  Tuesday        White Dew           
+1919/09/10     17                  Wednesday                          
+1919/09/11     18                  Thursday                           
+1919/09/12     19                  Friday                             
+1919/09/13     20                  Saturday                           
+1919/09/14     21                  Sunday                             
+1919/09/15     22                  Monday                             
+1919/09/16     23                  Tuesday                            
+1919/09/17     24                  Wednesday                          
+1919/09/18     25                  Thursday                           
+1919/09/19     26                  Friday                             
+1919/09/20     27                  Saturday                           
+1919/09/21     28                  Sunday                             
+1919/09/22     29                  Monday                             
+1919/09/23     30                  Tuesday                            
+1919/09/24     8th Lunar month     Wednesday      Autumnal Equinox    
+1919/09/25     2                   Thursday                           
+1919/09/26     3                   Friday                             
+1919/09/27     4                   Saturday                           
+1919/09/28     5                   Sunday                             
+1919/09/29     6                   Monday                             
+1919/09/30     7                   Tuesday                            
+1919/10/01     8                   Wednesday                          
+1919/10/02     9                   Thursday                           
+1919/10/03     10                  Friday                             
+1919/10/04     11                  Saturday                           
+1919/10/05     12                  Sunday                             
+1919/10/06     13                  Monday                             
+1919/10/07     14                  Tuesday                            
+1919/10/08     15                  Wednesday                          
+1919/10/09     16                  Thursday       Cold Dew            
+1919/10/10     17                  Friday                             
+1919/10/11     18                  Saturday                           
+1919/10/12     19                  Sunday                             
+1919/10/13     20                  Monday                             
+1919/10/14     21                  Tuesday                            
+1919/10/15     22                  Wednesday                          
+1919/10/16     23                  Thursday                           
+1919/10/17     24                  Friday                             
+1919/10/18     25                  Saturday                           
+1919/10/19     26                  Sunday                             
+1919/10/20     27                  Monday                             
+1919/10/21     28                  Tuesday                            
+1919/10/22     29                  Wednesday                          
+1919/10/23     30                  Thursday                           
+1919/10/24     9th Lunar month     Friday         Frost               
+1919/10/25     2                   Saturday                           
+1919/10/26     3                   Sunday                             
+1919/10/27     4                   Monday                             
+1919/10/28     5                   Tuesday                            
+1919/10/29     6                   Wednesday                          
+1919/10/30     7                   Thursday                           
+1919/10/31     8                   Friday                             
+1919/11/01     9                   Saturday                           
+1919/11/02     10                  Sunday                             
+1919/11/03     11                  Monday                             
+1919/11/04     12                  Tuesday                            
+1919/11/05     13                  Wednesday                          
+1919/11/06     14                  Thursday                           
+1919/11/07     15                  Friday                             
+1919/11/08     16                  Saturday       Winter Commences    
+1919/11/09     17                  Sunday                             
+1919/11/10     18                  Monday                             
+1919/11/11     19                  Tuesday                            
+1919/11/12     20                  Wednesday                          
+1919/11/13     21                  Thursday                           
+1919/11/14     22                  Friday                             
+1919/11/15     23                  Saturday                           
+1919/11/16     24                  Sunday                             
+1919/11/17     25                  Monday                             
+1919/11/18     26                  Tuesday                            
+1919/11/19     27                  Wednesday                          
+1919/11/20     28                  Thursday                           
+1919/11/21     29                  Friday                             
+1919/11/22     10th Lunar month    Saturday                           
+1919/11/23     2                   Sunday         Light Snow          
+1919/11/24     3                   Monday                             
+1919/11/25     4                   Tuesday                            
+1919/11/26     5                   Wednesday                          
+1919/11/27     6                   Thursday                           
+1919/11/28     7                   Friday                             
+1919/11/29     8                   Saturday                           
+1919/11/30     9                   Sunday                             
+1919/12/01     10                  Monday                             
+1919/12/02     11                  Tuesday                            
+1919/12/03     12                  Wednesday                          
+1919/12/04     13                  Thursday                           
+1919/12/05     14                  Friday                             
+1919/12/06     15                  Saturday                           
+1919/12/07     16                  Sunday                             
+1919/12/08     17                  Monday         Heavy Snow          
+1919/12/09     18                  Tuesday                            
+1919/12/10     19                  Wednesday                          
+1919/12/11     20                  Thursday                           
+1919/12/12     21                  Friday                             
+1919/12/13     22                  Saturday                           
+1919/12/14     23                  Sunday                             
+1919/12/15     24                  Monday                             
+1919/12/16     25                  Tuesday                            
+1919/12/17     26                  Wednesday                          
+1919/12/18     27                  Thursday                           
+1919/12/19     28                  Friday                             
+1919/12/20     29                  Saturday                           
+1919/12/21     30                  Sunday                             
+1919/12/22     11th Lunar month    Monday                             
+1919/12/23     2                   Tuesday        Winter Solstice     
+1919/12/24     3                   Wednesday                          
+1919/12/25     4                   Thursday                           
+1919/12/26     5                   Friday                             
+1919/12/27     6                   Saturday                           
+1919/12/28     7                   Sunday                             
+1919/12/29     8                   Monday                             
+1919/12/30     9                   Tuesday                            
+1919/12/31     10                  Wednesday                          

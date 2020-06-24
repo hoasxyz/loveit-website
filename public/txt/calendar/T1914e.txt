@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1914 (Jia-yin ¡V year of the Tiger)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1914/01/01     6                   Thursday                           
+1914/01/02     7                   Friday                             
+1914/01/03     8                   Saturday                           
+1914/01/04     9                   Sunday                             
+1914/01/05     10                  Monday                             
+1914/01/06     11                  Tuesday        Moderate Cold       
+1914/01/07     12                  Wednesday                          
+1914/01/08     13                  Thursday                           
+1914/01/09     14                  Friday                             
+1914/01/10     15                  Saturday                           
+1914/01/11     16                  Sunday                             
+1914/01/12     17                  Monday                             
+1914/01/13     18                  Tuesday                            
+1914/01/14     19                  Wednesday                          
+1914/01/15     20                  Thursday                           
+1914/01/16     21                  Friday                             
+1914/01/17     22                  Saturday                           
+1914/01/18     23                  Sunday                             
+1914/01/19     24                  Monday                             
+1914/01/20     25                  Tuesday                            
+1914/01/21     26                  Wednesday      Severe Cold         
+1914/01/22     27                  Thursday                           
+1914/01/23     28                  Friday                             
+1914/01/24     29                  Saturday                           
+1914/01/25     30                  Sunday                             
+1914/01/26     1st Lunar month     Monday                             
+1914/01/27     2                   Tuesday                            
+1914/01/28     3                   Wednesday                          
+1914/01/29     4                   Thursday                           
+1914/01/30     5                   Friday                             
+1914/01/31     6                   Saturday                           
+1914/02/01     7                   Sunday                             
+1914/02/02     8                   Monday                             
+1914/02/03     9                   Tuesday                            
+1914/02/04     10                  Wednesday      Spring Commences    
+1914/02/05     11                  Thursday                           
+1914/02/06     12                  Friday                             
+1914/02/07     13                  Saturday                           
+1914/02/08     14                  Sunday                             
+1914/02/09     15                  Monday                             
+1914/02/10     16                  Tuesday                            
+1914/02/11     17                  Wednesday                          
+1914/02/12     18                  Thursday                           
+1914/02/13     19                  Friday                             
+1914/02/14     20                  Saturday                           
+1914/02/15     21                  Sunday                             
+1914/02/16     22                  Monday                             
+1914/02/17     23                  Tuesday                            
+1914/02/18     24                  Wednesday                          
+1914/02/19     25                  Thursday       Spring Showers      
+1914/02/20     26                  Friday                             
+1914/02/21     27                  Saturday                           
+1914/02/22     28                  Sunday                             
+1914/02/23     29                  Monday                          
+1914/02/24     30                  Tuesday                            
+1914/02/25     2nd Lunar month     Wednesday                          
+1914/02/26     2                   Thursday                           
+1914/02/27     3                   Friday                             
+1914/02/28     4                   Saturday                           
+1914/03/01     5                   Sunday                             
+1914/03/02     6                   Monday                             
+1914/03/03     7                   Tuesday                            
+1914/03/04     8                   Wednesday                          
+1914/03/05     9                   Thursday                           
+1914/03/06     10                  Friday         Insects Waken       
+1914/03/07     11                  Saturday                           
+1914/03/08     12                  Sunday                             
+1914/03/09     13                  Monday                             
+1914/03/10     14                  Tuesday                            
+1914/03/11     15                  Wednesday                          
+1914/03/12     16                  Thursday                           
+1914/03/13     17                  Friday                             
+1914/03/14     18                  Saturday                           
+1914/03/15     19                  Sunday                             
+1914/03/16     20                  Monday                             
+1914/03/17     21                  Tuesday                            
+1914/03/18     22                  Wednesday                          
+1914/03/19     23                  Thursday                           
+1914/03/20     24                  Friday                             
+1914/03/21     25                  Saturday       Vernal Equinox      
+1914/03/22     26                  Sunday                             
+1914/03/23     27                  Monday                             
+1914/03/24     28                  Tuesday                            
+1914/03/25     29                  Wednesday                          
+1914/03/26     30                  Thursday                           
+1914/03/27     3rd Lunar month     Friday                             
+1914/03/28     2                   Saturday                           
+1914/03/29     3                   Sunday                             
+1914/03/30     4                   Monday                             
+1914/03/31     5                   Tuesday                            
+1914/04/01     6                   Wednesday                          
+1914/04/02     7                   Thursday                           
+1914/04/03     8                   Friday                             
+1914/04/04     9                   Saturday                           
+1914/04/05     10                  Sunday         Bright & Clear      
+1914/04/06     11                  Monday                             
+1914/04/07     12                  Tuesday                            
+1914/04/08     13                  Wednesday                          
+1914/04/09     14                  Thursday                           
+1914/04/10     15                  Friday                             
+1914/04/11     16                  Saturday                           
+1914/04/12     17                  Sunday                             
+1914/04/13     18                  Monday                             
+1914/04/14     19                  Tuesday                            
+1914/04/15     20                  Wednesday                          
+1914/04/16     21                  Thursday                           
+1914/04/17     22                  Friday                             
+1914/04/18     23                  Saturday                           
+1914/04/19     24                  Sunday                             
+1914/04/20     25                  Monday                             
+1914/04/21     26                  Tuesday        Corn Rain           
+1914/04/22     27                  Wednesday                          
+1914/04/23     28                  Thursday                           
+1914/04/24     29                  Friday                             
+1914/04/25     4th Lunar month     Saturday                           
+1914/04/26     2                   Sunday                             
+1914/04/27     3                   Monday                             
+1914/04/28     4                   Tuesday                            
+1914/04/29     5                   Wednesday                          
+1914/04/30     6                   Thursday                           
+1914/05/01     7                   Friday                             
+1914/05/02     8                   Saturday                           
+1914/05/03     9                   Sunday                             
+1914/05/04     10                  Monday                             
+1914/05/05     11                  Tuesday                            
+1914/05/06     12                  Wednesday      Summer Commences    
+1914/05/07     13                  Thursday                           
+1914/05/08     14                  Friday                             
+1914/05/09     15                  Saturday                           
+1914/05/10     16                  Sunday                             
+1914/05/11     17                  Monday                             
+1914/05/12     18                  Tuesday                            
+1914/05/13     19                  Wednesday                          
+1914/05/14     20                  Thursday                           
+1914/05/15     21                  Friday                             
+1914/05/16     22                  Saturday                           
+1914/05/17     23                  Sunday                             
+1914/05/18     24                  Monday                             
+1914/05/19     25                  Tuesday                            
+1914/05/20     26                  Wednesday                          
+1914/05/21     27                  Thursday                           
+1914/05/22     28                  Friday         Corn Forms          
+1914/05/23     29                  Saturday                           
+1914/05/24     30                  Sunday                             
+1914/05/25     5th Lunar month     Monday                             
+1914/05/26     2                   Tuesday                            
+1914/05/27     3                   Wednesday                          
+1914/05/28     4                   Thursday                           
+1914/05/29     5                   Friday                             
+1914/05/30     6                   Saturday                           
+1914/05/31     7                   Sunday                             
+1914/06/01     8                   Monday                             
+1914/06/02     9                   Tuesday                            
+1914/06/03     10                  Wednesday                          
+1914/06/04     11                  Thursday                           
+1914/06/05     12                  Friday                             
+1914/06/06     13                  Saturday       Corn on Ear         
+1914/06/07     14                  Sunday                             
+1914/06/08     15                  Monday                             
+1914/06/09     16                  Tuesday                            
+1914/06/10     17                  Wednesday                          
+1914/06/11     18                  Thursday                           
+1914/06/12     19                  Friday                             
+1914/06/13     20                  Saturday                           
+1914/06/14     21                  Sunday                             
+1914/06/15     22                  Monday                             
+1914/06/16     23                  Tuesday                            
+1914/06/17     24                  Wednesday                          
+1914/06/18     25                  Thursday                           
+1914/06/19     26                  Friday                             
+1914/06/20     27                  Saturday                           
+1914/06/21     28                  Sunday                             
+1914/06/22     29                  Monday         Summer Solstice     
+1914/06/23     5th Lunar month     Tuesday                            
+1914/06/24     2                   Wednesday                          
+1914/06/25     3                   Thursday                           
+1914/06/26     4                   Friday                             
+1914/06/27     5                   Saturday                           
+1914/06/28     6                   Sunday                             
+1914/06/29     7                   Monday                             
+1914/06/30     8                   Tuesday                            
+1914/07/01     9                   Wednesday                          
+1914/07/02     10                  Thursday                           
+1914/07/03     11                  Friday                             
+1914/07/04     12                  Saturday                           
+1914/07/05     13                  Sunday                             
+1914/07/06     14                  Monday                             
+1914/07/07     15                  Tuesday                            
+1914/07/08     16                  Wednesday      Moderate Heat       
+1914/07/09     17                  Thursday                           
+1914/07/10     18                  Friday                             
+1914/07/11     19                  Saturday                           
+1914/07/12     20                  Sunday                             
+1914/07/13     21                  Monday                             
+1914/07/14     22                  Tuesday                            
+1914/07/15     23                  Wednesday                          
+1914/07/16     24                  Thursday                           
+1914/07/17     25                  Friday                             
+1914/07/18     26                  Saturday                           
+1914/07/19     27                  Sunday                             
+1914/07/20     28                  Monday                             
+1914/07/21     29                  Tuesday                            
+1914/07/22     30                  Wednesday                          
+1914/07/23     6th Lunar month     Thursday                           
+1914/07/24     2                   Friday         Great Heat          
+1914/07/25     3                   Saturday                           
+1914/07/26     4                   Sunday                             
+1914/07/27     5                   Monday                             
+1914/07/28     6                   Tuesday                            
+1914/07/29     7                   Wednesday                          
+1914/07/30     8                   Thursday                           
+1914/07/31     9                   Friday                             
+1914/08/01     10                  Saturday                           
+1914/08/02     11                  Sunday                             
+1914/08/03     12                  Monday                             
+1914/08/04     13                  Tuesday                            
+1914/08/05     14                  Wednesday                          
+1914/08/06     15                  Thursday                           
+1914/08/07     16                  Friday                             
+1914/08/08     17                  Saturday       Autumn Commences    
+1914/08/09     18                  Sunday                             
+1914/08/10     19                  Monday                             
+1914/08/11     20                  Tuesday                            
+1914/08/12     21                  Wednesday                          
+1914/08/13     22                  Thursday                           
+1914/08/14     23                  Friday                             
+1914/08/15     24                  Saturday                           
+1914/08/16     25                  Sunday                             
+1914/08/17     26                  Monday                             
+1914/08/18     27                  Tuesday                            
+1914/08/19     28                  Wednesday                          
+1914/08/20     29                  Thursday                           
+1914/08/21     7th Lunar month     Friday                             
+1914/08/22     2                   Saturday                           
+1914/08/23     3                   Sunday                             
+1914/08/24     4                   Monday         End of Heat         
+1914/08/25     5                   Tuesday                            
+1914/08/26     6                   Wednesday                          
+1914/08/27     7                   Thursday                           
+1914/08/28     8                   Friday                             
+1914/08/29     9                   Saturday                           
+1914/08/30     10                  Sunday                             
+1914/08/31     11                  Monday                             
+1914/09/01     12                  Tuesday                            
+1914/09/02     13                  Wednesday                          
+1914/09/03     14                  Thursday                           
+1914/09/04     15                  Friday                             
+1914/09/05     16                  Saturday                           
+1914/09/06     17                  Sunday                             
+1914/09/07     18                  Monday                             
+1914/09/08     19                  Tuesday        White Dew           
+1914/09/09     20                  Wednesday                          
+1914/09/10     21                  Thursday                           
+1914/09/11     22                  Friday                             
+1914/09/12     23                  Saturday                           
+1914/09/13     24                  Sunday                             
+1914/09/14     25                  Monday                             
+1914/09/15     26                  Tuesday                            
+1914/09/16     27                  Wednesday                          
+1914/09/17     28                  Thursday                           
+1914/09/18     29                  Friday                             
+1914/09/19     30                  Saturday                           
+1914/09/20     8th Lunar month     Sunday                             
+1914/09/21     2                   Monday                             
+1914/09/22     3                   Tuesday                            
+1914/09/23     4                   Wednesday                          
+1914/09/24     5                   Thursday       Autumnal Equinox    
+1914/09/25     6                   Friday                             
+1914/09/26     7                   Saturday                           
+1914/09/27     8                   Sunday                             
+1914/09/28     9                   Monday                             
+1914/09/29     10                  Tuesday                            
+1914/09/30     11                  Wednesday                          
+1914/10/01     12                  Thursday                           
+1914/10/02     13                  Friday                             
+1914/10/03     14                  Saturday                           
+1914/10/04     15                  Sunday                             
+1914/10/05     16                  Monday                             
+1914/10/06     17                  Tuesday                            
+1914/10/07     18                  Wednesday                          
+1914/10/08     19                  Thursday                           
+1914/10/09     20                  Friday         Cold Dew            
+1914/10/10     21                  Saturday                           
+1914/10/11     22                  Sunday                             
+1914/10/12     23                  Monday                             
+1914/10/13     24                  Tuesday                            
+1914/10/14     25                  Wednesday                          
+1914/10/15     26                  Thursday                           
+1914/10/16     27                  Friday                             
+1914/10/17     28                  Saturday                           
+1914/10/18     29                  Sunday                             
+1914/10/19     9th Lunar month     Monday                             
+1914/10/20     2                   Tuesday                            
+1914/10/21     3                   Wednesday                          
+1914/10/22     4                   Thursday                           
+1914/10/23     5                   Friday                             
+1914/10/24     6                   Saturday       Frost               
+1914/10/25     7                   Sunday                             
+1914/10/26     8                   Monday                             
+1914/10/27     9                   Tuesday                            
+1914/10/28     10                  Wednesday                          
+1914/10/29     11                  Thursday                           
+1914/10/30     12                  Friday                             
+1914/10/31     13                  Saturday                           
+1914/11/01     14                  Sunday                             
+1914/11/02     15                  Monday                             
+1914/11/03     16                  Tuesday                            
+1914/11/04     17                  Wednesday                          
+1914/11/05     18                  Thursday                           
+1914/11/06     19                  Friday                             
+1914/11/07     20                  Saturday                           
+1914/11/08     21                  Sunday         Winter Commences    
+1914/11/09     22                  Monday                             
+1914/11/10     23                  Tuesday                            
+1914/11/11     24                  Wednesday                          
+1914/11/12     25                  Thursday                           
+1914/11/13     26                  Friday                             
+1914/11/14     27                  Saturday                           
+1914/11/15     28                  Sunday                             
+1914/11/16     29                  Monday                             
+1914/11/17     10th Lunar month    Tuesday                            
+1914/11/18     2		   Wednesday                          
+1914/11/19     3                   Thursday                           
+1914/11/20     4                   Friday                             
+1914/11/21     5                   Saturday                           
+1914/11/22     6                   Sunday                             
+1914/11/23     7                   Monday         Light Snow          
+1914/11/24     8                   Tuesday                            
+1914/11/25     9                   Wednesday                          
+1914/11/26     10                  Thursday                           
+1914/11/27     11                  Friday                             
+1914/11/28     12                  Saturday                           
+1914/11/29     13                  Sunday                             
+1914/11/30     14                  Monday                             
+1914/12/01     15                  Tuesday                            
+1914/12/02     16                  Wednesday                          
+1914/12/03     17                  Thursday                           
+1914/12/04     18                  Friday                             
+1914/12/05     19                  Saturday                           
+1914/12/06     20                  Sunday                             
+1914/12/07     21                  Monday                             
+1914/12/08     22                  Tuesday        Heavy Snow          
+1914/12/09     23                  Wednesday                          
+1914/12/10     24                  Thursday                           
+1914/12/11     25                  Friday                             
+1914/12/12     26                  Saturday                           
+1914/12/13     27                  Sunday                             
+1914/12/14     28                  Monday                             
+1914/12/15     29                  Tuesday                            
+1914/12/16     30                  Wednesday                          
+1914/12/17     11th Lunar month    Thursday                           
+1914/12/18     2                   Friday                             
+1914/12/19     3                   Saturday                           
+1914/12/20     4                   Sunday                             
+1914/12/21     5                   Monday                             
+1914/12/22     6                   Tuesday                            
+1914/12/23     7                   Wednesday      Winter Solstice     
+1914/12/24     8                   Thursday                           
+1914/12/25     9                   Friday                             
+1914/12/26     10                  Saturday                           
+1914/12/27     11                  Sunday                             
+1914/12/28     12                  Monday                             
+1914/12/29     13                  Tuesday                            
+1914/12/30     14                  Wednesday                          
+1914/12/31     15                  Thursday                           

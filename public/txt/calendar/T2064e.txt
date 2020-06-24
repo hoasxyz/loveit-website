@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 2064 (Jia-shen  -  year of the Monkey)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2064/1/1          13                      Tuesday                            
+2064/1/2          14                      Wednesday                          
+2064/1/3          15                      Thursday                           
+2064/1/4          16                      Friday                             
+2064/1/5          17                      Saturday       Moderate Cold       
+2064/1/6          18                      Sunday                             
+2064/1/7          19                      Monday                             
+2064/1/8          20                      Tuesday                            
+2064/1/9          21                      Wednesday                          
+2064/1/10         22                      Thursday                           
+2064/1/11         23                      Friday                             
+2064/1/12         24                      Saturday                           
+2064/1/13         25                      Sunday                             
+2064/1/14         26                      Monday                             
+2064/1/15         27                      Tuesday                            
+2064/1/16         28                      Wednesday                          
+2064/1/17         29                      Thursday                           
+2064/1/18         12th Lunar Month        Friday                             
+2064/1/19         2                       Saturday                           
+2064/1/20         3                       Sunday         Severe Cold         
+2064/1/21         4                       Monday                             
+2064/1/22         5                       Tuesday                            
+2064/1/23         6                       Wednesday                          
+2064/1/24         7                       Thursday                           
+2064/1/25         8                       Friday                             
+2064/1/26         9                       Saturday                           
+2064/1/27         10                      Sunday                             
+2064/1/28         11                      Monday                             
+2064/1/29         12                      Tuesday                            
+2064/1/30         13                      Wednesday                          
+2064/1/31         14                      Thursday                           
+2064/2/1          15                      Friday                             
+2064/2/2          16                      Saturday                           
+2064/2/3          17                      Sunday                             
+2064/2/4          18                      Monday         Spring Commences    
+2064/2/5          19                      Tuesday                            
+2064/2/6          20                      Wednesday                          
+2064/2/7          21                      Thursday                           
+2064/2/8          22                      Friday                             
+2064/2/9          23                      Saturday                           
+2064/2/10         24                      Sunday                             
+2064/2/11         25                      Monday                             
+2064/2/12         26                      Tuesday                            
+2064/2/13         27                      Wednesday                          
+2064/2/14         28                      Thursday                           
+2064/2/15         29                      Friday                             
+2064/2/16         30                      Saturday                           
+2064/2/17         1st Lunar Month         Sunday                             
+2064/2/18         2                       Monday                             
+2064/2/19         3                       Tuesday        Spring Showers      
+2064/2/20         4                       Wednesday                          
+2064/2/21         5                       Thursday                           
+2064/2/22         6                       Friday                             
+2064/2/23         7                       Saturday                           
+2064/2/24         8                       Sunday                             
+2064/2/25         9                       Monday                             
+2064/2/26         10                      Tuesday                            
+2064/2/27         11                      Wednesday                          
+2064/2/28         12                      Thursday                           
+2064/2/29         13                      Friday                             
+2064/3/1          14                      Saturday                           
+2064/3/2          15                      Sunday                             
+2064/3/3          16                      Monday                             
+2064/3/4          17                      Tuesday                            
+2064/3/5          18                      Wednesday      Insects Waken       
+2064/3/6          19                      Thursday                           
+2064/3/7          20                      Friday                             
+2064/3/8          21                      Saturday                           
+2064/3/9          22                      Sunday                             
+2064/3/10         23                      Monday                             
+2064/3/11         24                      Tuesday                            
+2064/3/12         25                      Wednesday                          
+2064/3/13         26                      Thursday                           
+2064/3/14         27                      Friday                             
+2064/3/15         28                      Saturday                           
+2064/3/16         29                      Sunday                             
+2064/3/17         30                      Monday                             
+2064/3/18         2nd Lunar Month         Tuesday                            
+2064/3/19         2                       Wednesday                          
+2064/3/20         3                       Thursday       Vernal Equinox      
+2064/3/21         4                       Friday                             
+2064/3/22         5                       Saturday                           
+2064/3/23         6                       Sunday                             
+2064/3/24         7                       Monday                             
+2064/3/25         8                       Tuesday                            
+2064/3/26         9                       Wednesday                          
+2064/3/27         10                      Thursday                           
+2064/3/28         11                      Friday                             
+2064/3/29         12                      Saturday                           
+2064/3/30         13                      Sunday                             
+2064/3/31         14                      Monday                             
+2064/4/1          15                      Tuesday                            
+2064/4/2          16                      Wednesday                          
+2064/4/3          17                      Thursday                           
+2064/4/4          18                      Friday         Bright & Clear      
+2064/4/5          19                      Saturday                           
+2064/4/6          20                      Sunday                             
+2064/4/7          21                      Monday                             
+2064/4/8          22                      Tuesday                            
+2064/4/9          23                      Wednesday                          
+2064/4/10         24                      Thursday                           
+2064/4/11         25                      Friday                             
+2064/4/12         26                      Saturday                           
+2064/4/13         27                      Sunday                             
+2064/4/14         28                      Monday                             
+2064/4/15         29                      Tuesday                            
+2064/4/16         30                      Wednesday                          
+2064/4/17         3rd Lunar Month         Thursday                           
+2064/4/18         2                       Friday                             
+2064/4/19         3                       Saturday       Corn Rain           
+2064/4/20         4                       Sunday                             
+2064/4/21         5                       Monday                             
+2064/4/22         6                       Tuesday                            
+2064/4/23         7                       Wednesday                          
+2064/4/24         8                       Thursday                           
+2064/4/25         9                       Friday                             
+2064/4/26         10                      Saturday                           
+2064/4/27         11                      Sunday                             
+2064/4/28         12                      Monday                             
+2064/4/29         13                      Tuesday                            
+2064/4/30         14                      Wednesday                          
+2064/5/1          15                      Thursday                           
+2064/5/2          16                      Friday                             
+2064/5/3          17                      Saturday                           
+2064/5/4          18                      Sunday                             
+2064/5/5          19                      Monday         Summer Commences    
+2064/5/6          20                      Tuesday                            
+2064/5/7          21                      Wednesday                          
+2064/5/8          22                      Thursday                           
+2064/5/9          23                      Friday                             
+2064/5/10         24                      Saturday                           
+2064/5/11         25                      Sunday                             
+2064/5/12         26                      Monday                             
+2064/5/13         27                      Tuesday                            
+2064/5/14         28                      Wednesday                          
+2064/5/15         29                      Thursday                           
+2064/5/16         4th Lunar Month         Friday                             
+2064/5/17         2                       Saturday                           
+2064/5/18         3                       Sunday                             
+2064/5/19         4                       Monday                             
+2064/5/20         5                       Tuesday        Corn Forms          
+2064/5/21         6                       Wednesday                          
+2064/5/22         7                       Thursday                           
+2064/5/23         8                       Friday                             
+2064/5/24         9                       Saturday                           
+2064/5/25         10                      Sunday                             
+2064/5/26         11                      Monday                             
+2064/5/27         12                      Tuesday                            
+2064/5/28         13                      Wednesday                          
+2064/5/29         14                      Thursday                           
+2064/5/30         15                      Friday                             
+2064/5/31         16                      Saturday                           
+2064/6/1          17                      Sunday                             
+2064/6/2          18                      Monday                             
+2064/6/3          19                      Tuesday                            
+2064/6/4          20                      Wednesday                          
+2064/6/5          21                      Thursday       Corn on Ear         
+2064/6/6          22                      Friday                             
+2064/6/7          23                      Saturday                           
+2064/6/8          24                      Sunday                             
+2064/6/9          25                      Monday                             
+2064/6/10         26                      Tuesday                            
+2064/6/11         27                      Wednesday                          
+2064/6/12         28                      Thursday                           
+2064/6/13         29                      Friday                             
+2064/6/14         30                      Saturday                           
+2064/6/15         5th Lunar Month         Sunday                             
+2064/6/16         2                       Monday                             
+2064/6/17         3                       Tuesday                            
+2064/6/18         4                       Wednesday                          
+2064/6/19         5                       Thursday                           
+2064/6/20         6                       Friday         Summer Solstice     
+2064/6/21         7                       Saturday                           
+2064/6/22         8                       Sunday                             
+2064/6/23         9                       Monday                             
+2064/6/24         10                      Tuesday                            
+2064/6/25         11                      Wednesday                          
+2064/6/26         12                      Thursday                           
+2064/6/27         13                      Friday                             
+2064/6/28         14                      Saturday                           
+2064/6/29         15                      Sunday                             
+2064/6/30         16                      Monday                             
+2064/7/1          17                      Tuesday                            
+2064/7/2          18                      Wednesday                          
+2064/7/3          19                      Thursday                           
+2064/7/4          20                      Friday                             
+2064/7/5          21                      Saturday                           
+2064/7/6          22                      Sunday         Moderate Heat       
+2064/7/7          23                      Monday                             
+2064/7/8          24                      Tuesday                            
+2064/7/9          25                      Wednesday                          
+2064/7/10         26                      Thursday                           
+2064/7/11         27                      Friday                             
+2064/7/12         28                      Saturday                           
+2064/7/13         29                      Sunday                             
+2064/7/14         6th Lunar Month         Monday                             
+2064/7/15         2                       Tuesday                            
+2064/7/16         3                       Wednesday                          
+2064/7/17         4                       Thursday                           
+2064/7/18         5                       Friday                             
+2064/7/19         6                       Saturday                           
+2064/7/20         7                       Sunday                             
+2064/7/21         8                       Monday                             
+2064/7/22         9                       Tuesday        Great Heat          
+2064/7/23         10                      Wednesday                          
+2064/7/24         11                      Thursday                           
+2064/7/25         12                      Friday                             
+2064/7/26         13                      Saturday                           
+2064/7/27         14                      Sunday                             
+2064/7/28         15                      Monday                             
+2064/7/29         16                      Tuesday                            
+2064/7/30         17                      Wednesday                          
+2064/7/31         18                      Thursday                           
+2064/8/1          19                      Friday                             
+2064/8/2          20                      Saturday                           
+2064/8/3          21                      Sunday                             
+2064/8/4          22                      Monday                             
+2064/8/5          23                      Tuesday                            
+2064/8/6          24                      Wednesday                          
+2064/8/7          25                      Thursday       Autumn Commences    
+2064/8/8          26                      Friday                             
+2064/8/9          27                      Saturday                           
+2064/8/10         28                      Sunday                             
+2064/8/11         29                      Monday                             
+2064/8/12         30                      Tuesday                            
+2064/8/13         7th Lunar Month         Wednesday                          
+2064/8/14         2                       Thursday                           
+2064/8/15         3                       Friday                             
+2064/8/16         4                       Saturday                           
+2064/8/17         5                       Sunday                             
+2064/8/18         6                       Monday                             
+2064/8/19         7                       Tuesday                            
+2064/8/20         8                       Wednesday                          
+2064/8/21         9                       Thursday                           
+2064/8/22         10                      Friday         End of Heat         
+2064/8/23         11                      Saturday                           
+2064/8/24         12                      Sunday                             
+2064/8/25         13                      Monday                             
+2064/8/26         14                      Tuesday                            
+2064/8/27         15                      Wednesday                          
+2064/8/28         16                      Thursday                           
+2064/8/29         17                      Friday                             
+2064/8/30         18                      Saturday                           
+2064/8/31         19                      Sunday                             
+2064/9/1          20                      Monday                             
+2064/9/2          21                      Tuesday                            
+2064/9/3          22                      Wednesday                          
+2064/9/4          23                      Thursday                           
+2064/9/5          24                      Friday                             
+2064/9/6          25                      Saturday                           
+2064/9/7          26                      Sunday         White Dew           
+2064/9/8          27                      Monday                             
+2064/9/9          28                      Tuesday                            
+2064/9/10         29                      Wednesday                          
+2064/9/11         8th Lunar Month         Thursday                           
+2064/9/12         2                       Friday                             
+2064/9/13         3                       Saturday                           
+2064/9/14         4                       Sunday                             
+2064/9/15         5                       Monday                             
+2064/9/16         6                       Tuesday                            
+2064/9/17         7                       Wednesday                          
+2064/9/18         8                       Thursday                           
+2064/9/19         9                       Friday                             
+2064/9/20         10                      Saturday                           
+2064/9/21         11                      Sunday                             
+2064/9/22         12                      Monday         Autumnal Equinox    
+2064/9/23         13                      Tuesday                            
+2064/9/24         14                      Wednesday                          
+2064/9/25         15                      Thursday                           
+2064/9/26         16                      Friday                             
+2064/9/27         17                      Saturday                           
+2064/9/28         18                      Sunday                             
+2064/9/29         19                      Monday                             
+2064/9/30         20                      Tuesday                            
+2064/10/1         21                      Wednesday                          
+2064/10/2         22                      Thursday                           
+2064/10/3         23                      Friday                             
+2064/10/4         24                      Saturday                           
+2064/10/5         25                      Sunday                             
+2064/10/6         26                      Monday                             
+2064/10/7         27                      Tuesday        Cold Dew            
+2064/10/8         28                      Wednesday                          
+2064/10/9         29                      Thursday                           
+2064/10/10        9th Lunar Month         Friday                             
+2064/10/11        2                       Saturday                           
+2064/10/12        3                       Sunday                             
+2064/10/13        4                       Monday                             
+2064/10/14        5                       Tuesday                            
+2064/10/15        6                       Wednesday                          
+2064/10/16        7                       Thursday                           
+2064/10/17        8                       Friday                             
+2064/10/18        9                       Saturday                           
+2064/10/19        10                      Sunday                             
+2064/10/20        11                      Monday                             
+2064/10/21        12                      Tuesday                            
+2064/10/22        13                      Wednesday      Frost               
+2064/10/23        14                      Thursday                           
+2064/10/24        15                      Friday                             
+2064/10/25        16                      Saturday                           
+2064/10/26        17                      Sunday                             
+2064/10/27        18                      Monday                             
+2064/10/28        19                      Tuesday                            
+2064/10/29        20                      Wednesday                          
+2064/10/30        21                      Thursday                           
+2064/10/31        22                      Friday                             
+2064/11/1         23                      Saturday                           
+2064/11/2         24                      Sunday                             
+2064/11/3         25                      Monday                             
+2064/11/4         26                      Tuesday                            
+2064/11/5         27                      Wednesday                          
+2064/11/6         28                      Thursday       Winter Commences    
+2064/11/7         29                      Friday                             
+2064/11/8         30                      Saturday                           
+2064/11/9         10th Lunar Month        Sunday                             
+2064/11/10        2                       Monday                             
+2064/11/11        3                       Tuesday                            
+2064/11/12        4                       Wednesday                          
+2064/11/13        5                       Thursday                           
+2064/11/14        6                       Friday                             
+2064/11/15        7                       Saturday                           
+2064/11/16        8                       Sunday                             
+2064/11/17        9                       Monday                             
+2064/11/18        10                      Tuesday                            
+2064/11/19        11                      Wednesday                          
+2064/11/20        12                      Thursday                           
+2064/11/21        13                      Friday         Light Snow          
+2064/11/22        14                      Saturday                           
+2064/11/23        15                      Sunday                             
+2064/11/24        16                      Monday                             
+2064/11/25        17                      Tuesday                            
+2064/11/26        18                      Wednesday                          
+2064/11/27        19                      Thursday                           
+2064/11/28        20                      Friday                             
+2064/11/29        21                      Saturday                           
+2064/11/30        22                      Sunday                             
+2064/12/1         23                      Monday                             
+2064/12/2         24                      Tuesday                            
+2064/12/3         25                      Wednesday                          
+2064/12/4         26                      Thursday                           
+2064/12/5         27                      Friday                             
+2064/12/6         28                      Saturday       Heavy Snow          
+2064/12/7         29                      Sunday                             
+2064/12/8         11th Lunar Month        Monday                             
+2064/12/9         2                       Tuesday                            
+2064/12/10        3                       Wednesday                          
+2064/12/11        4                       Thursday                           
+2064/12/12        5                       Friday                             
+2064/12/13        6                       Saturday                           
+2064/12/14        7                       Sunday                             
+2064/12/15        8                       Monday                             
+2064/12/16        9                       Tuesday                            
+2064/12/17        10                      Wednesday                          
+2064/12/18        11                      Thursday                           
+2064/12/19        12                      Friday                             
+2064/12/20        13                      Saturday                           
+2064/12/21        14                      Sunday         Winter Solstice     
+2064/12/22        15                      Monday                             
+2064/12/23        16                      Tuesday                            
+2064/12/24        17                      Wednesday                          
+2064/12/25        18                      Thursday                           
+2064/12/26        19                      Friday                             
+2064/12/27        20                      Saturday                           
+2064/12/28        21                      Sunday                             
+2064/12/29        22                      Monday                             
+2064/12/30        23                      Tuesday                            
+2064/12/31        24                      Wednesday                          

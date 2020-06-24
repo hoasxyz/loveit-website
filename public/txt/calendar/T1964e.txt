@@ -1,0 +1,370 @@
+Gregorian-Lunar Calendar Conversion Table of 1964 (Jia-chen ¡V year of the Dragon)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1964/01/01     17                  Wednesday                          
+1964/01/02     18                  Thursday                           
+1964/01/03     19                  Friday                             
+1964/01/04     20                  Saturday                           
+1964/01/05     21                  Sunday                             
+1964/01/06     22                  Monday         Moderate Cold       
+1964/01/07     23                  Tuesday                            
+1964/01/08     24                  Wednesday                          
+1964/01/09     25                  Thursday                           
+1964/01/10     26                  Friday                             
+1964/01/11     27                  Saturday                           
+1964/01/12     28                  Sunday                             
+1964/01/13     29                  Monday                             
+1964/01/14     30                  Tuesday                            
+1964/01/15     12th Lunar month    Wednesday                          
+1964/01/16     2                   Thursday                           
+1964/01/17     3                   Friday                             
+1964/01/18     4                   Saturday                           
+1964/01/19     5                   Sunday                             
+1964/01/20     6                   Monday                             
+1964/01/21     7                   Tuesday        Severe Cold         
+1964/01/22     8                   Wednesday                          
+1964/01/23     9                   Thursday                           
+1964/01/24     10                  Friday                             
+1964/01/25     11                  Saturday                           
+1964/01/26     12                  Sunday                             
+1964/01/27     13                  Monday                             
+1964/01/28     14                  Tuesday                            
+1964/01/29     15                  Wednesday                          
+1964/01/30     16                  Thursday                           
+1964/01/31     17                  Friday                             
+1964/02/01     18                  Saturday                           
+1964/02/02     19                  Sunday                             
+1964/02/03     20                  Monday                             
+1964/02/04     21                  Tuesday                            
+1964/02/05     22                  Wednesday      Spring Commences    
+1964/02/06     23                  Thursday                           
+1964/02/07     24                  Friday                             
+1964/02/08     25                  Saturday                           
+1964/02/09     26                  Sunday                             
+1964/02/10     27                  Monday                             
+1964/02/11     28                  Tuesday                            
+1964/02/12     29                  Wednesday                          
+1964/02/13     1st Lunar month     Thursday                           
+1964/02/14     2                   Friday                             
+1964/02/15     3                   Saturday                           
+1964/02/16     4                   Sunday                             
+1964/02/17     5                   Monday                             
+1964/02/18     6                   Tuesday                            
+1964/02/19     7                   Wednesday      Spring Showers      
+1964/02/20     8                   Thursday                           
+1964/02/21     9                   Friday                             
+1964/02/22     10                  Saturday                           
+1964/02/23     11                  Sunday                             
+1964/02/24     12                  Monday                             
+1964/02/25     13                  Tuesday                            
+1964/02/26     14                  Wednesday                          
+1964/02/27     15                  Thursday                           
+1964/02/28     16                  Friday                             
+1964/02/29     17                  Saturday                           
+1964/03/01     18                  Sunday                             
+1964/03/02     19                  Monday                             
+1964/03/03     20                  Tuesday                            
+1964/03/04     21                  Wednesday                          
+1964/03/05     22                  Thursday       Insects Waken       
+1964/03/06     23                  Friday                             
+1964/03/07     24                  Saturday                           
+1964/03/08     25                  Sunday                             
+1964/03/09     26                  Monday                             
+1964/03/10     27                  Tuesday                            
+1964/03/11     28                  Wednesday                          
+1964/03/12     29                  Thursday                           
+1964/03/13     30                  Friday                             
+1964/03/14     2nd Lunar month     Saturday                           
+1964/03/15     2                   Sunday                             
+1964/03/16     3                   Monday                             
+1964/03/17     4                   Tuesday                            
+1964/03/18     5                   Wednesday                          
+1964/03/19     6                   Thursday                           
+1964/03/20     7                   Friday         Vernal Equinox      
+1964/03/21     8                   Saturday                           
+1964/03/22     9                   Sunday                             
+1964/03/23     10                  Monday                             
+1964/03/24     11                  Tuesday                            
+1964/03/25     12                  Wednesday                          
+1964/03/26     13                  Thursday                           
+1964/03/27     14                  Friday                             
+1964/03/28     15                  Saturday                           
+1964/03/29     16                  Sunday                             
+1964/03/30     17                  Monday                             
+1964/03/31     18                  Tuesday                            
+1964/04/01     19                  Wednesday                          
+1964/04/02     20                  Thursday                           
+1964/04/03     21                  Friday                             
+1964/04/04     22                  Saturday                           
+1964/04/05     23                  Sunday         Bright & Clear      
+1964/04/06     24                  Monday                             
+1964/04/07     25                  Tuesday                            
+1964/04/08     26                  Wednesday                          
+1964/04/09     27                  Thursday                           
+1964/04/10     28                  Friday                             
+1964/04/11     29                  Saturday                           
+1964/04/12     3rd Lunar month     Sunday                             
+1964/04/13     2                   Monday                             
+1964/04/14     3                   Tuesday                            
+1964/04/15     4                   Wednesday                          
+1964/04/16     5                   Thursday                           
+1964/04/17     6                   Friday                             
+1964/04/18     7                   Saturday                           
+1964/04/19     8                   Sunday                             
+1964/04/20     9                   Monday         Corn Rain           
+1964/04/21     10                  Tuesday                            
+1964/04/22     11                  Wednesday                          
+1964/04/23     12                  Thursday                           
+1964/04/24     13                  Friday                             
+1964/04/25     14                  Saturday                           
+1964/04/26     15                  Sunday                             
+1964/04/27     16                  Monday                             
+1964/04/28     17                  Tuesday                            
+1964/04/29     18                  Wednesday                          
+1964/04/30     19                  Thursday                           
+1964/05/01     20                  Friday                             
+1964/05/02     21                  Saturday                           
+1964/05/03     22                  Sunday                             
+1964/05/04     23                  Monday                             
+1964/05/05     24                  Tuesday        Summer Commences    
+1964/05/06     25                  Wednesday                          
+1964/05/07     26                  Thursday                           
+1964/05/08     27                  Friday                             
+1964/05/09     28                  Saturday                           
+1964/05/10     29                  Sunday                             
+1964/05/11     30                  Monday                             
+1964/05/12     4th Lunar month     Tuesday                            
+1964/05/13     2                   Wednesday                          
+1964/05/14     3                   Thursday                           
+1964/05/15     4                   Friday                             
+1964/05/16     5                   Saturday                           
+1964/05/17     6                   Sunday                             
+1964/05/18     7                   Monday                             
+1964/05/19     8                   Tuesday                            
+1964/05/20     9                   Wednesday                          
+1964/05/21     10                  Thursday       Corn Forms          
+1964/05/22     11                  Friday                             
+1964/05/23     12                  Saturday                           
+1964/05/24     13                  Sunday                             
+1964/05/25     14                  Monday                             
+1964/05/26     15                  Tuesday                            
+1964/05/27     16                  Wednesday                          
+1964/05/28     17                  Thursday                           
+1964/05/29     18                  Friday                             
+1964/05/30     19                  Saturday                           
+1964/05/31     20                  Sunday                             
+1964/06/01     21                  Monday                             
+1964/06/02     22                  Tuesday                            
+1964/06/03     23                  Wednesday                          
+1964/06/04     24                  Thursday                           
+1964/06/05     25                  Friday                             
+1964/06/06     26                  Saturday       Corn on Ear         
+1964/06/07     27                  Sunday                             
+1964/06/08     28                  Monday                             
+1964/06/09     29                  Tuesday                            
+1964/06/10     5th Lunar month     Wednesday                          
+1964/06/11     2                   Thursday                           
+1964/06/12     3                   Friday                             
+1964/06/13     4                   Saturday                           
+1964/06/14     5                   Sunday                             
+1964/06/15     6                   Monday                             
+1964/06/16     7                   Tuesday                            
+1964/06/17     8                   Wednesday                          
+1964/06/18     9                   Thursday                           
+1964/06/19     10                  Friday                             
+1964/06/20     11                  Saturday                           
+1964/06/21     12                  Sunday         Summer Solstice     
+1964/06/22     13                  Monday                             
+1964/06/23     14                  Tuesday                            
+1964/06/24     15                  Wednesday                          
+1964/06/25     16                  Thursday                           
+1964/06/26     17                  Friday                             
+1964/06/27     18                  Saturday                           
+1964/06/28     19                  Sunday                             
+1964/06/29     20                  Monday                             
+1964/06/30     21                  Tuesday                            
+1964/07/01     22                  Wednesday                          
+1964/07/02     23                  Thursday                           
+1964/07/03     24                  Friday                             
+1964/07/04     25                  Saturday                           
+1964/07/05     26                  Sunday                             
+1964/07/06     27                  Monday                             
+1964/07/07     28                  Tuesday        Moderate Heat       
+1964/07/08     29                  Wednesday                          
+1964/07/09     6th Lunar month     Thursday                           
+1964/07/10     2                   Friday                             
+1964/07/11     3                   Saturday                           
+1964/07/12     4                   Sunday                             
+1964/07/13     5                   Monday                             
+1964/07/14     6                   Tuesday                            
+1964/07/15     7                   Wednesday                          
+1964/07/16     8                   Thursday                           
+1964/07/17     9                   Friday                             
+1964/07/18     10                  Saturday                           
+1964/07/19     11                  Sunday                             
+1964/07/20     12                  Monday                             
+1964/07/21     13                  Tuesday                            
+1964/07/22     14                  Wednesday                          
+1964/07/23     15                  Thursday       Great Heat          
+1964/07/24     16                  Friday                             
+1964/07/25     17                  Saturday                           
+1964/07/26     18                  Sunday                             
+1964/07/27     19                  Monday                             
+1964/07/28     20                  Tuesday                            
+1964/07/29     21                  Wednesday                          
+1964/07/30     22                  Thursday                           
+1964/07/31     23                  Friday                             
+1964/08/01     24                  Saturday                           
+1964/08/02     25                  Sunday                             
+1964/08/03     26                  Monday                             
+1964/08/04     27                  Tuesday                            
+1964/08/05     28                  Wednesday                          
+1964/08/06     29                  Thursday                           
+1964/08/07     30                  Friday         Autumn Commences    
+1964/08/08     7th Lunar month     Saturday                           
+1964/08/09     2                   Sunday                             
+1964/08/10     3                   Monday                             
+1964/08/11     4                   Tuesday                            
+1964/08/12     5                   Wednesday                          
+1964/08/13     6                   Thursday                           
+1964/08/14     7                   Friday                             
+1964/08/15     8                   Saturday                           
+1964/08/16     9                   Sunday                             
+1964/08/17     10                  Monday                             
+1964/08/18     11                  Tuesday                            
+1964/08/19     12                  Wednesday                          
+1964/08/20     13                  Thursday                           
+1964/08/21     14                  Friday                             
+1964/08/22     15                  Saturday                           
+1964/08/23     16                  Sunday         End of Heat         
+1964/08/24     17                  Monday                             
+1964/08/25     18                  Tuesday                            
+1964/08/26     19                  Wednesday                          
+1964/08/27     20                  Thursday                           
+1964/08/28     21                  Friday                             
+1964/08/29     22                  Saturday                           
+1964/08/30     23                  Sunday                             
+1964/08/31     24                  Monday                             
+1964/09/01     25                  Tuesday                            
+1964/09/02     26                  Wednesday                          
+1964/09/03     27                  Thursday                           
+1964/09/04     28                  Friday                             
+1964/09/05     29                  Saturday                           
+1964/09/06     8th Lunar month     Sunday                             
+1964/09/07     2                   Monday         White Dew           
+1964/09/08     3                   Tuesday                            
+1964/09/09     4                   Wednesday                          
+1964/09/10     5                   Thursday                           
+1964/09/11     6                   Friday                             
+1964/09/12     7                   Saturday                           
+1964/09/13     8                   Sunday                             
+1964/09/14     9                   Monday                             
+1964/09/15     10                  Tuesday                            
+1964/09/16     11                  Wednesday                          
+1964/09/17     12                  Thursday                           
+1964/09/18     13                  Friday                             
+1964/09/19     14                  Saturday                           
+1964/09/20     15                  Sunday                             
+1964/09/21     16                  Monday                             
+1964/09/22     17                  Tuesday                            
+1964/09/23     18                  Wednesday      Autumnal Equinox    
+1964/09/24     19                  Thursday                           
+1964/09/25     20                  Friday                             
+1964/09/26     21                  Saturday                           
+1964/09/27     22                  Sunday                             
+1964/09/28     23                  Monday                             
+1964/09/29     24                  Tuesday                            
+1964/09/30     25                  Wednesday                          
+1964/10/01     26                  Thursday                           
+1964/10/02     27                  Friday                             
+1964/10/03     28                  Saturday                           
+1964/10/04     29                  Sunday                             
+1964/10/05     30                  Monday                             
+1964/10/06     9th Lunar month     Tuesday                            
+1964/10/07     2                   Wednesday                          
+1964/10/08     3                   Thursday       Cold Dew            
+1964/10/09     4                   Friday                             
+1964/10/10     5                   Saturday                           
+1964/10/11     6                   Sunday                             
+1964/10/12     7                   Monday                             
+1964/10/13     8                   Tuesday                            
+1964/10/14     9                   Wednesday                          
+1964/10/15     10                  Thursday                           
+1964/10/16     11                  Friday                             
+1964/10/17     12                  Saturday                           
+1964/10/18     13                  Sunday                             
+1964/10/19     14                  Monday                             
+1964/10/20     15                  Tuesday                            
+1964/10/21     16                  Wednesday                          
+1964/10/22     17                  Thursday                           
+1964/10/23     18                  Friday         Frost               
+1964/10/24     19                  Saturday                           
+1964/10/25     20                  Sunday                             
+1964/10/26     21                  Monday                             
+1964/10/27     22                  Tuesday                            
+1964/10/28     23                  Wednesday                          
+1964/10/29     24                  Thursday                           
+1964/10/30     25                  Friday                             
+1964/10/31     26                  Saturday                           
+1964/11/01     27                  Sunday                             
+1964/11/02     28                  Monday                             
+1964/11/03     29                  Tuesday                            
+1964/11/04     10th Lunar month    Wednesday                          
+1964/11/05     2                   Thursday                           
+1964/11/06     3                   Friday                             
+1964/11/07     4                   Saturday       Winter Commences    
+1964/11/08     5                   Sunday                             
+1964/11/09     6                   Monday                             
+1964/11/10     7                   Tuesday                            
+1964/11/11     8                   Wednesday                          
+1964/11/12     9                   Thursday                           
+1964/11/13     10                  Friday                             
+1964/11/14     11                  Saturday                           
+1964/11/15     12                  Sunday                             
+1964/11/16     13                  Monday                             
+1964/11/17     14                  Tuesday                            
+1964/11/18     15                  Wednesday                          
+1964/11/19     16                  Thursday                           
+1964/11/20     17                  Friday                             
+1964/11/21     18                  Saturday                           
+1964/11/22     19                  Sunday         Light Snow          
+1964/11/23     20                  Monday                             
+1964/11/24     21                  Tuesday                            
+1964/11/25     22                  Wednesday                          
+1964/11/26     23                  Thursday                           
+1964/11/27     24                  Friday                             
+1964/11/28     25                  Saturday                           
+1964/11/29     26                  Sunday                             
+1964/11/30     27                  Monday                             
+1964/12/01     28                  Tuesday                            
+1964/12/02     29                  Wednesday                          
+1964/12/03     30                  Thursday                           
+1964/12/04     11th Lunar month    Friday                             
+1964/12/05     2                   Saturday                           
+1964/12/06     3                   Sunday                             
+1964/12/07     4                   Monday         Heavy Snow          
+1964/12/08     5                   Tuesday                            
+1964/12/09     6                   Wednesday                          
+1964/12/10     7                   Thursday                           
+1964/12/11     8                   Friday                             
+1964/12/12     9                   Saturday                           
+1964/12/13     10                  Sunday                             
+1964/12/14     11                  Monday                             
+1964/12/15     12                  Tuesday                            
+1964/12/16     13                  Wednesday                          
+1964/12/17     14                  Thursday                           
+1964/12/18     15                  Friday                             
+1964/12/19     16                  Saturday                           
+1964/12/20     17                  Sunday                             
+1964/12/21     18                  Monday                             
+1964/12/22     19                  Tuesday        Winter Solstice     
+1964/12/23     20                  Wednesday                          
+1964/12/24     21                  Thursday                           
+1964/12/25     22                  Friday                             
+1964/12/26     23                  Saturday                           
+1964/12/27     24                  Sunday                             
+1964/12/28     25                  Monday                             
+1964/12/29     26                  Tuesday                            
+1964/12/30     27                  Wednesday                          
+1964/12/31     28                  Thursday                           
+
+In 1964, summer time was enforced during 22 March to 1 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

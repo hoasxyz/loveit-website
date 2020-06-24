@@ -1,0 +1,368 @@
+Gregorian-Lunar Calendar Conversion Table of 1936 (Bing-zi ¡V year of the Mouse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1936/01/01     7                   Wednesday                          
+1936/01/02     8                   Thursday                           
+1936/01/03     9                   Friday                             
+1936/01/04     10                  Saturday                           
+1936/01/05     11                  Sunday                             
+1936/01/06     12                  Monday         Moderate Cold       
+1936/01/07     13                  Tuesday                            
+1936/01/08     14                  Wednesday                          
+1936/01/09     15                  Thursday                           
+1936/01/10     16                  Friday                             
+1936/01/11     17                  Saturday                           
+1936/01/12     18                  Sunday                             
+1936/01/13     19                  Monday                             
+1936/01/14     20                  Tuesday                            
+1936/01/15     21                  Wednesday                          
+1936/01/16     22                  Thursday                           
+1936/01/17     23                  Friday                             
+1936/01/18     24                  Saturday                           
+1936/01/19     25                  Sunday                             
+1936/01/20     26                  Monday                             
+1936/01/21     27                  Tuesday        Severe Cold         
+1936/01/22     28                  Wednesday                          
+1936/01/23     29                  Thursday                           
+1936/01/24     1st Lunar month     Friday                             
+1936/01/25     2                   Saturday                           
+1936/01/26     3                   Sunday                             
+1936/01/27     4                   Monday                             
+1936/01/28     5                   Tuesday                            
+1936/01/29     6                   Wednesday                          
+1936/01/30     7                   Thursday                           
+1936/01/31     8                   Friday                             
+1936/02/01     9                   Saturday                           
+1936/02/02     10                  Sunday                             
+1936/02/03     11                  Monday                             
+1936/02/04     12                  Tuesday                            
+1936/02/05     13                  Wednesday      Spring Commences    
+1936/02/06     14                  Thursday                           
+1936/02/07     15                  Friday                             
+1936/02/08     16                  Saturday                           
+1936/02/09     17                  Sunday                             
+1936/02/10     18                  Monday                             
+1936/02/11     19                  Tuesday                            
+1936/02/12     20                  Wednesday                          
+1936/02/13     21                  Thursday                           
+1936/02/14     22                  Friday                             
+1936/02/15     23                  Saturday                           
+1936/02/16     24                  Sunday                             
+1936/02/17     25                  Monday                             
+1936/02/18     26                  Tuesday                            
+1936/02/19     27                  Wednesday                          
+1936/02/20     28                  Thursday       Spring Showers      
+1936/02/21     29                  Friday                             
+1936/02/22     30                  Saturday                           
+1936/02/23     2nd Lunar month     Sunday                          
+1936/02/24     2                   Monday                             
+1936/02/25     3                   Tuesday                            
+1936/02/26     4                   Wednesday                          
+1936/02/27     5                   Thursday                           
+1936/02/28     6                   Friday                             
+1936/02/29     7                   Saturday                           
+1936/03/01     8                   Sunday                             
+1936/03/02     9                   Monday                             
+1936/03/03     10                  Tuesday                            
+1936/03/04     11                  Wednesday                          
+1936/03/05     12                  Thursday                           
+1936/03/06     13                  Friday         Insects Waken       
+1936/03/07     14                  Saturday                           
+1936/03/08     15                  Sunday                             
+1936/03/09     16                  Monday                             
+1936/03/10     17                  Tuesday                            
+1936/03/11     18                  Wednesday                          
+1936/03/12     19                  Thursday                           
+1936/03/13     20                  Friday                             
+1936/03/14     21                  Saturday                           
+1936/03/15     22                  Sunday                             
+1936/03/16     23                  Monday                             
+1936/03/17     24                  Tuesday                            
+1936/03/18     25                  Wednesday                          
+1936/03/19     26                  Thursday                           
+1936/03/20     27                  Friday                             
+1936/03/21     28                  Saturday       Vernal Equinox      
+1936/03/22     29                  Sunday                             
+1936/03/23     3rd Lunar month     Monday                             
+1936/03/24     2                   Tuesday                            
+1936/03/25     3                   Wednesday                          
+1936/03/26     4                   Thursday                           
+1936/03/27     5                   Friday                             
+1936/03/28     6                   Saturday                           
+1936/03/29     7                   Sunday                             
+1936/03/30     8                   Monday                             
+1936/03/31     9                   Tuesday                            
+1936/04/01     10                  Wednesday                          
+1936/04/02     11                  Thursday                           
+1936/04/03     12                  Friday                             
+1936/04/04     13                  Saturday                           
+1936/04/05     14                  Sunday         Bright & Clear      
+1936/04/06     15                  Monday                             
+1936/04/07     16                  Tuesday                            
+1936/04/08     17                  Wednesday                          
+1936/04/09     18                  Thursday                           
+1936/04/10     19                  Friday                             
+1936/04/11     20                  Saturday                           
+1936/04/12     21                  Sunday                             
+1936/04/13     22                  Monday                             
+1936/04/14     23                  Tuesday                            
+1936/04/15     24                  Wednesday                          
+1936/04/16     25                  Thursday                           
+1936/04/17     26                  Friday                             
+1936/04/18     27                  Saturday                           
+1936/04/19     28                  Sunday                             
+1936/04/20     29                  Monday         Corn Rain           
+1936/04/21     3rd Lunar month     Tuesday                            
+1936/04/22     2                   Wednesday                          
+1936/04/23     3                   Thursday                           
+1936/04/24     4                   Friday                             
+1936/04/25     5                   Saturday                           
+1936/04/26     6                   Sunday                             
+1936/04/27     7                   Monday                             
+1936/04/28     8                   Tuesday                            
+1936/04/29     9                   Wednesday                          
+1936/04/30     10                  Thursday                           
+1936/05/01     11                  Friday                             
+1936/05/02     12                  Saturday                           
+1936/05/03     13                  Sunday                             
+1936/05/04     14                  Monday                             
+1936/05/05     15                  Tuesday                            
+1936/05/06     16                  Wednesday      Summer Commences    
+1936/05/07     17                  Thursday                           
+1936/05/08     18                  Friday                             
+1936/05/09     19                  Saturday                           
+1936/05/10     20                  Sunday                             
+1936/05/11     21                  Monday                             
+1936/05/12     22                  Tuesday                            
+1936/05/13     23                  Wednesday                          
+1936/05/14     24                  Thursday                           
+1936/05/15     25                  Friday                             
+1936/05/16     26                  Saturday                           
+1936/05/17     27                  Sunday                             
+1936/05/18     28                  Monday                             
+1936/05/19     29                  Tuesday                            
+1936/05/20     30                  Wednesday                          
+1936/05/21     4th Lunar month     Thursday       Corn Forms          
+1936/05/22     2                   Friday                             
+1936/05/23     3                   Saturday                           
+1936/05/24     4                   Sunday                             
+1936/05/25     5                   Monday                             
+1936/05/26     6                   Tuesday                            
+1936/05/27     7                   Wednesday                          
+1936/05/28     8                   Thursday                           
+1936/05/29     9                   Friday                             
+1936/05/30     10                  Saturday                           
+1936/05/31     11                  Sunday                             
+1936/06/01     12                  Monday                             
+1936/06/02     13                  Tuesday                            
+1936/06/03     14                  Wednesday                          
+1936/06/04     15                  Thursday                           
+1936/06/05     16                  Friday                             
+1936/06/06     17                  Saturday       Corn on Ear         
+1936/06/07     18                  Sunday                             
+1936/06/08     19                  Monday                             
+1936/06/09     20                  Tuesday                            
+1936/06/10     21                  Wednesday                          
+1936/06/11     22                  Thursday                           
+1936/06/12     23                  Friday                             
+1936/06/13     24                  Saturday                           
+1936/06/14     25                  Sunday                             
+1936/06/15     26                  Monday                             
+1936/06/16     27                  Tuesday                            
+1936/06/17     28                  Wednesday                          
+1936/06/18     29                  Thursday                           
+1936/06/19     5th Lunar month     Friday                             
+1936/06/20     2                   Saturday                           
+1936/06/21     3                   Sunday         Summer Solstice     
+1936/06/22     4                   Monday                             
+1936/06/23     5                   Tuesday                            
+1936/06/24     6                   Wednesday                          
+1936/06/25     7                   Thursday                           
+1936/06/26     8                   Friday                             
+1936/06/27     9                   Saturday                           
+1936/06/28     10                  Sunday                             
+1936/06/29     11                  Monday                             
+1936/06/30     12                  Tuesday                            
+1936/07/01     13                  Wednesday                          
+1936/07/02     14                  Thursday                           
+1936/07/03     15                  Friday                             
+1936/07/04     16                  Saturday                           
+1936/07/05     17                  Sunday                             
+1936/07/06     18                  Monday                             
+1936/07/07     19                  Tuesday        Moderate Heat       
+1936/07/08     20                  Wednesday                          
+1936/07/09     21                  Thursday                           
+1936/07/10     22                  Friday                             
+1936/07/11     23                  Saturday                           
+1936/07/12     24                  Sunday                             
+1936/07/13     25                  Monday                             
+1936/07/14     26                  Tuesday                            
+1936/07/15     27                  Wednesday                          
+1936/07/16     28                  Thursday                           
+1936/07/17     29                  Friday                             
+1936/07/18     6th Lunar month     Saturday                           
+1936/07/19     2                   Sunday                             
+1936/07/20     3                   Monday                             
+1936/07/21     4                   Tuesday                            
+1936/07/22     5                   Wednesday                          
+1936/07/23     6                   Thursday       Great Heat          
+1936/07/24     7                   Friday                             
+1936/07/25     8                   Saturday                           
+1936/07/26     9                   Sunday                             
+1936/07/27     10                  Monday                             
+1936/07/28     11                  Tuesday                            
+1936/07/29     12                  Wednesday                          
+1936/07/30     13                  Thursday                           
+1936/07/31     14                  Friday                             
+1936/08/01     15                  Saturday                           
+1936/08/02     16                  Sunday                             
+1936/08/03     17                  Monday                             
+1936/08/04     18                  Tuesday                            
+1936/08/05     19                  Wednesday                          
+1936/08/06     20                  Thursday                           
+1936/08/07     21                  Friday                             
+1936/08/08     22                  Saturday       Autumn Commences    
+1936/08/09     23                  Sunday                             
+1936/08/10     24                  Monday                             
+1936/08/11     25                  Tuesday                            
+1936/08/12     26                  Wednesday                          
+1936/08/13     27                  Thursday                           
+1936/08/14     28                  Friday                             
+1936/08/15     29                  Saturday                           
+1936/08/16     30                  Sunday                             
+1936/08/17     7th Lunar month     Monday                             
+1936/08/18     2                   Tuesday                            
+1936/08/19     3                   Wednesday                          
+1936/08/20     4                   Thursday                           
+1936/08/21     5                   Friday                             
+1936/08/22     6                   Saturday                           
+1936/08/23     7                   Sunday         End of Heat         
+1936/08/24     8                   Monday                             
+1936/08/25     9                   Tuesday                            
+1936/08/26     10                  Wednesday                          
+1936/08/27     11                  Thursday                           
+1936/08/28     12                  Friday                             
+1936/08/29     13                  Saturday                           
+1936/08/30     14                  Sunday                             
+1936/08/31     15                  Monday                             
+1936/09/01     16                  Tuesday                            
+1936/09/02     17                  Wednesday                          
+1936/09/03     18                  Thursday                           
+1936/09/04     19                  Friday                             
+1936/09/05     20                  Saturday                           
+1936/09/06     21                  Sunday                             
+1936/09/07     22                  Monday                             
+1936/09/08     23                  Tuesday        White Dew           
+1936/09/09     24                  Wednesday                          
+1936/09/10     25                  Thursday                           
+1936/09/11     26                  Friday                             
+1936/09/12     27                  Saturday                           
+1936/09/13     28                  Sunday                             
+1936/09/14     29                  Monday                             
+1936/09/15     30                  Tuesday                            
+1936/09/16     8th Lunar month     Wednesday                          
+1936/09/17     2                   Thursday                           
+1936/09/18     3                   Friday                             
+1936/09/19     4                   Saturday                           
+1936/09/20     5                   Sunday                             
+1936/09/21     6                   Monday                             
+1936/09/22     7                   Tuesday                            
+1936/09/23     8                   Wednesday      Autumnal Equinox    
+1936/09/24     9                   Thursday                           
+1936/09/25     10                  Friday                             
+1936/09/26     11                  Saturday                           
+1936/09/27     12                  Sunday                             
+1936/09/28     13                  Monday                             
+1936/09/29     14                  Tuesday                            
+1936/09/30     15                  Wednesday                          
+1936/10/01     16                  Thursday                           
+1936/10/02     17                  Friday                             
+1936/10/03     18                  Saturday                           
+1936/10/04     19                  Sunday                             
+1936/10/05     20                  Monday                             
+1936/10/06     21                  Tuesday                            
+1936/10/07     22                  Wednesday                          
+1936/10/08     23                  Thursday       Cold Dew            
+1936/10/09     24                  Friday                             
+1936/10/10     25                  Saturday                           
+1936/10/11     26                  Sunday                             
+1936/10/12     27                  Monday                             
+1936/10/13     28                  Tuesday                            
+1936/10/14     29                  Wednesday                          
+1936/10/15     9th Lunar month     Thursday                           
+1936/10/16     2                   Friday                             
+1936/10/17     3                   Saturday                           
+1936/10/18     4                   Sunday                             
+1936/10/19     5                   Monday                             
+1936/10/20     6                   Tuesday                            
+1936/10/21     7                   Wednesday                          
+1936/10/22     8                   Thursday                           
+1936/10/23     9                   Friday         Frost               
+1936/10/24     10                  Saturday                           
+1936/10/25     11                  Sunday                             
+1936/10/26     12                  Monday                             
+1936/10/27     13                  Tuesday                            
+1936/10/28     14                  Wednesday                          
+1936/10/29     15                  Thursday                           
+1936/10/30     16                  Friday                             
+1936/10/31     17                  Saturday                           
+1936/11/01     18                  Sunday                             
+1936/11/02     19                  Monday                             
+1936/11/03     20                  Tuesday                            
+1936/11/04     21                  Wednesday                          
+1936/11/05     22                  Thursday                           
+1936/11/06     23                  Friday                             
+1936/11/07     24                  Saturday       Winter Commences    
+1936/11/08     25                  Sunday                             
+1936/11/09     26                  Monday                             
+1936/11/10     27                  Tuesday                            
+1936/11/11     28                  Wednesday                          
+1936/11/12     29                  Thursday                           
+1936/11/13     30                  Friday                             
+1936/11/14     10th Lunar month    Saturday                           
+1936/11/15     2                   Sunday                             
+1936/11/16     3                   Monday                             
+1936/11/17     4                   Tuesday                            
+1936/11/18     5                   Wednesday                          
+1936/11/19     6                   Thursday                           
+1936/11/20     7                   Friday                             
+1936/11/21     8                   Saturday                           
+1936/11/22     9                   Sunday         Light Snow          
+1936/11/23     10                  Monday                             
+1936/11/24     11                  Tuesday                            
+1936/11/25     12                  Wednesday                          
+1936/11/26     13                  Thursday                           
+1936/11/27     14                  Friday                             
+1936/11/28     15                  Saturday                           
+1936/11/29     16                  Sunday                             
+1936/11/30     17                  Monday                             
+1936/12/01     18                  Tuesday                            
+1936/12/02     19                  Wednesday                          
+1936/12/03     20                  Thursday                           
+1936/12/04     21                  Friday                             
+1936/12/05     22                  Saturday                           
+1936/12/06     23                  Sunday                             
+1936/12/07     24                  Monday         Heavy Snow          
+1936/12/08     25                  Tuesday                            
+1936/12/09     26                  Wednesday                          
+1936/12/10     27                  Thursday                           
+1936/12/11     28                  Friday                             
+1936/12/12     29                  Saturday                           
+1936/12/13     30                  Sunday                             
+1936/12/14     11th Lunar month    Monday                             
+1936/12/15     2                   Tuesday                            
+1936/12/16     3                   Wednesday                          
+1936/12/17     4                   Thursday                           
+1936/12/18     5                   Friday                             
+1936/12/19     6                   Saturday                           
+1936/12/20     7                   Sunday                             
+1936/12/21     8                   Monday                             
+1936/12/22     9                   Tuesday        Winter Solstice     
+1936/12/23     10                  Wednesday                          
+1936/12/24     11                  Thursday                           
+1936/12/25     12                  Friday                             
+1936/12/26     13                  Saturday                           
+1936/12/27     14                  Sunday                             
+1936/12/28     15                  Monday                             
+1936/12/29     16                  Tuesday                            
+1936/12/30     17                  Wednesday                          
+1936/12/31     18                  Thursday                           

@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2066 (Bing-xu  -  year of the Dog)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2066/1/1          6                       Friday                             
+2066/1/2          7                       Saturday                           
+2066/1/3          8                       Sunday                             
+2066/1/4          9                       Monday                             
+2066/1/5          10                      Tuesday        Moderate Cold       
+2066/1/6          11                      Wednesday                          
+2066/1/7          12                      Thursday                           
+2066/1/8          13                      Friday                             
+2066/1/9          14                      Saturday                           
+2066/1/10         15                      Sunday                             
+2066/1/11         16                      Monday                             
+2066/1/12         17                      Tuesday                            
+2066/1/13         18                      Wednesday                          
+2066/1/14         19                      Thursday                           
+2066/1/15         20                      Friday                             
+2066/1/16         21                      Saturday                           
+2066/1/17         22                      Sunday                             
+2066/1/18         23                      Monday                             
+2066/1/19         24                      Tuesday                            
+2066/1/20         25                      Wednesday      Severe Cold         
+2066/1/21         26                      Thursday                           
+2066/1/22         27                      Friday                             
+2066/1/23         28                      Saturday                           
+2066/1/24         29                      Sunday                             
+2066/1/25         30                      Monday                             
+2066/1/26         1st Lunar Month         Tuesday                            
+2066/1/27         2                       Wednesday                          
+2066/1/28         3                       Thursday                           
+2066/1/29         4                       Friday                             
+2066/1/30         5                       Saturday                           
+2066/1/31         6                       Sunday                             
+2066/2/1          7                       Monday                             
+2066/2/2          8                       Tuesday                            
+2066/2/3          9                       Wednesday      Spring Commences    
+2066/2/4          10                      Thursday                           
+2066/2/5          11                      Friday                             
+2066/2/6          12                      Saturday                           
+2066/2/7          13                      Sunday                             
+2066/2/8          14                      Monday                             
+2066/2/9          15                      Tuesday                            
+2066/2/10         16                      Wednesday                          
+2066/2/11         17                      Thursday                           
+2066/2/12         18                      Friday                             
+2066/2/13         19                      Saturday                           
+2066/2/14         20                      Sunday                             
+2066/2/15         21                      Monday                             
+2066/2/16         22                      Tuesday                            
+2066/2/17         23                      Wednesday                          
+2066/2/18         24                      Thursday       Spring Showers      
+2066/2/19         25                      Friday                             
+2066/2/20         26                      Saturday                           
+2066/2/21         27                      Sunday                             
+2066/2/22         28                      Monday                             
+2066/2/23         29                      Tuesday                            
+2066/2/24         2nd Lunar Month         Wednesday                          
+2066/2/25         2                       Thursday                           
+2066/2/26         3                       Friday                             
+2066/2/27         4                       Saturday                           
+2066/2/28         5                       Sunday                             
+2066/3/1          6                       Monday                             
+2066/3/2          7                       Tuesday                            
+2066/3/3          8                       Wednesday                          
+2066/3/4          9                       Thursday                           
+2066/3/5          10                      Friday         Insects Waken       
+2066/3/6          11                      Saturday                           
+2066/3/7          12                      Sunday                             
+2066/3/8          13                      Monday                             
+2066/3/9          14                      Tuesday                            
+2066/3/10         15                      Wednesday                          
+2066/3/11         16                      Thursday                           
+2066/3/12         17                      Friday                             
+2066/3/13         18                      Saturday                           
+2066/3/14         19                      Sunday                             
+2066/3/15         20                      Monday                             
+2066/3/16         21                      Tuesday                            
+2066/3/17         22                      Wednesday                          
+2066/3/18         23                      Thursday                           
+2066/3/19         24                      Friday                             
+2066/3/20         25                      Saturday       Vernal Equinox      
+2066/3/21         26                      Sunday                             
+2066/3/22         27                      Monday                             
+2066/3/23         28                      Tuesday                            
+2066/3/24         29                      Wednesday                          
+2066/3/25         30                      Thursday                           
+2066/3/26         3rd Lunar Month         Friday                             
+2066/3/27         2                       Saturday                           
+2066/3/28         3                       Sunday                             
+2066/3/29         4                       Monday                             
+2066/3/30         5                       Tuesday                            
+2066/3/31         6                       Wednesday                          
+2066/4/1          7                       Thursday                           
+2066/4/2          8                       Friday                             
+2066/4/3          9                       Saturday                           
+2066/4/4          10                      Sunday         Bright & Clear      
+2066/4/5          11                      Monday                             
+2066/4/6          12                      Tuesday                            
+2066/4/7          13                      Wednesday                          
+2066/4/8          14                      Thursday                           
+2066/4/9          15                      Friday                             
+2066/4/10         16                      Saturday                           
+2066/4/11         17                      Sunday                             
+2066/4/12         18                      Monday                             
+2066/4/13         19                      Tuesday                            
+2066/4/14         20                      Wednesday                          
+2066/4/15         21                      Thursday                           
+2066/4/16         22                      Friday                             
+2066/4/17         23                      Saturday                           
+2066/4/18         24                      Sunday                             
+2066/4/19         25                      Monday                             
+2066/4/20         26                      Tuesday        Corn Rain           
+2066/4/21         27                      Wednesday                          
+2066/4/22         28                      Thursday                           
+2066/4/23         29                      Friday                             
+2066/4/24         4th Lunar Month         Saturday                           
+2066/4/25         2                       Sunday                             
+2066/4/26         3                       Monday                             
+2066/4/27         4                       Tuesday                            
+2066/4/28         5                       Wednesday                          
+2066/4/29         6                       Thursday                           
+2066/4/30         7                       Friday                             
+2066/5/1          8                       Saturday                           
+2066/5/2          9                       Sunday                             
+2066/5/3          10                      Monday                             
+2066/5/4          11                      Tuesday                            
+2066/5/5          12                      Wednesday      Summer Commences    
+2066/5/6          13                      Thursday                           
+2066/5/7          14                      Friday                             
+2066/5/8          15                      Saturday                           
+2066/5/9          16                      Sunday                             
+2066/5/10         17                      Monday                             
+2066/5/11         18                      Tuesday                            
+2066/5/12         19                      Wednesday                          
+2066/5/13         20                      Thursday                           
+2066/5/14         21                      Friday                             
+2066/5/15         22                      Saturday                           
+2066/5/16         23                      Sunday                             
+2066/5/17         24                      Monday                             
+2066/5/18         25                      Tuesday                            
+2066/5/19         26                      Wednesday                          
+2066/5/20         27                      Thursday                           
+2066/5/21         28                      Friday         Corn Forms          
+2066/5/22         29                      Saturday                           
+2066/5/23         30                      Sunday                             
+2066/5/24         5th Lunar Month         Monday                             
+2066/5/25         2                       Tuesday                            
+2066/5/26         3                       Wednesday                          
+2066/5/27         4                       Thursday                           
+2066/5/28         5                       Friday                             
+2066/5/29         6                       Saturday                           
+2066/5/30         7                       Sunday                             
+2066/5/31         8                       Monday                             
+2066/6/1          9                       Tuesday                            
+2066/6/2          10                      Wednesday                          
+2066/6/3          11                      Thursday                           
+2066/6/4          12                      Friday                             
+2066/6/5          13                      Saturday       Corn on Ear         
+2066/6/6          14                      Sunday                             
+2066/6/7          15                      Monday                             
+2066/6/8          16                      Tuesday                            
+2066/6/9          17                      Wednesday                          
+2066/6/10         18                      Thursday                           
+2066/6/11         19                      Friday                             
+2066/6/12         20                      Saturday                           
+2066/6/13         21                      Sunday                             
+2066/6/14         22                      Monday                             
+2066/6/15         23                      Tuesday                            
+2066/6/16         24                      Wednesday                          
+2066/6/17         25                      Thursday                           
+2066/6/18         26                      Friday                             
+2066/6/19         27                      Saturday                           
+2066/6/20         28                      Sunday                             
+2066/6/21         29                      Monday         Summer Solstice     
+2066/6/22         30                      Tuesday                            
+2066/6/23         5th Lunar Month         Wednesday                          
+2066/6/24         2                       Thursday                           
+2066/6/25         3                       Friday                             
+2066/6/26         4                       Saturday                           
+2066/6/27         5                       Sunday                             
+2066/6/28         6                       Monday                             
+2066/6/29         7                       Tuesday                            
+2066/6/30         8                       Wednesday                          
+2066/7/1          9                       Thursday                           
+2066/7/2          10                      Friday                             
+2066/7/3          11                      Saturday                           
+2066/7/4          12                      Sunday                             
+2066/7/5          13                      Monday                             
+2066/7/6          14                      Tuesday                            
+2066/7/7          15                      Wednesday      Moderate Heat       
+2066/7/8          16                      Thursday                           
+2066/7/9          17                      Friday                             
+2066/7/10         18                      Saturday                           
+2066/7/11         19                      Sunday                             
+2066/7/12         20                      Monday                             
+2066/7/13         21                      Tuesday                            
+2066/7/14         22                      Wednesday                          
+2066/7/15         23                      Thursday                           
+2066/7/16         24                      Friday                             
+2066/7/17         25                      Saturday                           
+2066/7/18         26                      Sunday                             
+2066/7/19         27                      Monday                             
+2066/7/20         28                      Tuesday                            
+2066/7/21         29                      Wednesday                          
+2066/7/22         6th Lunar Month         Thursday       Great Heat          
+2066/7/23         2                       Friday                             
+2066/7/24         3                       Saturday                           
+2066/7/25         4                       Sunday                             
+2066/7/26         5                       Monday                             
+2066/7/27         6                       Tuesday                            
+2066/7/28         7                       Wednesday                          
+2066/7/29         8                       Thursday                           
+2066/7/30         9                       Friday                             
+2066/7/31         10                      Saturday                           
+2066/8/1          11                      Sunday                             
+2066/8/2          12                      Monday                             
+2066/8/3          13                      Tuesday                            
+2066/8/4          14                      Wednesday                          
+2066/8/5          15                      Thursday                           
+2066/8/6          16                      Friday                             
+2066/8/7          17                      Saturday       Autumn Commences    
+2066/8/8          18                      Sunday                             
+2066/8/9          19                      Monday                             
+2066/8/10         20                      Tuesday                            
+2066/8/11         21                      Wednesday                          
+2066/8/12         22                      Thursday                           
+2066/8/13         23                      Friday                             
+2066/8/14         24                      Saturday                           
+2066/8/15         25                      Sunday                             
+2066/8/16         26                      Monday                             
+2066/8/17         27                      Tuesday                            
+2066/8/18         28                      Wednesday                          
+2066/8/19         29                      Thursday                           
+2066/8/20         30                      Friday                             
+2066/8/21         7th Lunar Month         Saturday                           
+2066/8/22         2                       Sunday                             
+2066/8/23         3                       Monday         End of Heat         
+2066/8/24         4                       Tuesday                            
+2066/8/25         5                       Wednesday                          
+2066/8/26         6                       Thursday                           
+2066/8/27         7                       Friday                             
+2066/8/28         8                       Saturday                           
+2066/8/29         9                       Sunday                             
+2066/8/30         10                      Monday                             
+2066/8/31         11                      Tuesday                            
+2066/9/1          12                      Wednesday                          
+2066/9/2          13                      Thursday                           
+2066/9/3          14                      Friday                             
+2066/9/4          15                      Saturday                           
+2066/9/5          16                      Sunday                             
+2066/9/6          17                      Monday                             
+2066/9/7          18                      Tuesday        White Dew           
+2066/9/8          19                      Wednesday                          
+2066/9/9          20                      Thursday                           
+2066/9/10         21                      Friday                             
+2066/9/11         22                      Saturday                           
+2066/9/12         23                      Sunday                             
+2066/9/13         24                      Monday                             
+2066/9/14         25                      Tuesday                            
+2066/9/15         26                      Wednesday                          
+2066/9/16         27                      Thursday                           
+2066/9/17         28                      Friday                             
+2066/9/18         29                      Saturday                           
+2066/9/19         8th Lunar Month         Sunday                             
+2066/9/20         2                       Monday                             
+2066/9/21         3                       Tuesday                            
+2066/9/22         4                       Wednesday                          
+2066/9/23         5                       Thursday       Autumnal Equinox    
+2066/9/24         6                       Friday                             
+2066/9/25         7                       Saturday                           
+2066/9/26         8                       Sunday                             
+2066/9/27         9                       Monday                             
+2066/9/28         10                      Tuesday                            
+2066/9/29         11                      Wednesday                          
+2066/9/30         12                      Thursday                           
+2066/10/1         13                      Friday                             
+2066/10/2         14                      Saturday                           
+2066/10/3         15                      Sunday                             
+2066/10/4         16                      Monday                             
+2066/10/5         17                      Tuesday                            
+2066/10/6         18                      Wednesday                          
+2066/10/7         19                      Thursday                           
+2066/10/8         20                      Friday         Cold Dew            
+2066/10/9         21                      Saturday                           
+2066/10/10        22                      Sunday                             
+2066/10/11        23                      Monday                             
+2066/10/12        24                      Tuesday                            
+2066/10/13        25                      Wednesday                          
+2066/10/14        26                      Thursday                           
+2066/10/15        27                      Friday                             
+2066/10/16        28                      Saturday                           
+2066/10/17        29                      Sunday                             
+2066/10/18        30                      Monday                             
+2066/10/19        9th Lunar Month         Tuesday                            
+2066/10/20        2                       Wednesday                          
+2066/10/21        3                       Thursday                           
+2066/10/22        4                       Friday                             
+2066/10/23        5                       Saturday       Frost               
+2066/10/24        6                       Sunday                             
+2066/10/25        7                       Monday                             
+2066/10/26        8                       Tuesday                            
+2066/10/27        9                       Wednesday                          
+2066/10/28        10                      Thursday                           
+2066/10/29        11                      Friday                             
+2066/10/30        12                      Saturday                           
+2066/10/31        13                      Sunday                             
+2066/11/1         14                      Monday                             
+2066/11/2         15                      Tuesday                            
+2066/11/3         16                      Wednesday                          
+2066/11/4         17                      Thursday                           
+2066/11/5         18                      Friday                             
+2066/11/6         19                      Saturday                           
+2066/11/7         20                      Sunday         Winter Commences    
+2066/11/8         21                      Monday                             
+2066/11/9         22                      Tuesday                            
+2066/11/10        23                      Wednesday                          
+2066/11/11        24                      Thursday                           
+2066/11/12        25                      Friday                             
+2066/11/13        26                      Saturday                           
+2066/11/14        27                      Sunday                             
+2066/11/15        28                      Monday                             
+2066/11/16        29                      Tuesday                            
+2066/11/17        10th Lunar Month        Wednesday                          
+2066/11/18        2                       Thursday                           
+2066/11/19        3                       Friday                             
+2066/11/20        4                       Saturday                           
+2066/11/21        5                       Sunday                             
+2066/11/22        6                       Monday         Light Snow          
+2066/11/23        7                       Tuesday                            
+2066/11/24        8                       Wednesday                          
+2066/11/25        9                       Thursday                           
+2066/11/26        10                      Friday                             
+2066/11/27        11                      Saturday                           
+2066/11/28        12                      Sunday                             
+2066/11/29        13                      Monday                             
+2066/11/30        14                      Tuesday                            
+2066/12/1         15                      Wednesday                          
+2066/12/2         16                      Thursday                           
+2066/12/3         17                      Friday                             
+2066/12/4         18                      Saturday                           
+2066/12/5         19                      Sunday                             
+2066/12/6         20                      Monday                             
+2066/12/7         21                      Tuesday        Heavy Snow          
+2066/12/8         22                      Wednesday                          
+2066/12/9         23                      Thursday                           
+2066/12/10        24                      Friday                             
+2066/12/11        25                      Saturday                           
+2066/12/12        26                      Sunday                             
+2066/12/13        27                      Monday                             
+2066/12/14        28                      Tuesday                            
+2066/12/15        29                      Wednesday                          
+2066/12/16        30                      Thursday                           
+2066/12/17        11th Lunar Month        Friday                             
+2066/12/18        2                       Saturday                           
+2066/12/19        3                       Sunday                             
+2066/12/20        4                       Monday                             
+2066/12/21        5                       Tuesday        Winter Solstice     
+2066/12/22        6                       Wednesday                          
+2066/12/23        7                       Thursday                           
+2066/12/24        8                       Friday                             
+2066/12/25        9                       Saturday                           
+2066/12/26        10                      Sunday                             
+2066/12/27        11                      Monday                             
+2066/12/28        12                      Tuesday                            
+2066/12/29        13                      Wednesday                          
+2066/12/30        14                      Thursday                           
+2066/12/31        15                      Friday                             

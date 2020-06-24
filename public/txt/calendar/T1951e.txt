@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1951 (Xin-mao ¡V year of the Rabbit)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1951/01/01     24                  Monday                             
+1951/01/02     25                  Tuesday                            
+1951/01/03     26                  Wednesday                          
+1951/01/04     27                  Thursday                           
+1951/01/05     28                  Friday                             
+1951/01/06     29                  Saturday       Moderate Cold       
+1951/01/07     30                  Sunday                             
+1951/01/08     12th Lunar month    Monday                             
+1951/01/09     2                   Tuesday                            
+1951/01/10     3                   Wednesday                          
+1951/01/11     4                   Thursday                           
+1951/01/12     5                   Friday                             
+1951/01/13     6                   Saturday                           
+1951/01/14     7                   Sunday                             
+1951/01/15     8                   Monday                             
+1951/01/16     9                   Tuesday                            
+1951/01/17     10                  Wednesday                          
+1951/01/18     11                  Thursday                           
+1951/01/19     12                  Friday                             
+1951/01/20     13                  Saturday                           
+1951/01/21     14                  Sunday         Severe Cold         
+1951/01/22     15                  Monday                             
+1951/01/23     16                  Tuesday                            
+1951/01/24     17                  Wednesday                          
+1951/01/25     18                  Thursday                           
+1951/01/26     19                  Friday                             
+1951/01/27     20                  Saturday                           
+1951/01/28     21                  Sunday                             
+1951/01/29     22                  Monday                             
+1951/01/30     23                  Tuesday                            
+1951/01/31     24                  Wednesday                          
+1951/02/01     25                  Thursday                           
+1951/02/02     26                  Friday                             
+1951/02/03     27                  Saturday                           
+1951/02/04     28                  Sunday         Spring Commences    
+1951/02/05     29                  Monday                             
+1951/02/06     1st Lunar month     Tuesday                            
+1951/02/07     2                   Wednesday                          
+1951/02/08     3                   Thursday                           
+1951/02/09     4                   Friday                             
+1951/02/10     5                   Saturday                           
+1951/02/11     6                   Sunday                             
+1951/02/12     7                   Monday                             
+1951/02/13     8                   Tuesday                            
+1951/02/14     9                   Wednesday                          
+1951/02/15     10                  Thursday                           
+1951/02/16     11                  Friday                             
+1951/02/17     12                  Saturday                           
+1951/02/18     13                  Sunday                             
+1951/02/19     14                  Monday         Spring Showers      
+1951/02/20     15                  Tuesday                            
+1951/02/21     16                  Wednesday                          
+1951/02/22     17                  Thursday                           
+1951/02/23     18                  Friday                             
+1951/02/24     19                  Saturday                           
+1951/02/25     20                  Sunday                             
+1951/02/26     21                  Monday                             
+1951/02/27     22                  Tuesday                            
+1951/02/28     23                  Wednesday                          
+1951/03/01     24                  Thursday                           
+1951/03/02     25                  Friday                             
+1951/03/03     26                  Saturday                           
+1951/03/04     27                  Sunday                             
+1951/03/05     28                  Monday                             
+1951/03/06     29                  Tuesday        Insects Waken       
+1951/03/07     30                  Wednesday                          
+1951/03/08     2nd Lunar month     Thursday                           
+1951/03/09     2                   Friday                             
+1951/03/10     3                   Saturday                           
+1951/03/11     4                   Sunday                             
+1951/03/12     5                   Monday                             
+1951/03/13     6                   Tuesday                            
+1951/03/14     7                   Wednesday                          
+1951/03/15     8                   Thursday                           
+1951/03/16     9                   Friday                             
+1951/03/17     10                  Saturday                           
+1951/03/18     11                  Sunday                             
+1951/03/19     12                  Monday                             
+1951/03/20     13                  Tuesday                            
+1951/03/21     14                  Wednesday      Vernal Equinox      
+1951/03/22     15                  Thursday                           
+1951/03/23     16                  Friday                             
+1951/03/24     17                  Saturday                           
+1951/03/25     18                  Sunday                             
+1951/03/26     19                  Monday                             
+1951/03/27     20                  Tuesday                            
+1951/03/28     21                  Wednesday                          
+1951/03/29     22                  Thursday                           
+1951/03/30     23                  Friday                             
+1951/03/31     24                  Saturday                           
+1951/04/01     25                  Sunday                             
+1951/04/02     26                  Monday                             
+1951/04/03     27                  Tuesday                            
+1951/04/04     28                  Wednesday                          
+1951/04/05     29                  Thursday       Bright & Clear      
+1951/04/06     3rd Lunar month     Friday                             
+1951/04/07     2                   Saturday                           
+1951/04/08     3                   Sunday                             
+1951/04/09     4                   Monday                             
+1951/04/10     5                   Tuesday                            
+1951/04/11     6                   Wednesday                          
+1951/04/12     7                   Thursday                           
+1951/04/13     8                   Friday                             
+1951/04/14     9                   Saturday                           
+1951/04/15     10                  Sunday                             
+1951/04/16     11                  Monday                             
+1951/04/17     12                  Tuesday                            
+1951/04/18     13                  Wednesday                          
+1951/04/19     14                  Thursday                           
+1951/04/20     15                  Friday                             
+1951/04/21     16                  Saturday       Corn Rain           
+1951/04/22     17                  Sunday                             
+1951/04/23     18                  Monday                             
+1951/04/24     19                  Tuesday                            
+1951/04/25     20                  Wednesday                          
+1951/04/26     21                  Thursday                           
+1951/04/27     22                  Friday                             
+1951/04/28     23                  Saturday                           
+1951/04/29     24                  Sunday                             
+1951/04/30     25                  Monday                             
+1951/05/01     26                  Tuesday                            
+1951/05/02     27                  Wednesday                          
+1951/05/03     28                  Thursday                           
+1951/05/04     29                  Friday                             
+1951/05/05     30                  Saturday                           
+1951/05/06     4th Lunar month     Sunday         Summer Commences    
+1951/05/07     2                   Monday                             
+1951/05/08     3                   Tuesday                            
+1951/05/09     4                   Wednesday                          
+1951/05/10     5                   Thursday                           
+1951/05/11     6                   Friday                             
+1951/05/12     7                   Saturday                           
+1951/05/13     8                   Sunday                             
+1951/05/14     9                   Monday                             
+1951/05/15     10                  Tuesday                            
+1951/05/16     11                  Wednesday                          
+1951/05/17     12                  Thursday                           
+1951/05/18     13                  Friday                             
+1951/05/19     14                  Saturday                           
+1951/05/20     15                  Sunday                             
+1951/05/21     16                  Monday                             
+1951/05/22     17                  Tuesday        Corn Forms          
+1951/05/23     18                  Wednesday                          
+1951/05/24     19                  Thursday                           
+1951/05/25     20                  Friday                             
+1951/05/26     21                  Saturday                           
+1951/05/27     22                  Sunday                             
+1951/05/28     23                  Monday                             
+1951/05/29     24                  Tuesday                            
+1951/05/30     25                  Wednesday                          
+1951/05/31     26                  Thursday                           
+1951/06/01     27                  Friday                             
+1951/06/02     28                  Saturday                           
+1951/06/03     29                  Sunday                             
+1951/06/04     30                  Monday                             
+1951/06/05     5th Lunar month     Tuesday                            
+1951/06/06     2                   Wednesday      Corn on Ear         
+1951/06/07     3                   Thursday                           
+1951/06/08     4                   Friday                             
+1951/06/09     5                   Saturday                           
+1951/06/10     6                   Sunday                             
+1951/06/11     7                   Monday                             
+1951/06/12     8                   Tuesday                            
+1951/06/13     9                   Wednesday                          
+1951/06/14     10                  Thursday                           
+1951/06/15     11                  Friday                             
+1951/06/16     12                  Saturday                           
+1951/06/17     13                  Sunday                             
+1951/06/18     14                  Monday                             
+1951/06/19     15                  Tuesday                            
+1951/06/20     16                  Wednesday                          
+1951/06/21     17                  Thursday                           
+1951/06/22     18                  Friday         Summer Solstice     
+1951/06/23     19                  Saturday                           
+1951/06/24     20                  Sunday                             
+1951/06/25     21                  Monday                             
+1951/06/26     22                  Tuesday                            
+1951/06/27     23                  Wednesday                          
+1951/06/28     24                  Thursday                           
+1951/06/29     25                  Friday                             
+1951/06/30     26                  Saturday                           
+1951/07/01     27                  Sunday                             
+1951/07/02     28                  Monday                             
+1951/07/03     29                  Tuesday                            
+1951/07/04     6th Lunar month     Wednesday                          
+1951/07/05     2                   Thursday                           
+1951/07/06     3                   Friday                             
+1951/07/07     4                   Saturday                           
+1951/07/08     5                   Sunday         Moderate Heat       
+1951/07/09     6                   Monday                             
+1951/07/10     7                   Tuesday                            
+1951/07/11     8                   Wednesday                          
+1951/07/12     9                   Thursday                           
+1951/07/13     10                  Friday                             
+1951/07/14     11                  Saturday                           
+1951/07/15     12                  Sunday                             
+1951/07/16     13                  Monday                             
+1951/07/17     14                  Tuesday                            
+1951/07/18     15                  Wednesday                          
+1951/07/19     16                  Thursday                           
+1951/07/20     17                  Friday                             
+1951/07/21     18                  Saturday                           
+1951/07/22     19                  Sunday                             
+1951/07/23     20                  Monday                             
+1951/07/24     21                  Tuesday        Great Heat          
+1951/07/25     22                  Wednesday                          
+1951/07/26     23                  Thursday                           
+1951/07/27     24                  Friday                             
+1951/07/28     25                  Saturday                           
+1951/07/29     26                  Sunday                             
+1951/07/30     27                  Monday                             
+1951/07/31     28                  Tuesday                            
+1951/08/01     29                  Wednesday                          
+1951/08/02     30                  Thursday                           
+1951/08/03     7th Lunar month     Friday                             
+1951/08/04     2                   Saturday                           
+1951/08/05     3                   Sunday                             
+1951/08/06     4                   Monday                             
+1951/08/07     5                   Tuesday                            
+1951/08/08     6                   Wednesday      Autumn Commences    
+1951/08/09     7                   Thursday                           
+1951/08/10     8                   Friday                             
+1951/08/11     9                   Saturday                           
+1951/08/12     10                  Sunday                             
+1951/08/13     11                  Monday                             
+1951/08/14     12                  Tuesday                            
+1951/08/15     13                  Wednesday                          
+1951/08/16     14                  Thursday                           
+1951/08/17     15                  Friday                             
+1951/08/18     16                  Saturday                           
+1951/08/19     17                  Sunday                             
+1951/08/20     18                  Monday                             
+1951/08/21     19                  Tuesday                            
+1951/08/22     20                  Wednesday                          
+1951/08/23     21                  Thursday                           
+1951/08/24     22                  Friday         End of Heat         
+1951/08/25     23                  Saturday                           
+1951/08/26     24                  Sunday                             
+1951/08/27     25                  Monday                             
+1951/08/28     26                  Tuesday                            
+1951/08/29     27                  Wednesday                          
+1951/08/30     28                  Thursday                           
+1951/08/31     29                  Friday                             
+1951/09/01     8th Lunar month     Saturday                           
+1951/09/02     2                   Sunday                             
+1951/09/03     3                   Monday                             
+1951/09/04     4                   Tuesday                            
+1951/09/05     5                   Wednesday                          
+1951/09/06     6                   Thursday                           
+1951/09/07     7                   Friday                             
+1951/09/08     8                   Saturday       White Dew           
+1951/09/09     9                   Sunday                             
+1951/09/10     10                  Monday                             
+1951/09/11     11                  Tuesday                            
+1951/09/12     12                  Wednesday                          
+1951/09/13     13                  Thursday                           
+1951/09/14     14                  Friday                             
+1951/09/15     15                  Saturday                           
+1951/09/16     16                  Sunday                             
+1951/09/17     17                  Monday                             
+1951/09/18     18                  Tuesday                            
+1951/09/19     19                  Wednesday                          
+1951/09/20     20                  Thursday                           
+1951/09/21     21                  Friday                             
+1951/09/22     22                  Saturday                           
+1951/09/23     23                  Sunday                             
+1951/09/24     24                  Monday         Autumnal Equinox    
+1951/09/25     25                  Tuesday                            
+1951/09/26     26                  Wednesday                          
+1951/09/27     27                  Thursday                           
+1951/09/28     28                  Friday                             
+1951/09/29     29                  Saturday                           
+1951/09/30     30                  Sunday                             
+1951/10/01     9th Lunar month     Monday                             
+1951/10/02     2                   Tuesday                            
+1951/10/03     3                   Wednesday                          
+1951/10/04     4                   Thursday                           
+1951/10/05     5                   Friday                             
+1951/10/06     6                   Saturday                           
+1951/10/07     7                   Sunday                             
+1951/10/08     8                   Monday                             
+1951/10/09     9                   Tuesday        Cold Dew            
+1951/10/10     10                  Wednesday                          
+1951/10/11     11                  Thursday                           
+1951/10/12     12                  Friday                             
+1951/10/13     13                  Saturday                           
+1951/10/14     14                  Sunday                             
+1951/10/15     15                  Monday                             
+1951/10/16     16                  Tuesday                            
+1951/10/17     17                  Wednesday                          
+1951/10/18     18                  Thursday                           
+1951/10/19     19                  Friday                             
+1951/10/20     20                  Saturday                           
+1951/10/21     21                  Sunday                             
+1951/10/22     22                  Monday                             
+1951/10/23     23                  Tuesday                            
+1951/10/24     24                  Wednesday      Frost               
+1951/10/25     25                  Thursday                           
+1951/10/26     26                  Friday                             
+1951/10/27     27                  Saturday                           
+1951/10/28     28                  Sunday                             
+1951/10/29     29                  Monday                             
+1951/10/30     10th Lunar month    Tuesday                            
+1951/10/31     2                   Wednesday                          
+1951/11/01     3                   Thursday                           
+1951/11/02     4                   Friday                             
+1951/11/03     5                   Saturday                           
+1951/11/04     6                   Sunday                             
+1951/11/05     7                   Monday                             
+1951/11/06     8                   Tuesday                            
+1951/11/07     9                   Wednesday                          
+1951/11/08     10                  Thursday       Winter Commences    
+1951/11/09     11                  Friday                             
+1951/11/10     12                  Saturday                           
+1951/11/11     13                  Sunday                             
+1951/11/12     14                  Monday                             
+1951/11/13     15                  Tuesday                            
+1951/11/14     16                  Wednesday                          
+1951/11/15     17                  Thursday                           
+1951/11/16     18                  Friday                             
+1951/11/17     19                  Saturday                           
+1951/11/18     20                  Sunday                             
+1951/11/19     21                  Monday                             
+1951/11/20     22                  Tuesday                            
+1951/11/21     23                  Wednesday                          
+1951/11/22     24                  Thursday                           
+1951/11/23     25                  Friday         Light Snow          
+1951/11/24     26                  Saturday                           
+1951/11/25     27                  Sunday                             
+1951/11/26     28                  Monday                             
+1951/11/27     29                  Tuesday                            
+1951/11/28     30                  Wednesday                          
+1951/11/29     11th Lunar month    Thursday                           
+1951/11/30     2                   Friday                             
+1951/12/01     3                   Saturday                           
+1951/12/02     4                   Sunday                             
+1951/12/03     5                   Monday                             
+1951/12/04     6                   Tuesday                            
+1951/12/05     7                   Wednesday                          
+1951/12/06     8                   Thursday                           
+1951/12/07     9                   Friday                             
+1951/12/08     10                  Saturday       Heavy Snow          
+1951/12/09     11                  Sunday                             
+1951/12/10     12                  Monday                             
+1951/12/11     13                  Tuesday                            
+1951/12/12     14                  Wednesday                          
+1951/12/13     15                  Thursday                           
+1951/12/14     16                  Friday                             
+1951/12/15     17                  Saturday                           
+1951/12/16     18                  Sunday                             
+1951/12/17     19                  Monday                             
+1951/12/18     20                  Tuesday                            
+1951/12/19     21                  Wednesday                          
+1951/12/20     22                  Thursday                           
+1951/12/21     23                  Friday                             
+1951/12/22     24                  Saturday                           
+1951/12/23     25                  Sunday         Winter Solstice     
+1951/12/24     26                  Monday                             
+1951/12/25     27                  Tuesday                            
+1951/12/26     28                  Wednesday                          
+1951/12/27     29                  Thursday                           
+1951/12/28     12th Lunar month    Friday                             
+1951/12/29     2                   Saturday                           
+1951/12/30     3                   Sunday                             
+1951/12/31     4                   Monday                             
+
+In 1951, summer time was enforced during 1 April to 28 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

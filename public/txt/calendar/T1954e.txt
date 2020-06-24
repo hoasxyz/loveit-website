@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1954 (Jia-wu ¡V year of the Horse)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1954/01/01     27                  Friday                             
+1954/01/02     28                  Saturday                           
+1954/01/03     29                  Sunday                             
+1954/01/04     30                  Monday                             
+1954/01/05     12th Lunar month    Tuesday                            
+1954/01/06     2                   Wednesday      Moderate Cold       
+1954/01/07     3                   Thursday                           
+1954/01/08     4                   Friday                             
+1954/01/09     5                   Saturday                           
+1954/01/10     6                   Sunday                             
+1954/01/11     7                   Monday                             
+1954/01/12     8                   Tuesday                            
+1954/01/13     9                   Wednesday                          
+1954/01/14     10                  Thursday                           
+1954/01/15     11                  Friday                             
+1954/01/16     12                  Saturday                           
+1954/01/17     13                  Sunday                             
+1954/01/18     14                  Monday                             
+1954/01/19     15                  Tuesday                            
+1954/01/20     16                  Wednesday      Severe Cold         
+1954/01/21     17                  Thursday                           
+1954/01/22     18                  Friday                             
+1954/01/23     19                  Saturday                           
+1954/01/24     20                  Sunday                             
+1954/01/25     21                  Monday                             
+1954/01/26     22                  Tuesday                            
+1954/01/27     23                  Wednesday                          
+1954/01/28     24                  Thursday                           
+1954/01/29     25                  Friday                             
+1954/01/30     26                  Saturday                           
+1954/01/31     27                  Sunday                             
+1954/02/01     28                  Monday                             
+1954/02/02     29                  Tuesday                            
+1954/02/03     1st Lunar month     Wednesday                          
+1954/02/04     2                   Thursday       Spring Commences    
+1954/02/05     3                   Friday                             
+1954/02/06     4                   Saturday                           
+1954/02/07     5                   Sunday                             
+1954/02/08     6                   Monday                             
+1954/02/09     7                   Tuesday                            
+1954/02/10     8                   Wednesday                          
+1954/02/11     9                   Thursday                           
+1954/02/12     10                  Friday                             
+1954/02/13     11                  Saturday                           
+1954/02/14     12                  Sunday                             
+1954/02/15     13                  Monday                             
+1954/02/16     14                  Tuesday                            
+1954/02/17     15                  Wednesday                          
+1954/02/18     16                  Thursday                           
+1954/02/19     17                  Friday         Spring Showers      
+1954/02/20     18                  Saturday                           
+1954/02/21     19                  Sunday                             
+1954/02/22     20                  Monday                             
+1954/02/23     21                  Tuesday                            
+1954/02/24     22                  Wednesday                          
+1954/02/25     23                  Thursday                           
+1954/02/26     24                  Friday                             
+1954/02/27     25                  Saturday                           
+1954/02/28     26                  Sunday                             
+1954/03/01     27                  Monday                             
+1954/03/02     28                  Tuesday                            
+1954/03/03     29                  Wednesday                          
+1954/03/04     30                  Thursday                           
+1954/03/05     2nd Lunar month     Friday                             
+1954/03/06     2                   Saturday       Insects Waken       
+1954/03/07     3                   Sunday                             
+1954/03/08     4                   Monday                             
+1954/03/09     5                   Tuesday                            
+1954/03/10     6                   Wednesday                          
+1954/03/11     7                   Thursday                           
+1954/03/12     8                   Friday                             
+1954/03/13     9                   Saturday                           
+1954/03/14     10                  Sunday                             
+1954/03/15     11                  Monday                             
+1954/03/16     12                  Tuesday                            
+1954/03/17     13                  Wednesday                          
+1954/03/18     14                  Thursday                           
+1954/03/19     15                  Friday                             
+1954/03/20     16                  Saturday                           
+1954/03/21     17                  Sunday         Vernal Equinox      
+1954/03/22     18                  Monday                             
+1954/03/23     19                  Tuesday                            
+1954/03/24     20                  Wednesday                          
+1954/03/25     21                  Thursday                           
+1954/03/26     22                  Friday                             
+1954/03/27     23                  Saturday                           
+1954/03/28     24                  Sunday                             
+1954/03/29     25                  Monday                             
+1954/03/30     26                  Tuesday                            
+1954/03/31     27                  Wednesday                          
+1954/04/01     28                  Thursday                           
+1954/04/02     29                  Friday                             
+1954/04/03     3rd Lunar month     Saturday                           
+1954/04/04     2                   Sunday                             
+1954/04/05     3                   Monday         Bright & Clear      
+1954/04/06     4                   Tuesday                            
+1954/04/07     5                   Wednesday                          
+1954/04/08     6                   Thursday                           
+1954/04/09     7                   Friday                             
+1954/04/10     8                   Saturday                           
+1954/04/11     9                   Sunday                             
+1954/04/12     10                  Monday                             
+1954/04/13     11                  Tuesday                            
+1954/04/14     12                  Wednesday                          
+1954/04/15     13                  Thursday                           
+1954/04/16     14                  Friday                             
+1954/04/17     15                  Saturday                           
+1954/04/18     16                  Sunday                             
+1954/04/19     17                  Monday                             
+1954/04/20     18                  Tuesday        Corn Rain           
+1954/04/21     19                  Wednesday                          
+1954/04/22     20                  Thursday                           
+1954/04/23     21                  Friday                             
+1954/04/24     22                  Saturday                           
+1954/04/25     23                  Sunday                             
+1954/04/26     24                  Monday                             
+1954/04/27     25                  Tuesday                            
+1954/04/28     26                  Wednesday                          
+1954/04/29     27                  Thursday                           
+1954/04/30     28                  Friday                             
+1954/05/01     29                  Saturday                           
+1954/05/02     30                  Sunday                             
+1954/05/03     4th Lunar month     Monday                             
+1954/05/04     2                   Tuesday                            
+1954/05/05     3                   Wednesday                          
+1954/05/06     4                   Thursday       Summer Commences    
+1954/05/07     5                   Friday                             
+1954/05/08     6                   Saturday                           
+1954/05/09     7                   Sunday                             
+1954/05/10     8                   Monday                             
+1954/05/11     9                   Tuesday                            
+1954/05/12     10                  Wednesday                          
+1954/05/13     11                  Thursday                           
+1954/05/14     12                  Friday                             
+1954/05/15     13                  Saturday                           
+1954/05/16     14                  Sunday                             
+1954/05/17     15                  Monday                             
+1954/05/18     16                  Tuesday                            
+1954/05/19     17                  Wednesday                          
+1954/05/20     18                  Thursday                           
+1954/05/21     19                  Friday         Corn Forms          
+1954/05/22     20                  Saturday                           
+1954/05/23     21                  Sunday                             
+1954/05/24     22                  Monday                             
+1954/05/25     23                  Tuesday                            
+1954/05/26     24                  Wednesday                          
+1954/05/27     25                  Thursday                           
+1954/05/28     26                  Friday                             
+1954/05/29     27                  Saturday                           
+1954/05/30     28                  Sunday                             
+1954/05/31     29                  Monday                             
+1954/06/01     5th Lunar month     Tuesday                            
+1954/06/02     2                   Wednesday                          
+1954/06/03     3                   Thursday                           
+1954/06/04     4                   Friday                             
+1954/06/05     5                   Saturday                           
+1954/06/06     6                   Sunday         Corn on Ear         
+1954/06/07     7                   Monday                             
+1954/06/08     8                   Tuesday                            
+1954/06/09     9                   Wednesday                          
+1954/06/10     10                  Thursday                           
+1954/06/11     11                  Friday                             
+1954/06/12     12                  Saturday                           
+1954/06/13     13                  Sunday                             
+1954/06/14     14                  Monday                             
+1954/06/15     15                  Tuesday                            
+1954/06/16     16                  Wednesday                          
+1954/06/17     17                  Thursday                           
+1954/06/18     18                  Friday                             
+1954/06/19     19                  Saturday                           
+1954/06/20     20                  Sunday                             
+1954/06/21     21                  Monday                             
+1954/06/22     22                  Tuesday        Summer Solstice     
+1954/06/23     23                  Wednesday                          
+1954/06/24     24                  Thursday                           
+1954/06/25     25                  Friday                             
+1954/06/26     26                  Saturday                           
+1954/06/27     27                  Sunday                             
+1954/06/28     28                  Monday                             
+1954/06/29     29                  Tuesday                            
+1954/06/30     6th Lunar month     Wednesday                          
+1954/07/01     2                   Thursday                           
+1954/07/02     3                   Friday                             
+1954/07/03     4                   Saturday                           
+1954/07/04     5                   Sunday                             
+1954/07/05     6                   Monday                             
+1954/07/06     7                   Tuesday                            
+1954/07/07     8                   Wednesday                          
+1954/07/08     9                   Thursday       Moderate Heat       
+1954/07/09     10                  Friday                             
+1954/07/10     11                  Saturday                           
+1954/07/11     12                  Sunday                             
+1954/07/12     13                  Monday                             
+1954/07/13     14                  Tuesday                            
+1954/07/14     15                  Wednesday                          
+1954/07/15     16                  Thursday                           
+1954/07/16     17                  Friday                             
+1954/07/17     18                  Saturday                           
+1954/07/18     19                  Sunday                             
+1954/07/19     20                  Monday                             
+1954/07/20     21                  Tuesday                            
+1954/07/21     22                  Wednesday                          
+1954/07/22     23                  Thursday                           
+1954/07/23     24                  Friday         Great Heat          
+1954/07/24     25                  Saturday                           
+1954/07/25     26                  Sunday                             
+1954/07/26     27                  Monday                             
+1954/07/27     28                  Tuesday                            
+1954/07/28     29                  Wednesday                          
+1954/07/29     30                  Thursday                           
+1954/07/30     7th Lunar month     Friday                             
+1954/07/31     2                   Saturday                           
+1954/08/01     3                   Sunday                             
+1954/08/02     4                   Monday                             
+1954/08/03     5                   Tuesday                            
+1954/08/04     6                   Wednesday                          
+1954/08/05     7                   Thursday                           
+1954/08/06     8                   Friday                             
+1954/08/07     9                   Saturday                           
+1954/08/08     10                  Sunday         Autumn Commences    
+1954/08/09     11                  Monday                             
+1954/08/10     12                  Tuesday                            
+1954/08/11     13                  Wednesday                          
+1954/08/12     14                  Thursday                           
+1954/08/13     15                  Friday                             
+1954/08/14     16                  Saturday                           
+1954/08/15     17                  Sunday                             
+1954/08/16     18                  Monday                             
+1954/08/17     19                  Tuesday                            
+1954/08/18     20                  Wednesday                          
+1954/08/19     21                  Thursday                           
+1954/08/20     22                  Friday                             
+1954/08/21     23                  Saturday                           
+1954/08/22     24                  Sunday                             
+1954/08/23     25                  Monday                             
+1954/08/24     26                  Tuesday        End of Heat         
+1954/08/25     27                  Wednesday                          
+1954/08/26     28                  Thursday                           
+1954/08/27     29                  Friday                             
+1954/08/28     8th Lunar month     Saturday                           
+1954/08/29     2                   Sunday                             
+1954/08/30     3                   Monday                             
+1954/08/31     4                   Tuesday                            
+1954/09/01     5                   Wednesday                          
+1954/09/02     6                   Thursday                           
+1954/09/03     7                   Friday                             
+1954/09/04     8                   Saturday                           
+1954/09/05     9                   Sunday                             
+1954/09/06     10                  Monday                             
+1954/09/07     11                  Tuesday                            
+1954/09/08     12                  Wednesday      White Dew           
+1954/09/09     13                  Thursday                           
+1954/09/10     14                  Friday                             
+1954/09/11     15                  Saturday                           
+1954/09/12     16                  Sunday                             
+1954/09/13     17                  Monday                             
+1954/09/14     18                  Tuesday                            
+1954/09/15     19                  Wednesday                          
+1954/09/16     20                  Thursday                           
+1954/09/17     21                  Friday                             
+1954/09/18     22                  Saturday                           
+1954/09/19     23                  Sunday                             
+1954/09/20     24                  Monday                             
+1954/09/21     25                  Tuesday                            
+1954/09/22     26                  Wednesday                          
+1954/09/23     27                  Thursday       Autumnal Equinox    
+1954/09/24     28                  Friday                             
+1954/09/25     29                  Saturday                           
+1954/09/26     30                  Sunday                             
+1954/09/27     9th Lunar month     Monday                             
+1954/09/28     2                   Tuesday                            
+1954/09/29     3                   Wednesday                          
+1954/09/30     4                   Thursday                           
+1954/10/01     5                   Friday                             
+1954/10/02     6                   Saturday                           
+1954/10/03     7                   Sunday                             
+1954/10/04     8                   Monday                             
+1954/10/05     9                   Tuesday                            
+1954/10/06     10                  Wednesday                          
+1954/10/07     11                  Thursday                           
+1954/10/08     12                  Friday                             
+1954/10/09     13                  Saturday       Cold Dew            
+1954/10/10     14                  Sunday                             
+1954/10/11     15                  Monday                             
+1954/10/12     16                  Tuesday                            
+1954/10/13     17                  Wednesday                          
+1954/10/14     18                  Thursday                           
+1954/10/15     19                  Friday                             
+1954/10/16     20                  Saturday                           
+1954/10/17     21                  Sunday                             
+1954/10/18     22                  Monday                             
+1954/10/19     23                  Tuesday                            
+1954/10/20     24                  Wednesday                          
+1954/10/21     25                  Thursday                           
+1954/10/22     26                  Friday                             
+1954/10/23     27                  Saturday                           
+1954/10/24     28                  Sunday         Frost               
+1954/10/25     29                  Monday                             
+1954/10/26     30                  Tuesday                            
+1954/10/27     10th Lunar month    Wednesday                          
+1954/10/28     2                   Thursday                           
+1954/10/29     3                   Friday                             
+1954/10/30     4                   Saturday                           
+1954/10/31     5                   Sunday                             
+1954/11/01     6                   Monday                             
+1954/11/02     7                   Tuesday                            
+1954/11/03     8                   Wednesday                          
+1954/11/04     9                   Thursday                           
+1954/11/05     10                  Friday                             
+1954/11/06     11                  Saturday                           
+1954/11/07     12                  Sunday                             
+1954/11/08     13                  Monday         Winter Commences    
+1954/11/09     14                  Tuesday                            
+1954/11/10     15                  Wednesday                          
+1954/11/11     16                  Thursday                           
+1954/11/12     17                  Friday                             
+1954/11/13     18                  Saturday                           
+1954/11/14     19                  Sunday                             
+1954/11/15     20                  Monday                             
+1954/11/16     21                  Tuesday                            
+1954/11/17     22                  Wednesday                          
+1954/11/18     23                  Thursday                           
+1954/11/19     24                  Friday                             
+1954/11/20     25                  Saturday                           
+1954/11/21     26                  Sunday                             
+1954/11/22     27                  Monday                             
+1954/11/23     28                  Tuesday        Light Snow          
+1954/11/24     29                  Wednesday                          
+1954/11/25     11th Lunar month    Thursday                           
+1954/11/26     2                   Friday                             
+1954/11/27     3                   Saturday                           
+1954/11/28     4                   Sunday                             
+1954/11/29     5                   Monday                             
+1954/11/30     6                   Tuesday                            
+1954/12/01     7                   Wednesday                          
+1954/12/02     8                   Thursday                           
+1954/12/03     9                   Friday                             
+1954/12/04     10                  Saturday                           
+1954/12/05     11                  Sunday                             
+1954/12/06     12                  Monday                             
+1954/12/07     13                  Tuesday        Heavy Snow          
+1954/12/08     14                  Wednesday                          
+1954/12/09     15                  Thursday                           
+1954/12/10     16                  Friday                             
+1954/12/11     17                  Saturday                           
+1954/12/12     18                  Sunday                             
+1954/12/13     19                  Monday                             
+1954/12/14     20                  Tuesday                            
+1954/12/15     21                  Wednesday                          
+1954/12/16     22                  Thursday                           
+1954/12/17     23                  Friday                             
+1954/12/18     24                  Saturday                           
+1954/12/19     25                  Sunday                             
+1954/12/20     26                  Monday                             
+1954/12/21     27                  Tuesday                            
+1954/12/22     28                  Wednesday      Winter Solstice     
+1954/12/23     29                  Thursday                           
+1954/12/24     30                  Friday                             
+1954/12/25     12th Lunar month    Saturday                           
+1954/12/26     2                   Sunday                             
+1954/12/27     3                   Monday                             
+1954/12/28     4                   Tuesday                            
+1954/12/29     5                   Wednesday                          
+1954/12/30     6                   Thursday                           
+1954/12/31     7                   Friday                             
+
+In 1954, summer time was enforced during 21 March to 31 October in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

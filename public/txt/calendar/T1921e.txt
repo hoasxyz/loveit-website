@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1921 (Xin-you ¡V year of the Rooster)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1921/01/01     23                  Saturday                           
+1921/01/02     24                  Sunday                             
+1921/01/03     25                  Monday                             
+1921/01/04     26                  Tuesday                            
+1921/01/05     27                  Wednesday                          
+1921/01/06     28                  Thursday       Moderate Cold       
+1921/01/07     29                  Friday                             
+1921/01/08     30                  Saturday                           
+1921/01/09     12th Lunar month    Sunday                             
+1921/01/10     2                   Monday                             
+1921/01/11     3                   Tuesday                            
+1921/01/12     4                   Wednesday                          
+1921/01/13     5                   Thursday                           
+1921/01/14     6                   Friday                             
+1921/01/15     7                   Saturday                           
+1921/01/16     8                   Sunday                             
+1921/01/17     9                   Monday                             
+1921/01/18     10                  Tuesday                            
+1921/01/19     11                  Wednesday                          
+1921/01/20     12                  Thursday       Severe Cold         
+1921/01/21     13                  Friday                             
+1921/01/22     14                  Saturday                           
+1921/01/23     15                  Sunday                             
+1921/01/24     16                  Monday                             
+1921/01/25     17                  Tuesday                            
+1921/01/26     18                  Wednesday                          
+1921/01/27     19                  Thursday                           
+1921/01/28     20                  Friday                             
+1921/01/29     21                  Saturday                           
+1921/01/30     22                  Sunday                             
+1921/01/31     23                  Monday                             
+1921/02/01     24                  Tuesday                            
+1921/02/02     25                  Wednesday                          
+1921/02/03     26                  Thursday                           
+1921/02/04     27                  Friday         Spring Commences    
+1921/02/05     28                  Saturday                           
+1921/02/06     29                  Sunday                             
+1921/02/07     30                  Monday                             
+1921/02/08     1st Lunar month     Tuesday                            
+1921/02/09     2                   Wednesday                          
+1921/02/10     3                   Thursday                           
+1921/02/11     4                   Friday                             
+1921/02/12     5                   Saturday                           
+1921/02/13     6                   Sunday                             
+1921/02/14     7                   Monday                             
+1921/02/15     8                   Tuesday                            
+1921/02/16     9                   Wednesday                          
+1921/02/17     10                  Thursday                           
+1921/02/18     11                  Friday                             
+1921/02/19     12                  Saturday       Spring Showers      
+1921/02/20     13                  Sunday                             
+1921/02/21     14                  Monday                             
+1921/02/22     15                  Tuesday                            
+1921/02/23     16                  Wednesday                          
+1921/02/24     17                  Thursday                           
+1921/02/25     18                  Friday                             
+1921/02/26     19                  Saturday                           
+1921/02/27     20                  Sunday                             
+1921/02/28     21                  Monday                             
+1921/03/01     22                  Tuesday                            
+1921/03/02     23                  Wednesday                          
+1921/03/03     24                  Thursday                           
+1921/03/04     25                  Friday                             
+1921/03/05     26                  Saturday                           
+1921/03/06     27                  Sunday         Insects Waken       
+1921/03/07     28                  Monday                             
+1921/03/08     29                  Tuesday                            
+1921/03/09     30                  Wednesday                          
+1921/03/10     2nd Lunar month     Thursday                           
+1921/03/11     2                   Friday                             
+1921/03/12     3                   Saturday                           
+1921/03/13     4                   Sunday                             
+1921/03/14     5                   Monday                             
+1921/03/15     6                   Tuesday                            
+1921/03/16     7                   Wednesday                          
+1921/03/17     8                   Thursday                           
+1921/03/18     9                   Friday                             
+1921/03/19     10                  Saturday                           
+1921/03/20     11                  Sunday                             
+1921/03/21     12                  Monday         Vernal Equinox      
+1921/03/22     13                  Tuesday                            
+1921/03/23     14                  Wednesday                          
+1921/03/24     15                  Thursday                           
+1921/03/25     16                  Friday                             
+1921/03/26     17                  Saturday                           
+1921/03/27     18                  Sunday                             
+1921/03/28     19                  Monday                             
+1921/03/29     20                  Tuesday                            
+1921/03/30     21                  Wednesday                          
+1921/03/31     22                  Thursday                           
+1921/04/01     23                  Friday                             
+1921/04/02     24                  Saturday                           
+1921/04/03     25                  Sunday                             
+1921/04/04     26                  Monday                             
+1921/04/05     27                  Tuesday        Bright & Clear      
+1921/04/06     28                  Wednesday                          
+1921/04/07     29                  Thursday                           
+1921/04/08     3rd Lunar month     Friday                             
+1921/04/09     2                   Saturday                           
+1921/04/10     3                   Sunday                             
+1921/04/11     4                   Monday                             
+1921/04/12     5                   Tuesday                            
+1921/04/13     6                   Wednesday                          
+1921/04/14     7                   Thursday                           
+1921/04/15     8                   Friday                             
+1921/04/16     9                   Saturday                           
+1921/04/17     10                  Sunday                             
+1921/04/18     11                  Monday                             
+1921/04/19     12                  Tuesday                            
+1921/04/20     13                  Wednesday      Corn Rain           
+1921/04/21     14                  Thursday                           
+1921/04/22     15                  Friday                             
+1921/04/23     16                  Saturday                           
+1921/04/24     17                  Sunday                             
+1921/04/25     18                  Monday                             
+1921/04/26     19                  Tuesday                            
+1921/04/27     20                  Wednesday                          
+1921/04/28     21                  Thursday                           
+1921/04/29     22                  Friday                             
+1921/04/30     23                  Saturday                           
+1921/05/01     24                  Sunday                             
+1921/05/02     25                  Monday                             
+1921/05/03     26                  Tuesday                            
+1921/05/04     27                  Wednesday                          
+1921/05/05     28                  Thursday                           
+1921/05/06     29                  Friday         Summer Commences    
+1921/05/07     30                  Saturday                           
+1921/05/08     4th Lunar month     Sunday                             
+1921/05/09     2                   Monday                             
+1921/05/10     3                   Tuesday                            
+1921/05/11     4                   Wednesday                          
+1921/05/12     5                   Thursday                           
+1921/05/13     6                   Friday                             
+1921/05/14     7                   Saturday                           
+1921/05/15     8                   Sunday                             
+1921/05/16     9                   Monday                             
+1921/05/17     10                  Tuesday                            
+1921/05/18     11                  Wednesday                          
+1921/05/19     12                  Thursday                           
+1921/05/20     13                  Friday                             
+1921/05/21     14                  Saturday       Corn Forms          
+1921/05/22     15                  Sunday                             
+1921/05/23     16                  Monday                             
+1921/05/24     17                  Tuesday                            
+1921/05/25     18                  Wednesday                          
+1921/05/26     19                  Thursday                           
+1921/05/27     20                  Friday                             
+1921/05/28     21                  Saturday                           
+1921/05/29     22                  Sunday                             
+1921/05/30     23                  Monday                             
+1921/05/31     24                  Tuesday                            
+1921/06/01     25                  Wednesday                          
+1921/06/02     26                  Thursday                           
+1921/06/03     27                  Friday                             
+1921/06/04     28                  Saturday                           
+1921/06/05     29                  Sunday                             
+1921/06/06     5th Lunar month     Monday         Corn on Ear         
+1921/06/07     2                   Tuesday                            
+1921/06/08     3                   Wednesday                          
+1921/06/09     4                   Thursday                           
+1921/06/10     5                   Friday                             
+1921/06/11     6                   Saturday                           
+1921/06/12     7                   Sunday                             
+1921/06/13     8                   Monday                             
+1921/06/14     9                   Tuesday                            
+1921/06/15     10                  Wednesday                          
+1921/06/16     11                  Thursday                           
+1921/06/17     12                  Friday                             
+1921/06/18     13                  Saturday                           
+1921/06/19     14                  Sunday                             
+1921/06/20     15                  Monday                             
+1921/06/21     16                  Tuesday                            
+1921/06/22     17                  Wednesday      Summer Solstice     
+1921/06/23     18                  Thursday                           
+1921/06/24     19                  Friday                             
+1921/06/25     20                  Saturday                           
+1921/06/26     21                  Sunday                             
+1921/06/27     22                  Monday                             
+1921/06/28     23                  Tuesday                            
+1921/06/29     24                  Wednesday                          
+1921/06/30     25                  Thursday                           
+1921/07/01     26                  Friday                             
+1921/07/02     27                  Saturday                           
+1921/07/03     28                  Sunday                             
+1921/07/04     29                  Monday                             
+1921/07/05     6th Lunar month     Tuesday                            
+1921/07/06     2                   Wednesday                          
+1921/07/07     3                   Thursday                           
+1921/07/08     4                   Friday         Moderate Heat       
+1921/07/09     5                   Saturday                           
+1921/07/10     6                   Sunday                             
+1921/07/11     7                   Monday                             
+1921/07/12     8                   Tuesday                            
+1921/07/13     9                   Wednesday                          
+1921/07/14     10                  Thursday                           
+1921/07/15     11                  Friday                             
+1921/07/16     12                  Saturday                           
+1921/07/17     13                  Sunday                             
+1921/07/18     14                  Monday                             
+1921/07/19     15                  Tuesday                            
+1921/07/20     16                  Wednesday                          
+1921/07/21     17                  Thursday                           
+1921/07/22     18                  Friday                             
+1921/07/23     19                  Saturday       Great Heat          
+1921/07/24     20                  Sunday                             
+1921/07/25     21                  Monday                             
+1921/07/26     22                  Tuesday                            
+1921/07/27     23                  Wednesday                          
+1921/07/28     24                  Thursday                           
+1921/07/29     25                  Friday                             
+1921/07/30     26                  Saturday                           
+1921/07/31     27                  Sunday                             
+1921/08/01     28                  Monday                             
+1921/08/02     29                  Tuesday                            
+1921/08/03     30                  Wednesday                          
+1921/08/04     7th Lunar month     Thursday                           
+1921/08/05     2                   Friday                             
+1921/08/06     3                   Saturday                           
+1921/08/07     4                   Sunday                             
+1921/08/08     5                   Monday         Autumn Commences    
+1921/08/09     6                   Tuesday                            
+1921/08/10     7                   Wednesday                          
+1921/08/11     8                   Thursday                           
+1921/08/12     9                   Friday                             
+1921/08/13     10                  Saturday                           
+1921/08/14     11                  Sunday                             
+1921/08/15     12                  Monday                             
+1921/08/16     13                  Tuesday                            
+1921/08/17     14                  Wednesday                          
+1921/08/18     15                  Thursday                           
+1921/08/19     16                  Friday                             
+1921/08/20     17                  Saturday                           
+1921/08/21     18                  Sunday                             
+1921/08/22     19                  Monday                             
+1921/08/23     20                  Tuesday                            
+1921/08/24     21                  Wednesday      End of Heat         
+1921/08/25     22                  Thursday                           
+1921/08/26     23                  Friday                             
+1921/08/27     24                  Saturday                           
+1921/08/28     25                  Sunday                             
+1921/08/29     26                  Monday                             
+1921/08/30     27                  Tuesday                            
+1921/08/31     28                  Wednesday                          
+1921/09/01     29                  Thursday                           
+1921/09/02     8th Lunar month     Friday                             
+1921/09/03     2                   Saturday                           
+1921/09/04     3                   Sunday                             
+1921/09/05     4                   Monday                             
+1921/09/06     5                   Tuesday                            
+1921/09/07     6                   Wednesday                          
+1921/09/08     7                   Thursday       White Dew           
+1921/09/09     8                   Friday                             
+1921/09/10     9                   Saturday                           
+1921/09/11     10                  Sunday                             
+1921/09/12     11                  Monday                             
+1921/09/13     12                  Tuesday                            
+1921/09/14     13                  Wednesday                          
+1921/09/15     14                  Thursday                           
+1921/09/16     15                  Friday                             
+1921/09/17     16                  Saturday                           
+1921/09/18     17                  Sunday                             
+1921/09/19     18                  Monday                             
+1921/09/20     19                  Tuesday                            
+1921/09/21     20                  Wednesday                          
+1921/09/22     21                  Thursday                           
+1921/09/23     22                  Friday         Autumnal Equinox    
+1921/09/24     23                  Saturday                           
+1921/09/25     24                  Sunday                             
+1921/09/26     25                  Monday                             
+1921/09/27     26                  Tuesday                            
+1921/09/28     27                  Wednesday                          
+1921/09/29     28                  Thursday                           
+1921/09/30     29                  Friday                             
+1921/10/01     9th Lunar month     Saturday                           
+1921/10/02     2                   Sunday                             
+1921/10/03     3                   Monday                             
+1921/10/04     4                   Tuesday                            
+1921/10/05     5                   Wednesday                          
+1921/10/06     6                   Thursday                           
+1921/10/07     7                   Friday                             
+1921/10/08     8                   Saturday                           
+1921/10/09     9                   Sunday         Cold Dew            
+1921/10/10     10                  Monday                             
+1921/10/11     11                  Tuesday                            
+1921/10/12     12                  Wednesday                          
+1921/10/13     13                  Thursday                           
+1921/10/14     14                  Friday                             
+1921/10/15     15                  Saturday                           
+1921/10/16     16                  Sunday                             
+1921/10/17     17                  Monday                             
+1921/10/18     18                  Tuesday                            
+1921/10/19     19                  Wednesday                          
+1921/10/20     20                  Thursday                           
+1921/10/21     21                  Friday                             
+1921/10/22     22                  Saturday                           
+1921/10/23     23                  Sunday                             
+1921/10/24     24                  Monday         Frost               
+1921/10/25     25                  Tuesday                            
+1921/10/26     26                  Wednesday                          
+1921/10/27     27                  Thursday                           
+1921/10/28     28                  Friday                             
+1921/10/29     29                  Saturday                           
+1921/10/30     30                  Sunday                             
+1921/10/31     10th Lunar month    Monday                             
+1921/11/01     2                   Tuesday                            
+1921/11/02     3                   Wednesday                          
+1921/11/03     4                   Thursday                           
+1921/11/04     5                   Friday                             
+1921/11/05     6                   Saturday                           
+1921/11/06     7                   Sunday                             
+1921/11/07     8                   Monday                             
+1921/11/08     9                   Tuesday        Winter Commences    
+1921/11/09     10                  Wednesday                          
+1921/11/10     11                  Thursday                           
+1921/11/11     12                  Friday                             
+1921/11/12     13                  Saturday                           
+1921/11/13     14                  Sunday                             
+1921/11/14     15                  Monday                             
+1921/11/15     16                  Tuesday                            
+1921/11/16     17                  Wednesday                          
+1921/11/17     18                  Thursday                           
+1921/11/18     19                  Friday                             
+1921/11/19     20                  Saturday                           
+1921/11/20     21                  Sunday                             
+1921/11/21     22                  Monday                             
+1921/11/22     23                  Tuesday                            
+1921/11/23     24                  Wednesday      Light Snow          
+1921/11/24     25                  Thursday                           
+1921/11/25     26                  Friday                             
+1921/11/26     27                  Saturday                           
+1921/11/27     28                  Sunday                             
+1921/11/28     29                  Monday                             
+1921/11/29     11th Lunar month    Tuesday                            
+1921/11/30     2                   Wednesday                          
+1921/12/01     3                   Thursday                           
+1921/12/02     4                   Friday                             
+1921/12/03     5                   Saturday                           
+1921/12/04     6                   Sunday                             
+1921/12/05     7                   Monday                             
+1921/12/06     8                   Tuesday                            
+1921/12/07     9                   Wednesday      Heavy Snow          
+1921/12/08     10                  Thursday                           
+1921/12/09     11                  Friday                             
+1921/12/10     12                  Saturday                           
+1921/12/11     13                  Sunday                             
+1921/12/12     14                  Monday                             
+1921/12/13     15                  Tuesday                            
+1921/12/14     16                  Wednesday                          
+1921/12/15     17                  Thursday                           
+1921/12/16     18                  Friday                             
+1921/12/17     19                  Saturday                           
+1921/12/18     20                  Sunday                             
+1921/12/19     21                  Monday                             
+1921/12/20     22                  Tuesday                            
+1921/12/21     23                  Wednesday                          
+1921/12/22     24                  Thursday       Winter Solstice     
+1921/12/23     25                  Friday                             
+1921/12/24     26                  Saturday                           
+1921/12/25     27                  Sunday                             
+1921/12/26     28                  Monday                             
+1921/12/27     29                  Tuesday                            
+1921/12/28     30                  Wednesday                          
+1921/12/29     12th Lunar month    Thursday                           
+1921/12/30     2                   Friday                             
+1921/12/31     3                   Saturday                           

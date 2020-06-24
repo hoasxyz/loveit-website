@@ -1,0 +1,369 @@
+Gregorian-Lunar Calendar Conversion Table of 1953 (Gui-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1953/01/01     16                  Thursday                           
+1953/01/02     17                  Friday                             
+1953/01/03     18                  Saturday                           
+1953/01/04     19                  Sunday                             
+1953/01/05     20                  Monday         Moderate Cold       
+1953/01/06     21                  Tuesday                            
+1953/01/07     22                  Wednesday                          
+1953/01/08     23                  Thursday                           
+1953/01/09     24                  Friday                             
+1953/01/10     25                  Saturday                           
+1953/01/11     26                  Sunday                             
+1953/01/12     27                  Monday                             
+1953/01/13     28                  Tuesday                            
+1953/01/14     29                  Wednesday                          
+1953/01/15     12th Lunar month    Thursday                           
+1953/01/16     2                   Friday                             
+1953/01/17     3                   Saturday                           
+1953/01/18     4                   Sunday                             
+1953/01/19     5                   Monday                             
+1953/01/20     6                   Tuesday        Severe Cold         
+1953/01/21     7                   Wednesday                          
+1953/01/22     8                   Thursday                           
+1953/01/23     9                   Friday                             
+1953/01/24     10                  Saturday                           
+1953/01/25     11                  Sunday                             
+1953/01/26     12                  Monday                             
+1953/01/27     13                  Tuesday                            
+1953/01/28     14                  Wednesday                          
+1953/01/29     15                  Thursday                           
+1953/01/30     16                  Friday                             
+1953/01/31     17                  Saturday                           
+1953/02/01     18                  Sunday                             
+1953/02/02     19                  Monday                             
+1953/02/03     20                  Tuesday                            
+1953/02/04     21                  Wednesday      Spring Commences    
+1953/02/05     22                  Thursday                           
+1953/02/06     23                  Friday                             
+1953/02/07     24                  Saturday                           
+1953/02/08     25                  Sunday                             
+1953/02/09     26                  Monday                             
+1953/02/10     27                  Tuesday                            
+1953/02/11     28                  Wednesday                          
+1953/02/12     29                  Thursday                           
+1953/02/13     30                  Friday                             
+1953/02/14     1st Lunar month     Saturday                           
+1953/02/15     2                   Sunday                             
+1953/02/16     3                   Monday                             
+1953/02/17     4                   Tuesday                            
+1953/02/18     5                   Wednesday                          
+1953/02/19     6                   Thursday       Spring Showers      
+1953/02/20     7                   Friday                             
+1953/02/21     8                   Saturday                           
+1953/02/22     9                   Sunday                             
+1953/02/23     10                  Monday                             
+1953/02/24     11                  Tuesday                            
+1953/02/25     12                  Wednesday                          
+1953/02/26     13                  Thursday                           
+1953/02/27     14                  Friday                             
+1953/02/28     15                  Saturday                           
+1953/03/01     16                  Sunday                             
+1953/03/02     17                  Monday                             
+1953/03/03     18                  Tuesday                            
+1953/03/04     19                  Wednesday                          
+1953/03/05     20                  Thursday                           
+1953/03/06     21                  Friday         Insects Waken       
+1953/03/07     22                  Saturday                           
+1953/03/08     23                  Sunday                             
+1953/03/09     24                  Monday                             
+1953/03/10     25                  Tuesday                            
+1953/03/11     26                  Wednesday                          
+1953/03/12     27                  Thursday                           
+1953/03/13     28                  Friday                             
+1953/03/14     29                  Saturday                           
+1953/03/15     2nd Lunar month     Sunday                             
+1953/03/16     2                   Monday                             
+1953/03/17     3                   Tuesday                            
+1953/03/18     4                   Wednesday                          
+1953/03/19     5                   Thursday                           
+1953/03/20     6                   Friday                             
+1953/03/21     7                   Saturday       Vernal Equinox      
+1953/03/22     8                   Sunday                             
+1953/03/23     9                   Monday                             
+1953/03/24     10                  Tuesday                            
+1953/03/25     11                  Wednesday                          
+1953/03/26     12                  Thursday                           
+1953/03/27     13                  Friday                             
+1953/03/28     14                  Saturday                           
+1953/03/29     15                  Sunday                             
+1953/03/30     16                  Monday                             
+1953/03/31     17                  Tuesday                            
+1953/04/01     18                  Wednesday                          
+1953/04/02     19                  Thursday                           
+1953/04/03     20                  Friday                             
+1953/04/04     21                  Saturday                           
+1953/04/05     22                  Sunday         Bright & Clear      
+1953/04/06     23                  Monday                             
+1953/04/07     24                  Tuesday                            
+1953/04/08     25                  Wednesday                          
+1953/04/09     26                  Thursday                           
+1953/04/10     27                  Friday                             
+1953/04/11     28                  Saturday                           
+1953/04/12     29                  Sunday                             
+1953/04/13     30                  Monday                             
+1953/04/14     3rd Lunar month     Tuesday                            
+1953/04/15     2                   Wednesday                          
+1953/04/16     3                   Thursday                           
+1953/04/17     4                   Friday                             
+1953/04/18     5                   Saturday                           
+1953/04/19     6                   Sunday                             
+1953/04/20     7                   Monday         Corn Rain           
+1953/04/21     8                   Tuesday                            
+1953/04/22     9                   Wednesday                          
+1953/04/23     10                  Thursday                           
+1953/04/24     11                  Friday                             
+1953/04/25     12                  Saturday                           
+1953/04/26     13                  Sunday                             
+1953/04/27     14                  Monday                             
+1953/04/28     15                  Tuesday                            
+1953/04/29     16                  Wednesday                          
+1953/04/30     17                  Thursday                           
+1953/05/01     18                  Friday                             
+1953/05/02     19                  Saturday                           
+1953/05/03     20                  Sunday                             
+1953/05/04     21                  Monday                             
+1953/05/05     22                  Tuesday                            
+1953/05/06     23                  Wednesday      Summer Commences    
+1953/05/07     24                  Thursday                           
+1953/05/08     25                  Friday                             
+1953/05/09     26                  Saturday                           
+1953/05/10     27                  Sunday                             
+1953/05/11     28                  Monday                             
+1953/05/12     29                  Tuesday                            
+1953/05/13     4th Lunar month     Wednesday                          
+1953/05/14     2                   Thursday                           
+1953/05/15     3                   Friday                             
+1953/05/16     4                   Saturday                           
+1953/05/17     5                   Sunday                             
+1953/05/18     6                   Monday                             
+1953/05/19     7                   Tuesday                            
+1953/05/20     8                   Wednesday                          
+1953/05/21     9                   Thursday       Corn Forms          
+1953/05/22     10                  Friday                             
+1953/05/23     11                  Saturday                           
+1953/05/24     12                  Sunday                             
+1953/05/25     13                  Monday                             
+1953/05/26     14                  Tuesday                            
+1953/05/27     15                  Wednesday                          
+1953/05/28     16                  Thursday                           
+1953/05/29     17                  Friday                             
+1953/05/30     18                  Saturday                           
+1953/05/31     19                  Sunday                             
+1953/06/01     20                  Monday                             
+1953/06/02     21                  Tuesday                            
+1953/06/03     22                  Wednesday                          
+1953/06/04     23                  Thursday                           
+1953/06/05     24                  Friday                             
+1953/06/06     25                  Saturday       Corn on Ear         
+1953/06/07     26                  Sunday                             
+1953/06/08     27                  Monday                             
+1953/06/09     28                  Tuesday                            
+1953/06/10     29                  Wednesday                          
+1953/06/11     5th Lunar month     Thursday                           
+1953/06/12     2                   Friday                             
+1953/06/13     3                   Saturday                           
+1953/06/14     4                   Sunday                             
+1953/06/15     5                   Monday                             
+1953/06/16     6                   Tuesday                            
+1953/06/17     7                   Wednesday                          
+1953/06/18     8                   Thursday                           
+1953/06/19     9                   Friday                             
+1953/06/20     10                  Saturday                           
+1953/06/21     11                  Sunday                             
+1953/06/22     12                  Monday         Summer Solstice     
+1953/06/23     13                  Tuesday                            
+1953/06/24     14                  Wednesday                          
+1953/06/25     15                  Thursday                           
+1953/06/26     16                  Friday                             
+1953/06/27     17                  Saturday                           
+1953/06/28     18                  Sunday                             
+1953/06/29     19                  Monday                             
+1953/06/30     20                  Tuesday                            
+1953/07/01     21                  Wednesday                          
+1953/07/02     22                  Thursday                           
+1953/07/03     23                  Friday                             
+1953/07/04     24                  Saturday                           
+1953/07/05     25                  Sunday                             
+1953/07/06     26                  Monday                             
+1953/07/07     27                  Tuesday        Moderate Heat       
+1953/07/08     28                  Wednesday                          
+1953/07/09     29                  Thursday                           
+1953/07/10     30                  Friday                             
+1953/07/11     6th Lunar month     Saturday                           
+1953/07/12     2                   Sunday                             
+1953/07/13     3                   Monday                             
+1953/07/14     4                   Tuesday                            
+1953/07/15     5                   Wednesday                          
+1953/07/16     6                   Thursday                           
+1953/07/17     7                   Friday                             
+1953/07/18     8                   Saturday                           
+1953/07/19     9                   Sunday                             
+1953/07/20     10                  Monday                             
+1953/07/21     11                  Tuesday                            
+1953/07/22     12                  Wednesday                          
+1953/07/23     13                  Thursday       Great Heat          
+1953/07/24     14                  Friday                             
+1953/07/25     15                  Saturday                           
+1953/07/26     16                  Sunday                             
+1953/07/27     17                  Monday                             
+1953/07/28     18                  Tuesday                            
+1953/07/29     19                  Wednesday                          
+1953/07/30     20                  Thursday                           
+1953/07/31     21                  Friday                             
+1953/08/01     22                  Saturday                           
+1953/08/02     23                  Sunday                             
+1953/08/03     24                  Monday                             
+1953/08/04     25                  Tuesday                            
+1953/08/05     26                  Wednesday                          
+1953/08/06     27                  Thursday                           
+1953/08/07     28                  Friday                             
+1953/08/08     29                  Saturday       Autumn Commences    
+1953/08/09     30                  Sunday                             
+1953/08/10     7th Lunar month     Monday                             
+1953/08/11     2                   Tuesday                            
+1953/08/12     3                   Wednesday                          
+1953/08/13     4                   Thursday                           
+1953/08/14     5                   Friday                             
+1953/08/15     6                   Saturday                           
+1953/08/16     7                   Sunday                             
+1953/08/17     8                   Monday                             
+1953/08/18     9                   Tuesday                            
+1953/08/19     10                  Wednesday                          
+1953/08/20     11                  Thursday                           
+1953/08/21     12                  Friday                             
+1953/08/22     13                  Saturday                           
+1953/08/23     14                  Sunday         End of Heat         
+1953/08/24     15                  Monday                             
+1953/08/25     16                  Tuesday                            
+1953/08/26     17                  Wednesday                          
+1953/08/27     18                  Thursday                           
+1953/08/28     19                  Friday                             
+1953/08/29     20                  Saturday                           
+1953/08/30     21                  Sunday                             
+1953/08/31     22                  Monday                             
+1953/09/01     23                  Tuesday                            
+1953/09/02     24                  Wednesday                          
+1953/09/03     25                  Thursday                           
+1953/09/04     26                  Friday                             
+1953/09/05     27                  Saturday                           
+1953/09/06     28                  Sunday                             
+1953/09/07     29                  Monday                             
+1953/09/08     8th Lunar month     Tuesday        White Dew           
+1953/09/09     2                   Wednesday                          
+1953/09/10     3                   Thursday                           
+1953/09/11     4                   Friday                             
+1953/09/12     5                   Saturday                           
+1953/09/13     6                   Sunday                             
+1953/09/14     7                   Monday                             
+1953/09/15     8                   Tuesday                            
+1953/09/16     9                   Wednesday                          
+1953/09/17     10                  Thursday                           
+1953/09/18     11                  Friday                             
+1953/09/19     12                  Saturday                           
+1953/09/20     13                  Sunday                             
+1953/09/21     14                  Monday                             
+1953/09/22     15                  Tuesday                            
+1953/09/23     16                  Wednesday      Autumnal Equinox    
+1953/09/24     17                  Thursday                           
+1953/09/25     18                  Friday                             
+1953/09/26     19                  Saturday                           
+1953/09/27     20                  Sunday                             
+1953/09/28     21                  Monday                             
+1953/09/29     22                  Tuesday                            
+1953/09/30     23                  Wednesday                          
+1953/10/01     24                  Thursday                           
+1953/10/02     25                  Friday                             
+1953/10/03     26                  Saturday                           
+1953/10/04     27                  Sunday                             
+1953/10/05     28                  Monday                             
+1953/10/06     29                  Tuesday                            
+1953/10/07     30                  Wednesday                          
+1953/10/08     9th Lunar month     Thursday       Cold Dew            
+1953/10/09     2                   Friday                             
+1953/10/10     3                   Saturday                           
+1953/10/11     4                   Sunday                             
+1953/10/12     5                   Monday                             
+1953/10/13     6                   Tuesday                            
+1953/10/14     7                   Wednesday                          
+1953/10/15     8                   Thursday                           
+1953/10/16     9                   Friday                             
+1953/10/17     10                  Saturday                           
+1953/10/18     11                  Sunday                             
+1953/10/19     12                  Monday                             
+1953/10/20     13                  Tuesday                            
+1953/10/21     14                  Wednesday                          
+1953/10/22     15                  Thursday                           
+1953/10/23     16                  Friday                             
+1953/10/24     17                  Saturday       Frost               
+1953/10/25     18                  Sunday                             
+1953/10/26     19                  Monday                             
+1953/10/27     20                  Tuesday                            
+1953/10/28     21                  Wednesday                          
+1953/10/29     22                  Thursday                           
+1953/10/30     23                  Friday                             
+1953/10/31     24                  Saturday                           
+1953/11/01     25                  Sunday                             
+1953/11/02     26                  Monday                             
+1953/11/03     27                  Tuesday                            
+1953/11/04     28                  Wednesday                          
+1953/11/05     29                  Thursday                           
+1953/11/06     30                  Friday                             
+1953/11/07     10th Lunar month    Saturday                           
+1953/11/08     2                   Sunday         Winter Commences    
+1953/11/09     3                   Monday                             
+1953/11/10     4                   Tuesday                            
+1953/11/11     5                   Wednesday                          
+1953/11/12     6                   Thursday                           
+1953/11/13     7                   Friday                             
+1953/11/14     8                   Saturday                           
+1953/11/15     9                   Sunday                             
+1953/11/16     10                  Monday                             
+1953/11/17     11                  Tuesday                            
+1953/11/18     12                  Wednesday                          
+1953/11/19     13                  Thursday                           
+1953/11/20     14                  Friday                             
+1953/11/21     15                  Saturday                           
+1953/11/22     16                  Sunday         Light Snow          
+1953/11/23     17                  Monday                             
+1953/11/24     18                  Tuesday                            
+1953/11/25     19                  Wednesday                          
+1953/11/26     20                  Thursday                           
+1953/11/27     21                  Friday                             
+1953/11/28     22                  Saturday                           
+1953/11/29     23                  Sunday                             
+1953/11/30     24                  Monday                             
+1953/12/01     25                  Tuesday                            
+1953/12/02     26                  Wednesday                          
+1953/12/03     27                  Thursday                           
+1953/12/04     28                  Friday                             
+1953/12/05     29                  Saturday                           
+1953/12/06     11th Lunar month    Sunday                             
+1953/12/07     2                   Monday         Heavy Snow          
+1953/12/08     3                   Tuesday                            
+1953/12/09     4                   Wednesday                          
+1953/12/10     5                   Thursday                           
+1953/12/11     6                   Friday                             
+1953/12/12     7                   Saturday                           
+1953/12/13     8                   Sunday                             
+1953/12/14     9                   Monday                             
+1953/12/15     10                  Tuesday                            
+1953/12/16     11                  Wednesday                          
+1953/12/17     12                  Thursday                           
+1953/12/18     13                  Friday                             
+1953/12/19     14                  Saturday                           
+1953/12/20     15                  Sunday                             
+1953/12/21     16                  Monday                             
+1953/12/22     17                  Tuesday        Winter Solstice     
+1953/12/23     18                  Wednesday                          
+1953/12/24     19                  Thursday                           
+1953/12/25     20                  Friday                             
+1953/12/26     21                  Saturday                           
+1953/12/27     22                  Sunday                             
+1953/12/28     23                  Monday                             
+1953/12/29     24                  Tuesday                            
+1953/12/30     25                  Wednesday                          
+1953/12/31     26                  Thursday                           
+
+In 1953, summer time was enforced during 5 April to 1 November in Hong Kong (Hong Kong Summer Time = Hong Kong Standard Time +1 hour)

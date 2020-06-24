@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 1989 (Ji-si ¡V year of the Snake)                                                       
+Gregorian date Lunar date          Day-of-week    Solar terms         
+1989/01/01     24                  Sunday                             
+1989/01/02     25                  Monday                             
+1989/01/03     26                  Tuesday                            
+1989/01/04     27                  Wednesday                          
+1989/01/05     28                  Thursday       Moderate Cold       
+1989/01/06     29                  Friday                             
+1989/01/07     30                  Saturday                           
+1989/01/08     12th Lunar month    Sunday                             
+1989/01/09     2                   Monday                             
+1989/01/10     3                   Tuesday                            
+1989/01/11     4                   Wednesday                          
+1989/01/12     5                   Thursday                           
+1989/01/13     6                   Friday                             
+1989/01/14     7                   Saturday                           
+1989/01/15     8                   Sunday                             
+1989/01/16     9                   Monday                             
+1989/01/17     10                  Tuesday                            
+1989/01/18     11                  Wednesday                          
+1989/01/19     12                  Thursday                           
+1989/01/20     13                  Friday         Severe Cold         
+1989/01/21     14                  Saturday                           
+1989/01/22     15                  Sunday                             
+1989/01/23     16                  Monday                             
+1989/01/24     17                  Tuesday                            
+1989/01/25     18                  Wednesday                          
+1989/01/26     19                  Thursday                           
+1989/01/27     20                  Friday                             
+1989/01/28     21                  Saturday                           
+1989/01/29     22                  Sunday                             
+1989/01/30     23                  Monday                             
+1989/01/31     24                  Tuesday                            
+1989/02/01     25                  Wednesday                          
+1989/02/02     26                  Thursday                           
+1989/02/03     27                  Friday                             
+1989/02/04     28                  Saturday       Spring Commences    
+1989/02/05     29                  Sunday                             
+1989/02/06     1st Lunar month     Monday                             
+1989/02/07     2                   Tuesday                            
+1989/02/08     3                   Wednesday                          
+1989/02/09     4                   Thursday                           
+1989/02/10     5                   Friday                             
+1989/02/11     6                   Saturday                           
+1989/02/12     7                   Sunday                             
+1989/02/13     8                   Monday                             
+1989/02/14     9                   Tuesday                            
+1989/02/15     10                  Wednesday                          
+1989/02/16     11                  Thursday                           
+1989/02/17     12                  Friday                             
+1989/02/18     13                  Saturday                           
+1989/02/19     14                  Sunday         Spring Showers      
+1989/02/20     15                  Monday                             
+1989/02/21     16                  Tuesday                            
+1989/02/22     17                  Wednesday                          
+1989/02/23     18                  Thursday                           
+1989/02/24     19                  Friday                             
+1989/02/25     20                  Saturday                           
+1989/02/26     21                  Sunday                             
+1989/02/27     22                  Monday                             
+1989/02/28     23                  Tuesday                            
+1989/03/01     24                  Wednesday                          
+1989/03/02     25                  Thursday                           
+1989/03/03     26                  Friday                             
+1989/03/04     27                  Saturday                           
+1989/03/05     28                  Sunday         Insects Waken       
+1989/03/06     29                  Monday                             
+1989/03/07     30                  Tuesday                            
+1989/03/08     2nd Lunar month     Wednesday                          
+1989/03/09     2                   Thursday                           
+1989/03/10     3                   Friday                             
+1989/03/11     4                   Saturday                           
+1989/03/12     5                   Sunday                             
+1989/03/13     6                   Monday                             
+1989/03/14     7                   Tuesday                            
+1989/03/15     8                   Wednesday                          
+1989/03/16     9                   Thursday                           
+1989/03/17     10                  Friday                             
+1989/03/18     11                  Saturday                           
+1989/03/19     12                  Sunday                             
+1989/03/20     13                  Monday         Vernal Equinox      
+1989/03/21     14                  Tuesday                            
+1989/03/22     15                  Wednesday                          
+1989/03/23     16                  Thursday                           
+1989/03/24     17                  Friday                             
+1989/03/25     18                  Saturday                           
+1989/03/26     19                  Sunday                             
+1989/03/27     20                  Monday                             
+1989/03/28     21                  Tuesday                            
+1989/03/29     22                  Wednesday                          
+1989/03/30     23                  Thursday                           
+1989/03/31     24                  Friday                             
+1989/04/01     25                  Saturday                           
+1989/04/02     26                  Sunday                             
+1989/04/03     27                  Monday                             
+1989/04/04     28                  Tuesday                            
+1989/04/05     29                  Wednesday      Bright & Clear      
+1989/04/06     3rd Lunar month     Thursday                           
+1989/04/07     2                   Friday                             
+1989/04/08     3                   Saturday                           
+1989/04/09     4                   Sunday                             
+1989/04/10     5                   Monday                             
+1989/04/11     6                   Tuesday                            
+1989/04/12     7                   Wednesday                          
+1989/04/13     8                   Thursday                           
+1989/04/14     9                   Friday                             
+1989/04/15     10                  Saturday                           
+1989/04/16     11                  Sunday                             
+1989/04/17     12                  Monday                             
+1989/04/18     13                  Tuesday                            
+1989/04/19     14                  Wednesday                          
+1989/04/20     15                  Thursday       Corn Rain           
+1989/04/21     16                  Friday                             
+1989/04/22     17                  Saturday                           
+1989/04/23     18                  Sunday                             
+1989/04/24     19                  Monday                             
+1989/04/25     20                  Tuesday                            
+1989/04/26     21                  Wednesday                          
+1989/04/27     22                  Thursday                           
+1989/04/28     23                  Friday                             
+1989/04/29     24                  Saturday                           
+1989/04/30     25                  Sunday                             
+1989/05/01     26                  Monday                             
+1989/05/02     27                  Tuesday                            
+1989/05/03     28                  Wednesday                          
+1989/05/04     29                  Thursday                           
+1989/05/05     4th Lunar month     Friday         Summer Commences    
+1989/05/06     2                   Saturday                           
+1989/05/07     3                   Sunday                             
+1989/05/08     4                   Monday                             
+1989/05/09     5                   Tuesday                            
+1989/05/10     6                   Wednesday                          
+1989/05/11     7                   Thursday                           
+1989/05/12     8                   Friday                             
+1989/05/13     9                   Saturday                           
+1989/05/14     10                  Sunday                             
+1989/05/15     11                  Monday                             
+1989/05/16     12                  Tuesday                            
+1989/05/17     13                  Wednesday                          
+1989/05/18     14                  Thursday                           
+1989/05/19     15                  Friday                             
+1989/05/20     16                  Saturday                           
+1989/05/21     17                  Sunday         Corn Forms          
+1989/05/22     18                  Monday                             
+1989/05/23     19                  Tuesday                            
+1989/05/24     20                  Wednesday                          
+1989/05/25     21                  Thursday                           
+1989/05/26     22                  Friday                             
+1989/05/27     23                  Saturday                           
+1989/05/28     24                  Sunday                             
+1989/05/29     25                  Monday                             
+1989/05/30     26                  Tuesday                            
+1989/05/31     27                  Wednesday                          
+1989/06/01     28                  Thursday                           
+1989/06/02     29                  Friday                             
+1989/06/03     30                  Saturday                           
+1989/06/04     5th Lunar month     Sunday                             
+1989/06/05     2                   Monday                             
+1989/06/06     3                   Tuesday        Corn on Ear         
+1989/06/07     4                   Wednesday                          
+1989/06/08     5                   Thursday                           
+1989/06/09     6                   Friday                             
+1989/06/10     7                   Saturday                           
+1989/06/11     8                   Sunday                             
+1989/06/12     9                   Monday                             
+1989/06/13     10                  Tuesday                            
+1989/06/14     11                  Wednesday                          
+1989/06/15     12                  Thursday                           
+1989/06/16     13                  Friday                             
+1989/06/17     14                  Saturday                           
+1989/06/18     15                  Sunday                             
+1989/06/19     16                  Monday                             
+1989/06/20     17                  Tuesday                            
+1989/06/21     18                  Wednesday      Summer Solstice     
+1989/06/22     19                  Thursday                           
+1989/06/23     20                  Friday                             
+1989/06/24     21                  Saturday                           
+1989/06/25     22                  Sunday                             
+1989/06/26     23                  Monday                             
+1989/06/27     24                  Tuesday                            
+1989/06/28     25                  Wednesday                          
+1989/06/29     26                  Thursday                           
+1989/06/30     27                  Friday                             
+1989/07/01     28                  Saturday                           
+1989/07/02     29                  Sunday                             
+1989/07/03     6th Lunar month     Monday                             
+1989/07/04     2                   Tuesday                            
+1989/07/05     3                   Wednesday                          
+1989/07/06     4                   Thursday                           
+1989/07/07     5                   Friday         Moderate Heat       
+1989/07/08     6                   Saturday                           
+1989/07/09     7                   Sunday                             
+1989/07/10     8                   Monday                             
+1989/07/11     9                   Tuesday                            
+1989/07/12     10                  Wednesday                          
+1989/07/13     11                  Thursday                           
+1989/07/14     12                  Friday                             
+1989/07/15     13                  Saturday                           
+1989/07/16     14                  Sunday                             
+1989/07/17     15                  Monday                             
+1989/07/18     16                  Tuesday                            
+1989/07/19     17                  Wednesday                          
+1989/07/20     18                  Thursday                           
+1989/07/21     19                  Friday                             
+1989/07/22     20                  Saturday                           
+1989/07/23     21                  Sunday         Great Heat          
+1989/07/24     22                  Monday                             
+1989/07/25     23                  Tuesday                            
+1989/07/26     24                  Wednesday                          
+1989/07/27     25                  Thursday                           
+1989/07/28     26                  Friday                             
+1989/07/29     27                  Saturday                           
+1989/07/30     28                  Sunday                             
+1989/07/31     29                  Monday                             
+1989/08/01     30                  Tuesday                            
+1989/08/02     7th Lunar month     Wednesday                          
+1989/08/03     2                   Thursday                           
+1989/08/04     3                   Friday                             
+1989/08/05     4                   Saturday                           
+1989/08/06     5                   Sunday                             
+1989/08/07     6                   Monday         Autumn Commences    
+1989/08/08     7                   Tuesday                            
+1989/08/09     8                   Wednesday                          
+1989/08/10     9                   Thursday                           
+1989/08/11     10                  Friday                             
+1989/08/12     11                  Saturday                           
+1989/08/13     12                  Sunday                             
+1989/08/14     13                  Monday                             
+1989/08/15     14                  Tuesday                            
+1989/08/16     15                  Wednesday                          
+1989/08/17     16                  Thursday                           
+1989/08/18     17                  Friday                             
+1989/08/19     18                  Saturday                           
+1989/08/20     19                  Sunday                             
+1989/08/21     20                  Monday                             
+1989/08/22     21                  Tuesday                            
+1989/08/23     22                  Wednesday      End of Heat         
+1989/08/24     23                  Thursday                           
+1989/08/25     24                  Friday                             
+1989/08/26     25                  Saturday                           
+1989/08/27     26                  Sunday                             
+1989/08/28     27                  Monday                             
+1989/08/29     28                  Tuesday                            
+1989/08/30     29                  Wednesday                          
+1989/08/31     8th Lunar month     Thursday                           
+1989/09/01     2                   Friday                             
+1989/09/02     3                   Saturday                           
+1989/09/03     4                   Sunday                             
+1989/09/04     5                   Monday                             
+1989/09/05     6                   Tuesday                            
+1989/09/06     7                   Wednesday                          
+1989/09/07     8                   Thursday       White Dew           
+1989/09/08     9                   Friday                             
+1989/09/09     10                  Saturday                           
+1989/09/10     11                  Sunday                             
+1989/09/11     12                  Monday                             
+1989/09/12     13                  Tuesday                            
+1989/09/13     14                  Wednesday                          
+1989/09/14     15                  Thursday                           
+1989/09/15     16                  Friday                             
+1989/09/16     17                  Saturday                           
+1989/09/17     18                  Sunday                             
+1989/09/18     19                  Monday                             
+1989/09/19     20                  Tuesday                            
+1989/09/20     21                  Wednesday                          
+1989/09/21     22                  Thursday                           
+1989/09/22     23                  Friday                             
+1989/09/23     24                  Saturday       Autumnal Equinox    
+1989/09/24     25                  Sunday                             
+1989/09/25     26                  Monday                             
+1989/09/26     27                  Tuesday                            
+1989/09/27     28                  Wednesday                          
+1989/09/28     29                  Thursday                           
+1989/09/29     30                  Friday                             
+1989/09/30     9th Lunar month     Saturday                           
+1989/10/01     2                   Sunday                             
+1989/10/02     3                   Monday                             
+1989/10/03     4                   Tuesday                            
+1989/10/04     5                   Wednesday                          
+1989/10/05     6                   Thursday                           
+1989/10/06     7                   Friday                             
+1989/10/07     8                   Saturday                           
+1989/10/08     9                   Sunday         Cold Dew            
+1989/10/09     10                  Monday                             
+1989/10/10     11                  Tuesday                            
+1989/10/11     12                  Wednesday                          
+1989/10/12     13                  Thursday                           
+1989/10/13     14                  Friday                             
+1989/10/14     15                  Saturday                           
+1989/10/15     16                  Sunday                             
+1989/10/16     17                  Monday                             
+1989/10/17     18                  Tuesday                            
+1989/10/18     19                  Wednesday                          
+1989/10/19     20                  Thursday                           
+1989/10/20     21                  Friday                             
+1989/10/21     22                  Saturday                           
+1989/10/22     23                  Sunday                             
+1989/10/23     24                  Monday         Frost               
+1989/10/24     25                  Tuesday                            
+1989/10/25     26                  Wednesday                          
+1989/10/26     27                  Thursday                           
+1989/10/27     28                  Friday                             
+1989/10/28     29                  Saturday                           
+1989/10/29     10th Lunar month    Sunday                             
+1989/10/30     2                   Monday                             
+1989/10/31     3                   Tuesday                            
+1989/11/01     4                   Wednesday                          
+1989/11/02     5                   Thursday                           
+1989/11/03     6                   Friday                             
+1989/11/04     7                   Saturday                           
+1989/11/05     8                   Sunday                             
+1989/11/06     9                   Monday                             
+1989/11/07     10                  Tuesday        Winter Commences    
+1989/11/08     11                  Wednesday                          
+1989/11/09     12                  Thursday                           
+1989/11/10     13                  Friday                             
+1989/11/11     14                  Saturday                           
+1989/11/12     15                  Sunday                             
+1989/11/13     16                  Monday                             
+1989/11/14     17                  Tuesday                            
+1989/11/15     18                  Wednesday                          
+1989/11/16     19                  Thursday                           
+1989/11/17     20                  Friday                             
+1989/11/18     21                  Saturday                           
+1989/11/19     22                  Sunday                             
+1989/11/20     23                  Monday                             
+1989/11/21     24                  Tuesday                            
+1989/11/22     25                  Wednesday      Light Snow          
+1989/11/23     26                  Thursday                           
+1989/11/24     27                  Friday                             
+1989/11/25     28                  Saturday                           
+1989/11/26     29                  Sunday                             
+1989/11/27     30                  Monday                             
+1989/11/28     11th Lunar month    Tuesday                            
+1989/11/29     2                   Wednesday                          
+1989/11/30     3                   Thursday                           
+1989/12/01     4                   Friday                             
+1989/12/02     5                   Saturday                           
+1989/12/03     6                   Sunday                             
+1989/12/04     7                   Monday                             
+1989/12/05     8                   Tuesday                            
+1989/12/06     9                   Wednesday                          
+1989/12/07     10                  Thursday       Heavy Snow          
+1989/12/08     11                  Friday                             
+1989/12/09     12                  Saturday                           
+1989/12/10     13                  Sunday                             
+1989/12/11     14                  Monday                             
+1989/12/12     15                  Tuesday                            
+1989/12/13     16                  Wednesday                          
+1989/12/14     17                  Thursday                           
+1989/12/15     18                  Friday                             
+1989/12/16     19                  Saturday                           
+1989/12/17     20                  Sunday                             
+1989/12/18     21                  Monday                             
+1989/12/19     22                  Tuesday                            
+1989/12/20     23                  Wednesday                          
+1989/12/21     24                  Thursday                           
+1989/12/22     25                  Friday         Winter Solstice     
+1989/12/23     26                  Saturday                           
+1989/12/24     27                  Sunday                             
+1989/12/25     28                  Monday                             
+1989/12/26     29                  Tuesday                            
+1989/12/27     30                  Wednesday                          
+1989/12/28     12th Lunar month    Thursday                           
+1989/12/29     2                   Friday                             
+1989/12/30     3                   Saturday                           
+1989/12/31     4                   Sunday                             

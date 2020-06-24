@@ -1,0 +1,367 @@
+Gregorian-Lunar Calendar Conversion Table of 2091 (Xin-hai  -  year of the Pig)
+Gregorian date    Lunar date              Day-of-week    Solar terms
+2091/1/1          12                      Monday                             
+2091/1/2          13                      Tuesday                            
+2091/1/3          14                      Wednesday                          
+2091/1/4          15                      Thursday                           
+2091/1/5          16                      Friday         Moderate Cold       
+2091/1/6          17                      Saturday                           
+2091/1/7          18                      Sunday                             
+2091/1/8          19                      Monday                             
+2091/1/9          20                      Tuesday                            
+2091/1/10         21                      Wednesday                          
+2091/1/11         22                      Thursday                           
+2091/1/12         23                      Friday                             
+2091/1/13         24                      Saturday                           
+2091/1/14         25                      Sunday                             
+2091/1/15         26                      Monday                             
+2091/1/16         27                      Tuesday                            
+2091/1/17         28                      Wednesday                          
+2091/1/18         29                      Thursday                           
+2091/1/19         30                      Friday                             
+2091/1/20         12th Lunar Month        Saturday       Severe Cold         
+2091/1/21         2                       Sunday                             
+2091/1/22         3                       Monday                             
+2091/1/23         4                       Tuesday                            
+2091/1/24         5                       Wednesday                          
+2091/1/25         6                       Thursday                           
+2091/1/26         7                       Friday                             
+2091/1/27         8                       Saturday                           
+2091/1/28         9                       Sunday                             
+2091/1/29         10                      Monday                             
+2091/1/30         11                      Tuesday                            
+2091/1/31         12                      Wednesday                          
+2091/2/1          13                      Thursday                           
+2091/2/2          14                      Friday                             
+2091/2/3          15                      Saturday       Spring Commences    
+2091/2/4          16                      Sunday                             
+2091/2/5          17                      Monday                             
+2091/2/6          18                      Tuesday                            
+2091/2/7          19                      Wednesday                          
+2091/2/8          20                      Thursday                           
+2091/2/9          21                      Friday                             
+2091/2/10         22                      Saturday                           
+2091/2/11         23                      Sunday                             
+2091/2/12         24                      Monday                             
+2091/2/13         25                      Tuesday                            
+2091/2/14         26                      Wednesday                          
+2091/2/15         27                      Thursday                           
+2091/2/16         28                      Friday                             
+2091/2/17         29                      Saturday                           
+2091/2/18         1st Lunar Month         Sunday         Spring Showers      
+2091/2/19         2                       Monday                             
+2091/2/20         3                       Tuesday                            
+2091/2/21         4                       Wednesday                          
+2091/2/22         5                       Thursday                           
+2091/2/23         6                       Friday                             
+2091/2/24         7                       Saturday                           
+2091/2/25         8                       Sunday                             
+2091/2/26         9                       Monday                             
+2091/2/27         10                      Tuesday                            
+2091/2/28         11                      Wednesday                          
+2091/3/1          12                      Thursday                           
+2091/3/2          13                      Friday                             
+2091/3/3          14                      Saturday                           
+2091/3/4          15                      Sunday                             
+2091/3/5          16                      Monday         Insects Waken       
+2091/3/6          17                      Tuesday                            
+2091/3/7          18                      Wednesday                          
+2091/3/8          19                      Thursday                           
+2091/3/9          20                      Friday                             
+2091/3/10         21                      Saturday                           
+2091/3/11         22                      Sunday                             
+2091/3/12         23                      Monday                             
+2091/3/13         24                      Tuesday                            
+2091/3/14         25                      Wednesday                          
+2091/3/15         26                      Thursday                           
+2091/3/16         27                      Friday                             
+2091/3/17         28                      Saturday                           
+2091/3/18         29                      Sunday                             
+2091/3/19         30                      Monday                             
+2091/3/20         2nd Lunar Month         Tuesday        Vernal Equinox      
+2091/3/21         2                       Wednesday                          
+2091/3/22         3                       Thursday                           
+2091/3/23         4                       Friday                             
+2091/3/24         5                       Saturday                           
+2091/3/25         6                       Sunday                             
+2091/3/26         7                       Monday                             
+2091/3/27         8                       Tuesday                            
+2091/3/28         9                       Wednesday                          
+2091/3/29         10                      Thursday                           
+2091/3/30         11                      Friday                             
+2091/3/31         12                      Saturday                           
+2091/4/1          13                      Sunday                             
+2091/4/2          14                      Monday                             
+2091/4/3          15                      Tuesday                            
+2091/4/4          16                      Wednesday      Bright & Clear      
+2091/4/5          17                      Thursday                           
+2091/4/6          18                      Friday                             
+2091/4/7          19                      Saturday                           
+2091/4/8          20                      Sunday                             
+2091/4/9          21                      Monday                             
+2091/4/10         22                      Tuesday                            
+2091/4/11         23                      Wednesday                          
+2091/4/12         24                      Thursday                           
+2091/4/13         25                      Friday                             
+2091/4/14         26                      Saturday                           
+2091/4/15         27                      Sunday                             
+2091/4/16         28                      Monday                             
+2091/4/17         29                      Tuesday                            
+2091/4/18         30                      Wednesday                          
+2091/4/19         3rd Lunar Month         Thursday                           
+2091/4/20         2                       Friday         Corn Rain           
+2091/4/21         3                       Saturday                           
+2091/4/22         4                       Sunday                             
+2091/4/23         5                       Monday                             
+2091/4/24         6                       Tuesday                            
+2091/4/25         7                       Wednesday                          
+2091/4/26         8                       Thursday                           
+2091/4/27         9                       Friday                             
+2091/4/28         10                      Saturday                           
+2091/4/29         11                      Sunday                             
+2091/4/30         12                      Monday                             
+2091/5/1          13                      Tuesday                            
+2091/5/2          14                      Wednesday                          
+2091/5/3          15                      Thursday                           
+2091/5/4          16                      Friday                             
+2091/5/5          17                      Saturday       Summer Commences    
+2091/5/6          18                      Sunday                             
+2091/5/7          19                      Monday                             
+2091/5/8          20                      Tuesday                            
+2091/5/9          21                      Wednesday                          
+2091/5/10         22                      Thursday                           
+2091/5/11         23                      Friday                             
+2091/5/12         24                      Saturday                           
+2091/5/13         25                      Sunday                             
+2091/5/14         26                      Monday                             
+2091/5/15         27                      Tuesday                            
+2091/5/16         28                      Wednesday                          
+2091/5/17         29                      Thursday                           
+2091/5/18         4th Lunar Month         Friday                             
+2091/5/19         2                       Saturday                           
+2091/5/20         3                       Sunday                             
+2091/5/21         4                       Monday         Corn Forms          
+2091/5/22         5                       Tuesday                            
+2091/5/23         6                       Wednesday                          
+2091/5/24         7                       Thursday                           
+2091/5/25         8                       Friday                             
+2091/5/26         9                       Saturday                           
+2091/5/27         10                      Sunday                             
+2091/5/28         11                      Monday                             
+2091/5/29         12                      Tuesday                            
+2091/5/30         13                      Wednesday                          
+2091/5/31         14                      Thursday                           
+2091/6/1          15                      Friday                             
+2091/6/2          16                      Saturday                           
+2091/6/3          17                      Sunday                             
+2091/6/4          18                      Monday                             
+2091/6/5          19                      Tuesday        Corn on Ear         
+2091/6/6          20                      Wednesday                          
+2091/6/7          21                      Thursday                           
+2091/6/8          22                      Friday                             
+2091/6/9          23                      Saturday                           
+2091/6/10         24                      Sunday                             
+2091/6/11         25                      Monday                             
+2091/6/12         26                      Tuesday                            
+2091/6/13         27                      Wednesday                          
+2091/6/14         28                      Thursday                           
+2091/6/15         29                      Friday                             
+2091/6/16         30                      Saturday                           
+2091/6/17         5th Lunar Month         Sunday                             
+2091/6/18         2                       Monday                             
+2091/6/19         3                       Tuesday                            
+2091/6/20         4                       Wednesday                          
+2091/6/21         5                       Thursday       Summer Solstice     
+2091/6/22         6                       Friday                             
+2091/6/23         7                       Saturday                           
+2091/6/24         8                       Sunday                             
+2091/6/25         9                       Monday                             
+2091/6/26         10                      Tuesday                            
+2091/6/27         11                      Wednesday                          
+2091/6/28         12                      Thursday                           
+2091/6/29         13                      Friday                             
+2091/6/30         14                      Saturday                           
+2091/7/1          15                      Sunday                             
+2091/7/2          16                      Monday                             
+2091/7/3          17                      Tuesday                            
+2091/7/4          18                      Wednesday                          
+2091/7/5          19                      Thursday                           
+2091/7/6          20                      Friday                             
+2091/7/7          21                      Saturday       Moderate Heat       
+2091/7/8          22                      Sunday                             
+2091/7/9          23                      Monday                             
+2091/7/10         24                      Tuesday                            
+2091/7/11         25                      Wednesday                          
+2091/7/12         26                      Thursday                           
+2091/7/13         27                      Friday                             
+2091/7/14         28                      Saturday                           
+2091/7/15         29                      Sunday                             
+2091/7/16         6th Lunar Month         Monday                             
+2091/7/17         2                       Tuesday                            
+2091/7/18         3                       Wednesday                          
+2091/7/19         4                       Thursday                           
+2091/7/20         5                       Friday                             
+2091/7/21         6                       Saturday                           
+2091/7/22         7                       Sunday         Great Heat          
+2091/7/23         8                       Monday                             
+2091/7/24         9                       Tuesday                            
+2091/7/25         10                      Wednesday                          
+2091/7/26         11                      Thursday                           
+2091/7/27         12                      Friday                             
+2091/7/28         13                      Saturday                           
+2091/7/29         14                      Sunday                             
+2091/7/30         15                      Monday                             
+2091/7/31         16                      Tuesday                            
+2091/8/1          17                      Wednesday                          
+2091/8/2          18                      Thursday                           
+2091/8/3          19                      Friday                             
+2091/8/4          20                      Saturday                           
+2091/8/5          21                      Sunday                             
+2091/8/6          22                      Monday                             
+2091/8/7          23                      Tuesday        Autumn Commences    
+2091/8/8          24                      Wednesday                          
+2091/8/9          25                      Thursday                           
+2091/8/10         26                      Friday                             
+2091/8/11         27                      Saturday                           
+2091/8/12         28                      Sunday                             
+2091/8/13         29                      Monday                             
+2091/8/14         30                      Tuesday                            
+2091/8/15         7th Lunar Month         Wednesday                          
+2091/8/16         2                       Thursday                           
+2091/8/17         3                       Friday                             
+2091/8/18         4                       Saturday                           
+2091/8/19         5                       Sunday                             
+2091/8/20         6                       Monday                             
+2091/8/21         7                       Tuesday                            
+2091/8/22         8                       Wednesday                          
+2091/8/23         9                       Thursday       End of Heat         
+2091/8/24         10                      Friday                             
+2091/8/25         11                      Saturday                           
+2091/8/26         12                      Sunday                             
+2091/8/27         13                      Monday                             
+2091/8/28         14                      Tuesday                            
+2091/8/29         15                      Wednesday                          
+2091/8/30         16                      Thursday                           
+2091/8/31         17                      Friday                             
+2091/9/1          18                      Saturday                           
+2091/9/2          19                      Sunday                             
+2091/9/3          20                      Monday                             
+2091/9/4          21                      Tuesday                            
+2091/9/5          22                      Wednesday                          
+2091/9/6          23                      Thursday                           
+2091/9/7          24                      Friday         White Dew           
+2091/9/8          25                      Saturday                           
+2091/9/9          26                      Sunday                             
+2091/9/10         27                      Monday                             
+2091/9/11         28                      Tuesday                            
+2091/9/12         29                      Wednesday                          
+2091/9/13         8th Lunar Month         Thursday                           
+2091/9/14         2                       Friday                             
+2091/9/15         3                       Saturday                           
+2091/9/16         4                       Sunday                             
+2091/9/17         5                       Monday                             
+2091/9/18         6                       Tuesday                            
+2091/9/19         7                       Wednesday                          
+2091/9/20         8                       Thursday                           
+2091/9/21         9                       Friday                             
+2091/9/22         10                      Saturday                           
+2091/9/23         11                      Sunday         Autumnal Equinox    
+2091/9/24         12                      Monday                             
+2091/9/25         13                      Tuesday                            
+2091/9/26         14                      Wednesday                          
+2091/9/27         15                      Thursday                           
+2091/9/28         16                      Friday                             
+2091/9/29         17                      Saturday                           
+2091/9/30         18                      Sunday                             
+2091/10/1         19                      Monday                             
+2091/10/2         20                      Tuesday                            
+2091/10/3         21                      Wednesday                          
+2091/10/4         22                      Thursday                           
+2091/10/5         23                      Friday                             
+2091/10/6         24                      Saturday                           
+2091/10/7         25                      Sunday                             
+2091/10/8         26                      Monday         Cold Dew            
+2091/10/9         27                      Tuesday                            
+2091/10/10        28                      Wednesday                          
+2091/10/11        29                      Thursday                           
+2091/10/12        30                      Friday                             
+2091/10/13        9th Lunar Month         Saturday                           
+2091/10/14        2                       Sunday                             
+2091/10/15        3                       Monday                             
+2091/10/16        4                       Tuesday                            
+2091/10/17        5                       Wednesday                          
+2091/10/18        6                       Thursday                           
+2091/10/19        7                       Friday                             
+2091/10/20        8                       Saturday                           
+2091/10/21        9                       Sunday                             
+2091/10/22        10                      Monday                             
+2091/10/23        11                      Tuesday        Frost               
+2091/10/24        12                      Wednesday                          
+2091/10/25        13                      Thursday                           
+2091/10/26        14                      Friday                             
+2091/10/27        15                      Saturday                           
+2091/10/28        16                      Sunday                             
+2091/10/29        17                      Monday                             
+2091/10/30        18                      Tuesday                            
+2091/10/31        19                      Wednesday                          
+2091/11/1         20                      Thursday                           
+2091/11/2         21                      Friday                             
+2091/11/3         22                      Saturday                           
+2091/11/4         23                      Sunday                             
+2091/11/5         24                      Monday                             
+2091/11/6         25                      Tuesday                            
+2091/11/7         26                      Wednesday      Winter Commences    
+2091/11/8         27                      Thursday                           
+2091/11/9         28                      Friday                             
+2091/11/10        29                      Saturday                           
+2091/11/11        10th Lunar Month        Sunday                             
+2091/11/12        2                       Monday                             
+2091/11/13        3                       Tuesday                            
+2091/11/14        4                       Wednesday                          
+2091/11/15        5                       Thursday                           
+2091/11/16        6                       Friday                             
+2091/11/17        7                       Saturday                           
+2091/11/18        8                       Sunday                             
+2091/11/19        9                       Monday                             
+2091/11/20        10                      Tuesday                            
+2091/11/21        11                      Wednesday                          
+2091/11/22        12                      Thursday       Light Snow          
+2091/11/23        13                      Friday                             
+2091/11/24        14                      Saturday                           
+2091/11/25        15                      Sunday                             
+2091/11/26        16                      Monday                             
+2091/11/27        17                      Tuesday                            
+2091/11/28        18                      Wednesday                          
+2091/11/29        19                      Thursday                           
+2091/11/30        20                      Friday                             
+2091/12/1         21                      Saturday                           
+2091/12/2         22                      Sunday                             
+2091/12/3         23                      Monday                             
+2091/12/4         24                      Tuesday                            
+2091/12/5         25                      Wednesday                          
+2091/12/6         26                      Thursday                           
+2091/12/7         27                      Friday         Heavy Snow          
+2091/12/8         28                      Saturday                           
+2091/12/9         29                      Sunday                             
+2091/12/10        11th Lunar Month        Monday                             
+2091/12/11        2                       Tuesday                            
+2091/12/12        3                       Wednesday                          
+2091/12/13        4                       Thursday                           
+2091/12/14        5                       Friday                             
+2091/12/15        6                       Saturday                           
+2091/12/16        7                       Sunday                             
+2091/12/17        8                       Monday                             
+2091/12/18        9                       Tuesday                            
+2091/12/19        10                      Wednesday                          
+2091/12/20        11                      Thursday                           
+2091/12/21        12                      Friday         Winter Solstice     
+2091/12/22        13                      Saturday                           
+2091/12/23        14                      Sunday                             
+2091/12/24        15                      Monday                             
+2091/12/25        16                      Tuesday                            
+2091/12/26        17                      Wednesday                          
+2091/12/27        18                      Thursday                           
+2091/12/28        19                      Friday                             
+2091/12/29        20                      Saturday                           
+2091/12/30        21                      Sunday                             
+2091/12/31        22                      Monday                             
