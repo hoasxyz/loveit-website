@@ -383,7 +383,7 @@
     {
         "title": "摘录",
         "uri": "posts/2020-07-08-extract",
-        "content": "kidkit727                                                                                                                                                                                                                                                                                                                                                                                     10 20 30",
+        "content": "kidkit727                                                                                                                                                                                                                                                                                                                                                                                     10 20 30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     1                                                                                                                                                                                                               72                        72                                                                            10          10                                          10                                                  1                                                                                                                                                                             50             40                10                                                                                                       12        72        72",
         "objectID": "posts/2020-07-08-extract",
         "author": "hoas",
         "date": "2020-07-08",
@@ -401,6 +401,37 @@
         "hiddenFromHomePage": "no",
         "hiddenFromSearch": "no",
         "featuredImage": "https://pic4.zhimg.com/v2-a30ab385d7d844ce3e56523dcf335f18_1200x500.jpg",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "路由器互联网断连事件",
+        "uri": "posts/2020-07-10-case-of-router-disconnected-from-the-internet",
+        "content": "WiFi888  419E                888        win7                                                  419E                        1            ADSL            IP  192 168 1 1             2            Reset                                                                         419E                               WAN      0    WAN                                                                      WAN      0           PPPoE                 WAN      WAN                     PPPoE       PPPoE                  PPPoE PPPoE          ADSL                PPPoE                                       ISP        IP    IP                                        X        IPv4             IP     DNS                                                                  PPPoE                                                               IP    IP    Dynamic IP              IP            IP       IP                                   IP                IP                 IP                         IP          Modem ISDN ADSL                                     IP       IP        DHCP         IP       IP                                          IP                                                                      DHCP    IP                  IP          IP                   IP                       LAN     IP         192 168 1 1                192 168 2 1    172 16 0 1                    LAN     IP      192 168 1 1       WAN               IP        192 168 1 1             LAN              IP                          WAN       LAN                  IP    IP         IP                        IP                                  IP                  IP                        IP                   IP             DNS                                                  IP                                                              PPPoE         ADSL                   IP             DNS                 IP    IP                                      IP             DNS              IP DHCP      IP                               RouterPassView                                   config bin               WiFi               RouterPassView                                       13",
+        "objectID": "posts/2020-07-10-case-of-router-disconnected-from-the-internet",
+        "author": "hoas",
+        "date": "2020-07-10",
+        "slug": "case of router disconnected from the Internet",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Internet"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-07-10T16:29:25+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://win7sky.com/uploads/allimg/170605/1-1F605105613.gif",
         "featuredImagePreview": "",
         "toc": {
             "enable": "yes"
