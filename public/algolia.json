@@ -441,5 +441,67 @@
         },
         "lightgallery": "no",
         "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "指数基金定投",
+        "uri": "posts",
+        "content": "",
+        "objectID": "posts",
+        "author": "hoas",
+        "date": "2020-07-13",
+        "slug": "Index Fund Investment",
+        "categories": [
+            "experience"
+        ],
+        "tags": [
+            "Financing"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-07-13T08:55:46+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/07/Index-Funds.jpg",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "K线之舞",
+        "uri": "posts/2020-07-15-the-dance-of-candlestick-chart",
+        "content": "20                             20                                10                                                       10    20",
+        "objectID": "posts/2020-07-15-the-dance-of-candlestick-chart",
+        "author": "hoas",
+        "date": "2020-07-15",
+        "slug": "the dance of candlestick chart",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "Futures"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-07-15T14:42:42+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://www.fxpromt4systems.com/wp-content/uploads/2019/04/bodywick-777x437.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
     }
 ]
