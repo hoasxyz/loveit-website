@@ -135,3 +135,6 @@ git restore --staged .
 git restore .
 ```
 
+## 远端仓库覆盖本地
+
+见[这里](https://blog.csdn.net/sinat_36184075/article/details/80115000)。
