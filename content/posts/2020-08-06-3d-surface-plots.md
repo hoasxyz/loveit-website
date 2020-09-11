@@ -84,6 +84,8 @@ persp(Tmax, Tmin, ET0,
 
 ![persp 2](https://i.loli.net/2020/08/06/itKy7XJBR2HY5cu.png)
 
+详见`example(persp)`。
+
 ## plot3D
 
 `plot3D::persp3D()`：
