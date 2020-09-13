@@ -445,7 +445,7 @@
     {
         "title": "指数基金定投",
         "uri": "posts",
-        "content": "",
+        "content": "2020   7   12   10000                                      4 52       365      1 238           1 0565      9465 22      2021   7   19                       0 95           0 5                  2020   7   15   2000                      8 2                   11 07      1 68    2020   7   16                                                                                                         8     2       85 6     14 4                7   22                22 5",
         "objectID": "posts",
         "author": "hoas",
         "date": "2020-07-13",
@@ -462,7 +462,7 @@
         "description": "",
         "hiddenFromHomePage": "no",
         "hiddenFromSearch": "no",
-        "featuredImage": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/07/Index-Funds.jpg",
+        "featuredImage": "https://www.nsca.org/wp-content/uploads/2018/05/financing.jpg",
         "featuredImagePreview": "",
         "toc": {
             "enable": "yes"
@@ -476,7 +476,7 @@
     {
         "title": "K线之舞",
         "uri": "posts/2020-07-15-the-dance-of-candlestick-chart",
-        "content": "20                             20                                10                                                       10    20",
+        "content": "20                             20                                10                                                       10    20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    10                  2                                                                                                                                            3                       10                     5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 W                                                                                                                                                                                                                                                                                                                                                                                                          B                                                                                                                 30                10                                                                                                                                                                                                                                                          30",
         "objectID": "posts/2020-07-15-the-dance-of-candlestick-chart",
         "author": "hoas",
         "date": "2020-07-15",
@@ -494,6 +494,99 @@
         "hiddenFromHomePage": "no",
         "hiddenFromSearch": "no",
         "featuredImage": "https://www.fxpromt4systems.com/wp-content/uploads/2019/04/bodywick-777x437.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "生活在树上",
+        "uri": "posts/2020-08-04-living-in-the-tree",
+        "content": "39              55                                                                                                                                                                                                                                                                                       8 3                                                                                                                                                                                                                                             tu   cao",
+        "objectID": "posts/2020-08-04-living-in-the-tree",
+        "author": "hoas",
+        "date": "2020-08-04",
+        "slug": "living in the tree",
+        "categories": [
+            "sketch"
+        ],
+        "tags": [
+            "reading"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-08-04T10:16:22+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://cdn.img.fagua.net/site/50020059/c2_20191114182118_64001.jpg",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "3D 曲面图",
+        "uri": "posts/2020-08-06-3d-surface-plots",
+        "content": "3D                                     r library data table  data   add_surface              type    surface  layout  scene   list  title       xaxis   list title    Error Tmax  C     yaxis   list title    Error Tmin  C     zaxis   list title    Error ET0 mm day               https   plotly r com d charts html https   plotly com r reference layout  layout margin https   stackoverflow com questions 6720526 plot 3d data in r http   www sthda com english wiki impressive package for 3d and 4d graph r software and data visualization https   www r graph gallery com 3d html http   www countbio com webpages leftobject Rforbiology Rfundamentals 3DsurfaceplotR html https   www datamentor io r programming 3d plot  https   stackoverflow com questions 51414756 creating surface 3d plot of 3 numeric variables in r https   hoas old netlify app post oneline4",
+        "objectID": "posts/2020-08-06-3d-surface-plots",
+        "author": "hoas",
+        "date": "2020-08-06",
+        "slug": "3d surface plots",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-08-06T10:56:48+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://i.loli.net/2020/08/06/RvpdeuO1QsZf7WY.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "欢迎来到8301",
+        "uri": "posts/2020-09-11-welcome-to-8301",
+        "content": "8301                             8301                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                96 16 20",
+        "objectID": "posts/2020-09-11-welcome-to-8301",
+        "author": "hoas",
+        "date": "2020-09-11",
+        "slug": "welcome to 8301",
+        "categories": [
+            "experience"
+        ],
+        "tags": [
+            "research"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-09-11T08:43:21+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "",
         "featuredImagePreview": "",
         "toc": {
             "enable": "yes"

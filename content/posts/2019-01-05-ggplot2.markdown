@@ -13,7 +13,7 @@ lastmod: '2019-01-05T13:04:48+08:00'
 authorLink: ''
 hiddenFromHomePage: no
 hiddenFromSearch: no
-featuredImage: 'https://r-statistics.co/screenshots/ggplot_tut_9.png'
+featuredImage: ''
 featuredImagePreview: ''
 toc:
   enable: yes
@@ -208,9 +208,9 @@ tbl2 %>%
 
 
   As you can see, the figure generated in HTML is clearer than in RStudio... But I don't know why.
-  
+
   More expressions in R are available by calling `demo(plotmath)` or referring to  https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/plotmath.html.
-  
+
   And more Greek letters used in R can be acquired by referring to http://kestrel.nmt.edu/~raymond/software/howtos/greekscape.xhtml.
 
 ## extra dashed lines

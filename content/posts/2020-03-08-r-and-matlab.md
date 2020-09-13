@@ -355,4 +355,8 @@ run("C:\Program Files\Polyspace\R2019a\bin\MBeautifier-1.3.2\MBeautify.m");
 MBeautify.formatCurrentEditorPage();
 ```
 
+## 文件编码
 
+R 语言对中文不够友好，如果`.R`文件中含有中文，那么会出现很多问题，一个可能的解决方式参考[这里](https://www.cnblogs.com/nxld/p/6098987.html)。
+
+相比之下，MATLAB 更加友好。
