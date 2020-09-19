@@ -27,7 +27,7 @@
         "authorLink": "",
         "hiddenFromHomePage": "no",
         "hiddenFromSearch": "no",
-        "featuredImage": "https://r-statistics.co/screenshots/ggplot_tut_9.png",
+        "featuredImage": "",
         "featuredImagePreview": "",
         "toc": {
             "enable": "yes"
@@ -103,7 +103,7 @@
     {
         "title": "更新R",
         "uri": "posts/2019-04-27-update-r",
-        "content": "R                                              R                                   install packages  installr   library installr  installr  updateR                             win    Rprofile site                           libPath     libPath          R    libPath         R  library       libPaths    1   E  R 3 6 0 library             libPaths  E  R library      libPaths    1   E  R library   E  R 3 6 0 library         install packages  scales   lib    libPaths   1                                      Rprofile site",
+        "content": "R                                              R                                   install packages  installr   library installr  installr  updateR                             win    Rprofile site                           libPath     libPath          R    libPath         R  library       libPaths    1   E  R 3 6 0 library             libPaths  E  R library      libPaths    1   E  R library   E  R 3 6 0 library         install packages  scales   lib    libPaths   1           options   datatable print class    TRUE    print class data table  datatable print trunc cols    TRUE   datatable print keys    TRUE   library  magrittr   include only   c               library  pacman   p_load ggplot2  dplyr  tidyr  tibble  data table  cat   n Welcome at   date      n    First            library  pacman   p_load ggplot2  dplyr  tidyr  tibble  data table  cat   n Welcome at   date      n                                        Rprofile site",
         "objectID": "posts/2019-04-27-update-r",
         "author": "hoas",
         "date": "2019-04-27",
@@ -165,7 +165,7 @@
     {
         "title": "R & MATLAB",
         "uri": "posts/2020-03-08-r-and-matlab",
-        "content": "R   MATLAB            R         MATLAB            R                       MATLAB           R R                                        R  Boolean                  R                        R                 class a   1   numeric    class b   1   character    class c   1   logical       a 2   1  2   a c 3 4    1  5 3 MATLAB MATLAB                        MATLAB  Boolean                                MATLAB         MATLAB                                                      1  2  3  4  5  6   b     one    two    three    c    true  true  true  false  true  false   d     one    two    three      1 2 3 4 5 6 b   1 3 string     one   two   three  c   1 6 logical    1 1 1 0 1 0 d    onetwothree     whos Name Size Bytes Class Attributes 1x6 48 double    class b  ans    string          a 1  ans   1    a 2 4  ans   2 3 4                         R tbl   tibble  4 x 5    patientID age diabetes status boolean       1 1 25 Type1 Poor TRUE    2 2 34 Type2 Improved TRUE    3 3 28 Type1 Excellent FALSE    4 4 52 Type1 Poor FALSE MATLAB MATLAB  data frame         table    table        R        LastName     Sanchez   Johnson   Li   Diaz   Brown    Age    38 43 38 40 49   Smoker   logical  1 0 1 0 1    Height    71 69 64 67 64   Weight    176 163 131 133 119   BloodPressure    124 93  109 77  125 83  117 75  122 80   BalaBala     a   b   c   d   e    t   table LastName  Age  Smoker  Height  Weight  BloodPressure  BalaBala      t t   5 7 table LastName Age Smoker Height Weight BloodPressure BalaBala _ _ _ _ _  Sanchez  38 true 71 176 124 93  a   Johnson  43 false 69 163 109 77  b   Li  38 true 64 131 125 83  c   Diaz  40 false 67 133 117 75  d   Brown  49 true 64 119 122 80  e                    t Properties ans   TableProperties       Description     UserData     DimensionNames    Row   Variables   VariableNames    LastName   Age   Smoker   Height   Weight   BloodPressure   BalaBala   VariableDescriptions     VariableUnits     VariableContinuity     RowNames     CustomProperties                addprop   rmprop    CustomProperties               t Variables ans   5 8 string     Sanchez   38   true   71   176   124   93   a   Johnson   43   false   69   163   109   77   b   Li   38   true   64   131   125   83   c   Diaz   40   false   67   133   117   75   d   Brown   49   true   64   119   122   80   e              t LastName 1  ans    Sanchez     t LastName 1  ans   1 1 cell      Sanchez      t Height 1                          t Height 1  ans   71    t BalaBala 1  ans    a     t BalaBala 1  ans    a  table        sz    4 3   varTypes     double   datetime   string    varNames     Temperature   Time   Station    t2   table  Size  sz  VariableTypes  varTypes  VariableNames  varNames      t2 t2   4 3 table Temperature Time Station _ _ 0 NaT 0 NaT 0 NaT 0 NaT               cell      t2 1       75 datetime  now    S1   t2   4 3 table Temperature Time Station _ __ __ 75 2020 03 08 14 26 13  S1  0 NaT 0 NaT 0 NaT           table               MATLAB                                 T   table categorical   M   F   M     45 32 34        NY   CA   MA   logical  1 0 0        VariableNames    Gender   Age   State   Vote    T   3 4 table Gender Age State Vote _ __ M 45  NY  true F 32  CA  false M 34  MA  false            T   table categorical   M   F   M     45 32 34  logical  1 0 0        VariableNames    Gender   Age   Vote        RowNames    NY   CA   MA    T 3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false             T  NY      ans   1 3 table Gender Age Vote _ _ NY M 45 true    T 1     ans   1 3 table Gender Age Vote _ _ NY M 45 true    T    1  ans   3 1 table Gender __ NY M CA F MA M    T  1 2      ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T     1  2   ans   3 2 table Gender Age _ NY M 45 CA F 32 MA M 34    T   NY    CA       ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T   NY    CA       ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T Properties DimensionNames 1  ans    Row     T T   3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false    T Properties DimensionNames 1     LastNames  T   3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false        R  R        styler          MATLAB   MATLAB                       R2019a                                  Alt                addpath  C  Program Files Polyspace R2019a bin MBeautifier 1 3 2    run  C  Program Files Polyspace R2019a bin MBeautifier 1 3 2 MBeautify m    MBeautify formatCurrentEditorPage",
+        "content": "R   MATLAB            R         MATLAB            R                       MATLAB           R R                                        R  Boolean                  R                        R                 class a   1   numeric    class b   1   character    class c   1   logical       a 2   1  2   a c 3 4    1  5 3 MATLAB MATLAB                        MATLAB  Boolean                                MATLAB         MATLAB                                                      1  2  3  4  5  6   b     one    two    three    c    true  true  true  false  true  false   d     one    two    three      1 2 3 4 5 6 b   1 3 string     one   two   three  c   1 6 logical    1 1 1 0 1 0 d    onetwothree     whos Name Size Bytes Class Attributes 1x6 48 double    class b  ans    string          a 1  ans   1    a 2 4  ans   2 3 4                         R tbl   tibble  4 x 5    patientID age diabetes status boolean       1 1 25 Type1 Poor TRUE    2 2 34 Type2 Improved TRUE    3 3 28 Type1 Excellent FALSE    4 4 52 Type1 Poor FALSE MATLAB MATLAB  data frame         table    table        R        LastName     Sanchez   Johnson   Li   Diaz   Brown    Age    38 43 38 40 49   Smoker   logical  1 0 1 0 1    Height    71 69 64 67 64   Weight    176 163 131 133 119   BloodPressure    124 93  109 77  125 83  117 75  122 80   BalaBala     a   b   c   d   e    t   table LastName  Age  Smoker  Height  Weight  BloodPressure  BalaBala      t t   5 7 table LastName Age Smoker Height Weight BloodPressure BalaBala _ _ _ _ _  Sanchez  38 true 71 176 124 93  a   Johnson  43 false 69 163 109 77  b   Li  38 true 64 131 125 83  c   Diaz  40 false 67 133 117 75  d   Brown  49 true 64 119 122 80  e                    t Properties ans   TableProperties       Description     UserData     DimensionNames    Row   Variables   VariableNames    LastName   Age   Smoker   Height   Weight   BloodPressure   BalaBala   VariableDescriptions     VariableUnits     VariableContinuity     RowNames     CustomProperties                addprop   rmprop    CustomProperties               t Variables ans   5 8 string     Sanchez   38   true   71   176   124   93   a   Johnson   43   false   69   163   109   77   b   Li   38   true   64   131   125   83   c   Diaz   40   false   67   133   117   75   d   Brown   49   true   64   119   122   80   e              t LastName 1  ans    Sanchez     t LastName 1  ans   1 1 cell      Sanchez      t Height 1                          t Height 1  ans   71    t BalaBala 1  ans    a     t BalaBala 1  ans    a  table        sz    4 3   varTypes     double   datetime   string    varNames     Temperature   Time   Station    t2   table  Size  sz  VariableTypes  varTypes  VariableNames  varNames      t2 t2   4 3 table Temperature Time Station _ _ 0 NaT 0 NaT 0 NaT 0 NaT               cell      t2 1       75 datetime  now    S1   t2   4 3 table Temperature Time Station _ __ __ 75 2020 03 08 14 26 13  S1  0 NaT 0 NaT 0 NaT           table               MATLAB                                 T   table categorical   M   F   M     45 32 34        NY   CA   MA   logical  1 0 0        VariableNames    Gender   Age   State   Vote    T   3 4 table Gender Age State Vote _ __ M 45  NY  true F 32  CA  false M 34  MA  false            T   table categorical   M   F   M     45 32 34  logical  1 0 0        VariableNames    Gender   Age   Vote        RowNames    NY   CA   MA    T 3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false             T  NY      ans   1 3 table Gender Age Vote _ _ NY M 45 true    T 1     ans   1 3 table Gender Age Vote _ _ NY M 45 true    T    1  ans   3 1 table Gender __ NY M CA F MA M    T  1 2      ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T     1  2   ans   3 2 table Gender Age _ NY M 45 CA F 32 MA M 34    T   NY    CA       ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T   NY    CA       ans   2 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false    T Properties DimensionNames 1  ans    Row     T T   3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false    T Properties DimensionNames 1     LastNames  T   3 3 table Gender Age Vote _ _ NY M 45 true CA F 32 false MA M 34 false        R  R        styler          MATLAB   MATLAB                       R2019a                                  Alt                addpath  C  Program Files Polyspace R2019a bin MBeautifier 1 3 2    run  C  Program Files Polyspace R2019a bin MBeautifier 1 3 2 MBeautify m    MBeautify formatCurrentEditorPage         R              R                                      MATLAB",
         "objectID": "posts/2020-03-08-r-and-matlab",
         "author": "hoas",
         "date": "2020-03-08",
@@ -209,6 +209,7 @@
             "to-do list"
         ],
         "subtitle": "",
+        "draft": "yes",
         "lastmod": "2020-05-07T11:28:01+08:00",
         "authorLink": "",
         "description": "",
@@ -488,6 +489,7 @@
             "Futures"
         ],
         "subtitle": "",
+        "draft": "yes",
         "lastmod": "2020-07-15T14:42:42+08:00",
         "authorLink": "",
         "description": "",
@@ -567,6 +569,37 @@
         "license": "CC BY-NC 4.0"
     },
     {
+        "title": "分位数",
+        "uri": "posts/2020-09-11-quantile-in-r",
+        "content": "F                                               quantile                  n          n 1                               n 1   n                                                                        n   1    p   q       n           p        q           r Default S3 method  quantile x  probs   seq 0  1  0 25   na rm   FALSE  names   TRUE  type   7         type   6   Minitab   SPSS           Excel    percentile exc                 quartile 4 quantile      1 1 3 6 7 12 14 17 25 28 29          11                   4       3                    Q_1  11 1   1 4  3           3                   Q_2  11 1   2 4  6           12             Q_3  11 1   3 4  9           25           percentile          100                  Q1     25              1 3   Q2        50  1 1   Q_3     75  3 1    r   quantile c 1  1  3  6  7  12  14  17  25  28  29    75  type   6  75  25   type   7     S        Excel    percentile inc                      r   quantile c 1  1  3  6  7  12  14  17  25  28  29    75  type   7  75  21",
+        "objectID": "posts/2020-09-11-quantile-in-r",
+        "author": "hoas",
+        "date": "2020-09-11",
+        "slug": "Quantile",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-09-11T15:00:43+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Iqr_with_quantile.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "yes"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
         "title": "欢迎来到8301",
         "uri": "posts/2020-09-11-welcome-to-8301",
         "content": "8301                             8301                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                96 16 20",
@@ -586,7 +619,38 @@
         "description": "",
         "hiddenFromHomePage": "no",
         "hiddenFromSearch": "no",
-        "featuredImage": "",
+        "featuredImage": "https://image.shutterstock.com/image-vector/welcome-sign-colorful-bunting-flags-260nw-500112742.jpg",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "R语言未解之谜",
+        "uri": "posts/2020-09-12-unknown-phenomenons-in-r",
+        "content": "R                                                        File   Reopen Encoding                                                     UTF 8           source  filename R             source  filename R   encoding    UTF 8      invalid input         R   Rstudio                        source                9 12               source              RStudio",
+        "objectID": "posts/2020-09-12-unknown-phenomenons-in-r",
+        "author": "hoas",
+        "date": "2020-09-12",
+        "slug": "unknown phenomenons in r",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-09-12T09:05:29+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://www.kdopass.bzh/files/1572_817582891.png",
         "featuredImagePreview": "",
         "toc": {
             "enable": "yes"
