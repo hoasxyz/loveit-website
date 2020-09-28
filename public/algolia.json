@@ -660,5 +660,36 @@
         },
         "lightgallery": "no",
         "license": "CC BY-NC 4.0"
+    },
+    {
+        "title": "R语言跳出循环",
+        "uri": "posts/2020-09-19-jump-out-of-a-loop-in-r",
+        "content": "R          R        break next                 r c 10  break     c     1  25 c 10  break   c     1  15 c 10  next     c     1  225 c 10  break c  1  11 c 10  next   c     1  225   Created 2020 09 19 reprex package  v0 3 0             break next              break                  for        i   4 break       for                 next                  for i    currentconstant                 for i    currentconstant   1",
+        "objectID": "posts/2020-09-19-jump-out-of-a-loop-in-r",
+        "author": "hoas",
+        "date": "2020-09-19",
+        "slug": "jump out of a loop in r",
+        "categories": [
+            "notes"
+        ],
+        "tags": [
+            "R"
+        ],
+        "subtitle": "",
+        "lastmod": "2020-09-19T11:29:31+08:00",
+        "authorLink": "",
+        "description": "",
+        "hiddenFromHomePage": "no",
+        "hiddenFromSearch": "no",
+        "featuredImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Break.com_Logo_2017.svg/1200px-Break.com_Logo_2017.svg.png",
+        "featuredImagePreview": "",
+        "toc": {
+            "enable": "yes"
+        },
+        "math": {
+            "enable": "no"
+        },
+        "lightgallery": "no",
+        "license": "CC BY-NC 4.0"
     }
 ]

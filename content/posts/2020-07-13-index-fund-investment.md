@@ -21,6 +21,7 @@ math:
   enable: no
 lightgallery: no
 license: CC BY-NC 4.0
+draft: yes
 ---
 
 ### 长江养老天年享

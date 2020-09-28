@@ -116,7 +116,7 @@ C:\WINDOWS\system32>regsvr32 "D:\Adobe\Acrobat DC\PDFMaker\Office\PDFMOfficeAddi
 
 ## 文字样式
 
-文字样式在电脑中的位置为：`C:\Users\Hoas\AppData\Roaming\Microsoft\QuickStyles`。
+文字样式在电脑中的位置为：`C:\Users\Administrator\AppData\Roaming\Microsoft\QuickStyles`。
 
 我发现表格样式是包含在文字样式之内的，因为别的不清楚，所以我只留了一个文字样式。
 
