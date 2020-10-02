@@ -13,7 +13,7 @@ authorLink: ''
 description: ''
 hiddenFromHomePage: no
 hiddenFromSearch: no
-featuredImage: 'https://win7sky.com/uploads/allimg/170605/1-1F605105613.gif'
+featuredImage: 'https://ask-fd.zol-img.com.cn/g5/M00/09/0C/ChMkJlnv-S2IKJkpAAD1cyE56AEAAhh1wOOBbUAAPWL469.gif'
 featuredImagePreview: ''
 toc:
   enable: yes

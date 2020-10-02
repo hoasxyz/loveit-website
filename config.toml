@@ -143,8 +143,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
           # 主页显示头像的 URL
           avatarURL = "images/御手洗洁.jpg"
           # 主页显示的网站标题
-          title = ""
-          # 主页显示的网站副标题
+          title = ""          # 主页显示的网站副标题
           subtitle = "Just because my path is different doesn't means I'm lost."
           # 是否为副标题显示打字机动画
           typeit = true
@@ -156,7 +155,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         [languages.zh-cn.params.home.posts]
           enable = true
           # 主页每页显示文章数量
-          paginate = 6
+          paginate = 60
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
         GitHub = "hoasxyz"
@@ -221,7 +220,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         XMPP = ""
         Matrix = ""
         Bilibili = "313529825"
-        Email = "yuzuoxie@outlook.com"
+        Email = "yuzuoxie@qq.com"
         RSS = true
 [params]
   # LoveIt theme version
@@ -239,6 +238,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # date format
   # 日期格式
   dateFormat = "2006-01-02"
+  
+  avatarURL = "images/御手洗洁.jpg"
 
   # Header config
   # 页面头部导航栏配置

@@ -13,7 +13,7 @@ authorLink: ''
 description: ''
 hiddenFromHomePage: no
 hiddenFromSearch: no
-featuredImage: 'https://sutter-group.com/wp-content/uploads/2015/01/best-fonts-for-website-featured-1.jpg'
+featuredImage: 'https://d144mzi0q5mijx.cloudfront.net/img/H/Y/HybridA.png'
 featuredImagePreview: ''
 toc:
   enable: yes
